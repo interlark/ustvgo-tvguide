@@ -28,12 +28,12 @@ jobs:
       run: |
         python epg_downloader.py ustvgo.for-dark-bg.xml \
           --create-archive \
-          --base-url https://raw.githubusercontent.com/interlark/ustvgo-iptv/tvguide
+          --base-url https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master
 
         python epg_downloader.py ustvgo.for-light-bg.xml \
           --create-archive \
           --icons-for-light-bg \
-          --base-url https://raw.githubusercontent.com/interlark/ustvgo-iptv/tvguide
+          --base-url https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master
 
     - name: Get current time
       id: time

@@ -131,14 +131,14 @@ async def download_program_detail(program):
 
 
 async def download_program_cast(program):
-    """Download program cast & crew."""
+    """Download program Cast & Crew."""
     if program._details and program._details.mcoId:
         headers = {'Referer': 'https://google.com', 'User-Agent': USER_AGENT}
         url = ('https://cmg-prod.apigee.net/v1/xapi/composer/tvguide/pages/'
                'shows-cast/%d/web?contentOnly=true' % program._details.mcoId)
 
         def loader(response):
-            # Find "cast & crew" component
+            # Find "Cast & Crew" component
             for component in response.get('components', []):
                 meta = component.get('meta', {})
                 if meta.get('componentName') == 'tv-object-cast-and-crew':
@@ -205,7 +205,7 @@ def icon_manifest(manifest_name):
 
 
 def xmltv_icon(icon_name, manifest_name, base_url):
-    """Get xmltv icon."""
+    """Get XMLTV icon."""
     manifest = icon_manifest(manifest_name)
     if icon_name in manifest:
         icon_info = manifest[icon_name]
@@ -272,7 +272,7 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
             xmltv_program.start = start_ts.strftime('%Y%m%d%H%M%S %z')
             xmltv_program.stop = end_ts.strftime('%Y%m%d%H%M%S %z')
 
-            # Add cast & crew
+            # Add Cast & Crew
             if program._cast:
                 program._cast.add_cast(xmltv_program)
 
@@ -284,11 +284,11 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
 
 async def download_and_make_epg(filepath, parallel, create_archive, images_size,
                                 images_quality, base_url, icons_for_light_bg):
-    """Download channels' programs and make xmltv EPG."""
+    """Download channels' programs and make XMLTV EPG."""
     channels = load_dict('channels.json')
     download_tasks = [download_programs(channel) for channel in channels]
 
-    # Download programms per each channel from USTVGO
+    # Download programs per each channel from USTVGO
     await gather_with_concurrency(parallel, *download_tasks, progress_title='Download programs')
 
     # Download program details from TVGUIDE
@@ -325,7 +325,7 @@ def main():
     )
     parser.add_argument(
         '--create-archive', '-a', action='store_true',
-        help='Create archive of target xml'
+        help='Create archive of target XML'
     )
     parser.add_argument(
         '--images-size', type=int, metavar='SIZE', default=720,

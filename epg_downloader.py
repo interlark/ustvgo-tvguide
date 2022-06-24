@@ -20,7 +20,8 @@ from furl import furl
 from PIL import Image
 from pydantic import ValidationError
 from tqdm import tqdm
-from xmltv import xmltv_helpers
+from xsdata.formats.dataclass.serializers import XmlSerializer
+from xsdata.formats.dataclass.serializers.config import SerializerConfig
 
 import models.tvguide
 import models.ustvgo
@@ -279,7 +280,21 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
             tv.programme.append(xmltv_program)
 
     # Write EPG XMLTV to target file path
-    xmltv_helpers.write_file_from_xml(filepath, tv)
+    write_file_from_xml(filepath, tv)
+
+
+def write_file_from_xml(xml_filepath, serialize_class):
+    """Method to write serialized XML data to a file."""
+    serializer = XmlSerializer(config=SerializerConfig(
+        pretty_print=True,
+        encoding='UTF-8',
+        xml_version='1.0',
+        xml_declaration=True,
+        schema_location='resources/xmltv.xsd'
+    ))
+
+    with xml_filepath.open('w') as data:
+        serializer.write(data, serialize_class)
 
 
 async def download_and_make_epg(filepath, parallel, create_archive, images_size,

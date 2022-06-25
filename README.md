@@ -14,5 +14,5 @@
 
 This repo is a 📺 **TV Guide**, the part of [USTVGO Free IPTV](https://github.com/interlark/ustvgo-iptv) project.
 
-It generates EPG XML for upcoming programs for all the channels twice an hour.
+It generates **EPG XML** for upcoming programs of all the channels **twice an hour**.
 

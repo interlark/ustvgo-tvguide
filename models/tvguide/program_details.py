@@ -145,7 +145,7 @@ class ProgramDetails(BaseModel):
                 pass
 
         if not program.date and self.releaseYear:
-            # Add leading zeros, eg: <date>20070000</date>
+            # Add trailing zeros, eg: <date>20070000</date>
             program.date = f'{self.releaseYear}0000'
 
         # Genres

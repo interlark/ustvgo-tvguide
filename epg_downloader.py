@@ -280,17 +280,17 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
             tv.programme.append(xmltv_program)
 
     # Write EPG XMLTV to target file path
-    write_file_from_xml(filepath, tv)
+    write_file_from_xml(filepath, tv, base_url)
 
 
-def write_file_from_xml(xml_filepath, serialize_class):
+def write_file_from_xml(xml_filepath, serialize_class, base_url):
     """Method to write serialized XML data to a file."""
     serializer = XmlSerializer(config=SerializerConfig(
         pretty_print=True,
         encoding='UTF-8',
         xml_version='1.0',
         xml_declaration=True,
-        schema_location='resources/xmltv.xsd'
+        schema_location=furl(base_url).add(path='resources/xmltv.xsd').url
     ))
 
     with xml_filepath.open('w') as data:

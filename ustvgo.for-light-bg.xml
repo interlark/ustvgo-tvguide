@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220628173114" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220628174729" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -9755,19 +9755,25 @@
     </rating>
   </programme>
   <programme start="20220629000000 +0000" stop="20220629020000 +0000" channel="Hallmark">
-    <title lang="en">Two tickets to paradise</title>
-    <desc>A divorced couple joins forces and goes to Bali to prevent their daughter from repeating a mistake they believe they committed 25 years ago.</desc>
+    <title lang="en">Two Tickets to Paradise</title>
+    <desc>When two weddings are ruined by both the bride and groom getting left at the altar, they still decide to take their honeymoons, not knowing they are heading to the same resort in Hawaii.</desc>
     <date>20220625</date>
+    <category>Drama</category>
     <category>Romance</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11578211140.jpg" width="720" height="540"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11578211140.jpg" width="720" height="540"/>
+    <length units="seconds">5400</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11683813713.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11683813714.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20220628163000 +0000" stop="20220628185000 +0000" channel="HBO">
     <title lang="en">The Holiday</title>
     <desc>An outstanding ensemble cast works its magic in this delightful romantic charmer. An American and a Brit, whose love lives are askew, vacation in each other's homes and meet the men of their dreams in wonderfully meet-cute cinema style.</desc>
     <date>20110414</date>
     <category>Drama</category>
+    <category>Comedy</category>
     <category>Chick flick</category>
     <category>Romance</category>
     <length units="seconds">8160</length>

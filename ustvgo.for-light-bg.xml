@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220716232223" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220716234150" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -8276,13 +8276,15 @@
   <programme start="20220717030000 +0000" stop="20220717050000 +0000" channel="FS1">
     <title lang="en">WWE Friday Night SmackDown</title>
     <sub-title>07-15-2022</sub-title>
-    <date>20220000</date>
+    <desc>Pro wrestling action. From Anway Center in Orlando, Fla.</desc>
+    <date>20220715</date>
     <category>Entertainment</category>
     <category>Pro wrestling</category>
     <category>Wrestling</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9298030234.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10623920688.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S24E28</episode-num>
+    <episode-num system="xmltv_ns">23.27.</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -9122,7 +9124,7 @@
   <programme start="20220717010000 +0000" stop="20220717080000 +0000" channel="GOLF">
     <title lang="en">The Open Championship</title>
     <sub-title>The Open Championship Third Round</sub-title>
-    <desc>Third-round coverage of the 150th Open Championship. From the Old Course at St Andrews in Scotland.</desc>
+    <desc>Third-round coverage of the 150th Open Championship. From the Old Course at St Andrews in Scotland. This is the 30th Open contested at "The Home of Golf," where Claret Jug winners include Jack Nicklaus (2), Tiger Woods (2), Nick Faldo and John Daly.</desc>
     <date>20220716</date>
     <category>Pro</category>
     <category>Golf</category>
@@ -12344,7 +12346,7 @@
     <desc>The semifinals begin in L.A., where the competing ninjas will face up to 10 challenging obstacles, including—for the first time—Kaleidoscope, Ghost Town and Spin Zone. The two fastest ninjas will face off on the Power Tower for a Safety Pass going into the National Finals.</desc>
     <credits>
       <director>Jay Hunter</director>
-      <producer>Shawn Declair</producer>
+      <producer>Arthur Smith</producer>
     </credits>
     <date>20220718</date>
     <category>Action/Adventure</category>

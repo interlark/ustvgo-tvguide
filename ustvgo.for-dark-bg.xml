@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220727112039" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220727113958" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -1117,6 +1117,12 @@
     <desc>The Duke spring game. From Wallace Wade Stadium.</desc>
     <date>20220000</date>
   </programme>
+  <programme start="20220727180000 +0000" stop="20220727200000 +0000" channel="ACCN">
+    <title lang="en">College Football</title>
+    <sub-title>Florida State Spring Game</sub-title>
+    <desc>Florida State Spring Game. From Doak Campbell Stadium.</desc>
+    <date>20220000</date>
+  </programme>
   <programme start="20220727103000 +0000" stop="20220727110000 +0000" channel="AE">
     <title lang="en">True Crime: Identity Theft</title>
     <desc>Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
@@ -1954,19 +1960,6 @@
       <value>58/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20220727090000 +0000" stop="20220727100000 +0000" channel="BTN">
-    <title lang="en">B1G Football in 60</title>
-    <sub-title>Rutgers at Northwestern</sub-title>
-    <desc>Rutgers at Northwestern</desc>
-    <date>20211017</date>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <category>Football</category>
-    <category>Highlights</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9321657734.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321686872.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20220727100000 +0000" stop="20220727140000 +0000" channel="BTN">
     <title lang="en">B1G Live</title>
@@ -8858,12 +8851,6 @@
     <episode-num system="onscreen">S2022E147</episode-num>
     <episode-num system="xmltv_ns">2021.146.</episode-num>
   </programme>
-  <programme start="20220727093000 +0000" stop="20220727103000 +0000" channel="FS2">
-    <title lang="en">MotoAmerica King of the Baggers</title>
-    <sub-title>WeatherTech Raceway</sub-title>
-    <desc>MotoAmerica King of the Baggers action. From Weathertech Raceway in Laguna Seca, Cal.</desc>
-    <date>20220000</date>
-  </programme>
   <programme start="20220727103000 +0000" stop="20220727123000 +0000" channel="FS2">
     <title lang="en">Soccer Champions Tour</title>
     <sub-title>FC Barcelona vs. Juventus</sub-title>
@@ -10565,36 +10552,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220727090000 +0000" stop="20220727100000 +0000" channel="HMM">
-    <title lang="en">Monk</title>
-    <sub-title>Mr. Monk and the Wrong Man</sub-title>
-    <desc>Monk tries to help a man start over after DNA evidence clears him of a crime Monk sent him to prison for years ago.</desc>
-    <credits>
-      <director>Randy Zisk</director>
-      <actor>David Koechner</actor>
-      <writer>Tom Scharpling</writer>
-      <producer>Jane Bartelme</producer>
-      <composer>Jeff Beal</composer>
-    </credits>
-    <date>20070907</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Crime</category>
-    <category>Mystery &amp; Suspense</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172456308.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172437235.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>75/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/75.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20220727100000 +0000" stop="20220727110000 +0000" channel="HMM">
     <title lang="en">Monk</title>
     <sub-title>Mr. Monk Is Up All Night</sub-title>
@@ -10798,6 +10755,29 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9254932625.jpg" width="720" height="690"/>
     <episode-num system="onscreen">S06E07</episode-num>
     <episode-num system="xmltv_ns">5.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220727180000 +0000" stop="20220727190000 +0000" channel="HMM">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title>Rear Windows '98</sub-title>
+    <desc>Amanda (Victoria Rowell) witnesses a murder on a Web site. Boyd: Clifton Gonzalez Gonzalez. Tapley: Jeff Maynard. JW: Ellen Blain. Dr. Sloan: Dick Van Dyke. Jesse: Charlie Schlatter. Steve: Barry Van Dyke. Jackson: Rick Cramer.</desc>
+    <credits>
+      <director>Christian I. Nyby II</director>
+      <actor role="Norman Briggs">Michael Tucci</actor>
+      <writer>Burt Prelutsky</writer>
+      <producer>Robin Madden</producer>
+      <composer>Lou Forestieri</composer>
+    </credits>
+    <date>19981112</date>
+    <category>Crime drama</category>
+    <category>Family</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9254932621.jpg" width="535" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9254932625.jpg" width="720" height="690"/>
+    <episode-num system="onscreen">S06E08</episode-num>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -13591,9 +13571,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220727090000 +0000" stop="20220727100000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20220727100000 +0000" stop="20220727110000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -13616,6 +13593,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220727170000 +0000" stop="20220727180000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20220727180000 +0000" stop="20220727190000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220727103000 +0000" stop="20220727110000 +0000" channel="Nickelodeon">
@@ -14503,14 +14483,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220727093000 +0000" stop="20220727100000 +0000" channel="OLY">
-    <title lang="en">Robin Williams: Comic Genius</title>
-    <desc>Robin Williams was truly an out-of-this-world talent! While Robin started doing stand-up in the mid-'70s, most of America first fell in love with him as the naïve and hilarious alien from the planet Ork in Mork &amp; Mindy. He became an instant superstar and with his frenetic energy and unbelievably quick wit.</desc>
-    <date>20181106</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20220727100000 +0000" stop="20220727130000 +0000" channel="OLY">
     <title lang="en">World Track &amp; Field Championships Oregon22</title>
     <sub-title>Day 5 - Evening Session</sub-title>
@@ -14534,6 +14506,15 @@
     <sub-title>Swimming Day 5 in Budapest, Hungary</sub-title>
     <desc>Day 5 of swimming competition in Budapest, Hungary.</desc>
     <date>20220622</date>
+    <category>Water sports</category>
+    <category>Swimming</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220727183000 +0000" stop="20220727203000 +0000" channel="OLY">
+    <title lang="en">2022 FINA World Aquatics Championships</title>
+    <sub-title>Swimming Day 6 in Budapest, Hungary</sub-title>
+    <desc>Day 6 of swimming competition in Budapest, Hungary.</desc>
+    <date>20220623</date>
     <category>Water sports</category>
     <category>Swimming</category>
     <episode-num system="onscreen">S--E00</episode-num>
@@ -15812,12 +15793,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220727070000 +0000" stop="20220727100000 +0000" channel="SECN">
-    <title lang="en">College Football</title>
-    <sub-title>Alabama at Auburn</sub-title>
-    <desc>Alabama (10-1) at Auburn (6-5). From Jordan-Hare Stadium. The No. 3 Crimson Tide are 3-6 in their last nine Iron Bowl away games, losing the last two. QB Bryce Young (38 TDs, 3 INTs) and WR Jameson Williams face an Auburn squad that allows just 22 ppg, keyed by LB Zakoby McClain and a fellow senior in safety Smoke Monday.</desc>
-    <date>20210000</date>
-  </programme>
   <programme start="20220727100000 +0000" stop="20220727130000 +0000" channel="SECN">
     <title lang="en">Women's College Golf</title>
     <sub-title>SEC Championship</sub-title>
@@ -15847,26 +15822,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172371225.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-299039440.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20220727083500 +0000" stop="20220727100000 +0000" channel="Showtime">
-    <title lang="en">The Naked Gun 2 1/2: The Smell of Fear</title>
-    <desc>Inept police lieutenant Frank Drebin is back at it in this sequel. While at a White House reception honoring him for shooting his 1000th drug dealer, Drebin becomes tied up in a conspiracy to replace President George Bush's energy advisor with a clone who will support the agenda of evil energy lobbyists.</desc>
-    <date>20040901</date>
-    <category>Comedy</category>
-    <category>Crime</category>
-    <category>Police</category>
-    <category>Sequel</category>
-    <length units="seconds">5100</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11543645305.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7517695720.jpg" width="720" height="478"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>65/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20220727100000 +0000" stop="20220727120000 +0000" channel="Showtime">
     <title lang="en">Crisis</title>
@@ -15930,6 +15885,23 @@
     <star-rating system="Metascore">
       <value>71/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220727180000 +0000" stop="20220727200000 +0000" channel="Showtime">
+    <title lang="en">Out of the Furnace</title>
+    <desc>Rust Belt ex-con Russell is released from prison and must choose between escaping his life of poverty or saving his younger brother Rodney, who has fallen in with a dangerous crime ring.</desc>
+    <date>20140602</date>
+    <category>Crime drama</category>
+    <category>Drama</category>
+    <category>Suspense/Thriller</category>
+    <category>Other</category>
+    <length units="seconds">6960</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11658495565.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8783015442.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>63/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/63.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20220727102900 +0000" stop="20220727124300 +0000" channel="StarZ">
@@ -16004,492 +15976,6 @@
     <star-rating system="Metascore">
       <value>48/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220727195900 +0000" stop="20220727214300 +0000" channel="StarZ">
-    <title lang="en">Homefront</title>
-    <desc>In this explosive action thriller, a meth kingpin terrorizes an ex-DEA agent and his daughter after they move to a small town to start a new life.</desc>
-    <date>20140331</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Other</category>
-    <category>Adaptation</category>
-    <length units="seconds">6000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-726333110.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6862880802.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>40/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/40.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220727214300 +0000" stop="20220728000000 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: Homecoming</title>
-    <desc>Spider-Man learns the ropes of being a superhero under the tutelage of Tony Stark in this exhilarating comic-book adventure, all while juggling his responsibilities as high schooler Peter Parker. Eager to prove himself to Stark, Parker soon gets tangled up with a villain known as the Vulture.</desc>
-    <date>20170614</date>
-    <category>Action/Adventure</category>
-    <category>Other</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Reboot/Reimagining</category>
-    <category>Superheroes</category>
-    <length units="seconds">7980</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5161570868.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5259958311.jpg" width="720" height="632"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>73/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/73.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728000000 +0000" stop="20220728023200 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc>Peter Parker is now unmasked, his identity as Spider-Man known to the world. In a way, he likes it that his girl MJ knows his true identity, the same with his best friend Ned and Aunt May. However, problems follow this reveal. Thus, Peter approaches Doctor Strange to help him resolve the situation by performing a specific time-altering ritual. But that also bears some unintended and problematic consequences.</desc>
-    <date>20220715</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">9000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11220379141.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11220379135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728023200 +0000" stop="20220728040700 +0000" channel="StarZ">
-    <title lang="en">Brick Mansions</title>
-    <desc>In this pulse-pounding action epic set in a future when Detroit's most-feared criminals occupy the city's deserted brick mansions, an undercover cop teams with an ex-convict to defeat a dangerous drug kingpin who has taken the entire city hostage.</desc>
-    <date>20140815</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Other</category>
-    <category>Remake</category>
-    <length units="seconds">5400</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1173426816.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1499393056.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>40/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/40.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728040700 +0000" stop="20220728054900 +0000" channel="StarZ">
-    <title lang="en">Don't Breathe 2</title>
-    <desc>A blind veteran exacts vigilante justice on a group of intruders who abducts the 11-year-old orphan under his care and shatters the quiet existence he worked so hard to achieve. He turns to his inner resolve, military training, and the darkness within to save her.</desc>
-    <date>20211010</date>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10451799983.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10439344452.jpg" width="720" height="700"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>46/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/46.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728054900 +0000" stop="20220728080400 +0000" channel="StarZ">
-    <title lang="en">The Last Castle</title>
-    <desc>Robert Redford gives a commanding performance as Eugene Irwin, a disgraced three-star general who is sentenced to 10 years in a military prison run by a sadistic colonel (James Gandolfini). Irwin eventually becomes fed up with the warden's barbarism and leads his fellow prisoners in a revolt. Mark Ruffalo, Delroy Lindo.</desc>
-    <date>20090318</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Other</category>
-    <length units="seconds">7920</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6801027924.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7566368422.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>43/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/43.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728080400 +0000" stop="20220728093400 +0000" channel="StarZ">
-    <title lang="en">Escape Room: Tournament of Champions</title>
-    <desc>The original escape room game scenario team's survivors, Zoey and Ben, meet up in the present to face another round orchestrated by the Gamemaster as they are joined by a new set of teammates composed of diverse individuals. However, the original group's members died one by one inside different escape rooms as the team progressed into the game. Zoey and Ben try to figure things out so as not to repeat the same tragedy.</desc>
-    <date>20211006</date>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <length units="seconds">5280</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10446698234.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10446698232.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728093400 +0000" stop="20220728114100 +0000" channel="StarZ">
-    <title lang="en">About Time</title>
-    <desc>A lonely time traveler meets the love of his life, and attempts to win her heart time and again after a glitch in the process renders them complete strangers in this charming romantic fantasy. Later, he repeatedly travels back to his past in order to perfect his present.</desc>
-    <date>20140203</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Romance</category>
-    <length units="seconds">7380</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-660546797.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/6/1-898870692.JPG" width="720" height="301"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>55/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/55.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728114100 +0000" stop="20220728131900 +0000" channel="StarZ">
-    <title lang="en">The Craft: Legacy</title>
-    <desc>In this teen drama-fantasy film, a bullied newcomer joins forces with three other high-school students to establish a culturally diverse coven of witches. As they make mischief and individually explore their newfound occult powers, they begin to realize that magic comes at a price.</desc>
-    <date>20201029</date>
-    <category>Drama</category>
-    <category>Horror</category>
-    <category>Fantasy</category>
-    <length units="seconds">5820</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9291645608.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9291645614.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>54/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/54.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728131900 +0000" stop="20220728145300 +0000" channel="StarZ">
-    <title lang="en">Brick Mansions</title>
-    <desc>In this pulse-pounding action epic set in a future when Detroit's most-feared criminals occupy the city's deserted brick mansions, an undercover cop teams with an ex-convict to defeat a dangerous drug kingpin who has taken the entire city hostage.</desc>
-    <date>20140815</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Other</category>
-    <category>Remake</category>
-    <length units="seconds">5400</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1173426816.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1499393056.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>40/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/40.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728145300 +0000" stop="20220728162800 +0000" channel="StarZ">
-    <title lang="en">Measure of Revenge</title>
-    <desc>Measure of Revenge tells the story of theater actress Lillian Cooper, whose son dies mysteriously. When the death is ruled an accidental overdose, Lillian decides to investigate on her own, allying with her son's drug dealer, Taz. This investigation immerses her in her rock star son's underground world. Along the way, she hallucinates many of the iconic characters she has portrayed, all of whom encourage her to solve the mystery and seek vengeance.</desc>
-    <date>20220718</date>
-    <category>Suspense/Thriller</category>
-    <category>Mystery &amp; Suspense</category>
-    <length units="seconds">5520</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11197635541.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11197635549.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>30/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/30.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728162800 +0000" stop="20220728184300 +0000" channel="StarZ">
-    <title lang="en">The Last Castle</title>
-    <desc>Robert Redford gives a commanding performance as Eugene Irwin, a disgraced three-star general who is sentenced to 10 years in a military prison run by a sadistic colonel (James Gandolfini). Irwin eventually becomes fed up with the warden's barbarism and leads his fellow prisoners in a revolt. Mark Ruffalo, Delroy Lindo.</desc>
-    <date>20090318</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Other</category>
-    <length units="seconds">7920</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6801027924.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7566368422.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>43/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/43.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728184300 +0000" stop="20220728211500 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc>Peter Parker is now unmasked, his identity as Spider-Man known to the world. In a way, he likes it that his girl MJ knows his true identity, the same with his best friend Ned and Aunt May. However, problems follow this reveal. Thus, Peter approaches Doctor Strange to help him resolve the situation by performing a specific time-altering ritual. But that also bears some unintended and problematic consequences.</desc>
-    <date>20220715</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">9000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11220379141.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11220379135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728211500 +0000" stop="20220728225300 +0000" channel="StarZ">
-    <title lang="en">The Craft: Legacy</title>
-    <desc>In this teen drama-fantasy film, a bullied newcomer joins forces with three other high-school students to establish a culturally diverse coven of witches. As they make mischief and individually explore their newfound occult powers, they begin to realize that magic comes at a price.</desc>
-    <date>20201029</date>
-    <category>Drama</category>
-    <category>Horror</category>
-    <category>Fantasy</category>
-    <length units="seconds">5820</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9291645608.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9291645614.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>54/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/54.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220728225300 +0000" stop="20220729010000 +0000" channel="StarZ">
-    <title lang="en">About Time</title>
-    <desc>A lonely time traveler meets the love of his life, and attempts to win her heart time and again after a glitch in the process renders them complete strangers in this charming romantic fantasy. Later, he repeatedly travels back to his past in order to perfect his present.</desc>
-    <date>20140203</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Romance</category>
-    <length units="seconds">7380</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-660546797.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/6/1-898870692.JPG" width="720" height="301"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>55/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/55.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729010000 +0000" stop="20220729024900 +0000" channel="StarZ">
-    <title lang="en">Pompeii</title>
-    <desc>In this thrilling adventure, a Pompeii gladiator races to save his true love as Mount Vesuvius prepares to erupt in A.D. 79. As the lava starts to flow, he must escape the arena and rescue his lover before they are both turned to ash.</desc>
-    <date>20140520</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>History</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <category>War</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1538624565.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1532859358.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>39/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/39.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729024900 +0000" stop="20220729044300 +0000" channel="StarZ">
-    <title lang="en">Tyler Perry's The Family That Preys</title>
-    <desc>Tyler Perry wrote, directed, produced and costars in this gripping drama about a scandal that rocks two families with a lengthy history. One of them is upper-class, the other working class, and each is led by a strong-willed matriarch who are long-time friends. Kathy Bates and Alfre Woodard are outstanding as the two women trying to keep their respective families from ruining countless lives. The superb ensemble cast also features Sanaa Lathan, Cole Hauser, Rockmond Dunbar and Kadee Strickland.</desc>
-    <date>20080000</date>
-    <category>Comedy</category>
-    <length units="seconds">6660</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7510338381.jpg" width="482" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510338380.jpg" width="720" height="682"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>49/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/49.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729044300 +0000" stop="20220729065300 +0000" channel="StarZ">
-    <title lang="en">The Legend of Bagger Vance</title>
-    <desc>Robert Redford directed this magical fable about a golfer (Matt Damon) who returns from WWI with post-traumatic stress disorder. He does get a chance to turn his life around, however, when he receives a visit from a mysterious caddy (Will Smith). Charlize Theron, Bruce McGill, Joel Gretsch, J. Michael Moncrief, Lane Smith.</desc>
-    <date>20171002</date>
-    <category>Drama</category>
-    <category>Golf</category>
-    <category>Adaptation</category>
-    <length units="seconds">7620</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-660689022.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-865226333.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>47/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/47.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729065300 +0000" stop="20220729084500 +0000" channel="StarZ">
-    <title lang="en">Machete Kills</title>
-    <desc>In this thrilling sequel to the outrageous grind-house hit, the U.S. president drafts Machete for a mission to defeat a wealthy arms dealer who is planning to start a nuclear war.</desc>
-    <date>20140523</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Sci-fi</category>
-    <category>Crime</category>
-    <category>Sequel</category>
-    <length units="seconds">6360</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-632524433.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1080722441.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>41/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/41.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729084500 +0000" stop="20220729103600 +0000" channel="StarZ">
-    <title lang="en">The Vanishing</title>
-    <desc>Three lighthouse keepers are working on their six-week shift on a rocky, storm-swept island in Scotland's Outer Hebrides, 20 miles from the Scottish coast. When they stumble upon something that isn't theirs to keep, distrust and tension start to grow between them.</desc>
-    <date>20190628</date>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Mystery &amp; Suspense</category>
-    <length units="seconds">6420</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6883506074.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6965617991.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>64/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/64.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729103600 +0000" stop="20220729123200 +0000" channel="StarZ">
-    <title lang="en">Flight of the Phoenix</title>
-    <desc>This rip-roaring remake of the 1965 adventure classic soars thanks to stunning aerial photography and fantastic special effects. Dennis Quaid plays a pilot whose plane crashes in the Gobi Desert, where he and his crew try to reconstruct their craft and fly it to safety. The film marks the directorial debut of John Moore. Tyrese Gibson, Miranda Otto, Giovanni Ribisi, Tony Curran, Kirk Jones (a.k.a. Sticky Fingaz), Hugh Laurie, Scott Michael Campbell, Jared Padalecki, Kevork Malikyan.</desc>
-    <date>20060602</date>
-    <category>Action/Adventure</category>
-    <category>Remake</category>
-    <category>Adaptation</category>
-    <length units="seconds">6840</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9167490245.jpg" width="533" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6966441830.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>47/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/47.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729123200 +0000" stop="20220729144200 +0000" channel="StarZ">
-    <title lang="en">The Legend of Bagger Vance</title>
-    <desc>Robert Redford directed this magical fable about a golfer (Matt Damon) who returns from WWI with post-traumatic stress disorder. He does get a chance to turn his life around, however, when he receives a visit from a mysterious caddy (Will Smith). Charlize Theron, Bruce McGill, Joel Gretsch, J. Michael Moncrief, Lane Smith.</desc>
-    <date>20171002</date>
-    <category>Drama</category>
-    <category>Golf</category>
-    <category>Adaptation</category>
-    <length units="seconds">7620</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-660689022.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-865226333.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>47/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/47.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729144200 +0000" stop="20220729163500 +0000" channel="StarZ">
-    <title lang="en">Tyler Perry's The Family That Preys</title>
-    <desc>Tyler Perry wrote, directed, produced and costars in this gripping drama about a scandal that rocks two families with a lengthy history. One of them is upper-class, the other working class, and each is led by a strong-willed matriarch who are long-time friends. Kathy Bates and Alfre Woodard are outstanding as the two women trying to keep their respective families from ruining countless lives. The superb ensemble cast also features Sanaa Lathan, Cole Hauser, Rockmond Dunbar and Kadee Strickland.</desc>
-    <date>20080000</date>
-    <category>Comedy</category>
-    <length units="seconds">6660</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7510338381.jpg" width="482" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510338380.jpg" width="720" height="682"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>49/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/49.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729163500 +0000" stop="20220729182400 +0000" channel="StarZ">
-    <title lang="en">Pompeii</title>
-    <desc>In this thrilling adventure, a Pompeii gladiator races to save his true love as Mount Vesuvius prepares to erupt in A.D. 79. As the lava starts to flow, he must escape the arena and rescue his lover before they are both turned to ash.</desc>
-    <date>20140520</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>History</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <category>War</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1538624565.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1532859358.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>39/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/39.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729182400 +0000" stop="20220729201900 +0000" channel="StarZ">
-    <title lang="en">Roll Bounce</title>
-    <desc>There's nothing Lil' about rapper Bow Wow's big-time performance in this amiable, entertaining coming-of-age tale, anchored by the strain between a widower (Chi McBride) and his son (Bow Wow), who's caught up in the roller-disco scene in 1970s Chicago. Wesley Jonathan, Jurnee Smollett, Meagan Good, Brandon T. Jackson, Marcus T. Paulk, Rick Gonzalez, Khleo Thomas, Kellita Smith, Mike Epps, Charlie Murphy, Wayne Brady.</desc>
-    <date>20050000</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Music</category>
-    <length units="seconds">6720</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172484863.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7518298281.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>59/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/59.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220729201900 +0000" stop="20220729220800 +0000" channel="StarZ">
-    <title lang="en">Guess Who</title>
-    <desc>A black father must deal with his racial hang-ups when his daughter brings home her white boyfriend. Comedy remake of "Guess Who's Coming to Dinner."</desc>
-    <date>20051021</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Other</category>
-    <category>Remake</category>
-    <category>Romance</category>
-    <length units="seconds">6300</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172406854.jpg" width="484" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-427512470.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>49/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/49.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20220727103000 +0000" stop="20220727110000 +0000" channel="SundanceTV">
@@ -18710,386 +18196,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220727190000 +0000" stop="20220727200000 +0000" channel="Univision">
-    <title lang="es">S.O.S me estoy enamorando</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20210000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220727200000 +0000" stop="20220727210000 +0000" channel="Univision">
-    <title lang="es">El Gordo y La Flaca</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220727210000 +0000" stop="20220727220000 +0000" channel="Univision">
-    <title lang="es">Primer Impacto</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220727220000 +0000" stop="20220727223000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Digital</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20160000</date>
-  </programme>
-  <programme start="20220727223000 +0000" stop="20220727230000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220727230000 +0000" stop="20220728000000 +0000" channel="Univision">
-    <title lang="es">La Rosa de Guadalupe</title>
-    <desc>Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe.</desc>
-    <date>20190000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220728000000 +0000" stop="20220728010000 +0000" channel="Univision">
-    <title lang="es">La Mexicana y el Güero</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728010000 +0000" stop="20220728020000 +0000" channel="Univision">
-    <title lang="es">La Herencia, Un Legado de Amor</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220728020000 +0000" stop="20220728030000 +0000" channel="Univision">
-    <title lang="es">Mujer de nadie</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728030000 +0000" stop="20220728033000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728033000 +0000" stop="20220728033500 +0000" channel="Univision">
-    <title lang="es">Sabor de mañana</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728033500 +0000" stop="20220728040000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Nocturna</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728040000 +0000" stop="20220728050000 +0000" channel="Univision">
-    <title lang="es">Contacto Deportivo</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20140000</date>
-  </programme>
-  <programme start="20220728050000 +0000" stop="20220728060000 +0000" channel="Univision">
-    <title lang="es">Peregrina</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728060000 +0000" stop="20220728070000 +0000" channel="Univision">
-    <title lang="es">La Mexicana y el Güero</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728070000 +0000" stop="20220728073000 +0000" channel="Univision">
-    <title lang="es">Vecinos</title>
-    <sub-title>Alfonso Zayas</sub-title>
-    <desc>Frankie tiene a Benito escribiendo sus ideas para un libreto de una pelicula y obliga a Lorena a pedirle dinero a su papa para poder ser productor asociado de una pelicula. Magdalena al ver unas pompas postizas que vio en television desea comprarlas.</desc>
-    <date>20190000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220728073000 +0000" stop="20220728080000 +0000" channel="Univision">
-    <title lang="es">La Familia P. Luche</title>
-    <sub-title>06-30-2021</sub-title>
-    <date>20030000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220728080000 +0000" stop="20220728090000 +0000" channel="Univision">
-    <title lang="es">El Gordo y La Flaca</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220728090000 +0000" stop="20220728093500 +0000" channel="Univision">
-    <title lang="es">Nosotros Los Guapos</title>
-    <sub-title>07-01-2021</sub-title>
-    <date>20160000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220728093500 +0000" stop="20220728100000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Nocturna</title>
-    <sub-title>07-27-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728100000 +0000" stop="20220728110000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <date>20110000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220728110000 +0000" stop="20220728150000 +0000" channel="Univision">
-    <title lang="es">Despierta America</title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728150000 +0000" stop="20220728160000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <date>20180000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220728160000 +0000" stop="20220728163000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Digital</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728163000 +0000" stop="20220728170000 +0000" channel="Univision">
-    <title lang="es">Nosotros los guapos</title>
-    <sub-title>07-02-2021</sub-title>
-    <desc>El Vitor y Albertano se enfrentan a todo tipo de aventuras,con tal de conseguir un trabajo para subsistir.</desc>
-    <date>20190000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220728170000 +0000" stop="20220728180000 +0000" channel="Univision">
-    <title lang="es">Hoy</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220728180000 +0000" stop="20220728190000 +0000" channel="Univision">
-    <title lang="es">Contigo sí</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20210000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220728190000 +0000" stop="20220728200000 +0000" channel="Univision">
-    <title lang="es">S.O.S me estoy enamorando</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20210000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220728200000 +0000" stop="20220728210000 +0000" channel="Univision">
-    <title lang="es">El Gordo y la Flaca</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220728210000 +0000" stop="20220728220000 +0000" channel="Univision">
-    <title lang="es">Primer Impacto</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220728220000 +0000" stop="20220728223000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Digital</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728223000 +0000" stop="20220728230000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220728230000 +0000" stop="20220729000000 +0000" channel="Univision">
-    <title lang="es">La Rosa de Guadalupe</title>
-    <desc>Un pequeño niño trabajador es llevado a la delegación por vender en la vía pública. Una abogada descubre que el niño es maltratado por su padre al igual que sus hermanas y por ello busca la manera de poderlos sacar de su casa.</desc>
-    <date>20160000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220729000000 +0000" stop="20220729010000 +0000" channel="Univision">
-    <title lang="es">La Mexicana y el Güero</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20200000</date>
-  </programme>
-  <programme start="20220729010000 +0000" stop="20220729020000 +0000" channel="Univision">
-    <title lang="es">La Herencia, un legado de amor</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220729020000 +0000" stop="20220729030000 +0000" channel="Univision">
-    <title lang="es">Mujer de nadie</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220729030000 +0000" stop="20220729033000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220729033000 +0000" stop="20220729033500 +0000" channel="Univision">
-    <title lang="es">Sabor de Mañana</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220729033500 +0000" stop="20220729040000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Nocturna</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220729040000 +0000" stop="20220729050000 +0000" channel="Univision">
-    <title lang="es">Contacto Deportivo</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20140000</date>
-  </programme>
-  <programme start="20220729050000 +0000" stop="20220729060000 +0000" channel="Univision">
-    <title lang="es">Peregrina</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220729060000 +0000" stop="20220729070000 +0000" channel="Univision">
-    <title lang="es">La Mexicana y el Güero</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20200000</date>
-  </programme>
-  <programme start="20220729070000 +0000" stop="20220729073000 +0000" channel="Univision">
-    <title lang="es">Vecinos</title>
-    <sub-title>Benito Enamorado/El Perro Perdido</sub-title>
-    <desc>Frankie y Lorena le piden a Silvia que le ayude a Benito a estudiar pues necesita mejorar en la escuela. Silvia le hace una prueba a Benito para ver porque no pone atención y se sorprende porque cree que está enamorado de ella.</desc>
-    <date>20200000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220729073000 +0000" stop="20220729080000 +0000" channel="Univision">
-    <title lang="es">La Familia P. Luche</title>
-    <sub-title>07-01-2021</sub-title>
-    <date>20030000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220729080000 +0000" stop="20220729090000 +0000" channel="Univision">
-    <title lang="es">El Gordo y la Flaca</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220729090000 +0000" stop="20220729093500 +0000" channel="Univision">
-    <title lang="es">Nosotros los guapos</title>
-    <sub-title>07-02-2021</sub-title>
-    <desc>El Vitor y Albertano se enfrentan a todo tipo de aventuras,con tal de conseguir un trabajo para subsistir.</desc>
-    <date>20190000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220729093500 +0000" stop="20220729100000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Nocturna</title>
-    <sub-title>07-28-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220729100000 +0000" stop="20220729110000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <date>20180000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220729110000 +0000" stop="20220729150000 +0000" channel="Univision">
-    <title lang="es">Despierta America</title>
-    <sub-title>07-29-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220729150000 +0000" stop="20220729160000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <date>20180000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220729160000 +0000" stop="20220729163000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Digital</title>
-    <sub-title>07-29-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220729163000 +0000" stop="20220729170000 +0000" channel="Univision">
-    <title lang="es">Nosotros Los Guapos</title>
-    <sub-title>10-06-2021</sub-title>
-    <date>20160000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220729170000 +0000" stop="20220729180000 +0000" channel="Univision">
-    <title lang="es">Hoy</title>
-    <sub-title>07-29-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220729180000 +0000" stop="20220729190000 +0000" channel="Univision">
-    <title lang="es">Contigo Sí</title>
-    <sub-title>07-29-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220729190000 +0000" stop="20220729200000 +0000" channel="Univision">
-    <title lang="es">S.O.S. Me Estoy Enamorando</title>
-    <sub-title>07-29-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220729200000 +0000" stop="20220729210000 +0000" channel="Univision">
-    <title lang="es">El Gordo y La Flaca</title>
-    <sub-title>07-29-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220729210000 +0000" stop="20220729220000 +0000" channel="Univision">
-    <title lang="es">Primer Impacto</title>
-    <sub-title>07-29-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20220727100000 +0000" stop="20220727110000 +0000" channel="USANetwork">
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
     <sub-title>Burned</sub-title>
@@ -19991,17 +19097,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220727070000 +0000" stop="20220727100000 +0000" channel="YES">
-    <title lang="en">MLB Baseball</title>
-    <sub-title>New York Yankees at New York Mets</sub-title>
-    <desc>New York Yankees at New York Mets. From Citi Field.</desc>
-    <date>20220726</date>
-    <category>Pro</category>
-    <category>Baseball</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1502030884.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1502050375.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20220727100000 +0000" stop="20220727130000 +0000" channel="YES">
     <title lang="en">MLB Baseball</title>
     <sub-title>New York Yankees at New York Mets</sub-title>
@@ -20046,5 +19141,18 @@
     <sub-title>Florida Atlantic University</sub-title>
     <desc>Golf pro Jimmy Hanlin tours courses around the U.S. and provides tips and features on the game.</desc>
     <date>20220000</date>
+  </programme>
+  <programme start="20220727180000 +0000" stop="20220727190000 +0000" channel="YES">
+    <title lang="en">Yankeeography</title>
+    <sub-title>Moments of Glory: Derek Jeter</sub-title>
+    <desc>Highlighting Derek Jeter's 3000th hit, from July 9, 2011.</desc>
+    <date>20130626</date>
+    <category>Sports stuff</category>
+    <category>Pro</category>
+    <category>Baseball</category>
+    <category>Profile</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-364093043.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4063179488.jpg" width="720" height="720"/>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
 </tv>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220801222805" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220801224431" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -6490,7 +6490,27 @@
     </rating>
   </programme>
   <programme start="20220802045500 +0000" stop="20220802052000 +0000" channel="DisneyJr">
-    <title>The Chicken Squad</title>
+    <title lang="en">The Chicken Squad</title>
+    <sub-title>Gone to the Dogs; Coop Dreams</sub-title>
+    <desc>When chew toys begin disappearing from around the neighborhood, the Squad investigates; to help the Squad win a Critterball Tournament, Coop relies on a pair of super-shoes instead of trusting his own ideas.</desc>
+    <credits>
+      <director>Scott Bern</director>
+      <producer>Tom Rogers</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20210521</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10024899169.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10024899170.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
   </programme>
   <programme start="20220802052000 +0000" stop="20220802054500 +0000" channel="DisneyJr">
     <title lang="en">Mickey Mouse Mixed-Up Adventures</title>
@@ -9469,7 +9489,7 @@
     <desc>Stewie meets a girl who's just as precocious as he is, and it turns out that they have much in common (including a love of advanced weaponry). Meanwhile, Lois is tired of being crushed in bed by the sleeping Peter, so she gets twin beds. This upsets Peter, who needs to cuddle to fall asleep.</desc>
     <credits>
       <director>Peter Shin</director>
-      <actor>Seth MacFarlane</actor>
+      <actor>Lori Alan</actor>
       <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
@@ -9499,7 +9519,7 @@
     <desc>Meg goes to Paris with her friend Ruth—and they're promptly kidnapped by human traffickers. But Stewie just might have the sleuthing savvy and electronic wherewithal to find them. Brian joins him on the rescue mission.</desc>
     <credits>
       <director>Peter Shin</director>
-      <actor>Seth MacFarlane</actor>
+      <actor>Lori Alan</actor>
       <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
@@ -9529,7 +9549,7 @@
     <desc>Peter joins the Tea Party and campaigns to shut down Quahog's municipal government after his illegal business is shut down. His campaign succeeds, but it's his tycoon father-in-law, Carter Pewterschmidt, who reaps the benefits.</desc>
     <credits>
       <director>Peter Shin</director>
-      <actor>Seth MacFarlane</actor>
+      <actor>Lori Alan</actor>
       <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
@@ -9559,7 +9579,7 @@
     <desc>One mini-episode introduces a British version of the Griffins. A comedian takes over Quahog in another. And a third views the world from Stewie's POV.</desc>
     <credits>
       <director>Peter Shin</director>
-      <actor>Seth MacFarlane</actor>
+      <actor>Lori Alan</actor>
       <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
@@ -9589,7 +9609,7 @@
     <desc>Joe cheats on the cheating Bonnie; and it's Peter vs. the angry chicken (again).</desc>
     <credits>
       <director>Peter Shin</director>
-      <actor>Seth MacFarlane</actor>
+      <actor>Lori Alan</actor>
       <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
@@ -9619,7 +9639,7 @@
     <desc>In the Season 11 premiere, the Griffins attempt to conquer Mount Everest after competitive friends mention they plan to scale the legendary peak. Things, however, are not looking up for the Griffins, as a wicked storm leaves them pinned down on the side of the mountain.</desc>
     <credits>
       <director>Peter Shin</director>
-      <actor>Seth MacFarlane</actor>
+      <actor>Lori Alan</actor>
       <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
@@ -9649,7 +9669,7 @@
     <desc>The Griffins are selected to have their television-viewing habits monitored, but Peter gets carried away when he tries to take over the airwaves.</desc>
     <credits>
       <director>Peter Shin</director>
-      <actor>Seth MacFarlane</actor>
+      <actor>Lori Alan</actor>
       <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
@@ -9679,7 +9699,7 @@
     <desc>When Brian learns that Carter Pewterschmidt's drug company has developed a cure for cancer but is keeping it from the public to maximize profits, he and Stewie attempt to expose the pharmaceutical bigwig. Later, Quagmire reveals a big secret.</desc>
     <credits>
       <director>Peter Shin</director>
-      <actor>Seth MacFarlane</actor>
+      <actor>Lori Alan</actor>
       <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
@@ -15292,8 +15312,8 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
-      <producer>Eric Tannenbaum</producer>
+      <writer>Jim Patterson</writer>
+      <producer>Joe Bella</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -15324,8 +15344,8 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
-      <producer>Eric Tannenbaum</producer>
+      <writer>Jim Patterson</writer>
+      <producer>Joe Bella</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -15356,8 +15376,8 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
-      <producer>Eric Tannenbaum</producer>
+      <writer>Jim Patterson</writer>
+      <producer>Joe Bella</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -15388,8 +15408,8 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
-      <producer>Eric Tannenbaum</producer>
+      <writer>Jim Patterson</writer>
+      <producer>Joe Bella</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -15420,8 +15440,8 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
-      <producer>Eric Tannenbaum</producer>
+      <writer>Jim Patterson</writer>
+      <producer>Joe Bella</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>

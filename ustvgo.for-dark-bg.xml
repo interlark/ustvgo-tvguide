@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220803112100" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220803114029" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -964,12 +964,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220803070000 +0000" stop="20220803100000 +0000" channel="ACCN">
-    <title lang="en">College Football</title>
-    <sub-title>Kansas at Duke</sub-title>
-    <desc>Kansas (1-2) at Duke (2-1). From Wallace Wade Stadium.</desc>
-    <date>20210000</date>
-  </programme>
   <programme start="20220803100000 +0000" stop="20220803110000 +0000" channel="ACCN">
     <title lang="en">ACC Football Road Trip</title>
     <sub-title>Duke</sub-title>
@@ -1004,6 +998,12 @@
     <title lang="en">Gator Bowl</title>
     <sub-title>Wake Forest vs. Rutgers</sub-title>
     <desc>Wake Forest (10-3) vs. Rutgers (5-7) in the Gator Bowl in Jacksonville, Fla. From TIAA Bank Field. QB Sam Hartman and WR A.T. Perry power ACC runner-up Wake Forest (41.2 ppg) against Greg Schiano's Scarlet Knights, a fill-in whose last bowl was in 2014. Dave Clawson (3-2) and Schiano (5-1) both look to build on solid bowl track records.</desc>
+    <date>20210000</date>
+  </programme>
+  <programme start="20220803180000 +0000" stop="20220803210000 +0000" channel="ACCN">
+    <title lang="en">College Football</title>
+    <sub-title>North Carolina State at Wake Forest</sub-title>
+    <desc>North Carolina State (7-2) at Wake Forest (8-1). From Truist Field. A pivotal ACC Atlantic clash in Winston-Salem pits QB Sam Hartman and the 5-0 Demon Deacons (44.7 ppg) against LB Drake Thomas and the 4-1 Wolfpack (16 ppg allowed). Wake last reached nine wins in 2007.</desc>
     <date>20210000</date>
   </programme>
   <programme start="20220803103000 +0000" stop="20220803110000 +0000" channel="AE">
@@ -1874,17 +1874,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220803083000 +0000" stop="20220803100000 +0000" channel="BTN">
-    <title lang="en">B1G Live</title>
-    <sub-title>Big Ten Volleyball Media Days- Day 1</sub-title>
-    <date>20220000</date>
-    <category>Sports</category>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9321554138.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11006947306.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20220803100000 +0000" stop="20220803120000 +0000" channel="BTN">
     <title lang="en">Women's College Soccer</title>
     <sub-title>Penn State at Rutgers</sub-title>
@@ -1929,6 +1918,12 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9321554138.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11006947306.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220803180000 +0000" stop="20220803190000 +0000" channel="BTN">
+    <title lang="en">College Football</title>
+    <sub-title>Auburn at Penn State</sub-title>
+    <desc>Auburn (2-0) at Penn State (2-0). From Beaver Stadium. Senior LB Ellis Brooks and the PSU defense try to slow a high-scoring Auburn attack featuring RBs Jarquez Hunter (128 ypg) and Tank Bigsby (120). These teams split Jan. 1 bowl games in 1996 and 2003.</desc>
+    <date>20210000</date>
   </programme>
   <programme start="20220803103700 +0000" stop="20220803111300 +0000" channel="BET">
     <title lang="en">Tyler Perry's Meet the Browns</title>
@@ -3759,8 +3754,8 @@
     <sub-title>Playing With Matches</sub-title>
     <desc>Darlene wants nothing to do with David after Molly kisses him; and a new friend puts a smile on Bev's face. Molly: Danielle Harris. Bev: Estelle Parsons. David: Johnny Galecki. Darlene: Sara Gilbert.</desc>
     <credits>
-      <director>Andrew D. Weyman</director>
-      <actor>Ned Beatty</actor>
+      <director>Gail Mancuso</director>
+      <actor role="Dan's Dad">Ned Beatty</actor>
       <writer>Jennifer Heath</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
@@ -3785,8 +3780,8 @@
     <sub-title>Promises, Promises</sub-title>
     <desc>Darlene springs a surprise on David; and Dan is reluctant to share with Roseanne his plans for a new business. Roger: Tim Curry. Charlotte: Mara Hobel. Chuck: James Pickens Jr.</desc>
     <credits>
-      <director>Andrew D. Weyman</director>
-      <actor>Ned Beatty</actor>
+      <director>Gail Mancuso</director>
+      <actor role="Dan's Dad">Ned Beatty</actor>
       <writer>Jennifer Heath</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
@@ -3811,8 +3806,8 @@
     <sub-title>Glengarry, Glen Rosey</sub-title>
     <desc>Dan's bills mount when he and Roger can't sell the house they refurbished---and Roger skips town. Nancy: Sandra Bernhard. Chuck: James Pickens Jr. Dan: John Goodman. Jackie: Laurie Metcalf.</desc>
     <credits>
-      <director>Andrew D. Weyman</director>
-      <actor>Ned Beatty</actor>
+      <director>Gail Mancuso</director>
+      <actor role="Dan's Dad">Ned Beatty</actor>
       <writer>Jennifer Heath</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
@@ -3837,8 +3832,8 @@
     <sub-title>Tooth or Consequences</sub-title>
     <desc>Dan knocks out one of Roseanne's teeth on the day she is to meet with a health inspector; Darlene is accepted to art school. Leon: Martin Mull. Jeffrey: Phil Leeds. Robbie: J.D. Daniels. David: Johnny Galecki. Darlene: Sara Gilbert.</desc>
     <credits>
-      <director>Andrew D. Weyman</director>
-      <actor>Ned Beatty</actor>
+      <director>Gail Mancuso</director>
+      <actor role="Dan's Dad">Ned Beatty</actor>
       <writer>Jennifer Heath</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
@@ -3863,8 +3858,8 @@
     <sub-title>Daughters and Other Strangers</sub-title>
     <desc>Roseanne worries that Darlene has decided to waste her life staying in Lanford. George: Joseph Gordon-Levitt. Darlene: Sara Gilbert. D.J.: Michael Fishman. Roseanne: Roseanne Arnold.</desc>
     <credits>
-      <director>Andrew D. Weyman</director>
-      <actor>Ned Beatty</actor>
+      <director>Gail Mancuso</director>
+      <actor role="Dan's Dad">Ned Beatty</actor>
       <writer>Jennifer Heath</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
@@ -3889,8 +3884,8 @@
     <sub-title>Two Down, One to Go</sub-title>
     <desc>The empty-nest syndrome strikes Roseanne as Darlene (Sara Gilbert) settles into her college dorm. Jenna: Terri Ivens. David: Johnny Galecki. Roseanne: Roseanne Arnold.</desc>
     <credits>
-      <director>Andrew D. Weyman</director>
-      <actor>Ned Beatty</actor>
+      <director>Gail Mancuso</director>
+      <actor role="Dan's Dad">Ned Beatty</actor>
       <writer>Jennifer Heath</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
@@ -8924,22 +8919,6 @@
     <episode-num system="onscreen">S2022E152</episode-num>
     <episode-num system="xmltv_ns">2021.151.</episode-num>
   </programme>
-  <programme start="20220803080000 +0000" stop="20220803100000 +0000" channel="FS2">
-    <title lang="en">WWE Friday Night SmackDown</title>
-    <sub-title>07-29-2022</sub-title>
-    <desc>The superstars of World Wrestling Entertainment unleash their mat mayhem in Atlanta.</desc>
-    <date>20220729</date>
-    <category>Entertainment</category>
-    <category>Pro wrestling</category>
-    <category>Wrestling</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9298030234.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10623920688.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S24E30</episode-num>
-    <episode-num system="xmltv_ns">23.29.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20220803100000 +0000" stop="20220803130000 +0000" channel="FS2">
     <title lang="en">The Westminster Kennel Club Dog Show</title>
     <sub-title>Day 1: Best of Breeds</sub-title>
@@ -10427,36 +10406,6 @@
     <episode-num system="onscreen">S02E02</episode-num>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20220803090000 +0000" stop="20220803100000 +0000" channel="HMM">
-    <title lang="en">Monk</title>
-    <sub-title>Mr. Monk Goes to Group Therapy</sub-title>
-    <desc>An insurance snag leads Monk to join Dr. Bell's therapy group, which appears to have a murderer in its ranks who's targeting fellow patients.</desc>
-    <credits>
-      <director>Andre Belgrader</director>
-      <actor role="Joey Krenshaw">David Koechner</actor>
-      <writer>Hy Conrad</writer>
-      <producer>Anthony Santa Croce</producer>
-      <composer>Jeff Beal</composer>
-    </credits>
-    <date>20091009</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Crime</category>
-    <category>Mystery &amp; Suspense</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172456308.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172437235.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S08E08</episode-num>
-    <episode-num system="xmltv_ns">7.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>75/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/75.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20220803100000 +0000" stop="20220803110000 +0000" channel="HMM">
     <title lang="en">Monk</title>
     <sub-title>Happy Birthday, Mr. Monk</sub-title>
@@ -10660,6 +10609,29 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9254932625.jpg" width="720" height="690"/>
     <episode-num system="onscreen">S07E05</episode-num>
     <episode-num system="xmltv_ns">6.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220803180000 +0000" stop="20220803190000 +0000" channel="HMM">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title>The Killer Within</sub-title>
+    <desc>A drug-addicted med student with a personal connection to Madison is suspected of murder after a patient in rehabilitation is found dead from an overdose in her bathroom. Madison: Joanna Cassidy. Steve: Barry Van Dyke. Mark: Dick Van Dyke.</desc>
+    <credits>
+      <director>Christian I. Nyby II</director>
+      <actor role="Norman Briggs">Michael Tucci</actor>
+      <writer>Joel Steiger</writer>
+      <producer>Robin Madden</producer>
+      <composer>Lou Forestieri</composer>
+    </credits>
+    <date>19991028</date>
+    <category>Crime drama</category>
+    <category>Family</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9254932621.jpg" width="535" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9254932625.jpg" width="720" height="690"/>
+    <episode-num system="onscreen">S07E06</episode-num>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -13547,9 +13519,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220803090000 +0000" stop="20220803100000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20220803100000 +0000" stop="20220803110000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -13572,6 +13541,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220803170000 +0000" stop="20220803180000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20220803180000 +0000" stop="20220803190000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220803103000 +0000" stop="20220803110000 +0000" channel="Nickelodeon">
@@ -14591,14 +14563,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220803093000 +0000" stop="20220803100000 +0000" channel="OLY">
-    <title lang="en">Robin Williams: Comic Genius</title>
-    <desc>Robin Williams was truly an out-of-this-world talent! While Robin started doing stand-up in the mid-'70s, most of America first fell in love with him as the naïve and hilarious alien from the planet Ork in Mork &amp; Mindy. He became an instant superstar and with his frenetic energy and unbelievably quick wit.</desc>
-    <date>20181106</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20220803100000 +0000" stop="20220803120000 +0000" channel="OLY">
     <title lang="en">2022 Commonwealth Games</title>
     <sub-title>Day 2 from Birmingham, England</sub-title>
@@ -14622,6 +14586,18 @@
     <sub-title>Day 5 from Birmingham, England</sub-title>
     <desc>Day 5 events from the quadrennial Commonwealth Games in Birmingham, England. Medals are awarded in swimming, gymnastics, track &amp; field, badminton, 3x3 basketball, judo, lawn bowl, table tennis and weightlifting.</desc>
     <date>20220000</date>
+  </programme>
+  <programme start="20220803180000 +0000" stop="20220803190000 +0000" channel="OLY">
+    <title lang="en">Return to Tokyo</title>
+    <sub-title>Track &amp; Field: Women's Sprint Events</sub-title>
+    <desc>Revisiting women's track sprint events from the Tokyo 2020 Olympics.</desc>
+    <date>20210809</date>
+    <category>Highlights</category>
+    <category>Olympics</category>
+    <category>Summer olympics</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10268987635.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10268987631.jpg" width="720" height="409"/>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20220803100000 +0000" stop="20220803110000 +0000" channel="Oxygen">
     <title lang="en">Accident, Suicide, Or Murder</title>
@@ -15707,8 +15683,8 @@
     <sub-title>Mystery of Planet 9</sub-title>
     <desc>Recent discoveries could explain the mystery of how supermassive black holes grow so big. Neither dark matter nor cannibalism can fully explain these monsters, but the latest science might finally provide an answer.</desc>
     <credits>
-      <director>Mark Bridge</director>
-      <producer>Martin Mortimore</producer>
+      <director>Adam Warner</director>
+      <producer>Adam Warner</producer>
       <composer>Richard Blair-Oliphant</composer>
     </credits>
     <date>20161129</date>
@@ -15730,8 +15706,8 @@
     <sub-title>The Universe's Deadliest</sub-title>
     <desc>Life once existed on Mars, but devastating mass extinctions have now made life nearly impossible. The latest science shows how Martian life keeps bouncing back as it transforms from a watery world like Earth into a desert planet.</desc>
     <credits>
-      <director>Mark Bridge</director>
-      <producer>Martin Mortimore</producer>
+      <director>Adam Warner</director>
+      <producer>Adam Warner</producer>
       <composer>Richard Blair-Oliphant</composer>
     </credits>
     <date>20170117</date>
@@ -16053,21 +16029,6 @@
     <episode-num system="onscreen">S09E01</episode-num>
     <episode-num system="xmltv_ns">8.0.</episode-num>
   </programme>
-  <programme start="20220803080500 +0000" stop="20220803101500 +0000" channel="Showtime">
-    <title lang="en">The Peacemaker</title>
-    <desc>A headstrong military man and a scientist go on a frantic search for stolen nuclear warheads before they fall into the wrong hands in this explosive action thriller.</desc>
-    <date>20050512</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <length units="seconds">7140</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11786538224.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1468065339.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>43/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/43.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20220803101500 +0000" stop="20220803121500 +0000" channel="Showtime">
     <title lang="en">No Man's Land</title>
     <desc>This Western drama takes place within the Texas-Mexico border dubbed as "no man's land" as border vigilantes roam around patrolling for people trying to cross the border illegally to the U.S. One patroller, Jackson, accidentally shoots a Mexican boy but his father tries to cover for him and owns up to the crime. But a doubting Texas Ranger figures it out, prompting Jackson to run across the border and hide in Mexico, where he's now pursued as an illegal alien by the authorities.</desc>
@@ -16136,6 +16097,27 @@
     <star-rating system="Metascore">
       <value>76/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/76.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220803180000 +0000" stop="20220803195000 +0000" channel="Showtime">
+    <title lang="en">Shadow of a Doubt</title>
+    <desc>Director Alfred Hitchcock's suspenser revolves around a young lady with an especially close attachment to her beloved uncle, who may be a murderer with a penchant for wooing, robbing and doing away with rich, older women.</desc>
+    <date>20041117</date>
+    <category>Drama</category>
+    <category>Suspense/Thriller</category>
+    <category>Crime</category>
+    <category>Filmed on location</category>
+    <category>Mystery &amp; Suspense</category>
+    <length units="seconds">6480</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11798347065.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1033755766.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>94/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/94.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20220803100200 +0000" stop="20220803113400 +0000" channel="StarZ">
@@ -17560,7 +17542,7 @@
     <credits>
       <director>John T. Kretchmer</director>
       <actor>Drew Fuller</actor>
-      <writer>Jeannine Renshaw</writer>
+      <writer>Cameron Litvack</writer>
       <producer>Jon Paré</producer>
       <composer>J. Peter Robinson</composer>
     </credits>
@@ -17587,7 +17569,7 @@
     <credits>
       <director>John T. Kretchmer</director>
       <actor>Drew Fuller</actor>
-      <writer>Jeannine Renshaw</writer>
+      <writer>Cameron Litvack</writer>
       <producer>Jon Paré</producer>
       <composer>J. Peter Robinson</composer>
     </credits>
@@ -17614,7 +17596,7 @@
     <credits>
       <director>John T. Kretchmer</director>
       <actor>Drew Fuller</actor>
-      <writer>Jeannine Renshaw</writer>
+      <writer>Cameron Litvack</writer>
       <producer>Jon Paré</producer>
       <composer>J. Peter Robinson</composer>
     </credits>
@@ -17641,7 +17623,7 @@
     <credits>
       <director>John T. Kretchmer</director>
       <actor>Drew Fuller</actor>
-      <writer>Jeannine Renshaw</writer>
+      <writer>Cameron Litvack</writer>
       <producer>Jon Paré</producer>
       <composer>J. Peter Robinson</composer>
     </credits>
@@ -17666,10 +17648,10 @@
     <sub-title>Fresh Blood</sub-title>
     <desc>Sam and Dean learn that a male vampire is using human blood to turn women into unsuspecting bloodsuckers. Meanwhile, Sam is being pursued by Gordon, who has escaped from jail and become a much more dangerous threat. Dixon: Matthew Humphreys. Gordon: Sterling K. Brown. Lucy: Mercedes McNab.</desc>
     <credits>
-      <director>John Showalter</director>
-      <actor>Alona Tal</actor>
-      <writer>Adam Glass</writer>
-      <producer>Todd Aronauer</producer>
+      <director>Robert Singer</director>
+      <actor role="Ash">Chad Lindberg</actor>
+      <writer>Brad Buckner</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20071115</date>
@@ -17696,10 +17678,10 @@
     <sub-title>A Very Supernatural Christmas</sub-title>
     <desc>Sam and Dean investigate murders committed by an anti-Santa who pulls his victims up the chimney; and Dean wants to celebrate a traditional Christmas since it will be his last, but Sam refuses, not wanting to accept that Dean won't be around next year.</desc>
     <credits>
-      <director>John Showalter</director>
-      <actor>Alona Tal</actor>
-      <writer>Adam Glass</writer>
-      <producer>Todd Aronauer</producer>
+      <director>Robert Singer</director>
+      <actor role="Ash">Chad Lindberg</actor>
+      <writer>Brad Buckner</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20071213</date>
@@ -17726,10 +17708,10 @@
     <sub-title>Malleus Maleficarum</sub-title>
     <desc>Unrequited love becomes vengeful witchcraft, which in turn leads Sam and Dean to a coven of suburban witches whose black magic is drawn from a much more sinister source.</desc>
     <credits>
-      <director>John Showalter</director>
-      <actor>Alona Tal</actor>
-      <writer>Adam Glass</writer>
-      <producer>Todd Aronauer</producer>
+      <director>Robert Singer</director>
+      <actor role="Ash">Chad Lindberg</actor>
+      <writer>Brad Buckner</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20080131</date>
@@ -17756,10 +17738,10 @@
     <sub-title>Dream a Little Dream of Me</sub-title>
     <desc>Bobby is poisoned with a dream potion and lapses into a deadly coma, so Sam and Dean take the potion themselves to enter the dream and save him, but to do so they all must confront their own personal nightmares. Bela Talbot: Lauren Cohan.</desc>
     <credits>
-      <director>John Showalter</director>
-      <actor>Alona Tal</actor>
-      <writer>Adam Glass</writer>
-      <producer>Todd Aronauer</producer>
+      <director>Robert Singer</director>
+      <actor role="Ash">Chad Lindberg</actor>
+      <writer>Brad Buckner</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20080207</date>
@@ -17786,10 +17768,10 @@
     <sub-title>Mystery Spot</sub-title>
     <desc>Dean is shot and killed while investigating the disappearance of a man with Sam, who is stunned when he wakes up the next morning to find his brother alive and well. Then he realizes he is reliving the previous day and tries to prevent Dean's death.</desc>
     <credits>
-      <director>John Showalter</director>
-      <actor>Alona Tal</actor>
-      <writer>Adam Glass</writer>
-      <producer>Todd Aronauer</producer>
+      <director>Robert Singer</director>
+      <actor role="Ash">Chad Lindberg</actor>
+      <writer>Brad Buckner</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20080214</date>
@@ -18264,9 +18246,9 @@
     <sub-title>Der Tag</sub-title>
     <desc>Potter asks the near-impossible from Hawkeye and B.J.: be nice to Frank while Margaret is in Tokyo. Capt. Saunders: Joe Morton. Kelly: Kellye Nakahara. Hawkeye: Alan Alda. B.J.: Mike Farrell. Potter: Harry Morgan.</desc>
     <credits>
-      <director>Gene Reynolds</director>
-      <actor>Edward Winter</actor>
-      <writer>Larry Gelbart</writer>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
       <producer>Larry Gelbart</producer>
       <composer>Benny Golson</composer>
     </credits>
@@ -18293,9 +18275,9 @@
     <sub-title>Hawkeye</sub-title>
     <desc>After a jeep accident, an injured Hawkeye finds shelter in a farmer's home and spouts a nonstop monologue to avoid losing consciousness. Father: Philip Ahn. Mother: Shizuko Hoshi. Pregnant Woman: June Kim. Oldest Child: Susan Sakimoto. Hawkeye: Alan Alda. William Jurgensen's cinematography earned an Emmy nomination.</desc>
     <credits>
-      <director>Gene Reynolds</director>
-      <actor>Edward Winter</actor>
-      <writer>Larry Gelbart</writer>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
       <producer>Larry Gelbart</producer>
       <composer>Benny Golson</composer>
     </credits>
@@ -18322,9 +18304,9 @@
     <sub-title>Some 38th Parallels</sub-title>
     <desc>Four distinct subplots deal with personal anxieties, such as Frank's fear that the Koreans are stealing the camp's garbage. Meanwhile, a gung-ho colonel (Kevin Hagen) is responsible for a number of casualties. Gerald: George O'Hanlon Jr. Able: Lynnette Mettey. Hawkeye: Alan Alda. B.J.: Mike Farrell.</desc>
     <credits>
-      <director>Gene Reynolds</director>
-      <actor>Edward Winter</actor>
-      <writer>Larry Gelbart</writer>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
       <producer>Larry Gelbart</producer>
       <composer>Benny Golson</composer>
     </credits>
@@ -18351,8 +18333,8 @@
     <sub-title>The Companeros</sub-title>
     <desc>Will joins his friend Mateo in defense of Mexican President Juarez. Mateo: Frank Silvera. Carla: Faith Domergue. Ben: Lorne Greene. Pacheco: Rico Alaniz. Vincente: Anthony Carbone.</desc>
     <credits>
-      <director>Leo Penn</director>
-      <actor role="Ben Cartwright">Lorne Greene</actor>
+      <director>William F. Claxton</director>
+      <actor role="Deputy Clem Foster">Bing Russell</actor>
       <writer>John Hawkins</writer>
       <producer>David Dortort</producer>
       <composer>Walter Scharf</composer>
@@ -18375,8 +18357,8 @@
     <sub-title>Stranger in Town</sub-title>
     <desc>Pernell Roberts stars as a hired killer who is distracted by the wife who deserted him and a son he's never seen. Anne: Jacqueline Scott. Matt: James Arness. Kitty: Amanda Blake. Cagle: Henry Jones. Anderson: R.G. Armstrong. Billy: Eric Shea. Doc: Milburn Stone.</desc>
     <credits>
-      <director>Harry Harris</director>
-      <actor role="Burke">Ted Jordan</actor>
+      <director>Andrew V. McLaglen</director>
+      <actor role="Howie">Howard Culver</actor>
       <writer>John Meston</writer>
       <producer>Norman MacDonnell</producer>
       <composer>Morton Stevens</composer>
@@ -18397,8 +18379,8 @@
     <sub-title>Death Train</sub-title>
     <desc>Matt enforces a quarantine on a railroad car while Doc treats the passengers for a fever that could spread. Isabel: Dana Wynter. Doc: Milburn Stone. Matt: James Arness. Townsend: Morgan Woodward. Loftus: Norman Alden. Bright: Ed Bakey.</desc>
     <credits>
-      <director>Harry Harris</director>
-      <actor role="Burke">Ted Jordan</actor>
+      <director>Andrew V. McLaglen</director>
+      <actor role="Howie">Howard Culver</actor>
       <writer>John Meston</writer>
       <producer>Norman MacDonnell</producer>
       <composer>Morton Stevens</composer>
@@ -18419,8 +18401,8 @@
     <sub-title>Rope Fever</sub-title>
     <desc>Ralph Bellamy portrays a sheriff who enjoys new-found glory when he jails Festus on a trumped-up murder charge. Gruber: George Murdock. Festus: Ken Curtis. Matt: James Arness. Amy: Anna Lee.</desc>
     <credits>
-      <director>Harry Harris</director>
-      <actor role="Burke">Ted Jordan</actor>
+      <director>Andrew V. McLaglen</director>
+      <actor role="Howie">Howard Culver</actor>
       <writer>John Meston</writer>
       <producer>Norman MacDonnell</producer>
       <composer>Morton Stevens</composer>
@@ -19433,18 +19415,6 @@
       <value>51/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20220803080000 +0000" stop="20220803100000 +0000" channel="YES">
-    <title lang="en">WNBA Basketball</title>
-    <sub-title>Los Angeles Sparks at New York Liberty</sub-title>
-    <desc>Los Angeles Sparks at New York Liberty. From Barclays Center.</desc>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220803100000 +0000" stop="20220803103000 +0000" channel="YES">
-    <title lang="en">18 Holes With Jimmy Hanlin</title>
-    <sub-title>North Carolina State University</sub-title>
-    <desc>Golf pro Jimmy Hanlin tours Lonnie Poole GC in Raleigh, N.C.; and provides tips and features on the game.</desc>
-    <date>20220000</date>
   </programme>
   <programme start="20220803103000 +0000" stop="20220803110000 +0000" channel="YES">
     <title lang="en">Forbes SportsMoney</title>

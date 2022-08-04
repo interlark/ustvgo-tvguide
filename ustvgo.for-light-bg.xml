@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220804112537" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220804114017" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -12245,7 +12245,31 @@
     </star-rating>
   </programme>
   <programme start="20220804180000 +0000" stop="20220804190000 +0000" channel="MTV">
-    <title>Catfish: The TV Show</title>
+    <title lang="en">Catfish: The TV Show</title>
+    <sub-title>Lawrence &amp; Cierra</sub-title>
+    <desc>After a number of near-death experiences, Lawrence survived through it all with the assurance of Cierra's online love. But with Cierra blowing Lawrence off whenever they try to meet, Nev and Max must learn the truth about her.</desc>
+    <credits>
+      <director>David Metzler</director>
+      <producer>Sitarah Pendelton</producer>
+      <composer>Benjamin Forrest Davis</composer>
+    </credits>
+    <date>20180124</date>
+    <category>Reality</category>
+    <category>Romance</category>
+    <category>Internet</category>
+    <category>Adaptation</category>
+    <category>Troubled relationships</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8241169285.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8241169293.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S07E04</episode-num>
+    <episode-num system="xmltv_ns">6.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>57/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/57.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20220804103000 +0000" stop="20220804110000 +0000" channel="NatGEO">
     <title lang="en">Paid Programming</title>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220805185020" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220805192011" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -400,11 +400,6 @@
     <display-name>YES Network</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/YES.png" width="512" height="512"/>
   </channel>
-  <programme start="20220805170000 +0000" stop="20220805180000 +0000" channel="ABC">
-    <title lang="en">GMA3: What You Need To Know</title>
-    <sub-title>Glynda Carr; Charles Marsh; Amir Arison</sub-title>
-    <date>20220000</date>
-  </programme>
   <programme start="20220805180000 +0000" stop="20220805190000 +0000" channel="ABC">
     <title lang="en">General Hospital</title>
     <sub-title>08-05-2022</sub-title>
@@ -6172,52 +6167,6 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220805173000 +0000" stop="20220805180000 +0000" channel="DisneyXD">
-    <title lang="en">Gravity Falls</title>
-    <sub-title>Tourist Trapped</sub-title>
-    <desc>Twins Dipper and Mabel Pines visit their eccentric uncle for a summer in Gravity Falls, Oregon, where he operates the world's most bizarre museum. In the opener, the twins arrive in Gravity Falls and soon discover something amiss in the remote town.</desc>
-    <credits>
-      <director>John Aoshima</director>
-      <writer>Alex Hirsch</writer>
-      <producer>Rob Renzetti</producer>
-      <composer>Brad Joseph Breeck</composer>
-    </credits>
-    <date>20120615</date>
-    <category>Comedy-drama</category>
-    <category>Action/Adventure</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Animated</category>
-    <category>Mystery</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20220805180000 +0000" stop="20220805183000 +0000" channel="DisneyXD">
-    <title lang="en">Ghost Force</title>
-    <sub-title>Somnibou; Troublestretch</sub-title>
-    <desc>Glowboo malfunctions during an encounter with Somnibou because of Mike; Liv's lucky charm merges with a ghost.</desc>
-    <credits>
-      <director>Jeremy Zag</director>
-    </credits>
-    <date>20211108</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592808612.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629288732.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
   <programme start="20220805183000 +0000" stop="20220805190000 +0000" channel="DisneyXD">
     <title lang="en">Yu-Gi-Oh! Sevens</title>
     <sub-title>The Beat of Defeat</sub-title>
@@ -6545,6 +6494,2010 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S03E09</episode-num>
     <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806020000 +0000" stop="20220806023000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>Newts in Tights; Fight or Flight</sub-title>
+    <desc>While on a recon mission, Anne and Sprig confront an old mentor. Anne tries to rescue an old friend from one of King Andrias's robot camps.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20220423</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806023000 +0000" stop="20220806030000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>The Three Armies; The Beginning of the End</sub-title>
+    <desc>Anne and Sasha must convince the frogs, newts and toads to work together. The final battle begins.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20220430</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806030000 +0000" stop="20220806040000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>All In</sub-title>
+    <desc>Anne and her friends fight for their lives as the fate of both worlds hangs in the balance.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20220507</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806040000 +0000" stop="20220806043000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Shark Objects; Dream Weaver</sub-title>
+    <desc>Cricket tries to play a prank to the beach goers; Cricket influences his family's dreams and ends up getting serious backlash in real life.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20191230</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806043000 +0000" stop="20220806050000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Desserted; The Gifted</sub-title>
+    <desc>Cricket treats his family to dinner, but Bill is suspicious about how he plans to pay for it; Tilly and Cricket battle to see if Bill lies about liking their Father's Day gifts.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200711</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806050000 +0000" stop="20220806053000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Time Crisis; Gramma Driver</sub-title>
+    <desc>Remy's plan for his whole life is thrown into question when he is unprepared for a violin recital. Gramma becomes a rideshare driver, only to find her best customers are robbers.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200718</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806053000 +0000" stop="20220806060000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Greens' Acres; Dolled Up</sub-title>
+    <desc>A young Bill is willing to go to any length to ensure that the family farm stays in business. Tilly and Nancy are determined to be seated next to Cantaloupe Sinclair at Saxon's birthday celebration in a fancy doll store.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200808</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806060000 +0000" stop="20220806063000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Times Circle; Super Gramma</sub-title>
+    <desc>Tilly and Remy prepare a sidewalk play, while Bill and Cricket meet their favorite superheroes.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200829</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806063000 +0000" stop="20220806070000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Chipocalypse Now Part 1; Chipocalypse Now Part 2</sub-title>
+    <desc>Chip Whistler tears down the buildings around the Greens' house to build a new Wholesome Foods store.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20210116</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806070000 +0000" stop="20220806073000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Mages and Mazes / Okay Karaoke</sub-title>
+    <desc>The kids play a role-playing game at Remy's but his rules lead to conflict; the Greens go out for karaoke, but Tilly struggles to express her true self through song.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20210206</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806073000 +0000" stop="20220806080000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Fast Foodie / Spaghetti Theory</sub-title>
+    <desc>Cricket tries to prove to Bill he can eat fast food for every meal with no ill effects. Then, Tilly and Cricket debate whether the lives of people in Big City are intertwined.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20210313</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806080000 +0000" stop="20220806083000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Cousin Jilly / Gloria's Café</sub-title>
+    <desc>Tilly revives "Cousin Jilly," an alter-ego she created to entertain Cricket when they were younger. Gloria opens a secret café in the former Big Coffee space without permission.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20210403</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806083000 +0000" stop="20220806090000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Little Buddy; Zen Garden</sub-title>
+    <desc>Cricket mentors a wild child and Tilly develops a cult following; Nancy tries to prove herself on the farm, and Bill struggles to relax at a fancy spa with Gramma.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20220219</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806090000 +0000" stop="20220806093000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Trivia Night / Big Trouble</sub-title>
+    <desc>Cricket wants to prove to his family that he isn't dumb during trivia night at the café; Tilly gets punished for the first time and decides to break bad.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20220312</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806093000 +0000" stop="20220806100000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Cricket's Kapowie!; Car Trouble</sub-title>
+    <desc>Cricket wins a role in Big Coffee's new TV commercial but loses his confidence; Bill trades in his pick-up for a state-of-the-art electric car.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20191116</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806100000 +0000" stop="20220806103000 +0000" channel="DisneyXD">
+    <title lang="en">Spidey And His Amazing Friends</title>
+    <sub-title>Camping Conundrum; The Great Green Crime Spree</sub-title>
+    <desc>The Old Dam is about to flood the park on the same day the Spidey Team go on a camping trip; Spidey and Ghosty help Hulk prove his innocence after Green Goblin frames him.</desc>
+    <credits>
+      <director>Chris Gilligan</director>
+    </credits>
+    <date>20210910</date>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10174665902.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10174665899.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806103000 +0000" stop="20220806110000 +0000" channel="DisneyXD">
+    <title lang="en">Ghost Force</title>
+    <sub-title>Raijin; Chronoklok</sub-title>
+    <desc>GhostForce faces a terrifying electric ghost named Raijin; Mike battles Chronoklok.</desc>
+    <credits>
+      <director>Jeremy Zag</director>
+    </credits>
+    <date>20211013</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592808612.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629288732.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806110000 +0000" stop="20220806113000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>The Dinner; Battle of the Bands</sub-title>
+    <desc>Anne and the Plantars invite old adversaries over for dinner to attempt to bury the hatchet.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20210424</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806113000 +0000" stop="20220806120000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>True Colors</sub-title>
+    <desc>The family travels to Newtopia to say their goodbyes and finally send all three girls home. However, someone has other plans.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20210501</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806120000 +0000" stop="20220806123000 +0000" channel="DisneyXD">
+    <title lang="en">Yu-Gi-Oh! Sevens</title>
+    <sub-title>A Duel of Thrones</sub-title>
+    <desc>Yuga takes on Seatbastian - a dueling massage chair who looks to shake Yuga into submission.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806123000 +0000" stop="20220806130000 +0000" channel="DisneyXD">
+    <title lang="en">Beyblade Burst Quaddrive</title>
+    <sub-title>The Dark Prince Returns! Devastate Belfyre!</sub-title>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806130000 +0000" stop="20220806133000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>The Sleepover to End All Sleepovers; A Day at the Aquarium</sub-title>
+    <desc>Sprig and Polly reach the castle's restricted areas after Marcy and Anne dared them; Anna and the Plantars spend their day at the Newtopia Aquarium.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200919</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806133000 +0000" stop="20220806140000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>Night Drivers / Return to Wartwood</sub-title>
+    <desc>Polly and Sprig stay up all night to drive the family home.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20210307</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806140000 +0000" stop="20220806143000 +0000" channel="DisneyXD">
+    <title lang="en">The Ghost And Molly Mcgee</title>
+    <sub-title>Scratch the Surface; Friend-Off</sub-title>
+    <desc>When constantly lying to Libby about Scratch begins to take a toll, Molly struggles to keep Scratch a secret; Libby and Scratch compete to be Molly's one and only best friend.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20211120</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Animated</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10571197434.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10571197432.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806143000 +0000" stop="20220806150000 +0000" channel="DisneyXD">
+    <title lang="en">The Ghost and Molly McGee</title>
+    <sub-title>Ice Princess / Ready, Set, Snow</sub-title>
+    <desc>When a ghost causes an ice storm in Brighton, only Dad can save the town from eternal winter. Then, Molly gets a snow day.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20220212</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Animated</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10571197434.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10571197432.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806150000 +0000" stop="20220806153000 +0000" channel="DisneyXD">
+    <title lang="en">Ghost Force</title>
+    <sub-title>Bananice; Pharaok</sub-title>
+    <desc>Andy and Drake's basketball rivalry awakens Bananice, a ghost that freezes everything in its wake; the team battles a pharaoh ghost dead set on turning everyone into mummies.</desc>
+    <credits>
+      <director>Jeremy Zag</director>
+    </credits>
+    <date>20211004</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592808612.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629288732.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806153000 +0000" stop="20220806160000 +0000" channel="DisneyXD">
+    <title lang="en">Ghost Force</title>
+    <sub-title>Trashotic; Mikroo</sub-title>
+    <desc>Andy unintentionally brings a smelly ghost to life after using too much perfume; The group encounters a ghost that can shrink anything.</desc>
+    <credits>
+      <director>Jeremy Zag</director>
+    </credits>
+    <date>20211005</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592808612.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629288732.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806160000 +0000" stop="20220806163000 +0000" channel="DisneyXD">
+    <title lang="en">The Owl House</title>
+    <sub-title>Enchanting Grom Fright</sub-title>
+    <desc>Luz experiences Grom, Hexside's version of Prom, and it's not what she expects.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200729</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Magic</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10172221358.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10172221352.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806163000 +0000" stop="20220806170000 +0000" channel="DisneyXD">
+    <title lang="en">The Owl House</title>
+    <sub-title>Wing It Like Witches</sub-title>
+    <desc>A spotlight on the underdogs in a not-so-typical story.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200729</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Magic</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10172221358.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10172221352.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806170000 +0000" stop="20220806173000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Welcome Home; Raccooned</sub-title>
+    <desc>Cricket Green and his family move from the country to Big City to live with Gramma; when Cricket and Bill accidentally disturb a nest of raccoons in the garage, they invade the house.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20180702</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806173000 +0000" stop="20220806180000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Photo Op; Remy Rescue</sub-title>
+    <desc>Bill promises his family a trip to the mall food court, but it's really to a family portrait studio; Remy is caught skipping his violin lessons to hang out with Cricket.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20180625</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806180000 +0000" stop="20220806183000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Fill Bill; Critterball Crisis</sub-title>
+    <desc>While dining at a seafood restaurant, Bill feels he must prove to the waiter that he is a Big City local, and Cricket and Tilly try to rescue a live octopus; when Cricket loses all of his critterballs over the fence, Gloria refuses to return them.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20180709</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806183000 +0000" stop="20220806190000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Parade Day; DIY Guys</sub-title>
+    <desc>While Cricket enjoys a parade, Gloria works at the coffee shop by herself; and Bill teaches Remy about self-reliance.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20180711</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806190000 +0000" stop="20220806193000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Tourist Trapped</sub-title>
+    <desc>Twins Dipper and Mabel Pines visit their eccentric uncle for a summer in Gravity Falls, Oregon, where he operates the world's most bizarre museum. In the opener, the twins arrive in Gravity Falls and soon discover something amiss in the remote town.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120615</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806193000 +0000" stop="20220806200000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Dipper vs. Manliness</sub-title>
+    <desc>Dipper tries to prove his manliness by battling a notorious bear; Mabel tries to teach Grunkle Stan how to be attractive to women.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120720</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806200000 +0000" stop="20220806203000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>The Time Traveler's Pig</sub-title>
+    <desc>Dipper wants to correct a mistake he made in the past with assistance from a time machine. Meanwhile, Mabel is overjoyed when she wins a pet pig at a fair.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120824</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806203000 +0000" stop="20220806210000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Irrational Treasure</sub-title>
+    <desc>The twins uncover the truth about the town's origins and realize everyone's been deceived, so they set out to prove their findings.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120817</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806210000 +0000" stop="20220806213000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Double Dipper</sub-title>
+    <desc>Dipper clones himself to impress Wendy; Mabel defends her friends.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120810</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806213000 +0000" stop="20220806220000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Fight Fighters</sub-title>
+    <desc>A video-game fighter comes to life and defends Dipper.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120914</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806220000 +0000" stop="20220806223000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Little Dipper</sub-title>
+    <desc>Dipper tries to magically increase his height.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120928</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806223000 +0000" stop="20220806230000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>The Deep End</sub-title>
+    <desc>Mabel befriends a cute merman who gets trapped in the deep end of a public swimming pool. Meanwhile, Dipper volunteers at the pool so he can work alongside of Wendy.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20130315</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806230000 +0000" stop="20220806233000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>Civil Wart; Hop-Popular</sub-title>
+    <desc>After Anne exposes Wartwood to a teen romance film, the town is divided; Hop Pop decides to run for mayor of Wartwood.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20190704</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806233000 +0000" stop="20220807000000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>Croak &amp; Punishment; Trip to the Archives</sub-title>
+    <desc>Sprig and Anne seek for the culprit behind the theft of Spring's Blue Moon Shell; preparing for Anne's quest, the Plantars go to the archives but accidentally get trapped.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20190708</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807000000 +0000" stop="20220807003000 +0000" channel="DisneyXD">
+    <title lang="en">Roman to the Rescue</title>
+    <sub-title>Buddy</sub-title>
+    <desc>Rambo is a high-energy pup who needs to be the center of attention. Roman, Dr. Aziza and Christian Simon all work together to find this party animal the perfect kid.</desc>
+    <credits>
+      <actor>Roman McConn</actor>
+    </credits>
+    <date>20220806</date>
+    <category>Children</category>
+    <category>Reality</category>
+    <category>Animals</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11251213452.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11251213446.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807003000 +0000" stop="20220807010000 +0000" channel="DisneyXD">
+    <title lang="en">Howie Mandel's Animals Doing Things</title>
+    <sub-title>Pup Fiction</sub-title>
+    <desc>Howie Mandel presents some videos of animals doing hilarious things, and animal experts join to provide professional insights into the real behavior and science behind the animal antics.</desc>
+    <date>20190629</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Animals</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6223244167.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6223262451.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220807010000 +0000" stop="20220807013000 +0000" channel="DisneyXD">
+    <title lang="en">The Ghost and Molly McGee</title>
+    <sub-title>Game Night / The Don't-Gooder</sub-title>
+    <desc>The McGees let competition get the best of them during family game night. When Andrea steals credit for Molly's volunteer work, Molly tries to expose her.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20211107</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Animated</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10571197434.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10571197432.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807013000 +0000" stop="20220807020000 +0000" channel="DisneyXD">
+    <title lang="en">The Ghost and Molly McGee</title>
+    <sub-title>Monumental Disaster / Talent Show</sub-title>
+    <desc>When Molly meets Ezekial Tugbottom, she realizes that he is not the hero that history made him out to be.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20211113</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Animated</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10571197434.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10571197432.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807020000 +0000" stop="20220807023000 +0000" channel="DisneyXD">
+    <title lang="en">The Ghost And Molly Mcgee</title>
+    <sub-title>The Turnip Twist; All Systems No</sub-title>
+    <desc>Dad and Molly are determined to win the Best Fest of the Midwest against Perfektborg; Molly and Scratch spend the day only saying "yes" and "no" respectively.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20211106</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Animated</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10571197434.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10571197432.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807023000 +0000" stop="20220807030000 +0000" channel="DisneyXD">
+    <title lang="en">The Ghost And Molly Mcgee</title>
+    <sub-title>Scratch the Surface; Friend-Off</sub-title>
+    <desc>When constantly lying to Libby about Scratch begins to take a toll, Molly struggles to keep Scratch a secret; Libby and Scratch compete to be Molly's one and only best friend.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20211120</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Animated</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10571197434.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10571197432.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807030000 +0000" stop="20220807033000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Tourist Trapped</sub-title>
+    <desc>Twins Dipper and Mabel Pines visit their eccentric uncle for a summer in Gravity Falls, Oregon, where he operates the world's most bizarre museum. In the opener, the twins arrive in Gravity Falls and soon discover something amiss in the remote town.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120615</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807033000 +0000" stop="20220807040000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Dipper vs. Manliness</sub-title>
+    <desc>Dipper tries to prove his manliness by battling a notorious bear; Mabel tries to teach Grunkle Stan how to be attractive to women.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120720</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807040000 +0000" stop="20220807043000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>The Time Traveler's Pig</sub-title>
+    <desc>Dipper wants to correct a mistake he made in the past with assistance from a time machine. Meanwhile, Mabel is overjoyed when she wins a pet pig at a fair.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120824</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807043000 +0000" stop="20220807050000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Irrational Treasure</sub-title>
+    <desc>The twins uncover the truth about the town's origins and realize everyone's been deceived, so they set out to prove their findings.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120817</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807050000 +0000" stop="20220807053000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Double Dipper</sub-title>
+    <desc>Dipper clones himself to impress Wendy; Mabel defends her friends.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120810</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807053000 +0000" stop="20220807060000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Fight Fighters</sub-title>
+    <desc>A video-game fighter comes to life and defends Dipper.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120914</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807060000 +0000" stop="20220807063000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Little Dipper</sub-title>
+    <desc>Dipper tries to magically increase his height.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20120928</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807063000 +0000" stop="20220807070000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>The Deep End</sub-title>
+    <desc>Mabel befriends a cute merman who gets trapped in the deep end of a public swimming pool. Meanwhile, Dipper volunteers at the pool so he can work alongside of Wendy.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20130315</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807070000 +0000" stop="20220807073000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Boss Mabel</sub-title>
+    <desc>Mabel and Stan make a bet that whoever makes the most money in three days can run the Shack for the summer.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20130215</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807073000 +0000" stop="20220807080000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Bottomless Pit!</sub-title>
+    <desc>Stan, Dipper, Mabel and Soos fall into a bottomless pit and tell each other stories to pass the time.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20130301</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807080000 +0000" stop="20220807083000 +0000" channel="DisneyXD">
+    <title lang="en">The Owl House</title>
+    <sub-title>Really Small Problems</sub-title>
+    <desc>King confides in a carnival fortune teller who makes his dream come true, but it comes at a cost.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200729</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Magic</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10172221358.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10172221352.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807083000 +0000" stop="20220807090000 +0000" channel="DisneyXD">
+    <title lang="en">The Owl House</title>
+    <sub-title>The First Day</sub-title>
+    <desc>Luz is thrilled for her first day of Magic School. When she is told that she can study one type of magic, she cannot choose among the tracks.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200725</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Magic</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10172221358.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10172221352.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807090000 +0000" stop="20220807093000 +0000" channel="DisneyXD">
+    <title lang="en">The Owl House</title>
+    <sub-title>Understanding Willow</sub-title>
+    <desc>Luz, Willow, and Amity take a trip down Memory Lane.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200801</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Magic</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10172221358.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10172221352.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807093000 +0000" stop="20220807100000 +0000" channel="DisneyXD">
+    <title lang="en">The Owl House</title>
+    <sub-title>Once Upon a Swap</sub-title>
+    <desc>A simple disagreement leads to a complex situation when Eda, King, and Luz triple-down on a wager.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200306</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Magic</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10172221358.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10172221352.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807100000 +0000" stop="20220807103000 +0000" channel="DisneyXD">
+    <title lang="en">Spidey and His Amazing Friends</title>
+    <sub-title>Going Green / Coming Clean</sub-title>
+    <desc>Team Spidey must stop Green Goblin from spewing his green gas all over the park in order to make it safe for the trees again; after Peter's new invention begins swallowing everything in its path, he and Miles work to stop it.</desc>
+    <credits>
+      <director>Chris Gilligan</director>
+    </credits>
+    <date>20211203</date>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10174665902.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10174665899.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807103000 +0000" stop="20220807110000 +0000" channel="DisneyXD">
+    <title lang="en">Ghost Force</title>
+    <sub-title>Katastroph; Jellystrey</sub-title>
+    <desc>Andy takes on a three-headed ghost; Liv borrows Miss Jones' ghost-blaster to take on Jellystrey.</desc>
+    <credits>
+      <director>Jeremy Zag</director>
+    </credits>
+    <date>20211014</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592808612.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629288732.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807110000 +0000" stop="20220807113000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>The New Normal</sub-title>
+    <desc>Anne and the Plantars get transported to Earth and try to adjust to a wild new environment.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20211002</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807113000 +0000" stop="20220807120000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>Hop 'Til You Drop / Turning Point</sub-title>
+    <desc>Anne brings the Plantars to the mall for a crash course in Earth survival; Sasha and Grime escape from Andrias and hide out in Wartwood.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20211009</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807120000 +0000" stop="20220807123000 +0000" channel="DisneyXD">
+    <title lang="en">Yu-Gi-Oh! Sevens</title>
+    <sub-title>The Beat of Defeat</sub-title>
+    <desc>Tired of playing second fiddle, an ex-drummer joins forces with Nail to steal the spotlight from Roa!</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807123000 +0000" stop="20220807130000 +0000" channel="DisneyXD">
+    <title lang="en">Beyblade Burst Quaddrive</title>
+    <sub-title>Light! Glory Regnar</sub-title>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807130000 +0000" stop="20220807133000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>Ivy on the Run / After the Rain</sub-title>
+    <desc>Anne asks Hop Pop to retrieve the music box, revealing his secret. Then, fed up with her mother's strict rules, Ivy concocts a plan to run away.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20210313</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E21</episode-num>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807133000 +0000" stop="20220807140000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>The First Temple</sub-title>
+    <desc>Marcy, Anne, and the Plantars travel to an ancient temple that could hold the key to getting Anne and Marcy home, but only if they can survive the temple's deadly challenges.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20210320</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E22</episode-num>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807140000 +0000" stop="20220807150000 +0000" channel="DisneyXD">
+    <title lang="en">Gravity Falls</title>
+    <sub-title>Weirdmageddon 3: Take Back the Falls</sub-title>
+    <desc>Ford learns Bill's true motives and a final confrontation with Bill leads to the Pines family's ultimate fate and greatest sacrifice.</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <writer>Alex Hirsch</writer>
+      <producer>Rob Renzetti</producer>
+      <composer>Brad Joseph Breeck</composer>
+    </credits>
+    <date>20160215</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1747094933.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544434583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E21</episode-num>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807150000 +0000" stop="20220807153000 +0000" channel="DisneyXD">
+    <title lang="en">The Owl House</title>
+    <sub-title>Agony of a Witch</sub-title>
+    <desc>On a school field trip to the mysterious Emperor's Castle, Luz strays from the group and into danger.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200729</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Magic</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10172221358.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10172221352.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807153000 +0000" stop="20220807160000 +0000" channel="DisneyXD">
+    <title lang="en">The Owl House</title>
+    <sub-title>Young Blood, Old Souls</sub-title>
+    <desc>Luz's skills as a witch are put to the test when she attempts the impossible.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20200729</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Magic</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10172221358.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10172221352.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807160000 +0000" stop="20220807163000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>Mother of Olms / Grime's Pupil</sub-title>
+    <desc>Anne and the crew meet with Mother Olm, who is the keeper of ancient prophecies; Sprig is forced to train with Grime, even though they hate each other.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20220409</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807163000 +0000" stop="20220807170000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>The Root of Evil; The Core &amp; the King</sub-title>
+    <desc>Anne and the Plantars get stuck in a strange village of plant lovers. King Andrias confronts the demons of his past.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20220416</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807170000 +0000" stop="20220807173000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>Newts in Tights; Fight or Flight</sub-title>
+    <desc>While on a recon mission, Anne and Sprig confront an old mentor. Anne tries to rescue an old friend from one of King Andrias's robot camps.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20220423</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807173000 +0000" stop="20220807180000 +0000" channel="DisneyXD">
+    <title lang="en">Amphibia</title>
+    <sub-title>The Three Armies; The Beginning of the End</sub-title>
+    <desc>Anne and Sasha must convince the frogs, newts and toads to work together. The final battle begins.</desc>
+    <credits>
+      <director>Kim Roberson</director>
+      <actor role="Polly Plantar">Amanda Leighton</actor>
+      <writer>Matt Braly</writer>
+      <composer>T.J. Hill</composer>
+    </credits>
+    <date>20220430</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394570.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321000655.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807180000 +0000" stop="20220807183000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Time Crisis; Gramma Driver</sub-title>
+    <desc>Remy's plan for his whole life is thrown into question when he is unprepared for a violin recital. Gramma becomes a rideshare driver, only to find her best customers are robbers.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200718</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807183000 +0000" stop="20220807190000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Tilly Style; I, Farmbot</sub-title>
+    <desc>Tilly looks for a new look to reflect her maturity. Crick persuades Billy to purchase a farming robot.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200725</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807190000 +0000" stop="20220807193000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Friend Con / Flimflammed</sub-title>
+    <desc>Chip Whistler and Bill hit it off and become friends at Farm Con. Cricket stumbles into having one hundred dollars and immediately buys into a pyramid scheme.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200801</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807193000 +0000" stop="20220807200000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Greens' Acres; Dolled Up</sub-title>
+    <desc>A young Bill is willing to go to any length to ensure that the family farm stays in business. Tilly and Nancy are determined to be seated next to Cantaloupe Sinclair at Saxon's birthday celebration in a fancy doll store.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200808</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807200000 +0000" stop="20220807203000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Gabriella's Fella; Cheap Show</sub-title>
+    <desc>Cricket's crush Gabriella returns, so Remy seizes the opportunity to help push Cricket out of his comfort zone; the family wants to visit a street fair, but Bill wants to stay home to save money.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200815</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807203000 +0000" stop="20220807210000 +0000" channel="DisneyXD">
+    <title lang="en">Big City Greens</title>
+    <sub-title>Green Mirror; Cricket's Tickets</sub-title>
+    <desc>When the Greens visit BigTech, Tilly jumps at the chance to test Gwendolyn Zapp's new technology, which promises to make them the "perfect family; Cricket wins tickets to a show and must decide whether to bring Tilly or Remy.</desc>
+    <credits>
+      <director>Matt Braly</director>
+      <producer>Shane Houghton</producer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <date>20200822</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10646879408.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10646879404.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807210000 +0000" stop="20220807213000 +0000" channel="DisneyXD">
+    <title lang="en">The Ghost and Molly McGee</title>
+    <sub-title>Howlin' Harriet / The (Un)natural</sub-title>
+    <desc>Molly attends a camping trip to answer the most important question of her life, who will her best friend be; Scratch teaches Molly's softball team what it feels like to win.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20211002</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Animated</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10571197434.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10571197432.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220807213000 +0000" stop="20220807220000 +0000" channel="DisneyXD">
+    <title lang="en">The Ghost And Molly Mcgee</title>
+    <sub-title>Getting the Band-shell Back Together; The Greatest Concert Ever</sub-title>
+    <desc>Molly attempts to rebuild the old Brighton band shell to bring the town together; Molly and Scratch seek out a band to headline the first new band shell concert.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
+    <date>20220122</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Animated</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10571197434.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10571197432.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -7309,11 +9262,6 @@
     <desc>Five of the greatest U.S. Air Guitar champions go head to head in an epic, four-round elimination battle in Rock Hill, S.C. Included are reigning and past national champs, and one wild-card veteran.</desc>
     <date>20220000</date>
   </programme>
-  <programme start="20220805160000 +0000" stop="20220805180000 +0000" channel="ESPNU">
-    <title lang="en">Athletes Unlimited Women's Lacrosse</title>
-    <sub-title>Team Gold vs. Team Purple</sub-title>
-    <date>20220000</date>
-  </programme>
   <programme start="20220805180000 +0000" stop="20220805203000 +0000" channel="ESPNU">
     <title lang="en">Women's College World Series</title>
     <sub-title>Game 13: Oklahoma State vs. Texas</sub-title>
@@ -7355,6 +9303,197 @@
     <sub-title>Team Eberle vs. Team Harshman</sub-title>
     <desc>Team Eberle vs. Team Harshman in Week 2 action in Rosemont, Ill.</desc>
     <date>20220000</date>
+  </programme>
+  <programme start="20220806030000 +0000" stop="20220806033000 +0000" channel="ESPNU">
+    <title lang="en">College Football 150: The Greatest</title>
+    <sub-title>Greatest Heisman Debates</sub-title>
+    <desc>It's one of the most famous awards in sports, and also one of the most controversial. Every year, the arguments rage all season and then continue as soon as the winner is announced. These are the Top 11 Heisman debates in history.</desc>
+    <credits>
+      <director>Jonathan Hock</director>
+    </credits>
+    <date>20191212</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Retrospective</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+  </programme>
+  <programme start="20220806033000 +0000" stop="20220806060000 +0000" channel="ESPNU">
+    <title lang="en">Women's College World Series</title>
+    <sub-title>Finals Game 2: Oklahoma vs. Texas</sub-title>
+    <desc>Oklahoma vs. Texas in Game 2 of the best-of-three finals in Oklahoma City. From USA Softball Hall of Fame Complex.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806060000 +0000" stop="20220806080000 +0000" channel="ESPNU">
+    <title lang="en">Athletes Unlimited Women's Softball</title>
+    <sub-title>Team Mulipola vs. Team Jaquish</sub-title>
+    <desc>Team Mulipola vs. Team Jaquish in Week 2 action in Rosemont, Ill.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806080000 +0000" stop="20220806100000 +0000" channel="ESPNU">
+    <title lang="en">Athletes Unlimited Women's Softball</title>
+    <sub-title>Team Eberle vs. Team Harshman</sub-title>
+    <desc>Team Eberle vs. Team Harshman in Week 2 action in Rosemont, Ill.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806100000 +0000" stop="20220806120000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>South Florida vs. UCF</sub-title>
+    <desc>South Florida vs. UCF in the American Athletic Conference championship game in Greenville, N.C. From Max R. Joyner Family Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806120000 +0000" stop="20220806130000 +0000" channel="ESPNU">
+    <title lang="en">Nine for IX</title>
+    <sub-title>Branded</sub-title>
+    <desc>Exploring the relationship between achievement and looks in female sports. Directors Heidi Ewing and Rachel Grady examine a double standard placed on female athletes to be the best players on the field and the sexiest off of it.</desc>
+    <credits>
+      <director>Erin Leyden</director>
+      <producer>Julie Foudy</producer>
+    </credits>
+    <date>20130827</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>Women</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10922992993.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10922992994.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20220806130000 +0000" stop="20220806150000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Missouri vs. Auburn</sub-title>
+    <desc>Missouri vs. Auburn in Game 3 of the SEC Tournament. From Katie Seashole Pressly Stadium in Gainesville, Fla.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806150000 +0000" stop="20220806170000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Missouri vs. Auburn</sub-title>
+    <desc>Missouri vs. Auburn in Game 3 of the SEC Tournament. From Katie Seashole Pressly Stadium in Gainesville, Fla.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806170000 +0000" stop="20220806190000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Tennessee vs. Mississippi State</sub-title>
+    <desc>Tennessee vs. Mississippi State in an SEC Tournament quarterfinal in Gainesville, Fla. From Katie Seashole Pressly Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806190000 +0000" stop="20220806210000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Kentucky at Florida</sub-title>
+    <desc>Kentucky at Florida in an SEC Tournament quarterfinal. From Katie Seashole Pressly Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806210000 +0000" stop="20220806230000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Missouri vs. Tennessee</sub-title>
+    <desc>Missouri vs. Tennessee in an SEC Tournament semifinal in Gainesville, Fla. From Katie Seashole Pressly Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806230000 +0000" stop="20220807010000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Arkansas at Florida</sub-title>
+    <desc>Arkansas at Florida in an SEC Tournament semifinal. From Katie Seashole Pressly Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807010000 +0000" stop="20220807030000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Missouri vs. Arkansas</sub-title>
+    <desc>Missouri vs. Arkansas in the SEC championship game in Gainesville, Fla. From Katie Seashole Pressly Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807030000 +0000" stop="20220807050000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Notre Dame vs. Clemson</sub-title>
+    <desc>Notre Dame vs. Clemson in an ACC Tournament quarterfinal. From Vartabedian Field in Pittsburgh, Pa.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807050000 +0000" stop="20220807070000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Duke vs. Georgia Tech</sub-title>
+    <desc>Duke vs. Georgia Tech in an ACC Tournament quarterfinal in Pittsburgh, Pa. From Vartabedian Field.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807070000 +0000" stop="20220807090000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Florida State vs. Virginia</sub-title>
+    <desc>Florida State vs. Virginia in an ACC Tournament quarterfinal. From Vartabedian Field in Pittsburgh, Pa.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807090000 +0000" stop="20220807110000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Virginia Tech vs. Syracuse</sub-title>
+    <desc>Virginia Tech vs. Syracuse in an ACC Tournament quarterfinal in Pittsburgh, Pa. From Vartabedian Field.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807110000 +0000" stop="20220807130000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Virginia Tech vs. Clemson</sub-title>
+    <desc>Virginia Tech vs. Clemson in an ACC Tournament semifinal. From Vartabedian Field in Pittsburgh, Pa.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807130000 +0000" stop="20220807150000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Duke vs. Florida State</sub-title>
+    <desc>Duke vs. Florida State in an ACC Tournament semifinal. From Vartabedian Field in Pittsburgh, Pa.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807150000 +0000" stop="20220807170000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Softball</title>
+    <sub-title>Clemson vs. Florida State</sub-title>
+    <desc>Clemson vs. Florida State in the ACC championship game. From Vartabedian Field in Pittsburgh, Pa.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807170000 +0000" stop="20220807190000 +0000" channel="ESPNU">
+    <title lang="en">Athletes Unlimited Women's Lacrosse</title>
+    <sub-title>Team Johansen vs. Team Colson</sub-title>
+    <desc>Team Johansen vs. Team Colson in Week 3 action in Sparks, Md.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807190000 +0000" stop="20220807193000 +0000" channel="ESPNU">
+    <title lang="en">College Football 150: The Greatest</title>
+    <sub-title>Greatest What Ifs</sub-title>
+    <desc>Part of the fun is wondering what might have happened if a call went one way instead of another; or a key figure made a different decision; or the rules were just a little different. These are the Top 11 hypotheticals of all time.</desc>
+    <credits>
+      <director>Jonathan Hock</director>
+    </credits>
+    <date>20191114</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Retrospective</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20220807193000 +0000" stop="20220807213000 +0000" channel="ESPNU">
+    <title lang="en">Athletes Unlimited Women's Lacrosse</title>
+    <sub-title>Team Apuzzo vs. Team Moreno</sub-title>
+    <desc>Team Apuzzo vs. Team Moreno in Week 3 action in Sparks, Md.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807213000 +0000" stop="20220807220000 +0000" channel="ESPNU">
+    <title lang="en">College Football 150: The Greatest</title>
+    <sub-title>Greatest Heisman Debates</sub-title>
+    <desc>It's one of the most famous awards in sports, and also one of the most controversial. Every year, the arguments rage all season and then continue as soon as the winner is announced. These are the Top 11 Heisman debates in history.</desc>
+    <credits>
+      <director>Jonathan Hock</director>
+    </credits>
+    <date>20191212</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Retrospective</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
   </programme>
   <programme start="20220805160000 +0000" stop="20220805180000 +0000" channel="ESPNews">
     <title lang="en">Get Up</title>
@@ -17342,14 +19481,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/97.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220805170000 +0000" stop="20220805180000 +0000" channel="Telemundo">
-    <title lang="es">La Reina del Sur</title>
-    <desc>Una mujer inteligente y sagaz se mete en el mundo de narcos tras la muerte de su amor.</desc>
-    <date>20110000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20220805180000 +0000" stop="20220805185800 +0000" channel="Telemundo">
     <title lang="es">En casa con Telemundo</title>
     <desc>Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.</desc>
@@ -17395,6 +19526,313 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
+  </programme>
+  <programme start="20220806020000 +0000" stop="20220806030000 +0000" channel="Telemundo">
+    <title lang="es">Infiel, Historia de un Engaño</title>
+    <sub-title>Observaré cada paso</sub-title>
+    <desc>Haluk le reclama a Volkan sus sospechas sobre qué les espera a su hija y nieta.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806030000 +0000" stop="20220806033500 +0000" channel="Telemundo">
+    <title lang="es">Noticias Telemundo</title>
+    <sub-title>08-05-2022</sub-title>
+    <desc>Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.</desc>
+    <date>20220000</date>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220806033500 +0000" stop="20220806040000 +0000" channel="Telemundo">
+    <title lang="es">Noticias Telemundo en la Noche</title>
+    <desc>En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.</desc>
+    <date>20200000</date>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220806040000 +0000" stop="20220806043000 +0000" channel="Telemundo">
+    <title lang="es">Zona Mixta</title>
+    <desc>El deporte y el periodismo se unen todos los fines de semana en la Zona Mixta con las opiniones más controversiales y las entrevistas más relevantes del mundo deportivo.</desc>
+  </programme>
+  <programme start="20220806043000 +0000" stop="20220806050000 +0000" channel="Telemundo">
+    <title lang="es">Caso Cerrado</title>
+    <date>20160000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806050000 +0000" stop="20220806060000 +0000" channel="Telemundo">
+    <title lang="es">El Chema</title>
+    <sub-title>Pitazo de oro</sub-title>
+    <desc>Oscar Cadenas se mantiene fiel a El Chema y le cuenta que Gary y Leslie intentan sacarlo del negocio. Una recepción en el rancho de Los Roberts aclara las agallas de uno y otro bando.</desc>
+    <date>20170000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806060000 +0000" stop="20220806063000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806063000 +0000" stop="20220806070000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806070000 +0000" stop="20220806083000 +0000" channel="Telemundo">
+    <title lang="es">Los Tres Gallos</title>
+    <desc>Tres hombres van en busca del asesino del hombre que los crió. Los Tigres del Norte, Fernando Almada, David Reynoso.</desc>
+    <date>19910000</date>
+  </programme>
+  <programme start="20220806083000 +0000" stop="20220806090000 +0000" channel="Telemundo">
+    <title lang="es">Noticias Telemundo en la Noche</title>
+    <desc>En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.</desc>
+    <date>20200000</date>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220806090000 +0000" stop="20220806093000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806093000 +0000" stop="20220806100000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806100000 +0000" stop="20220806103000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806103000 +0000" stop="20220806110000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806110000 +0000" stop="20220806113000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806113000 +0000" stop="20220806120000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806120000 +0000" stop="20220806123000 +0000" channel="Telemundo">
+    <title lang="es">Un Equipo: El Poder Del Deporte</title>
+    <sub-title>Big Leagues Or Bust</sub-title>
+    <desc>La estrella del sóftbol Mónica Abbott tiene una historia de superación digna de contar. Sus logros y éxitos deportivos se sustentan en un tenaz entrenamiento y en años de esfuerzo y privaciones en su vida personal en pos del deporte. Además, la gimnasta y atleta femenina del equipo de Estados Unidos, Morgan Hurd, es otro ejemplo en su especialidad.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806123000 +0000" stop="20220806130000 +0000" channel="Telemundo">
+    <title lang="es">Exploración planeta Tierra con Dylan Dreyer</title>
+    <sub-title>The Eighth Continent</sub-title>
+    <desc>Desafiando todos los mapas y globos terráqueos, el equipo llega hasta el llamado Octavo Continente. Una región exótica y desconocida del planeta Tierra, a donde casi nadie puede acceder con facilidad. Conocer esta recóndita zona será un momento inolvidable para todos. Y emocionante.</desc>
+    <date>20220000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220806130000 +0000" stop="20220806133000 +0000" channel="Telemundo">
+    <title lang="es">Exploración planeta Tierra con Dylan Dreyer</title>
+    <sub-title>Amazon River Islands</sub-title>
+    <desc>Es un día muy emocionante porque el equipo llega a las increíbles islas del río Amazonas. Allí, en el corazón profundo de América del Sur, un continente que deslumbra con su naturaleza y sus impactantes paisajes, los caminos que abordan los conducen a cruzar los ríos Amazonas y Orinoco, hogar de varias fascinantes especies.</desc>
+    <date>20210000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220806133000 +0000" stop="20220806140000 +0000" channel="Telemundo">
+    <title lang="es">El Viajero Con Josh Garcia</title>
+    <desc>El viajero se sumerge en la rica gastronomía y la diversa cultura de Lisboa. En la bella capital de Portugal, aprende el antiguo arte de elaborar a mano los icónicos azulejos decorativos que son famosos en la ciudad y, además, descubre el fado, la expresión más conocida internacionalmente de la música portuguesa.</desc>
+    <date>20220000</date>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220806140000 +0000" stop="20220806143000 +0000" channel="Telemundo">
+    <title lang="es">El Viajero Con Josh Garcia</title>
+    <desc>En la isla Corfú, en Grecia, el viajero aprende los secretos del cultivo de aceitunas. En detalle, conocerá el paso a paso de la transformación que sufren hasta convertirse en el más exquisito aceite de oliva. Más tarde en Savona, Italia, visitará un jardín de hierbas que crecen bajo el mar Mediterráneo.</desc>
+    <date>20220000</date>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220806143000 +0000" stop="20220806150000 +0000" channel="Telemundo">
+    <title lang="es">Pequeños en la Naturaleza</title>
+    <sub-title>Diversión en América del Norte</sub-title>
+    <desc>Un recorrido por las tierras de América del Norte hace posible encontrar fascinantes familias en la naturaleza, desde cachorros de oso negro hasta enormes crías de manatíes.</desc>
+    <date>20210000</date>
+  </programme>
+  <programme start="20220806150000 +0000" stop="20220806153000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806153000 +0000" stop="20220806160000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220806160000 +0000" stop="20220806170000 +0000" channel="Telemundo">
+    <title lang="es">Shockwave</title>
+    <desc>Se examinan crudas imágenes de catástrofes ocurridas alrededor del mundo.</desc>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220806170000 +0000" stop="20220806193000 +0000" channel="Telemundo">
+    <title lang="es">Gloria</title>
+    <desc>Gloria tiene cincuenta y ocho años y está sola en la vida.</desc>
+    <date>20150000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806193000 +0000" stop="20220806220000 +0000" channel="Telemundo">
+    <title lang="es">Out of Sight</title>
+    <desc>Un ladrón de bancos escapa de la cárcel en Florida y se enamora de una mariscal, ambos se enamoran a pesar de que cada uno pertenece a los dos extremos de la ley.</desc>
+    <date>19980000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806220000 +0000" stop="20220806223000 +0000" channel="Telemundo">
+    <title lang="es">Decisiones</title>
+    <sub-title>La vecina de enfrente</sub-title>
+    <desc>Melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
+    <date>20060000</date>
+  </programme>
+  <programme start="20220806223000 +0000" stop="20220806230000 +0000" channel="Telemundo">
+    <title lang="es">Noticias Telemundo fin de semana</title>
+    <desc>Reportajes y análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.</desc>
+  </programme>
+  <programme start="20220806230000 +0000" stop="20220807010000 +0000" channel="Telemundo">
+    <title lang="es">The Secret Life of Pets 2</title>
+    <desc>Vuelven las divertidas aventuras de Max, un consentido perro terrier, y sus amigos. Duke, Snowball y las demás mascotas están listas para vivir nuevas aventuras apenas sus dueños cierran la puerta de sus viviendas. Tienen tiempo de sobra para entretenerse hasta que ellos regresen.</desc>
+    <date>20190000</date>
+  </programme>
+  <programme start="20220807010000 +0000" stop="20220807030000 +0000" channel="Telemundo">
+    <title lang="es">Robin Hood</title>
+    <desc>Esta nueva versión del mito introduce elementos modernos, como el vestuario de los personajes, que recuerda al de la época contemporánea. El elenco cuenta con nombres como Taron Egerton (Robin), Jamie Dornan (Will Scarlett) y Jamie Foxx (Little John).</desc>
+    <date>20180000</date>
+  </programme>
+  <programme start="20220807030000 +0000" stop="20220807033000 +0000" channel="Telemundo">
+    <title lang="es">Noticias Telemundo fin de semana</title>
+    <desc>Reportajes y análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.</desc>
+  </programme>
+  <programme start="20220807033000 +0000" stop="20220807040000 +0000" channel="Telemundo">
+    <title lang="es">Zona Mixta</title>
+    <desc>El deporte y el periodismo se unen todos los fines de semana en la Zona Mixta con las opiniones más controversiales y las entrevistas más relevantes del mundo deportivo.</desc>
+  </programme>
+  <programme start="20220807040000 +0000" stop="20220807043000 +0000" channel="Telemundo">
+    <title lang="es">Decisiones</title>
+    <desc>Una mujer hace todo lo posible, y mucho más, para ser una esposa perfecta. No solamente para complacer a su marido, que esté orgulloso de ella, sino que también la joven se preocupa por la mirada del resto, de familiares y amigos. Su deseo es que todos aquellos que la conocen la consideren como la "mujer ideal".</desc>
+    <date>20060000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807043000 +0000" stop="20220807050000 +0000" channel="Telemundo">
+    <title lang="es">Latinx Now</title>
+    <desc>Descubre las últimas tendencias del cine, la música, la televisión y la moda. Con noticias, reportajes y entrevistas exclusivas con los artistas más destacado de la actualidad en cada uno de los rubros, este espacio resulta imprescindible para que no te quedes afuera de nada.</desc>
+    <date>20210000</date>
+  </programme>
+  <programme start="20220807050000 +0000" stop="20220807053000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807053000 +0000" stop="20220807060000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807060000 +0000" stop="20220807083000 +0000" channel="Telemundo">
+    <title lang="es">Gloria</title>
+    <desc>Gloria tiene cincuenta y ocho años y está sola en la vida.</desc>
+    <date>20150000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807083000 +0000" stop="20220807090000 +0000" channel="Telemundo">
+    <title lang="es">Noticias Telemundo fin de semana</title>
+    <desc>Reportajes y análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.</desc>
+  </programme>
+  <programme start="20220807090000 +0000" stop="20220807093000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807093000 +0000" stop="20220807100000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807100000 +0000" stop="20220807103000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807103000 +0000" stop="20220807110000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807110000 +0000" stop="20220807113000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807113000 +0000" stop="20220807120000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807120000 +0000" stop="20220807123000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807123000 +0000" stop="20220807130000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807130000 +0000" stop="20220807133000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807133000 +0000" stop="20220807140000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807140000 +0000" stop="20220807143000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807143000 +0000" stop="20220807150000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807150000 +0000" stop="20220807153000 +0000" channel="Telemundo">
+    <title lang="es">Programación pagada</title>
+    <desc>Programación pagada.</desc>
+  </programme>
+  <programme start="20220807153000 +0000" stop="20220807160000 +0000" channel="Telemundo">
+    <title lang="es">Guinness World Records: Lo Mejor de Lo Mejor</title>
+    <desc>Un show que ofrece al espectador hazañas increíbles, desde cabello y uñas con sorprendente fortaleza, hasta pruebas de resistencia, de quienes hacen lo imposible por alcanzar logros asombrosos.</desc>
+    <date>20210000</date>
+  </programme>
+  <programme start="20220807160000 +0000" stop="20220807170000 +0000" channel="Telemundo">
+    <title lang="es">Mega desastres</title>
+    <desc>Programa de entretenimiento.</desc>
+    <date>20210000</date>
+  </programme>
+  <programme start="20220807170000 +0000" stop="20220807190000 +0000" channel="Telemundo">
+    <title lang="es">Out of Time</title>
+    <desc>Un jefe de policía tiene que resolver un crimen doble antes de que se convierta en sospechoso, pues todas las pruebas apuntan hacia él. La película representa la segunda vez que Washington ha trabajado con el director de "Devil in a Blue Dress" (1995), Carl Franklin.</desc>
+    <date>20030000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807190000 +0000" stop="20220807220000 +0000" channel="Telemundo">
+    <title lang="es">Red Sparrow</title>
+    <desc>Después de sufrir una lesión que terminó con su carrera, una bailarina y su madre se enfrentan a un futuro sombrío e incierto. Es por eso que se encuentra manipulada para convertirse en la nueva recluta de Sparrow School, un servicio secreto de inteligencia que capacita a jóvenes excepcionales como ella para utilizar sus cuerpos y mentes como armas.</desc>
+    <date>20180000</date>
   </programme>
   <programme start="20220805160000 +0000" stop="20220806000000 +0000" channel="Tennis">
     <title lang="en">Center Court</title>
@@ -18678,14 +21116,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220805170000 +0000" stop="20220805180000 +0000" channel="Univision">
-    <title lang="es">Hoy</title>
-    <sub-title>08-05-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20220805180000 +0000" stop="20220805190000 +0000" channel="Univision">
     <title lang="es">Contigo Sí</title>
     <sub-title>08-05-2022</sub-title>
@@ -18741,6 +21171,433 @@
     <title lang="es">La Herencia, Un Legado de Amor</title>
     <sub-title>08-05-2022</sub-title>
     <date>20220000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806020000 +0000" stop="20220806030000 +0000" channel="Univision">
+    <title lang="es">Mujer de Nadie</title>
+    <sub-title>08-04-2022</sub-title>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806030000 +0000" stop="20220806033000 +0000" channel="Univision">
+    <title lang="es">Noticiero Univision</title>
+    <sub-title>08-05-2022</sub-title>
+    <date>19790000</date>
+  </programme>
+  <programme start="20220806033000 +0000" stop="20220806033500 +0000" channel="Univision">
+    <title lang="es">Sabor de Mañana</title>
+    <sub-title>08-05-2022</sub-title>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806033500 +0000" stop="20220806040000 +0000" channel="Univision">
+    <title lang="es">Noticiero Univision - Edicion Nocturna</title>
+    <sub-title>08-05-2022</sub-title>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806040000 +0000" stop="20220806053000 +0000" channel="Univision">
+    <title lang="es">Combate Global</title>
+    <sub-title>08-05-2022</sub-title>
+    <date>20180000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806053000 +0000" stop="20220806060000 +0000" channel="Univision">
+    <title lang="es">Nosotros Los Guapos</title>
+    <sub-title>06-26-2021</sub-title>
+    <date>20160000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806060000 +0000" stop="20220806070000 +0000" channel="Univision">
+    <title lang="es">La Mexicana y el Güero</title>
+    <sub-title>08-05-2022</sub-title>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806070000 +0000" stop="20220806073000 +0000" channel="Univision">
+    <title lang="es">Vecinos</title>
+    <sub-title>Eugenio Derbez, Alessandra Rosaldo &amp; Pedro Romo</sub-title>
+    <desc>Magda se niega a pagarle a Germán para arreglar la pared del edificio.</desc>
+    <date>20200000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220806073000 +0000" stop="20220806080000 +0000" channel="Univision">
+    <title lang="es">La Familia P. Luche</title>
+    <sub-title>08-26-2021</sub-title>
+    <date>20030000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806080000 +0000" stop="20220806090000 +0000" channel="Univision">
+    <title lang="es">El Gordo y La Flaca</title>
+    <sub-title>08-05-2022</sub-title>
+    <date>20220000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220806090000 +0000" stop="20220806093500 +0000" channel="Univision">
+    <title lang="es">Nosotros los Guapos</title>
+    <sub-title>06-19-2021</sub-title>
+    <date>20160000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806093500 +0000" stop="20220806100000 +0000" channel="Univision">
+    <title lang="es">Noticiero Univision - Edicion Nocturna</title>
+    <sub-title>08-05-2022</sub-title>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220806100000 +0000" stop="20220806103000 +0000" channel="Univision">
+    <title lang="es">Los González</title>
+    <sub-title>Los Gonzalez</sub-title>
+    <desc>Leo es multado por la policía después de haberse disfrazado de pollo. María amenaza a Leo con entregarle la multa a Maribel si no hace todo lo que ella le pide.</desc>
+    <date>20160000</date>
+  </programme>
+  <programme start="20220806103000 +0000" stop="20220806110000 +0000" channel="Univision">
+    <title lang="es">Los González</title>
+    <sub-title>Los Gonzalez</sub-title>
+    <desc>Leo enfurece al ver como Lucía ya tiene un nuevo novio. Leo no acepta al novio de Lucía hasta que éste le enseña como editar sus videos.</desc>
+    <date>20160000</date>
+  </programme>
+  <programme start="20220806110000 +0000" stop="20220806113000 +0000" channel="Univision">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806113000 +0000" stop="20220806120000 +0000" channel="Univision">
+    <title lang="es">Mi Biotina</title>
+    <desc>Mi Biotina. Fórmula para cabello, piel &amp; uñas, respaldada por investigaciones clínicas. Vive la experiencia de un cabello más grueso en tan solo 3 semanas.</desc>
+    <date>20211117</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220806120000 +0000" stop="20220806123000 +0000" channel="Univision">
+    <title lang="es">Planeta de Niños</title>
+    <sub-title>Ser Amable</sub-title>
+    <desc>En este capítulo viajaremos a través del aprendizaje y la consideración, descubriremos que ser amables significa hacer cosas buenas por las personas en general, sorprende a las personas con acciones nobles y ¡Mostrarás lo genial que eres! Es importante ser útil para que las cosas funcionen en nuestra comunidad, si hacemos un esfuerzo estando ahí para quien nos necesite, todos podemos vivir una vida feliz.</desc>
+    <date>20200000</date>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220806123000 +0000" stop="20220806130000 +0000" channel="Univision">
+    <title lang="es">Planeta de Niños</title>
+    <sub-title>Cultura</sub-title>
+    <desc>En este capítulo viajaremos a través del aprendizaje y las diferencias, descubriremos que la cultura es una forma de vida que se transmite de generación en generación, y hablando de nuestras diferencias aprendemos sobre otras culturas.</desc>
+    <date>20200000</date>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220806130000 +0000" stop="20220806133000 +0000" channel="Univision">
+    <title lang="es">Atención Atención</title>
+    <sub-title>08-21-2021</sub-title>
+    <date>20180000</date>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220806133000 +0000" stop="20220806140000 +0000" channel="Univision">
+    <title lang="es">Atención Atención</title>
+    <sub-title>08-21-2021</sub-title>
+    <date>20180000</date>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220806140000 +0000" stop="20220806143000 +0000" channel="Univision">
+    <title lang="es">Franklin y sus amigos</title>
+    <desc>Franklin y Oso deben cuidar de sus hermanas menores y eso altera sus planes. Harriet le hace a Franklin un sombrero enorme para el festival de primavera y él debe confesar que lo estropeó por accidente.</desc>
+    <date>20120000</date>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806143000 +0000" stop="20220806150000 +0000" channel="Univision">
+    <title lang="es">Franklin y sus amigos</title>
+    <desc>Señora Tortuga colabora en la clase de Franklin y debe repartir su atención entre todos los alumnos. / En un viaje de camping familiar Franklin decide compartir su fuerte con Harriet.</desc>
+    <date>20120000</date>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220806150000 +0000" stop="20220806153000 +0000" channel="Univision">
+    <title lang="es">Stop Brain Fog SPAN</title>
+    <desc>¡Obtenga apoyo para todo el cerebro con NeuroQ! NeuroQ está formulado para ayudar a mantener una función cerebral saludable, pensamiento claro y memoria.</desc>
+    <date>20211215</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220806153000 +0000" stop="20220806160000 +0000" channel="Univision">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806160000 +0000" stop="20220806163000 +0000" channel="Univision">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806163000 +0000" stop="20220806170000 +0000" channel="Univision">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806170000 +0000" stop="20220806173000 +0000" channel="Univision">
+    <title lang="es">Stop Brain Fog SPAN</title>
+    <desc>¡Obtenga apoyo para todo el cerebro con NeuroQ! NeuroQ está formulado para ayudar a mantener una función cerebral saludable, pensamiento claro y memoria.</desc>
+    <date>20211215</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220806173000 +0000" stop="20220806180000 +0000" channel="Univision">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806180000 +0000" stop="20220806190000 +0000" channel="Univision">
+    <title lang="es">Cuéntamelo Ya Al Fin</title>
+    <sub-title>08-06-2022</sub-title>
+    <date>20160000</date>
+  </programme>
+  <programme start="20220806190000 +0000" stop="20220806193000 +0000" channel="Univision">
+    <title lang="es">Nosotros Los Guapos</title>
+    <sub-title>07-03-2021</sub-title>
+    <date>20160000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220806193000 +0000" stop="20220806200000 +0000" channel="Univision">
+    <title lang="es">Nosotros Los Guapos</title>
+    <sub-title>07-03-2021</sub-title>
+    <date>20160000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220806200000 +0000" stop="20220806220000 +0000" channel="Univision">
+    <title lang="es">Me Caigo de Risa</title>
+    <sub-title>08-06-2022</sub-title>
+    <date>20180000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220806220000 +0000" stop="20220806223000 +0000" channel="Univision">
+    <title lang="es">Vecinos</title>
+    <sub-title>01-15-2022</sub-title>
+    <desc>Por fin podrás conocer la historia jamás contada de Jorjáis. Pero, también los Vecinos tendrán nuevos conflictos entre ellos y con los ruidosos negocios aledaños. Además, ve qué nuevos personajes e invitados llegarán al edificio en esta nueva temporada.</desc>
+    <date>20200000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220806223000 +0000" stop="20220806230000 +0000" channel="Univision">
+    <title lang="es">Noticiero Univision - Fin De Semana</title>
+    <sub-title>08-06-2022</sub-title>
+    <date>19900000</date>
+  </programme>
+  <programme start="20220806230000 +0000" stop="20220806233000 +0000" channel="Univision">
+    <title lang="es">Futbol Central</title>
+    <sub-title>08-06-2022</sub-title>
+    <date>20140000</date>
+  </programme>
+  <programme start="20220806233000 +0000" stop="20220807020000 +0000" channel="Univision">
+    <title lang="es">Fútbol: Liga MX</title>
+    <sub-title>Club América vs. Juárez</sub-title>
+    <desc>Club América vs. Juárez. Desde Estadio Azteca.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20220807020000 +0000" stop="20220807023000 +0000" channel="Univision">
+    <title lang="es">Se rentan cuartos</title>
+    <sub-title>El club secreto</sub-title>
+    <desc>Tras perder su fortuna, una familia debe iniciar una nueva vida en la única casa que les queda.</desc>
+    <date>20190000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807023000 +0000" stop="20220807030000 +0000" channel="Univision">
+    <title lang="es">Se rentan cuartos</title>
+    <sub-title>Pepenacho inválido</sub-title>
+    <desc>Tras perder su fortuna, una familia debe iniciar una nueva vida en la única casa que les queda.</desc>
+    <date>20190000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807030000 +0000" stop="20220807033000 +0000" channel="Univision">
+    <title lang="es">Nosotros los Guapos</title>
+    <sub-title>07-03-2021</sub-title>
+    <date>20160000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807033000 +0000" stop="20220807040000 +0000" channel="Univision">
+    <title lang="es">Noticiero Univision - Fin De Semana</title>
+    <sub-title>08-06-2022</sub-title>
+    <date>19900000</date>
+  </programme>
+  <programme start="20220807040000 +0000" stop="20220807050000 +0000" channel="Univision">
+    <title lang="es">Mas Noche</title>
+    <sub-title>08-06-2022</sub-title>
+    <date>20180000</date>
+  </programme>
+  <programme start="20220807050000 +0000" stop="20220807060000 +0000" channel="Univision">
+    <title lang="es">Como dice el dicho</title>
+    <sub-title>Raro es el regalo tras el que no se esconde algo malo</sub-title>
+    <date>20200000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807060000 +0000" stop="20220807063000 +0000" channel="Univision">
+    <title lang="es">Se rentan cuartos</title>
+    <sub-title>El club secreto</sub-title>
+    <desc>Tras perder su fortuna, una familia debe iniciar una nueva vida en la única casa que les queda.</desc>
+    <date>20190000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807063000 +0000" stop="20220807070000 +0000" channel="Univision">
+    <title lang="es">Se rentan cuartos</title>
+    <sub-title>Pepenacho inválido</sub-title>
+    <desc>Tras perder su fortuna, una familia debe iniciar una nueva vida en la única casa que les queda.</desc>
+    <date>20190000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807070000 +0000" stop="20220807080000 +0000" channel="Univision">
+    <title lang="es">Contacto Deportivo</title>
+    <sub-title>08-06-2022</sub-title>
+    <date>20140000</date>
+  </programme>
+  <programme start="20220807080000 +0000" stop="20220807083000 +0000" channel="Univision">
+    <title lang="es">Nosotros Los Guapos</title>
+    <sub-title>07-03-2021</sub-title>
+    <date>20160000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220807083000 +0000" stop="20220807090000 +0000" channel="Univision">
+    <title lang="es">Nosotros Los Guapos</title>
+    <sub-title>07-03-2021</sub-title>
+    <date>20160000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220807090000 +0000" stop="20220807093000 +0000" channel="Univision">
+    <title lang="es">Vecinos</title>
+    <sub-title>01-15-2022</sub-title>
+    <desc>Por fin podrás conocer la historia jamás contada de Jorjáis. Pero, también los Vecinos tendrán nuevos conflictos entre ellos y con los ruidosos negocios aledaños. Además, ve qué nuevos personajes e invitados llegarán al edificio en esta nueva temporada.</desc>
+    <date>20200000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220807093000 +0000" stop="20220807100000 +0000" channel="Univision">
+    <title lang="es">Noticiero Univision - Fin De Semana</title>
+    <sub-title>08-06-2022</sub-title>
+    <date>19900000</date>
+  </programme>
+  <programme start="20220807100000 +0000" stop="20220807103000 +0000" channel="Univision">
+    <title lang="es">Los González</title>
+    <sub-title>Los Gonzalez</sub-title>
+    <desc>Maribel enfurece al ver que Leo rompió toda la vajilla para sus nuevas bromas. Leo hace nuevos planes para ahorrar dinero y para ello cancela su plan de internet.</desc>
+    <date>20160000</date>
+  </programme>
+  <programme start="20220807103000 +0000" stop="20220807110000 +0000" channel="Univision">
+    <title lang="es">Los González</title>
+    <sub-title>Los Gonzalez</sub-title>
+    <desc>Leo y sus dos hijos son detenidos por la policía debido a sus bromas tan pesadas en la calle. Leo le propone al policía salir en uno de sus videos a cambio de dejarlos en libertad</desc>
+    <date>20160000</date>
+  </programme>
+  <programme start="20220807110000 +0000" stop="20220807113000 +0000" channel="Univision">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807113000 +0000" stop="20220807120000 +0000" channel="Univision">
+    <title lang="es">Programación pagada</title>
+    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807120000 +0000" stop="20220807130000 +0000" channel="Univision">
+    <title lang="es">Como dice el dicho</title>
+    <date>20180000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807130000 +0000" stop="20220807150000 +0000" channel="Univision">
+    <title lang="es">Despierta América en Domingo</title>
+    <sub-title>08-07-2022</sub-title>
+    <date>20210000</date>
+  </programme>
+  <programme start="20220807150000 +0000" stop="20220807160000 +0000" channel="Univision">
+    <title lang="es">Al Punto con Jorge Ramos</title>
+    <sub-title>08-07-2022</sub-title>
+    <date>20210000</date>
+  </programme>
+  <programme start="20220807160000 +0000" stop="20220807170000 +0000" channel="Univision">
+    <title lang="es">Aquí y Ahora</title>
+    <date>19980000</date>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807170000 +0000" stop="20220807190000 +0000" channel="Univision">
+    <title lang="es">El cielo en tu mirada</title>
+    <desc>Luego de no poder participar en un concurso de cant,o José conoce a Abril, unas horas antes de que ella se case. Ese mismo día muere José y convence a su ángel de regresar a la vida para cumplir con su destino, por lo que se le concede tres semanas para lograrlo.</desc>
+    <date>20120000</date>
+  </programme>
+  <programme start="20220807190000 +0000" stop="20220807200000 +0000" channel="Univision">
+    <title lang="es">Republica Deportiva</title>
+    <sub-title>08-07-2022</sub-title>
+    <date>19800000</date>
+  </programme>
+  <programme start="20220807200000 +0000" stop="20220807210000 +0000" channel="Univision">
+    <title lang="es">La Rosa de Guadalupe</title>
+    <desc>Una joven se enamora de un chico de la alta sociedad sin imaginar que el solo planea jugar con sus sentimientos. Un milagro le dará a la joven la oportunidad de rehacer su vida.</desc>
+    <date>20180000</date>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807210000 +0000" stop="20220807220000 +0000" channel="Univision">
+    <title lang="es">La Rosa de Guadalupe</title>
+    <desc>Debido a un mal entendido, la amistad entre dos jóvenes podría terminar en tragedia. Un milagro logrará que las jóvenes sepan que una verdadera amistad logra superar todos los obstáculos.</desc>
+    <date>20180000</date>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

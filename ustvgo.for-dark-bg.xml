@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220807124059" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220807125135" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -312,6 +312,9 @@
     <display-name>Pop</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/POP.png" width="512" height="512"/>
   </channel>
+  <channel id="Reelz">
+    <display-name>Reelz</display-name>
+  </channel>
   <channel id="Science">
     <display-name>Science</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Science.png" width="512" height="512"/>
@@ -351,6 +354,9 @@
   <channel id="Tennis">
     <display-name>Tennis Channel</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Tennis.png" width="512" height="512"/>
+  </channel>
+  <channel id="TeenNick">
+    <display-name>TeenNick</display-name>
   </channel>
   <channel id="TLC">
     <display-name>The Learning Channel (TLC)</display-name>
@@ -14600,6 +14606,251 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
     </star-rating>
   </programme>
+  <programme start="20220807100000 +0000" stop="20220807120000 +0000" channel="Reelz">
+    <title lang="en">Elvis Are You Lonesome Tonight</title>
+    <desc>With emotional accounts from family and friends, the show dives into the world of Elvis Presley.</desc>
+    <date>20201014</date>
+    <category>Musical</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9349160082.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9349160086.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220807120000 +0000" stop="20220807123000 +0000" channel="Reelz">
+    <title lang="en">Celebrity Page</title>
+    <sub-title>Episode 9009</sub-title>
+    <date>20220807</date>
+    <category>Interview</category>
+    <category>Entertainment</category>
+    <category>Fashion</category>
+    <category>Magazine</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9913145214.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7487726245.jpg" width="720" height="539"/>
+    <episode-num system="onscreen">S07E440</episode-num>
+    <episode-num system="xmltv_ns">6.439.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220807123000 +0000" stop="20220807130000 +0000" channel="Reelz">
+    <title lang="en">Celebrity Page</title>
+    <sub-title>Episode 9017</sub-title>
+    <date>20220807</date>
+    <category>Interview</category>
+    <category>Entertainment</category>
+    <category>Fashion</category>
+    <category>Magazine</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9913145214.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7487726245.jpg" width="720" height="539"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220807130000 +0000" stop="20220807140000 +0000" channel="Reelz">
+    <title lang="en">Autopsy: The Last Hours of...</title>
+    <sub-title>Jerry Lewis</sub-title>
+    <credits>
+      <director>Peter Chipping</director>
+      <producer>Donna Bertaccini</producer>
+    </credits>
+    <date>20210628</date>
+    <category>Documentary</category>
+    <category>Biography</category>
+    <category>Docudrama</category>
+    <category>Celebrities</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6987418576.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6987498498.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S12E23</episode-num>
+    <episode-num system="xmltv_ns">11.22.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807140000 +0000" stop="20220807150000 +0000" channel="Reelz">
+    <title lang="en">Autopsy: The Last Hours of...</title>
+    <sub-title>Dean Martin</sub-title>
+    <credits>
+      <director>Peter Chipping</director>
+      <producer>Donna Bertaccini</producer>
+    </credits>
+    <date>20210513</date>
+    <category>Documentary</category>
+    <category>Biography</category>
+    <category>Docudrama</category>
+    <category>Celebrities</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6987418576.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6987498498.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S12E14</episode-num>
+    <episode-num system="xmltv_ns">11.13.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807150000 +0000" stop="20220807160000 +0000" channel="Reelz">
+    <title lang="en">Autopsy: The Last Hours of...</title>
+    <sub-title>Frank Sinatra</sub-title>
+    <credits>
+      <director>Peter Chipping</director>
+      <producer>Donna Bertaccini</producer>
+    </credits>
+    <date>20210513</date>
+    <category>Documentary</category>
+    <category>Biography</category>
+    <category>Docudrama</category>
+    <category>Celebrities</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6987418576.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6987498498.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S12E13</episode-num>
+    <episode-num system="xmltv_ns">11.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220807160000 +0000" stop="20220807163000 +0000" channel="Reelz">
+    <title lang="en">Cops</title>
+    <sub-title>Under Cover Drug Sting</sub-title>
+    <desc>A man with a suspended license flees a routine traffic stop on foot. Then, deputies respond to a battered woman after receiving a 911 hang-up call. Also, a sting operation nets a suspected drug dealer.</desc>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
+    <date>20211105</date>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5742780526.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544453706.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>84/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220807163000 +0000" stop="20220807170000 +0000" channel="Reelz">
+    <title lang="en">Cops</title>
+    <sub-title>Pain in the Neck</sub-title>
+    <desc>Deputies confront a man who is holding a knife to his roommate's neck over an earlier argument.</desc>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
+    <date>20211105</date>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5742780526.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544453706.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>84/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220807170000 +0000" stop="20220807173000 +0000" channel="Reelz">
+    <title lang="en">Cops</title>
+    <sub-title>Shovel Trouble</sub-title>
+    <desc>Officers conduct a sting operation using a decoy vehicle.</desc>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
+    <date>20211105</date>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5742780526.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544453706.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S32E82</episode-num>
+    <episode-num system="xmltv_ns">31.81.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>84/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220807173000 +0000" stop="20220807180000 +0000" channel="Reelz">
+    <title lang="en">Cops</title>
+    <sub-title>That's Not Chapstick</sub-title>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
+    <date>20211104</date>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5742780526.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544453706.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>84/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220807180000 +0000" stop="20220807183000 +0000" channel="Reelz">
+    <title lang="en">Cops</title>
+    <sub-title>Scratching Trees</sub-title>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
+    <date>20211105</date>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5742780526.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544453706.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>84/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220807183000 +0000" stop="20220807190000 +0000" channel="Reelz">
+    <title lang="en">Cops</title>
+    <sub-title>Cleveland, Ohio (Cops in Hot Pursuit)</sub-title>
+    <desc>High-speed pursuits include carjacking suspects who crash their vehicle into a guard rail.</desc>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
+    <date>19931106</date>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5742780526.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544453706.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>84/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220807190000 +0000" stop="20220807220000 +0000" channel="Reelz">
+    <title lang="en">On Patrol: Live</title>
+    <sub-title>105</sub-title>
+    <date>20220805</date>
+    <category>Reality</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11899780543.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11824164808.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
   <programme start="20220807110000 +0000" stop="20220807120000 +0000" channel="Science">
     <title lang="en">Impossible Engineering</title>
     <sub-title>US Military Hovercraft</sub-title>
@@ -15944,6 +16195,369 @@
     <title lang="en">PPA Tour Pickleball</title>
     <sub-title>Manhattan Beach</sub-title>
     <date>20220000</date>
+  </programme>
+  <programme start="20220807113000 +0000" stop="20220807120000 +0000" channel="TeenNick">
+    <title lang="en">Henry Danger</title>
+    <sub-title>Caved In</sub-title>
+    <desc>Jasper sets off an emergency lockdown by mistake, trapping the gang inside the store and the cave.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor role="Charlotte">Riele Downs</actor>
+      <producer>Kim Sherwood</producer>
+      <composer>Zack Hexum</composer>
+    </credits>
+    <date>20150228</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Sci-fi</category>
+    <category>Superheroes</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1874030204.jpg" width="490" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6548403502.jpg" width="720" height="361"/>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807120000 +0000" stop="20220807123000 +0000" channel="TeenNick">
+    <title lang="en">Henry Danger</title>
+    <sub-title>Elevator Kiss</sub-title>
+    <desc>Bianca kisses Kid Danger after he rescues her, and this upsets Henry, because he interprets it as her being unfaithful to him.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor role="Charlotte">Riele Downs</actor>
+      <producer>Kim Sherwood</producer>
+      <composer>Zack Hexum</composer>
+    </credits>
+    <date>20150307</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Sci-fi</category>
+    <category>Superheroes</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1874030204.jpg" width="490" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6548403502.jpg" width="720" height="361"/>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807123000 +0000" stop="20220807130000 +0000" channel="TeenNick">
+    <title lang="en">Henry Danger</title>
+    <sub-title>Man of the House</sub-title>
+    <desc>Captain Man acts patriarchal after he moves in Henry's home in order to safeguard the family from crime, and Henry's not happy about this turn of events.</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor role="Charlotte">Riele Downs</actor>
+      <producer>Kim Sherwood</producer>
+      <composer>Zack Hexum</composer>
+    </credits>
+    <date>20150314</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Sci-fi</category>
+    <category>Superheroes</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1874030204.jpg" width="490" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6548403502.jpg" width="720" height="361"/>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807130000 +0000" stop="20220807133000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Lay Lay Gets a Pet Pet</sub-title>
+    <desc>Lay Lay and Sadie see Cobo with a cool pet snake. They decide it's time for the Alexander family to adopt a unique pet of their own. Lay Lay discovers the perfect furry companion: a wild possum she discovers she's allergic.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20220804</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807133000 +0000" stop="20220807140000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Out The App</sub-title>
+    <desc>A girl's most unusual fantasy comes to life as her online persona, Lay Lay, comes to life and begins attending her school. Later, Lay Lay encourages Sadie to run for a position on the student council.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20210923</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807140000 +0000" stop="20220807143000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>You-Go-Girl-Kart</sub-title>
+    <desc>Lay Lay and Sadie join the auto club in hopes of creating a fast and stylish ride. Marky and Jeremy try to get Tiffany to promote their new invention, candles that blow themselves out.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20211007</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807143000 +0000" stop="20220807150000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Lay Lay &amp; Sadie's Big Hair Adventure</sub-title>
+    <desc>During a prank war, Lay Lay goes too far, spilling a sticky mess on Sadie's hair. She and Sadie try to fix it before they have to go to a concert.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20211118</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807150000 +0000" stop="20220807153000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Mozzarella Heads</sub-title>
+    <desc>Trying to earn some extra money to buy a video game, Lay Lay and Sadie get hired to be birthday clowns. When Marky realizes the girls are naturals, he sees a money-making opportunity and volunteers to be the girl's manager.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20211111</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807153000 +0000" stop="20220807160000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Ha-Lay-Lay-Ween</sub-title>
+    <desc>It's Halloween. Tiffany dares Lay Lay and Sadie to stay overnight at the school in order try and prove the ghost of Old Man Packer doesn't exist.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20211021</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807160000 +0000" stop="20220807163000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Lay Lay Gets a Pet Pet</sub-title>
+    <desc>Lay Lay and Sadie see Cobo with a cool pet snake. They decide it's time for the Alexander family to adopt a unique pet of their own. Lay Lay discovers the perfect furry companion: a wild possum she discovers she's allergic.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20220804</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807163000 +0000" stop="20220807170000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Ha-Lay-Lay-Lujah</sub-title>
+    <desc>Sadie, Lay Lay and the Alexander family go to church for their monthly visit. Sadie tries to show everyone she is ready to become a junior deacon. Lay Lay struggles with the guilt of eating Bryce's special ice cream.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20211104</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807170000 +0000" stop="20220807173000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Granny Fae Fae &amp; Lay Lay</sub-title>
+    <desc>After a prank gone wrong, Sadie and Lay Lay must trick Principal Willingham into believing that Sadie is Lay Lay's grandmother for a parent/teacher conference.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20211209</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807173000 +0000" stop="20220807180000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>The Burger Games</sub-title>
+    <desc>Lay Lay is threatened by Cobo. When Cobo applies for a job at BoomBox Burger, Lay Lay grabs the chance to show him up by applying, too.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20220721</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807180000 +0000" stop="20220807183000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Lay Lay's Beauty Shop Day Day</sub-title>
+    <desc>It's Lay Lay and Sadie's first-time accompanying Trish to her standing appointment at the Beauty Shop. When Lay Lay starts spilling all the tea, she and Sadie are left with a big mess to clean up in order to get Trish un-banned.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20220728</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807183000 +0000" stop="20220807190000 +0000" channel="TeenNick">
+    <title lang="en">That Girl Lay Lay</title>
+    <sub-title>Lay Lay Gets a Pet Pet</sub-title>
+    <desc>Lay Lay and Sadie see Cobo with a cool pet snake. They decide it's time for the Alexander family to adopt a unique pet of their own. Lay Lay discovers the perfect furry companion: a wild possum she discovers she's allergic.</desc>
+    <credits>
+      <actor>Thomas Hobson</actor>
+      <producer>Julie Tsutsui</producer>
+    </credits>
+    <date>20220804</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10562514140.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11727640204.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807190000 +0000" stop="20220807193000 +0000" channel="TeenNick">
+    <title lang="en">Side Hustle</title>
+    <sub-title>Juckles</sub-title>
+    <desc>When Jaget gets a girlfriend, everyone fears a new meanness is coming, but dating softens Jaget. So when the kids learn the pair might break up, they scramble to keep them together.</desc>
+    <credits>
+      <director>Wendy Faraone</director>
+      <actor>Jayden Bartels</actor>
+      <writer>John D. Beck</writer>
+      <producer>Ron Hart</producer>
+      <composer>Zack Hexum</composer>
+    </credits>
+    <date>20210501</date>
+    <category>Comedy</category>
+    <category>Other</category>
+    <category>Sitcom</category>
+    <category>Teens</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9426591270.jpg" width="516" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9426591268.jpg" width="720" height="461"/>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220807193000 +0000" stop="20220807200000 +0000" channel="TeenNick">
+    <title lang="en">Side Hustle</title>
+    <sub-title>Extra Crunchy</sub-title>
+    <desc>Munchy becomes the new school mascot, Luna the Tuna.</desc>
+    <credits>
+      <director>Wendy Faraone</director>
+      <actor>Jayden Bartels</actor>
+      <writer>John D. Beck</writer>
+      <producer>Ron Hart</producer>
+      <composer>Zack Hexum</composer>
+    </credits>
+    <date>20210522</date>
+    <category>Comedy</category>
+    <category>Other</category>
+    <category>Sitcom</category>
+    <category>Teens</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9426591270.jpg" width="516" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9426591268.jpg" width="720" height="461"/>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20220807110000 +0000" stop="20220807120000 +0000" channel="TLC">
     <title lang="en">My Big Fat American Gypsy Wedding</title>

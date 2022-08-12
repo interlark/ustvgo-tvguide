@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220812083003" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220812084955" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -14400,6 +14400,10 @@
   <programme start="20220812080000 +0000" stop="20220812083000 +0000" channel="OLY">
     <title lang="en">Alopecia Secrets</title>
     <desc>Discover the science behind rapid hair growth for Alopecia and Male Pattern Baldness with ScalpMED.</desc>
+    <date>20220428</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20220812083000 +0000" stop="20220812090000 +0000" channel="OLY">
     <title lang="en">Robin Williams: Comic Genius</title>

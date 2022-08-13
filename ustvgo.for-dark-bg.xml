@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220813212048" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220813214115" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -919,12 +919,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220813190000 +0000" stop="20220813200000 +0000" channel="ACCN">
-    <title lang="en">ACC Football Road Trip</title>
-    <sub-title>Boston College</sub-title>
-    <desc>ACC Network heads to Boston College for a one-hour football preview show featuring interviews, behind the scenes access, and analysis while practice goes on behind the set.</desc>
-    <date>20220000</date>
-  </programme>
   <programme start="20220813200000 +0000" stop="20220813210000 +0000" channel="ACCN">
     <title lang="en">ACC Football Road Trip</title>
     <sub-title>North Carolina State</sub-title>
@@ -979,6 +973,21 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7746941804.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E08</episode-num>
     <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20220814040000 +0000" stop="20220814050000 +0000" channel="ACCN">
+    <title lang="en">The Tournament: A History of ACC Men's Basketball</title>
+    <sub-title>1954 – 1957</sub-title>
+    <desc>When an Indiana native named Everett Case arrives in Raleigh in the mid-1940s to become the basketball coach at North Carolina State, his vision spearheads not just the rise of the sport at his school and in the region, but the start of an athletic conference that will change college basketball forever.</desc>
+    <date>20220207</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>Basketball</category>
+    <category>College</category>
+    <category>History</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11233050612.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11233050611.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
   <programme start="20220813190000 +0000" stop="20220813210000 +0000" channel="AE">
     <title lang="en">Court Night LIVE</title>
@@ -1574,18 +1583,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220813190000 +0000" stop="20220813200000 +0000" channel="BTN">
-    <title lang="en">Classic College Football</title>
-    <sub-title>2010: Baylor vs. Illinois</sub-title>
-    <desc>From 2010: Baylor vs. Illinois in the Texas Bowl. The Illini won 38-14, with Mikel Leshoure running for 184 yards and 3 TDs.</desc>
-    <date>20101229</date>
-    <category>Classic sports</category>
-    <category>College</category>
-    <category>Football</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172371225.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-299039440.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20220813200000 +0000" stop="20220813210000 +0000" channel="BTN">
     <title lang="en">Classic College Football</title>
     <sub-title>2011: Illinois vs. UCLA</sub-title>
@@ -1669,6 +1666,18 @@
     <sub-title>1999: Wisconsin at UCLA</sub-title>
     <desc>From 1999: Wisconsin vs. UCLA in the Rose Bowl. The Badgers outscored UCLA 38-31 as Ron Dayne rushed for 246 yards and four touchdowns.</desc>
     <date>19990101</date>
+    <category>Classic sports</category>
+    <category>College</category>
+    <category>Football</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172371225.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-299039440.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220814040000 +0000" stop="20220814050000 +0000" channel="BTN">
+    <title lang="en">Classic College Football</title>
+    <sub-title>2000: Stanford vs. Wisconsin</sub-title>
+    <desc>From 2000: Stanford vs. Wisconsin in the Rose Bowl. The Badgers won 17-9, with Ron Dayne running for 200 yards.</desc>
+    <date>20000101</date>
     <category>Classic sports</category>
     <category>College</category>
     <category>Football</category>
@@ -6009,7 +6018,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Laura">Jeremy Maguire</actor>
-      <writer>Paul Corrigan</writer>
+      <writer>Abraham Higginbotham</writer>
       <producer>Sally Young</producer>
       <composer>Daniel Licht</composer>
     </credits>
@@ -6037,7 +6046,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Laura">Jeremy Maguire</actor>
-      <writer>Paul Corrigan</writer>
+      <writer>Abraham Higginbotham</writer>
       <producer>Sally Young</producer>
       <composer>Daniel Licht</composer>
     </credits>
@@ -11613,9 +11622,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220813190000 +0000" stop="20220813200000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20220813200000 +0000" stop="20220813210000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -11638,6 +11644,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220814030000 +0000" stop="20220814040000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20220814040000 +0000" stop="20220814050000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220813203000 +0000" stop="20220813210000 +0000" channel="Nickelodeon">
@@ -12532,6 +12541,17 @@
     <sub-title>Day 5 from Irvine, Cal.</sub-title>
     <desc>Day 5 from Irvine, Cal. Finals include women's and men's 200m individual medley and 50m freestyle; women's 1500m freestyle; and men's 800m freestyle.</desc>
     <date>20220000</date>
+  </programme>
+  <programme start="20220814040000 +0000" stop="20220814060000 +0000" channel="OLY">
+    <title lang="en">World Athletics Diamond League Track &amp; Field</title>
+    <sub-title>From Monaco</sub-title>
+    <desc>The Herculis meet from Stade Louis II in Monaco, Round 10 of the 2022 season. Headliners include hurdlers Sydney McLaughlin (400m) and Grant Holloway (110m); sprinters Noah Lyles and Erriyon Knighton; Grant Fisher; Sandi Morris and Yulimar Rojas.</desc>
+    <date>20220810</date>
+    <category>Pro</category>
+    <category>Track &amp; Field</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3658666855.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3658666861.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20220813200000 +0000" stop="20220813210000 +0000" channel="Oxygen">
     <title lang="en">Living With A Serial Killer</title>
@@ -13529,23 +13549,11 @@
     <desc>Georgia (13-1) vs. Alabama (13-1) in the CFP National Championship in Indianapolis. From Lucas Oil Stadium. Heisman Trophy-winning QB Bryce Young leads Alabama's quest for a seventh title in 13 years, facing LB Nakobe Dean and a vaunted Bulldogs defense (9.5 ppg allowed) that was tamed by the Tide in the SEC championship game on Dec. 4, when Young threw for 421 yards and was not sacked en route to a breezy 41-24 victory. Coach Kirby Smart (0-4 vs. 'Bama) eyes Georgia's first title since 1980.</desc>
     <date>20220000</date>
   </programme>
-  <programme start="20220813180000 +0000" stop="20220813201500 +0000" channel="Showtime">
-    <title lang="en">Rounders</title>
-    <desc>Matt Damon plays a law student whose poker skills create a dilemma of choice between pursuing the law and the excitement of testing himself against the best in the world of underground high-stakes games. The scales are tipped toward the latter when the young man must aid a jailbird pal (Edward Norton) in debt to mobsters. Gretchen Mol, John Turturro, Famke Janssen, John Malkovich, Martin Landau.</desc>
-    <date>19980911</date>
-    <category>Drama</category>
-    <category>Card game</category>
-    <length units="seconds">7080</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11786538233.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7907856120.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>54/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/54.png" width="128" height="128"/>
-    </star-rating>
+  <programme start="20220814040000 +0000" stop="20220814060000 +0000" channel="SECN">
+    <title lang="en">College Football</title>
+    <sub-title>Florida Spring Game</sub-title>
+    <desc>The Florida spring game. From Ben Hill Griffin Stadium.</desc>
+    <date>20220000</date>
   </programme>
   <programme start="20220813201500 +0000" stop="20220813211500 +0000" channel="Showtime">
     <title lang="en">The Chi</title>
@@ -13671,6 +13679,31 @@
     <star-rating system="Metascore">
       <value>65/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220814043000 +0000" stop="20220814053000 +0000" channel="Showtime">
+    <title lang="en">The Chi</title>
+    <sub-title>Angels</sub-title>
+    <desc>Emmett and Tiff must unite as co-parents after learning unexpected news about their son. Kiesha gets advice from her counselor. Kevin struggles to balance dating and his gaming competitions. A shocking event leaves Jemma, Papa and Jake to deal with the aftermath.</desc>
+    <credits>
+      <director>Jet Wilkinson</director>
+      <actor>Iman Shumpert</actor>
+      <writer>Justin Hillian</writer>
+      <producer>Kelly A. Manners</producer>
+    </credits>
+    <date>20220807</date>
+    <category>Drama</category>
+    <category>Coming of age</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10077295239.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8740557904.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>73/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/73.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20220813191000 +0000" stop="20220813205900 +0000" channel="StarZ">
@@ -13868,646 +13901,6 @@
     <star-rating system="Metascore">
       <value>83/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/83.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220814051700 +0000" stop="20220814071100 +0000" channel="StarZ">
-    <title lang="en">Lakeview Terrace</title>
-    <desc>A young couple who move into their dream home are terrorized by their next-door neighbor, a black LAPD officer who disapproves of their interracial relationship. Samuel L. Jackson, Patrick Wilson and Kerry Washington star in this taut thriller. Ron Glass, Justin Chambers. Directed by Neil Labute.</desc>
-    <date>20120612</date>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Mystery &amp; Suspense</category>
-    <length units="seconds">6600</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-430911417.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3526619252.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>47/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/47.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220814071100 +0000" stop="20220814081300 +0000" channel="StarZ">
-    <title lang="en">P-Valley</title>
-    <sub-title>Snow</sub-title>
-    <desc>The Pynk framily shows up and shows out, giving folks a night they won't ever forget.</desc>
-    <credits>
-      <director>Barbara Brown</director>
-      <actor>Gail Bean</actor>
-      <writer>Katori Hall</writer>
-    </credits>
-    <date>20220807</date>
-    <category>Drama</category>
-    <category>Dance</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11609352243.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11609352246.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>83/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/83.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220814081300 +0000" stop="20220814091300 +0000" channel="StarZ">
-    <title lang="en">Becoming Elizabeth</title>
-    <sub-title>To Death We Must Stoop</sub-title>
-    <desc>The king is sick and the court that made an enemy of Catholics now face the possibility of being ruled by one as Mary rides to Whitehall. Mary and Elizabeth are briefly reunited in their love for their sick brother.</desc>
-    <credits>
-      <director>Justin Chadwick</director>
-      <actor role="Thomas Seymour">Tom Cullen</actor>
-    </credits>
-    <date>20220807</date>
-    <category>Drama</category>
-    <category>Costumer</category>
-    <category>History</category>
-    <category>Royals &amp; Gotha</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11520266572.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11520266568.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>73/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/73.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220814091300 +0000" stop="20220814113800 +0000" channel="StarZ">
-    <title lang="en">The Amazing Spider-Man 2</title>
-    <desc>In this thrilling superhero sequel, Spider-Man fights a new villain called Electro, and romances his high-school sweetheart Gwen Stacy. Meanwhile, his childhood friend Harry Osborn is named the CEO of Oscorp, a nefarious company connected to the disappearance of Peter Parker's parents.</desc>
-    <date>20140415</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Fantasy</category>
-    <category>Crime</category>
-    <category>Entertainment</category>
-    <category>Police</category>
-    <category>Sequel</category>
-    <category>Superheroes</category>
-    <length units="seconds">8520</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1127310899.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1523462542.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>53/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220814113800 +0000" stop="20220814123900 +0000" channel="StarZ">
-    <title lang="en">Becoming Elizabeth</title>
-    <sub-title>To Death We Must Stoop</sub-title>
-    <desc>The king is sick and the court that made an enemy of Catholics now face the possibility of being ruled by one as Mary rides to Whitehall. Mary and Elizabeth are briefly reunited in their love for their sick brother.</desc>
-    <credits>
-      <director>Justin Chadwick</director>
-      <actor role="Thomas Seymour">Tom Cullen</actor>
-    </credits>
-    <date>20220807</date>
-    <category>Drama</category>
-    <category>Costumer</category>
-    <category>History</category>
-    <category>Royals &amp; Gotha</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11520266572.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11520266568.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>73/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/73.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220814123900 +0000" stop="20220814133200 +0000" channel="StarZ">
-    <title lang="en">Evil by Design: Surviving Nygard</title>
-    <sub-title>Roots of Evil</sub-title>
-    <desc>1970's Winnipeg is where self-made fashion mogul Peter Nygard got his start, and where survivors allege that he first began assaulting young women.</desc>
-    <date>20220315</date>
-    <category>Documentary</category>
-    <category>Crime</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11318028002.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11318027758.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220814133200 +0000" stop="20220814153000 +0000" channel="StarZ">
-    <title lang="en">The Bourne Ultimatum</title>
-    <desc>The explosive third installment of the popular franchise featuring Matt Damon as Jason Bourne, a CIA-trained assassin suffering from amnesia. In this dynamic thrill ride, he's on a quest to discover his true identity and how he became a consummate killer.</desc>
-    <date>20120824</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <length units="seconds">6900</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172501841.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6091144572.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>85/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/85.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220814153000 +0000" stop="20220814163200 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Back In The Day</sub-title>
-    <desc>Its 1991 in South Jamaica, Queens, and 15-year-old Kanan Stark is eager to join his family's growing drug business, led by his mother, Raquel "Raq" Thomas.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210718</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814163200 +0000" stop="20220814172500 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Reaping and Sowing</sub-title>
-    <desc>After a rival crew member is killed, Raq does whatever is necessary to get the target off Kanan's back.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210725</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814172500 +0000" stop="20220814182300 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Stick and Move</sub-title>
-    <desc>Still reeling from a shocking death, Kanan pushes his way into the drug game with Marvin's help while Raq plots to take down her competition.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210801</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814182300 +0000" stop="20220814191500 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Don't Sleep</sub-title>
-    <desc>All bets are off when a police raid clears out Raq's competition. Promises are broken, secrets are revealed, and revenge is swift.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210808</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814191500 +0000" stop="20220814201000 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Choose Your Battle</sub-title>
-    <desc>Eager to transform her business after the stash house is hit, Raq overhauls her operation. Meanwhile, Kanan is detained after a fight with Scrappy.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210815</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814201000 +0000" stop="20220814211000 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Level Up</sub-title>
-    <desc>Lou's artist showcase turns into the nexus of the rivalry between Unique and Raq.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210829</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814211000 +0000" stop="20220814221000 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Stay in Your Lane</sub-title>
-    <desc>Kanan and Marvin's side hustle goes awry. Raq seeks revenge for the attack on Scrappy. Jukebox suffers a devastating blow.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210905</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814221000 +0000" stop="20220814230500 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>The Cost of Business</sub-title>
-    <desc>Kanan struggles with a harsh truth after word gets back to Raq that he's behind the bad crack on the streets.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210912</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814230500 +0000" stop="20220814235900 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Loyal to the End</sub-title>
-    <desc>As Marvin seeks revenge, Raq turns to Kanan for assistance only he can provide.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210919</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220814235900 +0000" stop="20220815010000 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Paid In Full</sub-title>
-    <desc>As the situation in the neighborhood turns dire, Raq scrambles to get Kanan out of harm's way.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20210926</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220815010000 +0000" stop="20220815020500 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>The More Things Change</sub-title>
-    <desc>Kanan returns to Queens where Raq is trying to mend the many fractures in the Thomas family. As Raq expands her empire, Kanan doubts his future in the drug game. Meanwhile, Detective Howard is released from the hospital.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220814</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220815020500 +0000" stop="20220815031300 +0000" channel="StarZ">
-    <title lang="en">P-Valley</title>
-    <sub-title>Mississippi Rule</sub-title>
-    <desc>It's the big finale. New beginnings and endings abound in Chucalissa.</desc>
-    <credits>
-      <director>Barbara Brown</director>
-      <actor>Gail Bean</actor>
-      <writer>Katori Hall</writer>
-    </credits>
-    <date>20220814</date>
-    <category>Drama</category>
-    <category>Dance</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11609352243.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11609352246.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>83/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/83.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220815031300 +0000" stop="20220815042200 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>The More Things Change</sub-title>
-    <desc>Kanan returns to Queens where Raq is trying to mend the many fractures in the Thomas family. As Raq expands her empire, Kanan doubts his future in the drug game. Meanwhile, Detective Howard is released from the hospital.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220814</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220815042200 +0000" stop="20220815053300 +0000" channel="StarZ">
-    <title lang="en">P-Valley</title>
-    <sub-title>Mississippi Rule</sub-title>
-    <desc>It's the big finale. New beginnings and endings abound in Chucalissa.</desc>
-    <credits>
-      <director>Barbara Brown</director>
-      <actor>Gail Bean</actor>
-      <writer>Katori Hall</writer>
-    </credits>
-    <date>20220814</date>
-    <category>Drama</category>
-    <category>Dance</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11609352243.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11609352246.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>83/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/83.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220815053300 +0000" stop="20220815062600 +0000" channel="StarZ">
-    <title lang="en">Evil by Design: Surviving Nygard</title>
-    <sub-title>Roots of Evil</sub-title>
-    <desc>1970's Winnipeg is where self-made fashion mogul Peter Nygard got his start, and where survivors allege that he first began assaulting young women.</desc>
-    <date>20220315</date>
-    <category>Documentary</category>
-    <category>Crime</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11318028002.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11318027758.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220815062600 +0000" stop="20220815073200 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>The More Things Change</sub-title>
-    <desc>Kanan returns to Queens where Raq is trying to mend the many fractures in the Thomas family. As Raq expands her empire, Kanan doubts his future in the drug game. Meanwhile, Detective Howard is released from the hospital.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220814</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220815073200 +0000" stop="20220815084200 +0000" channel="StarZ">
-    <title lang="en">P-Valley</title>
-    <sub-title>Mississippi Rule</sub-title>
-    <desc>It's the big finale. New beginnings and endings abound in Chucalissa.</desc>
-    <credits>
-      <director>Barbara Brown</director>
-      <actor>Gail Bean</actor>
-      <writer>Katori Hall</writer>
-    </credits>
-    <date>20220814</date>
-    <category>Drama</category>
-    <category>Dance</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11609352243.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11609352246.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>83/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/83.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220815084200 +0000" stop="20220815105700 +0000" channel="StarZ">
-    <title lang="en">A Journal for Jordan</title>
-    <desc>In the early 2000s, Charles Monroe King, a sergeant, awaits deployment to Iraq to fight in the war. He is married to Dana, and they recently had a newborn son named Jordan. Dana gifts Charles a journal notebook so he can write to his son his musings and life lessons he wants to share.</desc>
-    <date>20220525</date>
-    <category>Drama</category>
-    <category>Family</category>
-    <category>Biography</category>
-    <length units="seconds">7860</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10961159287.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10961159277.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>42/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220815105700 +0000" stop="20220815125700 +0000" channel="StarZ">
-    <title lang="en">Here Today</title>
-    <desc>Veteran comedy writer Charlie Burnz meets New York street singer Emma Payge when she wins him in an auction. They later form a unique bond that starts when he brings her to the E.R. after a food allergy incident, and the doctors mistake them as a father-and-daughter tandem. As Emma gets to know Charlie's life, she takes it upon herself to help him fix things before it's too late for him to achieve his last life goals.</desc>
-    <date>20210804</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <length units="seconds">7020</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10242352450.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10242352456.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>40/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/40.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220815125700 +0000" stop="20220815152900 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc>Peter Parker is now unmasked, his identity as Spider-Man known to the world. In a way, he likes it that his girl MJ knows his true identity, the same with his best friend Ned and Aunt May. However, problems follow this reveal. Thus, Peter approaches Doctor Strange to help him resolve the situation by performing a specific time-altering ritual. But that also bears some unintended and problematic consequences.</desc>
-    <date>20220715</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">9000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11220379141.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11220379135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220815152900 +0000" stop="20220815163500 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>The More Things Change</sub-title>
-    <desc>Kanan returns to Queens where Raq is trying to mend the many fractures in the Thomas family. As Raq expands her empire, Kanan doubts his future in the drug game. Meanwhile, Detective Howard is released from the hospital.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220814</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10276568804.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10276568798.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220815163500 +0000" stop="20220815185000 +0000" channel="StarZ">
-    <title lang="en">A Journal for Jordan</title>
-    <desc>In the early 2000s, Charles Monroe King, a sergeant, awaits deployment to Iraq to fight in the war. He is married to Dana, and they recently had a newborn son named Jordan. Dana gifts Charles a journal notebook so he can write to his son his musings and life lessons he wants to share.</desc>
-    <date>20220525</date>
-    <category>Drama</category>
-    <category>Family</category>
-    <category>Biography</category>
-    <length units="seconds">7860</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10961159287.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10961159277.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>42/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220815185000 +0000" stop="20220815205100 +0000" channel="StarZ">
-    <title lang="en">12 Mighty Orphans</title>
-    <desc>This sports drama fictionalizes the inspiring story of the Mighty Mites: a formidable football team that consisted of scrawny orphans from Fort Worth, Texas. National glory was attained through their coach Rusty Russell (an orphan himself), who taught them the innovative techniques that made up for their relative lack of brawn.</desc>
-    <date>20210914</date>
-    <category>Drama</category>
-    <category>Football</category>
-    <category>History</category>
-    <length units="seconds">7080</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10375724304.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10375724300.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>44/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220815205100 +0000" stop="20220815225900 +0000" channel="StarZ">
-    <title lang="en">Vertical Limit</title>
-    <desc>An expedition to the summit of K2 results in disaster in this intense mountaineering adventure. When a sudden storm traps a billionaire, climber Annie Garrett and a guide in an icy crevasse, it's up to Annie's brother (Chris O'Donnell) to rescue them. But he soon discovers that one member of his rescue team may have his own agenda. Bill Paxton, Robin Tunney, Scott Glenn.</desc>
-    <date>20050223</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Other</category>
-    <category>Mountaineering</category>
-    <length units="seconds">7500</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172365681.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1131646765.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20220813190000 +0000" stop="20220813211500 +0000" channel="SundanceTV">
@@ -17019,315 +16412,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220814050000 +0000" stop="20220814060000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <date>20180000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814060000 +0000" stop="20220814063000 +0000" channel="Univision">
-    <title lang="es">Se rentan cuartos</title>
-    <sub-title>El Karma de Shantalle</sub-title>
-    <desc>Cuando Shantalle está por tener una entrevista de trabajo, entra en pánico.</desc>
-    <date>20190000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814063000 +0000" stop="20220814070000 +0000" channel="Univision">
-    <title lang="es">Se Rentan Cuartos</title>
-    <sub-title>El Hijo del Compadre</sub-title>
-    <date>20200000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814070000 +0000" stop="20220814080000 +0000" channel="Univision">
-    <title lang="es">Contacto Deportivo</title>
-    <sub-title>08-13-2022</sub-title>
-    <date>20140000</date>
-  </programme>
-  <programme start="20220814080000 +0000" stop="20220814083000 +0000" channel="Univision">
-    <title lang="es">Nosotros los Guapos</title>
-    <sub-title>07-06-2021</sub-title>
-    <date>20160000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814083000 +0000" stop="20220814090000 +0000" channel="Univision">
-    <title lang="es">Nosotros Los Guapos</title>
-    <sub-title>06-16-2021</sub-title>
-    <date>20160000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814090000 +0000" stop="20220814093000 +0000" channel="Univision">
-    <title lang="es">Vecinos</title>
-    <sub-title>01-23-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814093000 +0000" stop="20220814100000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Fin De Semana</title>
-    <sub-title>08-13-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220814100000 +0000" stop="20220814103000 +0000" channel="Univision">
-    <title lang="es">Los González</title>
-    <sub-title>Los Gonzalez</sub-title>
-    <desc>Lucia es castigada por no entrar a la escuela y su mama la manda a grabar videos de bromas junto con su papa, pero a ella le agrada y ahora compite con su papa en You Tube. Despues de tiempo decide que esa no es su profesion.</desc>
-    <date>20160000</date>
-  </programme>
-  <programme start="20220814103000 +0000" stop="20220814110000 +0000" channel="Univision">
-    <title lang="es">Los González</title>
-    <sub-title>Los Gonzalez</sub-title>
-    <date>20160000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814110000 +0000" stop="20220814113000 +0000" channel="Univision">
-    <title lang="es">Programación pagada</title>
-    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814113000 +0000" stop="20220814120000 +0000" channel="Univision">
-    <title lang="es">Programación pagada</title>
-    <desc>Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814120000 +0000" stop="20220814130000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <date>20180000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814130000 +0000" stop="20220814150000 +0000" channel="Univision">
-    <title lang="es">Despierta América en Domingo</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220814150000 +0000" stop="20220814160000 +0000" channel="Univision">
-    <title lang="es">Al Punto con Jorge Ramos</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220814160000 +0000" stop="20220814170000 +0000" channel="Univision">
-    <title lang="es">Aquí y Ahora</title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220814170000 +0000" stop="20220814190000 +0000" channel="Univision">
-    <title lang="es">Boonie Bears: Blast into the Past</title>
-    <date>20190000</date>
-  </programme>
-  <programme start="20220814190000 +0000" stop="20220814200000 +0000" channel="Univision">
-    <title lang="es">Republica Deportiva</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>19800000</date>
-  </programme>
-  <programme start="20220814200000 +0000" stop="20220814210000 +0000" channel="Univision">
-    <title lang="es">La Rosa de Guadalupe</title>
-    <date>20200000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814210000 +0000" stop="20220814220000 +0000" channel="Univision">
-    <title lang="es">La Rosa de Guadalupe</title>
-    <desc>Un joven enamora a chicas de la alta sociedad por medio de las redes sociales. Un día el joven es descubierto en sus mentiras por una de sus conquistas, metiéndolo en graves problemas.....</desc>
-    <date>20180000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220814220000 +0000" stop="20220814223000 +0000" channel="Univision">
-    <title lang="es">María de todos los Ángeles</title>
-    <desc>María de todos los Ángeles es una muchacha que sueña con encontrar el verdadero amor, desilusionada por todos sus problemas amorosos invoca a todos los ángeles de la corte celestial para encontrar al ser amado; estos se le revelan en sueños dándole señales para encontrarlo, pero siempre interpreta las señales de manera equivocada, hasta que un día conoce a su vecino Albertano Santacruz, un chico romántico que pretende ser cantante de música grupera.</desc>
-    <date>20090000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220814223000 +0000" stop="20220814230000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Fin De Semana</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220814230000 +0000" stop="20220815000000 +0000" channel="Univision">
-    <title lang="es">Aquí y Ahora</title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220815000000 +0000" stop="20220815023000 +0000" channel="Univision">
-    <title lang="es">El Retador</title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220815023000 +0000" stop="20220815030000 +0000" channel="Univision">
-    <title lang="es">¿Tú Crees?</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220815030000 +0000" stop="20220815033000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Fin De Semana</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220815033000 +0000" stop="20220815033500 +0000" channel="Univision">
-    <title lang="es">Sabor de Mañana</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220815033500 +0000" stop="20220815040000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Fin De Semana</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220815040000 +0000" stop="20220815050000 +0000" channel="Univision">
-    <title lang="es">La Jugada</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20170000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220815050000 +0000" stop="20220815053000 +0000" channel="Univision">
-    <title lang="es">Vecinos</title>
-    <sub-title>01-29-2022</sub-title>
-    <date>20050000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220815053000 +0000" stop="20220815060000 +0000" channel="Univision">
-    <title lang="es">Renta Congelada</title>
-    <sub-title>10-03-2021</sub-title>
-    <date>20170000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220815060000 +0000" stop="20220815070000 +0000" channel="Univision">
-    <title lang="es">Al Punto con Jorge Ramos</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220815070000 +0000" stop="20220815080000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <date>20180000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220815080000 +0000" stop="20220815090000 +0000" channel="Univision">
-    <title lang="es">La Rosa de Guadalupe</title>
-    <date>20200000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220815090000 +0000" stop="20220815093500 +0000" channel="Univision">
-    <title lang="es">María de todos los Ángeles</title>
-    <desc>María y Doña Lucha compiten en la cocina para ganarse el corazón de Albertano.</desc>
-    <date>20090000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220815093500 +0000" stop="20220815100000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Fin De Semana</title>
-    <sub-title>08-14-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220815100000 +0000" stop="20220815110000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <date>20180000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220815110000 +0000" stop="20220815150000 +0000" channel="Univision">
-    <title lang="es">Despierta América</title>
-    <sub-title>08-15-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220815150000 +0000" stop="20220815160000 +0000" channel="Univision">
-    <title lang="es">Como Dice el Dicho</title>
-    <date>20110000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220815160000 +0000" stop="20220815163000 +0000" channel="Univision">
-    <title lang="es">Noticiero Univision - Edicion Digital</title>
-    <sub-title>08-15-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20220815163000 +0000" stop="20220815170000 +0000" channel="Univision">
-    <title lang="es">Nosotros los guapos</title>
-    <sub-title>06-04-2021</sub-title>
-    <date>20160000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220815170000 +0000" stop="20220815180000 +0000" channel="Univision">
-    <title lang="es">Hoy</title>
-    <sub-title>08-15-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220815180000 +0000" stop="20220815190000 +0000" channel="Univision">
-    <title lang="es">Contigo Sí</title>
-    <sub-title>08-15-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220815190000 +0000" stop="20220815200000 +0000" channel="Univision">
-    <title lang="es">S.O.S. Me Estoy Enamorando</title>
-    <sub-title>08-15-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220815200000 +0000" stop="20220815210000 +0000" channel="Univision">
-    <title lang="es">El Gordo y La Flaca</title>
-    <sub-title>08-15-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220815210000 +0000" stop="20220815220000 +0000" channel="Univision">
-    <title lang="es">Primer Impacto</title>
-    <sub-title>08-15-2022</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20220813190000 +0000" stop="20220813210000 +0000" channel="USANetwork">
     <title lang="en">IMSA Auto Racing</title>
     <sub-title>Michelin Pilot Challenge</sub-title>
@@ -17774,10 +16858,6 @@
       <value>51/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20220813190000 +0000" stop="20220813200000 +0000" channel="YES">
-    <title lang="en">Yankees Postgame</title>
-    <desc>A recap of today's game.</desc>
   </programme>
   <programme start="20220813200000 +0000" stop="20220813210000 +0000" channel="YES">
     <title lang="en">Yankeeography</title>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220816092036" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220816093900" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -1871,12 +1871,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220816070000 +0000" stop="20220816080000 +0000" channel="BTN">
-    <title lang="en">The B1G Show</title>
-    <sub-title>08-15-2022</sub-title>
-    <desc>A recap of action around the Big Ten Conference.</desc>
-    <date>20220000</date>
-  </programme>
   <programme start="20220816080000 +0000" stop="20220816090000 +0000" channel="BTN">
     <title lang="en">B1G Football in 60</title>
     <sub-title>Army at Wisconsin</sub-title>
@@ -1952,6 +1946,10 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9321657734.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321686872.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220816160000 +0000" stop="20220816170000 +0000" channel="BTN">
+    <title lang="en">B1G Today</title>
+    <desc>Dave Revsine breaks down the biggest stories of the day from around the Big Ten. Hear from B1G analysts, coaches, players and more as they discuss a range of sports topics.</desc>
   </programme>
   <programme start="20220816083000 +0000" stop="20220816090000 +0000" channel="BET">
     <title lang="en">Real Husbands of Hollywood</title>
@@ -3690,24 +3688,6 @@
     <desc>Bayern Munich vs. FC Barcelona in a semifinal. From Stade Ernest-Wallon in Toulouse, France.</desc>
     <date>20220000</date>
   </programme>
-  <programme start="20220816063500 +0000" stop="20220816080700 +0000" channel="Cinemax">
-    <title lang="en">The Prince</title>
-    <desc>A reformed mob enforcer journeys across the country in search of his missing, college-aged daughter, and comes up against a ruthless corporate criminal with ties to his shady past in this masterful crime drama.</desc>
-    <date>20141114</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <length units="seconds">6180</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1177725333.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1177729816.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>19/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/19.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20220816080700 +0000" stop="20220816102500 +0000" channel="Cinemax">
     <title lang="en">The Fisher King</title>
     <desc>A homeless former university professor comes to the aid of a troubled ex-shock jock, whose inflamatory comments sent a listener on a shooting spree.</desc>
@@ -3799,6 +3779,31 @@
     <star-rating system="Metascore">
       <value>43/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/43.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220816162500 +0000" stop="20220816190100 +0000" channel="Cinemax">
+    <title lang="en">The Firm</title>
+    <desc>A young lawyer discovers the firm he's hired into is controlled by the mob and attempts to escape from their clutches.</desc>
+    <date>20110523</date>
+    <category>Crime drama</category>
+    <category>Drama</category>
+    <category>Action/Adventure</category>
+    <category>Suspense/Thriller</category>
+    <category>Courtroom</category>
+    <category>Mystery</category>
+    <category>Mystery &amp; Suspense</category>
+    <category>Other</category>
+    <category>Adaptation</category>
+    <length units="seconds">9240</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7488315216.jpg" width="464" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7488315215.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>58/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20220816080000 +0000" stop="20220816090000 +0000" channel="CMT">
@@ -8516,6 +8521,12 @@
     <desc>AVP Pro Atlanta Open finals from Atlantic Station.</desc>
     <date>20220000</date>
   </programme>
+  <programme start="20220816163000 +0000" stop="20220816190000 +0000" channel="FS2">
+    <title lang="en">American Ultimate Disc League Playoff</title>
+    <sub-title>Philadelphia Phoenix at DC Breeze</sub-title>
+    <desc>Philadelphia Phoenix at DC Breeze in an East Division semifinal. From Carlini Field.</desc>
+    <date>20220000</date>
+  </programme>
   <programme start="20220816083000 +0000" stop="20220816090000 +0000" channel="FX">
     <title lang="en">Paid Programming</title>
     <desc>Paid Programming.</desc>
@@ -9609,612 +9620,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/68.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220816181500 +0000" stop="20220816201000 +0000" channel="HBO">
-    <title lang="en">Total Recall</title>
-    <desc>A 21st-century construction worker discovers that his entire memory of the past derives from a chip implanted in his brain.</desc>
-    <date>19900601</date>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Guy flick</category>
-    <category>Other</category>
-    <category>Paranormal</category>
-    <length units="seconds">6780</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10870599742.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7464465822.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>57/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/57.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220816201000 +0000" stop="20220816222500 +0000" channel="HBO">
-    <title lang="en">The Suicide Squad</title>
-    <desc>The shadowy operation Task Force X recruits notorious criminals Bloodsport, Harley Quinn, and Peacemaker to assemble a rag-tag team of their most volatile compatriots from the Belle Reve prison for a secretive mission to Corto Maltese island. Yet the anti-heroes only find themselves embroiled in a conflict against a horde of powerful foes eager to cause their violent demise.</desc>
-    <date>20210806</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">7920</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10539236549.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10361370459.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>72/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/72.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220816222500 +0000" stop="20220816232500 +0000" channel="HBO">
-    <title lang="en">Real Time With Bill Maher</title>
-    <sub-title>Ross Douthat; Rikki Schlott; Piers Morgan</sub-title>
-    <desc>Columnist Ross Douthat is the interview guest. The panelists are journalists Rikki Schlott and Piers Morgan.</desc>
-    <credits>
-      <director>Paul Casey</director>
-      <writer>Brian Jacobsmeyer</writer>
-      <producer>Matt Wood</producer>
-    </credits>
-    <date>20220809</date>
-    <category>Talk</category>
-    <category>Current affairs</category>
-    <category>Politics</category>
-    <category>Stand-up comedy</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8143887379.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11048436533.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S20E22</episode-num>
-    <episode-num system="xmltv_ns">19.21.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>43/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/43.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220816232500 +0000" stop="20220817000000 +0000" channel="HBO">
-    <title lang="en">The Rehearsal</title>
-    <sub-title>Apocalypto</sub-title>
-    <date>20220812</date>
-    <category>Comedy</category>
-    <category>Satire</category>
-    <category>Parody/Spoof</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11774745573.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11774730337.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>86/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/86.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817000000 +0000" stop="20220817020000 +0000" channel="HBO">
-    <title lang="en">Godzilla vs. Kong</title>
-    <desc>Kong embarks on a journey to return to his birthplace. However, the awakening of a brutal creature soon threatens humanity's safety, forcing Kong and some unlikely allies to fight to protect the earth. As the two mythical creatures clash, a more profound mystery soon rises to the surface.</desc>
-    <date>20210317</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Other</category>
-    <length units="seconds">6780</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10069567947.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9833335331.jpg" width="720" height="672"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>59/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/59.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817020000 +0000" stop="20220817030000 +0000" channel="HBO">
-    <title lang="en">Hard Knocks: Training Camp with the Detroit Lions</title>
-    <sub-title>2022 Episode 2</sub-title>
-    <desc>An all-access look at second-year coach Dan Campbell's Detroit Lions in training camp in Allen Park, Mich., showcasing the team's young emerging stars, established veterans, free agent additions and highly-regarded rookie hopefuls. Produced by NFL Films.</desc>
-    <credits>
-      <director>Shannon Furman</director>
-      <producer>Ross Ketover</producer>
-    </credits>
-    <date>20220810</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Football</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9045623754.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9045632890.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S18E02</episode-num>
-    <episode-num system="xmltv_ns">17.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220817030000 +0000" stop="20220817040000 +0000" channel="HBO">
-    <title lang="en">Westworld</title>
-    <sub-title>Que Será, Será</sub-title>
-    <credits>
-      <director>Jonathan Nolan</director>
-      <actor role="Armistice">Ingrid Bolsø Berdal</actor>
-      <writer>Michael Crichton</writer>
-      <producer>Jonathan Nolan</producer>
-      <composer>Ramin Djawadi</composer>
-    </credits>
-    <date>20220814</date>
-    <category>Drama</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Western</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11707777499.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707777487.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817040000 +0000" stop="20220817050000 +0000" channel="HBO">
-    <title lang="en">The Anarchists</title>
-    <sub-title>Leaving</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220817050000 +0000" stop="20220817064000 +0000" channel="HBO">
-    <title lang="en">Sleeping With the Enemy</title>
-    <desc>A battered wife is stalked by her abusive husband after faking her death to start a new life.</desc>
-    <date>20050921</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Other</category>
-    <length units="seconds">5940</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172488466.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6866302135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817064000 +0000" stop="20220817082000 +0000" channel="HBO">
-    <title lang="en">Annabelle</title>
-    <desc>An expectant mother's vintage doll becomes possessed after a satanic cult invade her home in this nightmarish tale of terror. In the aftermath of the attack, she must protect her family from the malevolent force that has attached itself to the figurine.</desc>
-    <date>20141230</date>
-    <category>Horror</category>
-    <category>Mystery</category>
-    <category>Spin-off</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1348167042.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7336639375.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>37/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/37.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817082000 +0000" stop="20220817100000 +0000" channel="HBO">
-    <title lang="en">Barely Lethal</title>
-    <desc>A teenager who has been trained since childhood to be a special-ops assassin meets her biggest challenge yet when she tries to navigate ordinary high-school life.</desc>
-    <date>20150810</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Other</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1548148939.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1812953012.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>44/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817100000 +0000" stop="20220817114500 +0000" channel="HBO">
-    <title lang="en">The Freshman</title>
-    <desc>A freshman film student earns money by running unusual errands for a mob boss (who looks a lot like Marlon Brando in "The Godfather") that include babysitting a komodo dragon.</desc>
-    <date>20041222</date>
-    <category>Comedy</category>
-    <category>Crime</category>
-    <length units="seconds">6120</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172365501.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7551792648.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>78/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/78.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817114500 +0000" stop="20220817133500 +0000" channel="HBO">
-    <title lang="en">Percy Jackson: Sea of Monsters</title>
-    <desc>This rousing fantasy adventure follows demigod Percy Jackson and his friends as they search for the fabled Golden Fleece in the infamous Sea of Monsters, where they face a zombie army, terrifying mythical creatures and a great evil.</desc>
-    <date>20131209</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Entertainment</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <length units="seconds">6360</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11707929501.jpg" width="498" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7554972115.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>39/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/39.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817133500 +0000" stop="20220817152500 +0000" channel="HBO">
-    <title lang="en">Daredevil</title>
-    <desc>Ben Affleck and Jennifer Garner make a sizzling duo in this dark and sexy adaptation of the Marvel comic. Affleck plays the blind lawyer-turned-superhero who takes on Kingpin and his rogues' gallery of villains to avenge the death of his father. Garner heats things up as the leather-clad Elektra, the daughter of a slain shipping tycoon who is out for some payback of her own.</desc>
-    <date>20050117</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Adaptation</category>
-    <length units="seconds">6180</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11702874655.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11702874657.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>42/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817152500 +0000" stop="20220817173500 +0000" channel="HBO">
-    <title lang="en">The Lost World: Jurassic Park</title>
-    <desc>The genetically engineered dinosaurs return in Steven Spielberg's sequel to "Jurassic Park." This time, they're wreaking havoc on an island near the site of the disastrous theme park. Although Dr. Malcolm (Jeff Goldblum) reluctantly travels there to remove the deadly creatures, the real trouble starts when one makes its way to San Diego. Julianne Moore, Pete Postlethwaite, Arliss Howard. .</desc>
-    <date>20120713</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <length units="seconds">7680</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5600019098.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5600049967.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>59/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/59.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817173500 +0000" stop="20220817194000 +0000" channel="HBO">
-    <title lang="en">3:10 to Yuma</title>
-    <desc>Gripping and ripping remake of the 1957 Western about a small-time rancher (Christian Bale) escorting a murderous outlaw (Russell Crowe) to a rendezvous with the law and a train that will take him to prison. Meanwhile, the desperado's henchmen try to head them off and free their leader, because without him they're "like a pack of dogs without a master." Directed by James Mangold, from a 1953 short story by Elmore Leonard. Ben Foster, Gretchen Mol, Dallas Roberts, Alan Tudyk, Peter Fonda.</desc>
-    <date>20070000</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Guy flick</category>
-    <category>Other</category>
-    <category>Remake</category>
-    <category>Western</category>
-    <category>Adaptation</category>
-    <length units="seconds">7020</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1239075362.jpg" width="554" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6915677324.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>76/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/76.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220817194000 +0000" stop="20220817220500 +0000" channel="HBO">
-    <title lang="en">F9: The Fast Saga</title>
-    <desc>Dom, Letty, and their son are living off the grid when their peace is threatened by Cipher, an old enemy. She sets on them a character from Dom's past: his estranged brother, Jakob—a skilled assassin and an incredible high-performance driver. With him intent on carrying out a plan that will destroy the world, Dom must gather his loyal crew and face the sins of his past to save everything and everyone he loves.</desc>
-    <date>20210000</date>
-  </programme>
-  <programme start="20220817220500 +0000" stop="20220817230000 +0000" channel="HBO">
-    <title lang="en">Hard Knocks: Training Camp with the Detroit Lions</title>
-    <sub-title>2022 Episode 2</sub-title>
-    <desc>An all-access look at second-year coach Dan Campbell's Detroit Lions in training camp in Allen Park, Mich., showcasing the team's young emerging stars, established veterans, free agent additions and highly-regarded rookie hopefuls. Produced by NFL Films.</desc>
-    <credits>
-      <director>Shannon Furman</director>
-      <producer>Ross Ketover</producer>
-    </credits>
-    <date>20220810</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Football</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9045623754.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9045632890.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S18E02</episode-num>
-    <episode-num system="xmltv_ns">17.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220817230000 +0000" stop="20220818000000 +0000" channel="HBO">
-    <title lang="en">The Anarchists</title>
-    <sub-title>Leaving</sub-title>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220818000000 +0000" stop="20220818021500 +0000" channel="HBO">
-    <title lang="en">The Survivor</title>
-    <desc>After being taken to a concentration camp during World War II, Polish Jew Harry Haft is forced to become a boxer and fight his fellow prisoners in order to entertain the Nazis and live. When the war ended, he decided to continue building his career, enduring soul-crushing guilt and nightmarish recollections of his time in the camp in the hopes of one day finding the first woman he fell in love with through the high-profile bouts he participates in.</desc>
-    <date>20220626</date>
-    <category>Drama</category>
-    <category>Biography</category>
-    <length units="seconds">7740</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11501193718.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11501387046.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818021500 +0000" stop="20220818031000 +0000" channel="HBO">
-    <title lang="en">Hard Knocks: Training Camp with the Detroit Lions</title>
-    <sub-title>2022 Episode 2</sub-title>
-    <desc>An all-access look at second-year coach Dan Campbell's Detroit Lions in training camp in Allen Park, Mich., showcasing the team's young emerging stars, established veterans, free agent additions and highly-regarded rookie hopefuls. Produced by NFL Films.</desc>
-    <credits>
-      <director>Shannon Furman</director>
-      <producer>Ross Ketover</producer>
-    </credits>
-    <date>20220810</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Football</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9045623754.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9045632890.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S18E02</episode-num>
-    <episode-num system="xmltv_ns">17.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220818031000 +0000" stop="20220818041000 +0000" channel="HBO">
-    <title lang="en">Industry</title>
-    <sub-title>The Fool</sub-title>
-    <credits>
-      <director>Lena Dunham</director>
-      <actor role="Eric">Ken Leung</actor>
-      <writer>Mickey Down</writer>
-    </credits>
-    <date>20220815</date>
-    <category>Drama</category>
-    <category>Finance</category>
-    <category>Workplace</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9365461793.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9365463115.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>72/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/72.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818041000 +0000" stop="20220818051000 +0000" channel="HBO">
-    <title lang="en">Westworld</title>
-    <sub-title>Que Será, Será</sub-title>
-    <credits>
-      <director>Jonathan Nolan</director>
-      <actor role="Armistice">Ingrid Bolsø Berdal</actor>
-      <writer>Michael Crichton</writer>
-      <producer>Jonathan Nolan</producer>
-      <composer>Ramin Djawadi</composer>
-    </credits>
-    <date>20220814</date>
-    <category>Drama</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Western</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11707777499.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707777487.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818051000 +0000" stop="20220818073500 +0000" channel="HBO">
-    <title lang="en">Man of Steel</title>
-    <desc>In this superhero stunner, after being sent to Earth from planet Krypton by his parents with a special object from his home planet in tow, Clark Kent grows up with the help of his earthly adopted parents and later assumes the identity of Superman and sets out to defend Earth from the villainous General Zod.</desc>
-    <date>20130625</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <length units="seconds">9600</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9687932305.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1689262146.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>55/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/55.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818073500 +0000" stop="20220818102500 +0000" channel="HBO">
-    <title lang="en">Australia</title>
-    <desc>Gripping epic, set just prior to WWII, bursts at the seams with charismatic star turns by Nicole Kidman and Hugh Jackman. She's a prim English aristocrat who returns to Australia to claim an inherited ranch, and he's a rugged drover who helps her battle wealthy land-grabbers trying to steal it from her. To make matters worse, the Japanese are threatening to invade the continent. Bryan Brown, Jack Thompson, Essie Davis, Brandon Walters. Produced, cowritten and directed by Baz Luhrmann.</desc>
-    <date>20090609</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <length units="seconds">9540</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5395782302.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5395792239.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>53/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818102500 +0000" stop="20220818115500 +0000" channel="HBO">
-    <title lang="en">My Boss's Daughter</title>
-    <desc>Ashton Kutcher stars in this zany comedy about a hapless publishing drone who jumps at the chance to house-sit for his tyrannical employer because he thinks it will help him woo the man's comely daughter (Tara Reid). David Zucker directed. Terence Stamp, Molly Shannon, Andy Richter, Michael Madsen, Carmen Electra, David Koechner.</desc>
-    <date>20050511</date>
-    <category>Comedy</category>
-    <category>Romance</category>
-    <category>Satire</category>
-    <length units="seconds">5100</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-302347716.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3978194311.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>15/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/15.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818115500 +0000" stop="20220818133000 +0000" channel="HBO">
-    <title lang="en">Airheads</title>
-    <desc>Desperate to get their music heard on the radio, members of a heavy-metal band hold a radio station hostage.</desc>
-    <date>20040929</date>
-    <category>Comedy</category>
-    <length units="seconds">4860</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1491593450.jpg" width="498" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7566309113.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>46/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/46.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818133000 +0000" stop="20220818151000 +0000" channel="HBO">
-    <title lang="en">Ride Along</title>
-    <desc>A motormouthed high-school security guard joins his girlfriend's brother, a decorated police officer, on a ride-along through the mean streets of Atlanta in this wild action comedy. In the process, he learns that life on the force is no picnic.</desc>
-    <date>20140415</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Police</category>
-    <length units="seconds">6000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-820654882.jpg" width="455" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1014105787.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>41/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/41.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818151000 +0000" stop="20220818164500 +0000" channel="HBO">
-    <title lang="en">Cellular</title>
-    <desc>"Can you find me now?" A kidnapped science teacher places a call for help using a damaged phone. She reaches a stranger, then asks him to locate and rescue her in Los Angeles. David R. Ellis directed this taut thriller, which is based on a story by writer Larry Cohen ("Phone Booth"). William H. Macy is a blast as a cop who comes to believe Evans' outrageous story.</desc>
-    <date>20081015</date>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <length units="seconds">5640</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172405385.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4292019206.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>60/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/60.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818164500 +0000" stop="20220818183500 +0000" channel="HBO">
-    <title lang="en">The League of Extraordinary Gentlemen</title>
-    <desc>Seven literary characters join together to save powerful world leaders in this ripping yarn based on the comic-book series. Sean Connery is outstanding as intrepid explorer Allan Quatermain, who heads the group that includes Captain Nemo (Naseeruddin Shah), Tom Sawyer (Shane West) and Dorian Gray (Stuart Townsend).</desc>
-    <date>20040712</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Other</category>
-    <category>Adaptation</category>
-    <length units="seconds">6720</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5051993782.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7523640721.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>30/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/30.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818183500 +0000" stop="20220818202500 +0000" channel="HBO">
-    <title lang="en">Non-Stop</title>
-    <desc>An air marshal pursues a hijacker on a nonstop flight from New York to London in this hair-raising thriller. When the mysterious villain begins killing passengers, the marshal becomes the prime suspect and must fight to clear his name.</desc>
-    <date>20140610</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Other</category>
-    <length units="seconds">6360</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-955729329.jpg" width="509" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4778326033.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>56/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/56.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220818202500 +0000" stop="20220818230500 +0000" channel="HBO">
-    <title lang="en">Dune</title>
-    <desc>This version of Frank Herbert's popular 1965 sci-fi novel is the first of a two-part adaptation. This story covers only the first half of the novel and features Paul Atreides, whose duke father, Leto, accepts the stewardship of a planet called Arrakis. Since it's the main source of a most coveted substance called the melange, the leadership of its mining industry has been contentious, which the heir of the House Atreides will soon find out.</desc>
-    <date>20211021</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Other</category>
-    <category>Adaptation</category>
-    <length units="seconds">9300</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10865047018.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10641008167.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>74/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/74.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20220816080000 +0000" stop="20220816090000 +0000" channel="HGTV">
     <title lang="en">Love It or List It</title>
     <sub-title>Mother-in-Law Matters</sub-title>
@@ -10697,36 +10102,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220816070000 +0000" stop="20220816080000 +0000" channel="HMM">
-    <title lang="en">Monk</title>
-    <sub-title>Mr. Monk Gets Stuck in Traffic</sub-title>
-    <desc>Monk, Natalie and Julie become snarled in a traffic jam after an environmentalist winds up on a deadly collision course with a gangster. Garrett: Larry Miller. Steve: Matt Champagne. Galardi: Jay Acovone. Sgt. Parnell: Steven Williams.</desc>
-    <credits>
-      <director>Randy Zisk</director>
-      <actor>David Koechner</actor>
-      <writer>Hy Conrad</writer>
-      <producer>Jane Bartelme</producer>
-      <composer>Jeff Beal</composer>
-    </credits>
-    <date>20050211</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Crime</category>
-    <category>Mystery &amp; Suspense</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172456308.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172437235.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S03E13</episode-num>
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>75/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/75.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20220816080000 +0000" stop="20220816090000 +0000" channel="HMM">
     <title lang="en">Monk</title>
     <sub-title>Mr. Monk Goes to Vegas</sub-title>
@@ -10944,6 +10319,29 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9254932625.jpg" width="720" height="690"/>
     <episode-num system="onscreen">S08E15</episode-num>
     <episode-num system="xmltv_ns">7.14.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220816160000 +0000" stop="20220816170000 +0000" channel="HMM">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title>Being of Sound Mind</sub-title>
+    <desc>Six strangers, heirs to a bitter eccentric's estate, begin to be killed off when it's learned that the fortune will be collected only by the last living heir. And Jesse and Amanda are among the six people in line for the money. Jesse: Charlie Schlatter. Amanda: Victoria Rowell. Mark: Dick Van Dyke.</desc>
+    <credits>
+      <director>Christian I. Nyby II</director>
+      <actor role="Norman Briggs">Michael Tucci</actor>
+      <writer>Terry Curtis Fox</writer>
+      <producer>Robin Madden</producer>
+      <composer>Lou Forestieri</composer>
+    </credits>
+    <date>20010302</date>
+    <category>Crime drama</category>
+    <category>Family</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9254932621.jpg" width="535" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9254932625.jpg" width="720" height="690"/>
+    <episode-num system="onscreen">S08E16</episode-num>
+    <episode-num system="xmltv_ns">7.15.</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -13569,9 +12967,6 @@
     <episode-num system="onscreen">S2022E143</episode-num>
     <episode-num system="xmltv_ns">2021.142.</episode-num>
   </programme>
-  <programme start="20220816070000 +0000" stop="20220816080000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20220816080000 +0000" stop="20220816090000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -13594,6 +12989,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220816150000 +0000" stop="20220816160000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20220816160000 +0000" stop="20220816170000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220816083000 +0000" stop="20220816090000 +0000" channel="Nickelodeon">
@@ -14587,18 +13985,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220816073000 +0000" stop="20220816080000 +0000" channel="OLY">
-    <title lang="en">PowerXL Duo Nutrisealer</title>
-    <desc>Wave Goodbye to Waste and Hello to Freshness with the PowerXL Duo NutriSealer!</desc>
-  </programme>
-  <programme start="20220816080000 +0000" stop="20220816083000 +0000" channel="OLY">
-    <title lang="en">Robin Williams: Comic Genius</title>
-    <desc>Robin Williams was truly an out-of-this-world talent! While Robin started doing stand-up in the mid-'70s, most of America first fell in love with him as the naïve and hilarious alien from the planet Ork in Mork &amp; Mindy. He became an instant superstar and with his frenetic energy and unbelievably quick wit.</desc>
-    <date>20181106</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20220816083000 +0000" stop="20220816093000 +0000" channel="OLY">
     <title lang="en">Slim Cycle V4</title>
     <desc>Don't Miss Your Chance to get the World's Most Comfortable Exercise Bike.</desc>
@@ -14631,6 +14017,17 @@
     <sub-title>Stage 11: Antequera – Valdepeñas de Jáen</sub-title>
     <desc>Stage 11 is a hilly 133km route from Antequera to Valdepeñas de Jáen, ending on a steep climb of over 20-percent in the final kilometer.</desc>
     <date>20210825</date>
+    <category>Sports</category>
+    <category>Cycling</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11915867645.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3668544440.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220816160000 +0000" stop="20220816190000 +0000" channel="OLY">
+    <title lang="en">Vuelta a España</title>
+    <sub-title>Stage 12: Jáen – Córdoba</sub-title>
+    <desc>Stage 12 in Spain is a 175km hilly ride from Jaén to Córdoba.</desc>
+    <date>20210826</date>
     <category>Sports</category>
     <category>Cycling</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11915867645.jpg" width="480" height="720"/>
@@ -15966,6 +15363,30 @@
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20220816153000 +0000" stop="20220816160000 +0000" channel="SECN">
+    <title lang="en">SEC Now</title>
+    <sub-title>08-15-2022</sub-title>
+    <desc>Daily studio discussion of all the latest Southeastern Conference news and newsmakers.</desc>
+    <date>20220815</date>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Newscast</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084287.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084286.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220816160000 +0000" stop="20220816163000 +0000" channel="SECN">
+    <title lang="en">SEC Now</title>
+    <sub-title>08-15-2022</sub-title>
+    <desc>Daily studio discussion of all the latest Southeastern Conference news and newsmakers.</desc>
+    <date>20220815</date>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Newscast</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084287.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084286.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220816163000 +0000" stop="20220816170000 +0000" channel="SECN">
     <title lang="en">SEC Now</title>
     <sub-title>08-15-2022</sub-title>
     <desc>Daily studio discussion of all the latest Southeastern Conference news and newsmakers.</desc>

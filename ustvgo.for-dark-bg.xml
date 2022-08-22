@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220822185156" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220822192011" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2416,30 +2416,6 @@
     <sub-title>Fifth Hearing on Investigation of Capitol Attack</sub-title>
     <desc>The January 6 Committee holds a fifth public hearing on the alleged pressure campaign by Trump administration officials on the Justice Department to help overturn the 2020 election results.</desc>
     <date>20220000</date>
-  </programme>
-  <programme start="20220822173000 +0000" stop="20220822180000 +0000" channel="CBS">
-    <title lang="en">The Bold and the Beautiful</title>
-    <sub-title>08-22-2022</sub-title>
-    <credits>
-      <director>Michael Stich</director>
-      <actor role="Deacon Sharpe">Sean Kanan</actor>
-      <writer>Bradley Bell</writer>
-      <producer>Rhonda Friedman</producer>
-      <composer>Fawn</composer>
-    </credits>
-    <date>20220822</date>
-    <category>Drama</category>
-    <category>Soap opera</category>
-    <category>Fashion</category>
-    <category>Romance</category>
-    <category>Troubled relationships</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10619857434.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10619857429.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S35E238</episode-num>
-    <episode-num system="xmltv_ns">34.237.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20220822180000 +0000" stop="20220822190000 +0000" channel="CBS">
     <title lang="en">The Talk</title>
@@ -14742,45 +14718,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/47.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220822173000 +0000" stop="20220822180000 +0000" channel="PBS">
-    <title lang="en">Donkey Hodie</title>
-    <sub-title>Mooing Moon Moths; Stop and Think</sub-title>
-    <desc>Donkey and Panda go looking for Mooing Moon Moths; Bob Dog forgets where he buried his boogie bone.</desc>
-    <date>20211122</date>
-    <category>Fantasy</category>
-    <category>Animated</category>
-    <category>Preschool</category>
-    <category>Puppets</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10007611805.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10007611803.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20220822180000 +0000" stop="20220822183000 +0000" channel="PBS">
-    <title lang="en">Daniel Tiger's Neighborhood</title>
-    <sub-title>Daniel's Friends Say No; Prince Wednesday Doesn't Want to Play</sub-title>
-    <desc>Daniel's friends don't want to play with him; and Prince Wednesday wants to play with his brother and not Daniel.</desc>
-    <credits>
-      <director>Vadim Kapridov</director>
-      <producer>Sarah Wallendjack</producer>
-      <composer>James Chapple</composer>
-    </credits>
-    <date>20141117</date>
-    <category>Educational</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <category>Preschool</category>
-    <category>Spin-off</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8722447447.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8722447666.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
   <programme start="20220822183000 +0000" stop="20220822190000 +0000" channel="PBS">
     <title lang="en">Let's Go Luna!</title>
     <sub-title>Gaja's Birthday/Kabaddi</sub-title>
@@ -15025,6 +14962,1435 @@
     <episode-num system="xmltv_ns">22.12.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220823020000 +0000" stop="20220823033000 +0000" channel="PBS">
+    <title lang="en">POV</title>
+    <sub-title>Through the Night</sub-title>
+    <desc>Explore the personal cost of our modern economy through the stories of two working mothers and a childcare provider, whose lives intersect at a 24-hour daycare center in New Rochelle, New York.</desc>
+    <credits>
+      <director>Laura Poitras</director>
+      <writer>Bernardo Ruiz</writer>
+      <producer>Marshall Curry</producer>
+      <composer>Todd Boekelheide</composer>
+      <editor>Rose Rosenblatt</editor>
+    </credits>
+    <date>20210510</date>
+    <category>Documentary</category>
+    <category>Anthology</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6192652835.jpg" width="481" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6192760718.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S33E14</episode-num>
+    <episode-num system="xmltv_ns">32.13.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220823033000 +0000" stop="20220823043000 +0000" channel="PBS">
+    <title lang="en">Amanpour and Company</title>
+    <sub-title>08-22-2022</sub-title>
+    <desc>In-depth conversations with newsmakers and thought leaders.</desc>
+    <date>20220822</date>
+    <category>Talk</category>
+    <category>Current affairs</category>
+    <category>Politics</category>
+    <category>Public affairs</category>
+    <category>Social issues</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8377135107.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8377135117.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E254</episode-num>
+    <episode-num system="xmltv_ns">3.253.</episode-num>
+  </programme>
+  <programme start="20220823043000 +0000" stop="20220823053000 +0000" channel="PBS">
+    <title lang="en">Antiques Roadshow</title>
+    <sub-title>Philbrook Museum Hour 3</sub-title>
+    <desc>Specialists appraise antiques and fine arts brought in by residents.</desc>
+    <credits>
+      <director>Bill Francis</director>
+      <producer>Sam Farrell</producer>
+    </credits>
+    <date>20190422</date>
+    <category>Art</category>
+    <category>Collectibles</category>
+    <category>History</category>
+    <category>Hobbies &amp; Crafts</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8857040947.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8857040950.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S23E12</episode-num>
+    <episode-num system="xmltv_ns">22.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220823053000 +0000" stop="20220823063000 +0000" channel="PBS">
+    <title lang="en">Antiques Roadshow</title>
+    <sub-title>Churchill Downs Racetrack Hour 1</sub-title>
+    <desc>At Churchill Downs Racetrack, items include a Twin Spires painted roof slate from around 1895; a 1943 Picasso ink-on-paper and 1963 letter; and an art deco brooch.</desc>
+    <credits>
+      <director>Bill Francis</director>
+      <producer>Sam Farrell</producer>
+    </credits>
+    <date>20190506</date>
+    <category>Art</category>
+    <category>Collectibles</category>
+    <category>History</category>
+    <category>Hobbies &amp; Crafts</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8857040947.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8857040950.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S23E13</episode-num>
+    <episode-num system="xmltv_ns">22.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220823063000 +0000" stop="20220823070000 +0000" channel="PBS">
+    <title lang="en">Food Flirts</title>
+    <sub-title>What Is a Food Incubator?</sub-title>
+    <desc>The Brass sisters discover what a food incubator is, learning about chutney, out-of-the-ordinary cookies and savory rugelach. They then whip up cashew and chutney treats into a "tower" of rugelach with balsamic and fluff drizzle.</desc>
+    <date>20180713</date>
+    <category>Cooking</category>
+    <category>Food</category>
+    <category>Travel</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5490708147.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5490797556.jpg" width="500" height="375"/>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220823070000 +0000" stop="20220823080000 +0000" channel="PBS">
+    <title lang="en">Queen Elizabeth's Secret Agents</title>
+    <desc>In the premiere, William Cecil, Queen Elizabeth I's spy master, intercepts a conspiracy to assassinate the queen. When he learns that Elizabeth's own cousin, Mary, Queen of Scots, is behind the plot, he lays a trap to capture and execute her.</desc>
+    <date>20170000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220823080000 +0000" stop="20220823090000 +0000" channel="PBS">
+    <title lang="en">Queen Elizabeth's Secret Agents</title>
+    <desc>Elizabeth's enemies grow in strength, but her spymaster Robert Cecil also fights an enemy within. An ambitious aristocrat is trying to take over his network. At stake is control over the aging queen and the power to choose the next King of England.</desc>
+    <date>20180000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220823090000 +0000" stop="20220823100000 +0000" channel="PBS">
+    <title lang="en">Queen Elizabeth's Secret Agents</title>
+    <desc>England has a new monarch, King James I, and Elizabeth's former spymaster Robert Cecil faces his toughest test. A group of religious extremists plans to blow up the Houses of Parliament with the king inside in what's become known as the Gunpowder Plot.</desc>
+    <date>20180000</date>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220823100000 +0000" stop="20220823103000 +0000" channel="PBS">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title>I Am Wilma Rudolph; I Am Jonas Salk</sub-title>
+    <desc>Xavier Riddle, his sister, Yadina, and their friend, Brad, meet heroes from the past -- from Eleanor Roosevelt to Leonardo da Vinci.</desc>
+    <credits>
+      <actor role="Tessai's Father">Andy Yu</actor>
+      <writer>Jennifer Daley</writer>
+    </credits>
+    <date>20210201</date>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8766769824.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8766791147.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220823103000 +0000" stop="20220823110000 +0000" channel="PBS">
+    <title lang="en">Arthur</title>
+    <sub-title>Castles in the Sky; Tipping the Scales</sub-title>
+    <desc>After their tree house collapses, the gang tries to agree on a new design for it; and strict Dr. Fugue replaces fun Mrs. Krasny for a concert.</desc>
+    <credits>
+      <director>Greg Bailey</director>
+      <writer>Marc Brown</writer>
+      <producer>Greg Bailey</producer>
+      <composer>Judith Henderson</composer>
+    </credits>
+    <date>20041227</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Preschool</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8691969468.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8691969459.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823110000 +0000" stop="20220823113000 +0000" channel="PBS">
+    <title lang="en">Molly of Denali</title>
+    <sub-title>By Sled or Snowshoe / The Shortest Birthday</sub-title>
+    <desc>Grandpa Nat and Nina are out in the field observing an active volcano when it erupts; it's winter solstice and Trini's birthday, and Molly and Tooey have planned the perfect present, a trip to Qyah's best bird-watching spot.</desc>
+    <date>20200613</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8714100631.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8714100636.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823113000 +0000" stop="20220823120000 +0000" channel="PBS">
+    <title lang="en">Wild Kratts</title>
+    <sub-title>Fossa Palooza</sub-title>
+    <desc>Chris longs to see a fossa, and he gets his wish when he falls out of the Tortuga and lands in a locale where he's surrounded by fossas.</desc>
+    <credits>
+      <director>Martin Kratt</director>
+      <writer>Eva Almos</writer>
+      <producer>Cheryl Knapp</producer>
+      <composer>Alexandre Desplat</composer>
+    </credits>
+    <date>20140831</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animals</category>
+    <category>Animated</category>
+    <category>Nature</category>
+    <category>Other</category>
+    <category>Wildlife</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8763473019.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8763473014.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E25</episode-num>
+    <episode-num system="xmltv_ns">2.24.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823120000 +0000" stop="20220823123000 +0000" channel="PBS">
+    <title lang="en">Hero Elementary</title>
+    <sub-title>The Lake Mistake; Plant Problem</sub-title>
+    <desc>The young heroes must find a way to restore a frozen lake back to its original, liquid state.</desc>
+    <date>20200604</date>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8591990182.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591990185.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823123000 +0000" stop="20220823130000 +0000" channel="PBS">
+    <title lang="en">Alma's Way</title>
+    <sub-title>Lucas Left Out; The Sweetest Treat</sub-title>
+    <desc>Lucas misses out on a trip to the Statue of Liberty; Alma and Andre help Doa and Carmen recreate an old recipe for coconetes.</desc>
+    <credits>
+      <director>Shawn Seles</director>
+      <writer>Jorge Aguirre</writer>
+    </credits>
+    <date>20220712</date>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated comedy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10598011985.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10598011983.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823130000 +0000" stop="20220823133000 +0000" channel="PBS">
+    <title lang="en">Curious George</title>
+    <sub-title>George Goes for 100; Fearless George</sub-title>
+    <desc>George loses the stripes on a 100-year-old-flag; George is fed up with taking out and then putting away his toys, which cuts into his playtime with Steve and Betsy.</desc>
+    <credits>
+      <director>Scott Heming</director>
+      <writer>Joe Fallon</writer>
+      <producer>Patty Jausoro</producer>
+      <composer>Nick Nolan</composer>
+    </credits>
+    <date>20140520</date>
+    <category>Educational</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9507686464.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-172321454.jpg" width="720" height="437"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823133000 +0000" stop="20220823140000 +0000" channel="PBS">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title>Firefighters at School; Daniel's Doll</sub-title>
+    <desc>The volunteer firefighters of the Neighborhood of Make-Believe visit Daniel's school; and Daniel can't wait to pretend to be a daddy when Grandpere gives him a new doll.</desc>
+    <credits>
+      <director>Vadim Kapridov</director>
+      <producer>Sarah Wallendjack</producer>
+      <composer>James Chapple</composer>
+    </credits>
+    <date>20170905</date>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8722447447.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8722447666.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823140000 +0000" stop="20220823143000 +0000" channel="PBS">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title>Piano Problem; Bongo-Lympics</sub-title>
+    <desc>After it's accidentally sent to Donkey's windmill, Donkey and Panda deliver Grampy's piano to him; Panda wants to win the Bongo-lympics.</desc>
+    <date>20220606</date>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <category>Puppets</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10007611805.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10007611803.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823143000 +0000" stop="20220823150000 +0000" channel="PBS">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title>Frozen Fish/Pirate Treasure</sub-title>
+    <desc>After the lake freezes over, Elinor and her friends wonder what happens to their fish friends during the wintertime. Ranger Rabbit cuts a hole in the ice to check on the fish.</desc>
+    <credits>
+      <director>Kevin Micallef</director>
+    </credits>
+    <date>20210303</date>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9074965272.png" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9074979787.png" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823150000 +0000" stop="20220823153000 +0000" channel="PBS">
+    <title lang="en">Sesame Street</title>
+    <sub-title>The Monster at the End of This Story</sub-title>
+    <desc>With a little help from his friends, Sesame Street's lovable, furry Grover learns all about bravery and ways to handle nerves.</desc>
+    <credits>
+      <director>Ken Diego</director>
+      <actor role="Leela">Nitya Vidyasagar</actor>
+      <writer>Joey Mazzarino</writer>
+      <producer>Benjamin Lehmann</producer>
+      <guest>Billie Eilish</guest>
+      <guest>Amanda Gorman</guest>
+      <guest>Kacey Musgraves</guest>
+    </credits>
+    <date>20220307</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Entertainment</category>
+    <category>Preschool</category>
+    <category>Puppets</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3237526422.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3237526423.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220823153000 +0000" stop="20220823160000 +0000" channel="PBS">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title>A Real Hoot; Amazing Tower of Igloos</sub-title>
+    <desc>Pinkalicious losies precious sleep after she befriends an owl in her backyard at bedtime.</desc>
+    <date>20191204</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5881096130.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5881096129.jpg" width="720" height="404"/>
+    <episode-num system="onscreen">S01E56</episode-num>
+    <episode-num system="xmltv_ns">0.55.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823160000 +0000" stop="20220823163000 +0000" channel="PBS">
+    <title lang="en">Dinosaur Train</title>
+    <sub-title>The Earthquake; Nursery Car</sub-title>
+    <desc>The kids meet a relative of Tank Triceratops, an early ceratopsian named Penelope Protoceratops. Later, they discover that a nursery car has been added to the train.</desc>
+    <credits>
+      <director>Craig Bartlett</director>
+      <producer>Sue Bea Montgomery</producer>
+      <composer>Mike Himelstein</composer>
+    </credits>
+    <date>20120206</date>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3580565223.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3580565233.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823163000 +0000" stop="20220823170000 +0000" channel="PBS">
+    <title lang="en">Clifford the Big Red Dog</title>
+    <sub-title>An End By Every Friend; Bailey's Starry Night!</sub-title>
+    <desc>Emily Elizabeth and her friends create a perfect ending to a book for story time. Clifford is excited to have a sleepover with Bailey.</desc>
+    <credits>
+      <director>John Over</director>
+      <producer>Vince Commisso</producer>
+      <composer>Brad Alexander</composer>
+    </credits>
+    <date>20200909</date>
+    <category>Educational</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-371359912.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-172321444.jpg" width="720" height="670"/>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823170000 +0000" stop="20220823173000 +0000" channel="PBS">
+    <title lang="en">Sesame Street</title>
+    <sub-title>The Monster at the End of This Story</sub-title>
+    <desc>With a little help from his friends, Sesame Street's lovable, furry Grover learns all about bravery and ways to handle nerves.</desc>
+    <credits>
+      <director>Ken Diego</director>
+      <actor role="Leela">Nitya Vidyasagar</actor>
+      <writer>Joey Mazzarino</writer>
+      <producer>Benjamin Lehmann</producer>
+      <guest>Billie Eilish</guest>
+      <guest>Amanda Gorman</guest>
+      <guest>Kacey Musgraves</guest>
+    </credits>
+    <date>20220307</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Entertainment</category>
+    <category>Preschool</category>
+    <category>Puppets</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3237526422.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3237526423.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220823173000 +0000" stop="20220823180000 +0000" channel="PBS">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title>Piano Problem; Bongo-Lympics</sub-title>
+    <desc>After it's accidentally sent to Donkey's windmill, Donkey and Panda deliver Grampy's piano to him; Panda wants to win the Bongo-lympics.</desc>
+    <date>20220606</date>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <category>Puppets</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10007611805.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10007611803.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823180000 +0000" stop="20220823183000 +0000" channel="PBS">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title>Daniel Can't Ride Trolley; Daniel Can't Get What He Wants</sub-title>
+    <desc>Daniel becomes upset when his mom says they'll be walking to Prince Wednesday's and not taking the trolley; and Daniel wants cookies, but Dad says no.</desc>
+    <credits>
+      <director>Vadim Kapridov</director>
+      <producer>Sarah Wallendjack</producer>
+      <composer>James Chapple</composer>
+    </credits>
+    <date>20150622</date>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8722447447.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8722447666.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823183000 +0000" stop="20220823190000 +0000" channel="PBS">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title>Stinky Fruit / Kick It Good</sub-title>
+    <desc>Leo thinks liking the taste of durian fruit is needed so he can be a great chef; Andy learns how sports differ in different parts of the world.</desc>
+    <date>20200811</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8591513696.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591513702.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823190000 +0000" stop="20220823193000 +0000" channel="PBS">
+    <title lang="en">Nature Cat</title>
+    <sub-title>What A Pearl; Wild Bee Motel</sub-title>
+    <desc>Nature Cat and his friends meet a blind dog who relies on her cane and her senses to get around; Nature Cat and the rest of the gang are looking forward to harvest beans from the garden.</desc>
+    <credits>
+      <director>Steve Daye</director>
+    </credits>
+    <date>20210604</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animals</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8714100611.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8714100620.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823193000 +0000" stop="20220823200000 +0000" channel="PBS">
+    <title lang="en">Wild Kratts</title>
+    <sub-title>Fossa Palooza</sub-title>
+    <desc>Chris longs to see a fossa, and he gets his wish when he falls out of the Tortuga and lands in a locale where he's surrounded by fossas.</desc>
+    <credits>
+      <director>Martin Kratt</director>
+      <writer>Eva Almos</writer>
+      <producer>Cheryl Knapp</producer>
+      <composer>Alexandre Desplat</composer>
+    </credits>
+    <date>20140831</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animals</category>
+    <category>Animated</category>
+    <category>Nature</category>
+    <category>Other</category>
+    <category>Wildlife</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8763473019.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8763473014.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E25</episode-num>
+    <episode-num system="xmltv_ns">2.24.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823200000 +0000" stop="20220823203000 +0000" channel="PBS">
+    <title lang="en">Alma's Way</title>
+    <sub-title>Lucas Left Out; The Sweetest Treat</sub-title>
+    <desc>Lucas misses out on a trip to the Statue of Liberty; Alma and Andre help Doa and Carmen recreate an old recipe for coconetes.</desc>
+    <credits>
+      <director>Shawn Seles</director>
+      <writer>Jorge Aguirre</writer>
+    </credits>
+    <date>20220712</date>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated comedy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10598011985.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10598011983.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823203000 +0000" stop="20220823210000 +0000" channel="PBS">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title>I Am Wilma Rudolph; I Am Jonas Salk</sub-title>
+    <desc>Xavier Riddle, his sister, Yadina, and their friend, Brad, meet heroes from the past -- from Eleanor Roosevelt to Leonardo da Vinci.</desc>
+    <credits>
+      <actor role="Tessai's Father">Andy Yu</actor>
+      <writer>Jennifer Daley</writer>
+    </credits>
+    <date>20210201</date>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8766769824.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8766791147.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220823210000 +0000" stop="20220823213000 +0000" channel="PBS">
+    <title lang="en">Odd Squad</title>
+    <sub-title>Odd Outbreak; The Perfect Lunch</sub-title>
+    <desc>Ms. O hosts a lunch for easily offended guests; and a strange medical crisis causes chaos in the Odd Squad HQ.</desc>
+    <credits>
+      <director>Stefan Scaini</director>
+      <actor role="Agent Oscar">Sean Michael Kyer</actor>
+      <producer>Blair Powers</producer>
+    </credits>
+    <date>20150112</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8291630589.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8291630598.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823213000 +0000" stop="20220823220000 +0000" channel="PBS">
+    <title lang="en">Arthur</title>
+    <sub-title>Castles in the Sky; Tipping the Scales</sub-title>
+    <desc>After their tree house collapses, the gang tries to agree on a new design for it; and strict Dr. Fugue replaces fun Mrs. Krasny for a concert.</desc>
+    <credits>
+      <director>Greg Bailey</director>
+      <writer>Marc Brown</writer>
+      <producer>Greg Bailey</producer>
+      <composer>Judith Henderson</composer>
+    </credits>
+    <date>20041227</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Preschool</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8691969468.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8691969459.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823220000 +0000" stop="20220823223000 +0000" channel="PBS">
+    <title lang="en">Molly of Denali</title>
+    <sub-title>By Sled or Snowshoe / The Shortest Birthday</sub-title>
+    <desc>Grandpa Nat and Nina are out in the field observing an active volcano when it erupts; it's winter solstice and Trini's birthday, and Molly and Tooey have planned the perfect present, a trip to Qyah's best bird-watching spot.</desc>
+    <date>20200613</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8714100631.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8714100636.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823223000 +0000" stop="20220823230000 +0000" channel="PBS">
+    <title lang="en">Ready Jet Go!</title>
+    <sub-title>Just the Right Distance From the Sun; Solar Power Rover</sub-title>
+    <desc>The kids learn the importance of Earth's distance from the sun; and how solar energy can be used almost everywhere, including on Mars.</desc>
+    <credits>
+      <director>Craig Bartlett</director>
+    </credits>
+    <date>20160218</date>
+    <category>Children</category>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Space</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3311480369.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5503597961.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220823230000 +0000" stop="20220824000000 +0000" channel="PBS">
+    <title lang="en">PBS NewsHour</title>
+    <sub-title>08-23-2022</sub-title>
+    <desc>Covering national and international issues, originating from Washington, D.C.</desc>
+    <date>20220823</date>
+    <category>Newscast</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9318264844.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9318264847.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S2022E167</episode-num>
+    <episode-num system="xmltv_ns">2021.166.</episode-num>
+  </programme>
+  <programme start="20220824000000 +0000" stop="20220824010000 +0000" channel="PBS">
+    <title lang="en">Finding Your Roots With Henry Louis Gates Jr.</title>
+    <sub-title>Fashion's Roots</sub-title>
+    <desc>Icons of style Diane Von Furstenberg, Narciso Rodriguez, and RuPaul Charles discover ancestors.</desc>
+    <credits>
+      <director>Muriel Soenens</director>
+      <writer>Henry Louis Gates Jr.</writer>
+      <producer>John Maggio</producer>
+    </credits>
+    <date>20200304</date>
+    <category>Documentary</category>
+    <category>History</category>
+    <category>Profile</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8034306506.jpg" width="523" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10945865228.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220824010000 +0000" stop="20220824020000 +0000" channel="PBS">
+    <title lang="en">American Experience</title>
+    <sub-title>The Murder of Emmett Till</sub-title>
+    <desc>Recalling the 1955 murder of a 14-year-old black youth in the Mississippi delta, an incident that could very well have launched the civil-rights movement. "He was a sacrificial lamb," says Mamie Till of her son Emmett, a fun-loving Chicago teen who was slain after whistling at a white woman outside a general store in Tallahatchee County, Miss. Less than a month after Till's mutilated body was found, two white defendants were acquitted (in 67 minutes) by an all-white jury.</desc>
+    <credits>
+      <director>Henry Hampton</director>
+      <writer>Mark Zwonitzer</writer>
+      <producer>Barak Goodman</producer>
+      <composer>Mark Adler</composer>
+      <editor>Amy Foote</editor>
+    </credits>
+    <date>20030120</date>
+    <category>Documentary</category>
+    <category>History</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10114875979.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11723111522.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S15E06</episode-num>
+    <episode-num system="xmltv_ns">14.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220824020000 +0000" stop="20220824030000 +0000" channel="PBS">
+    <title lang="en">Frontline</title>
+    <sub-title>Supreme Revenge: Battle for the Court</sub-title>
+    <desc>A partisan war for the Supreme Court culminated in Amy Coney Barrett's controversial nomination. An investigation of how a 30-year-old grievance sparked an epic and bitter political struggle for control of the country's highest court.</desc>
+    <credits>
+      <director>Michael Kirk</director>
+      <writer>Michael Kirk</writer>
+      <producer>Michael Kirk</producer>
+      <composer>John E. Low</composer>
+      <editor>Avi Lev</editor>
+    </credits>
+    <date>20201117</date>
+    <category>Documentary</category>
+    <category>Current affairs</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8355185119.jpg" width="555" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10772857868.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S39E07</episode-num>
+    <episode-num system="xmltv_ns">38.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220824030000 +0000" stop="20220824040000 +0000" channel="PBS">
+    <title lang="en">Amanpour and Company</title>
+    <sub-title>08-23-2022</sub-title>
+    <desc>In-depth conversations with newsmakers and thought leaders.</desc>
+    <date>20220823</date>
+    <category>Talk</category>
+    <category>Current affairs</category>
+    <category>Politics</category>
+    <category>Public affairs</category>
+    <category>Social issues</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8377135107.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8377135117.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E255</episode-num>
+    <episode-num system="xmltv_ns">3.254.</episode-num>
+  </programme>
+  <programme start="20220824040000 +0000" stop="20220824050000 +0000" channel="PBS">
+    <title lang="en">Finding Your Roots With Henry Louis Gates Jr.</title>
+    <sub-title>Fashion's Roots</sub-title>
+    <desc>Icons of style Diane Von Furstenberg, Narciso Rodriguez, and RuPaul Charles discover ancestors.</desc>
+    <credits>
+      <director>Muriel Soenens</director>
+      <writer>Henry Louis Gates Jr.</writer>
+      <producer>John Maggio</producer>
+    </credits>
+    <date>20200304</date>
+    <category>Documentary</category>
+    <category>History</category>
+    <category>Profile</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8034306506.jpg" width="523" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10945865228.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220824050000 +0000" stop="20220824060000 +0000" channel="PBS">
+    <title lang="en">American Experience</title>
+    <sub-title>The Murder of Emmett Till</sub-title>
+    <desc>Recalling the 1955 murder of a 14-year-old black youth in the Mississippi delta, an incident that could very well have launched the civil-rights movement. "He was a sacrificial lamb," says Mamie Till of her son Emmett, a fun-loving Chicago teen who was slain after whistling at a white woman outside a general store in Tallahatchee County, Miss. Less than a month after Till's mutilated body was found, two white defendants were acquitted (in 67 minutes) by an all-white jury.</desc>
+    <credits>
+      <director>Henry Hampton</director>
+      <writer>Mark Zwonitzer</writer>
+      <producer>Barak Goodman</producer>
+      <composer>Mark Adler</composer>
+      <editor>Amy Foote</editor>
+    </credits>
+    <date>20030120</date>
+    <category>Documentary</category>
+    <category>History</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10114875979.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11723111522.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S15E06</episode-num>
+    <episode-num system="xmltv_ns">14.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220824060000 +0000" stop="20220824070000 +0000" channel="PBS">
+    <title lang="en">Frontline</title>
+    <sub-title>Supreme Revenge: Battle for the Court</sub-title>
+    <desc>A partisan war for the Supreme Court culminated in Amy Coney Barrett's controversial nomination. An investigation of how a 30-year-old grievance sparked an epic and bitter political struggle for control of the country's highest court.</desc>
+    <credits>
+      <director>Michael Kirk</director>
+      <writer>Michael Kirk</writer>
+      <producer>Michael Kirk</producer>
+      <composer>John E. Low</composer>
+      <editor>Avi Lev</editor>
+    </credits>
+    <date>20201117</date>
+    <category>Documentary</category>
+    <category>Current affairs</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8355185119.jpg" width="555" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10772857868.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S39E07</episode-num>
+    <episode-num system="xmltv_ns">38.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220824070000 +0000" stop="20220824083000 +0000" channel="PBS">
+    <title lang="en">Independent Lens</title>
+    <sub-title>The Armor of Light</sub-title>
+    <desc>Evangelical minister Rob Schenck, an anti-abortion activist, breaks with orthodoxy—and risks alienating longtime friends—when he questions if being pro-gun is consistent with being pro-life. Joining his crusade: Lucy McBath, whose son was fatally shot in Florida in a case that cast a spotlight on Florida's "stand your ground" law.</desc>
+    <credits>
+      <director>Connie Field</director>
+      <writer>Stanley Nelson</writer>
+      <producer>Connie Field</producer>
+      <composer>Justin Melland</composer>
+      <editor>Amanda Zinoman</editor>
+    </credits>
+    <date>20160510</date>
+    <category>Documentary</category>
+    <category>Anthology</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11321915429.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11321915425.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E18</episode-num>
+    <episode-num system="xmltv_ns">16.17.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220824083000 +0000" stop="20220824090000 +0000" channel="PBS">
+    <title lang="en">Food Flirts</title>
+    <sub-title>What Is a Food Incubator?</sub-title>
+    <desc>The Brass sisters discover what a food incubator is, learning about chutney, out-of-the-ordinary cookies and savory rugelach. They then whip up cashew and chutney treats into a "tower" of rugelach with balsamic and fluff drizzle.</desc>
+    <date>20180713</date>
+    <category>Cooking</category>
+    <category>Food</category>
+    <category>Travel</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5490708147.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5490797556.jpg" width="500" height="375"/>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220824090000 +0000" stop="20220824100000 +0000" channel="PBS">
+    <title lang="en">Antiques Roadshow</title>
+    <sub-title>Churchill Downs Racetrack Hour 1</sub-title>
+    <desc>At Churchill Downs Racetrack, items include a Twin Spires painted roof slate from around 1895; a 1943 Picasso ink-on-paper and 1963 letter; and an art deco brooch.</desc>
+    <credits>
+      <director>Bill Francis</director>
+      <producer>Sam Farrell</producer>
+    </credits>
+    <date>20190506</date>
+    <category>Art</category>
+    <category>Collectibles</category>
+    <category>History</category>
+    <category>Hobbies &amp; Crafts</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8857040947.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8857040950.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S23E13</episode-num>
+    <episode-num system="xmltv_ns">22.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220824100000 +0000" stop="20220824103000 +0000" channel="PBS">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title>I Am Kate Warne; I Am Sir Arthur Conan Doyle</sub-title>
+    <desc>Brad has a tough time finding his friends during a game of hide-and-seek and decides to just give up. But Xavier and Yadina know exactly how to help him... to the Secret Museum. Our heroes are sent back in time to meet the very first female detective: Kate Warne. Watching how Kate works helps Brad see how he can finally win at hide-and-seek: by using what he knows to solve the problem.</desc>
+    <credits>
+      <actor role="Tessai's Father">Andy Yu</actor>
+      <writer>Jennifer Daley</writer>
+    </credits>
+    <date>20200806</date>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8766769824.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8766791147.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220824103000 +0000" stop="20220824110000 +0000" channel="PBS">
+    <title lang="en">Arthur</title>
+    <sub-title>Mom and Dad Have a Great Big Fight; D.W's Perfect Wish</sub-title>
+    <desc>When their parents have a big argument, Arthur and D.W. blame themselves and worry that either their mom or dad will move out. Also: D.W. tries to make her fifth birthday meaningful, unlike previous years.</desc>
+    <credits>
+      <director>Greg Bailey</director>
+      <writer>Marc Brown</writer>
+      <producer>Greg Bailey</producer>
+      <composer>Judith Henderson</composer>
+    </credits>
+    <date>19990524</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Preschool</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8691969468.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8691969459.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824110000 +0000" stop="20220824113000 +0000" channel="PBS">
+    <title lang="en">Molly of Denali</title>
+    <sub-title>Midnight Sun Fun Run; Molly Oodi' Heekha</sub-title>
+    <desc>Trini plans a Midnight Sun Fun Run surprise; Molly and Tooey learn Gwich'in river traditions to rescue a stranded Grandpa Nat.</desc>
+    <date>20220721</date>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8714100631.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8714100636.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824113000 +0000" stop="20220824120000 +0000" channel="PBS">
+    <title lang="en">Wild Kratts</title>
+    <sub-title>Panda Power Up!</sub-title>
+    <desc>The gang becomes stranded in China's bamboo forests while checking out the endangered giant panda.</desc>
+    <credits>
+      <director>Martin Kratt</director>
+      <writer>Eva Almos</writer>
+      <producer>Cheryl Knapp</producer>
+      <composer>Alexandre Desplat</composer>
+    </credits>
+    <date>20160501</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animals</category>
+    <category>Animated</category>
+    <category>Nature</category>
+    <category>Other</category>
+    <category>Wildlife</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8763473019.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8763473014.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824120000 +0000" stop="20220824123000 +0000" channel="PBS">
+    <title lang="en">Hero Elementary</title>
+    <sub-title>First Day of School, ; First Day of School,</sub-title>
+    <desc>AJ Gadgets, Lucita Sky, Sara Snap, and Benny Bubbles met on their first day of school. The Sparks crew embarks on their first mission as a team where they need to catch a baby hamster.</desc>
+    <date>20210731</date>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8591990182.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591990185.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824123000 +0000" stop="20220824130000 +0000" channel="PBS">
+    <title lang="en">Alma's Way</title>
+    <sub-title>Checkers Champ; World's Greatest</sub-title>
+    <desc>Alma helps Andre with his preparations for the checkers tournament; Alma and Rafia are on a race for the World's Greatest Artist title.</desc>
+    <credits>
+      <director>Shawn Seles</director>
+      <writer>Jorge Aguirre</writer>
+    </credits>
+    <date>20220503</date>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated comedy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10598011985.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10598011983.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824130000 +0000" stop="20220824133000 +0000" channel="PBS">
+    <title lang="en">Curious George</title>
+    <sub-title>Four Hands, Eight Arms; Oil Saves the Day</sub-title>
+    <desc>George visits Pizza and Einstein's marine rehabilitation lab; George makes banana bread to bring to the Renkins' house.</desc>
+    <credits>
+      <director>Scott Heming</director>
+      <writer>Joe Fallon</writer>
+      <producer>Patty Jausoro</producer>
+      <composer>Nick Nolan</composer>
+    </credits>
+    <date>20181001</date>
+    <category>Educational</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9507686464.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-172321454.jpg" width="720" height="437"/>
+    <episode-num system="onscreen">S10E05</episode-num>
+    <episode-num system="xmltv_ns">9.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824133000 +0000" stop="20220824140000 +0000" channel="PBS">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title>Prince Wednesday's Accident; Daniel and Miss Elaina's Kite Accident</sub-title>
+    <desc>Prince Wednesday spills paint on his pants and the floor at school, and learns that accidents happen.</desc>
+    <credits>
+      <director>Vadim Kapridov</director>
+      <producer>Sarah Wallendjack</producer>
+      <composer>James Chapple</composer>
+    </credits>
+    <date>20200818</date>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8722447447.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8722447666.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824140000 +0000" stop="20220824143000 +0000" channel="PBS">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title>Best Friends Day; Silly Sticky Situation</sub-title>
+    <desc>Donkey and Panda disagree on how to celebrate Best Friends Day; Donkey and Panda get stuck to a big glue bottle while getting ready to make a big piece of art.</desc>
+    <date>20211122</date>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <category>Puppets</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10007611805.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10007611803.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824143000 +0000" stop="20220824150000 +0000" channel="PBS">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title>A Garden For All; Band of Explorers</sub-title>
+    <desc>Elinor gives Hazel some strawberry seeds; the Exploring Club goes on a musical march in the forest.</desc>
+    <credits>
+      <director>Kevin Micallef</director>
+    </credits>
+    <date>20220120</date>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9074965272.png" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9074979787.png" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824150000 +0000" stop="20220824153000 +0000" channel="PBS">
+    <title lang="en">Sesame Street</title>
+    <sub-title>Move and Groove on Sesame Street</sub-title>
+    <desc>It's Move It Day, where everyone is encouraged to move their bodies. After spending most of his days sitting and eating cookies, Cookie Monster learns that exercise gives people energy and helps make them feel better.</desc>
+    <credits>
+      <director>Ken Diego</director>
+      <actor role="Leela">Nitya Vidyasagar</actor>
+      <writer>Joey Mazzarino</writer>
+      <producer>Benjamin Lehmann</producer>
+      <guest>Billie Eilish</guest>
+      <guest>Amanda Gorman</guest>
+      <guest>Kacey Musgraves</guest>
+    </credits>
+    <date>20210709</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Entertainment</category>
+    <category>Preschool</category>
+    <category>Puppets</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3237526422.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3237526423.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S51E35</episode-num>
+    <episode-num system="xmltv_ns">50.34.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220824153000 +0000" stop="20220824160000 +0000" channel="PBS">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title>Pinkfoot; Flossie the Mossling</sub-title>
+    <desc>Pinkalicious and Peter meet a mossling named Flossie who hears musical sounds in her stream.</desc>
+    <date>20191205</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5881096130.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5881096129.jpg" width="720" height="404"/>
+    <episode-num system="onscreen">S01E57</episode-num>
+    <episode-num system="xmltv_ns">0.56.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824160000 +0000" stop="20220824163000 +0000" channel="PBS">
+    <title lang="en">Dinosaur Train</title>
+    <sub-title>Classic in the Jurassic: Air, Water and Land; Desert Day and Night</sub-title>
+    <desc>Pterosaur-crocodile teams from each of the three Mesozoic time periods compete against each other in a race that includes flying, swimming and running. Later, the kids learn that the desert is not always hot.</desc>
+    <credits>
+      <director>Craig Bartlett</director>
+      <producer>Sue Bea Montgomery</producer>
+      <composer>Mike Himelstein</composer>
+    </credits>
+    <date>20140820</date>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3580565223.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3580565233.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824163000 +0000" stop="20220824170000 +0000" channel="PBS">
+    <title lang="en">Clifford the Big Red Dog</title>
+    <sub-title>All Grown up; Picture This</sub-title>
+    <desc>Emily Elizabeth and Clifford decide to be 'grown ups'; Emily Elizabeth and friends set out to help Samantha capture the essence of Birdwell Island via photograph.</desc>
+    <credits>
+      <director>John Over</director>
+      <producer>Vince Commisso</producer>
+      <composer>Brad Alexander</composer>
+    </credits>
+    <date>20210104</date>
+    <category>Educational</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-371359912.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-172321444.jpg" width="720" height="670"/>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824170000 +0000" stop="20220824173000 +0000" channel="PBS">
+    <title lang="en">Sesame Street</title>
+    <sub-title>Move and Groove on Sesame Street</sub-title>
+    <desc>It's Move It Day, where everyone is encouraged to move their bodies. After spending most of his days sitting and eating cookies, Cookie Monster learns that exercise gives people energy and helps make them feel better.</desc>
+    <credits>
+      <director>Ken Diego</director>
+      <actor role="Leela">Nitya Vidyasagar</actor>
+      <writer>Joey Mazzarino</writer>
+      <producer>Benjamin Lehmann</producer>
+      <guest>Billie Eilish</guest>
+      <guest>Amanda Gorman</guest>
+      <guest>Kacey Musgraves</guest>
+    </credits>
+    <date>20210709</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Entertainment</category>
+    <category>Preschool</category>
+    <category>Puppets</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3237526422.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3237526423.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S51E35</episode-num>
+    <episode-num system="xmltv_ns">50.34.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220824173000 +0000" stop="20220824180000 +0000" channel="PBS">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title>Best Friends Day; Silly Sticky Situation</sub-title>
+    <desc>Donkey and Panda disagree on how to celebrate Best Friends Day; Donkey and Panda get stuck to a big glue bottle while getting ready to make a big piece of art.</desc>
+    <date>20211122</date>
+    <category>Fantasy</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <category>Puppets</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10007611805.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10007611803.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824180000 +0000" stop="20220824183000 +0000" channel="PBS">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title>Visiting Grandpere; The Tiger Family Goes Back Home</sub-title>
+    <desc>While visiting Grandpere, Daniel notices all of the things that are different and all of the things that are the same at his house; and Grandpere takes Daniel on a special sunrise boat ride before the Tiger family heads home.</desc>
+    <credits>
+      <director>Vadim Kapridov</director>
+      <producer>Sarah Wallendjack</producer>
+      <composer>James Chapple</composer>
+    </credits>
+    <date>20170526</date>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8722447447.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8722447666.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824183000 +0000" stop="20220824190000 +0000" channel="PBS">
+    <title lang="en">Let's Go Luna</title>
+    <sub-title>Andy King of Scots / Leo the Nessie Hunter</sub-title>
+    <desc>In Edinburgh, Scotland, Andy finds out about his Scottish heritage and becomes obsessed with all things Scottish. --- Leo leads a hunt to find the elusive Loch Ness Monster.</desc>
+    <date>20211009</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8591513696.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591513702.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824190000 +0000" stop="20220824193000 +0000" channel="PBS">
+    <title lang="en">Nature Cat</title>
+    <sub-title>More Than a Monkey Wrench; Trailblazers</sub-title>
+    <desc>The gang learns that they can use tools from nature during a nature hike; Nature Cat and pals get ready to hike on a new trail.</desc>
+    <credits>
+      <director>Steve Daye</director>
+    </credits>
+    <date>20210604</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animals</category>
+    <category>Animated</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8714100611.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8714100620.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824193000 +0000" stop="20220824200000 +0000" channel="PBS">
+    <title lang="en">Wild Kratts</title>
+    <sub-title>Panda Power Up!</sub-title>
+    <desc>The gang becomes stranded in China's bamboo forests while checking out the endangered giant panda.</desc>
+    <credits>
+      <director>Martin Kratt</director>
+      <writer>Eva Almos</writer>
+      <producer>Cheryl Knapp</producer>
+      <composer>Alexandre Desplat</composer>
+    </credits>
+    <date>20160501</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animals</category>
+    <category>Animated</category>
+    <category>Nature</category>
+    <category>Other</category>
+    <category>Wildlife</category>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8763473019.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8763473014.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824200000 +0000" stop="20220824203000 +0000" channel="PBS">
+    <title lang="en">Alma's Way</title>
+    <sub-title>Checkers Champ; World's Greatest</sub-title>
+    <desc>Alma helps Andre with his preparations for the checkers tournament; Alma and Rafia are on a race for the World's Greatest Artist title.</desc>
+    <credits>
+      <director>Shawn Seles</director>
+      <writer>Jorge Aguirre</writer>
+    </credits>
+    <date>20220503</date>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated comedy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10598011985.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10598011983.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824203000 +0000" stop="20220824210000 +0000" channel="PBS">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title>I am Kate Warne; I am Sir Arthur Conan Doyle</sub-title>
+    <desc>Kate Warne helps Brad get better in playing hide-and-seek; Xavier gets help from Sir Arthur Conan Doyle in choosing a birthday present for a new girl in his class.</desc>
+    <credits>
+      <actor role="Tessai's Father">Andy Yu</actor>
+      <writer>Jennifer Daley</writer>
+    </credits>
+    <date>20200806</date>
+    <category>Action/Adventure</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8766769824.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8766791147.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220824210000 +0000" stop="20220824213000 +0000" channel="PBS">
+    <title lang="en">Odd Squad</title>
+    <sub-title>Why Did The Chicken Cross The Dimension; Off The Clock</sub-title>
+    <desc>The agents are called upon when a lost Baby Laser Chicken is found in the Austrian countryside; clocks stop working when the Odd Squad Timekeeper is struck with oddness.</desc>
+    <credits>
+      <director>Stefan Scaini</director>
+      <actor role="Agent Oscar">Sean Michael Kyer</actor>
+      <producer>Blair Powers</producer>
+    </credits>
+    <date>20220314</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8291630589.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8291630598.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220824213000 +0000" stop="20220824220000 +0000" channel="PBS">
+    <title lang="en">Arthur</title>
+    <sub-title>Mom and Dad Have a Great Big Fight; D.W's Perfect Wish</sub-title>
+    <desc>When their parents have a big argument, Arthur and D.W. blame themselves and worry that either their mom or dad will move out. Also: D.W. tries to make her fifth birthday meaningful, unlike previous years.</desc>
+    <credits>
+      <director>Greg Bailey</director>
+      <writer>Marc Brown</writer>
+      <producer>Greg Bailey</producer>
+      <composer>Judith Henderson</composer>
+    </credits>
+    <date>19990524</date>
+    <category>Children</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Preschool</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8691969468.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8691969459.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20220822170000 +0000" stop="20220822180000 +0000" channel="POP">

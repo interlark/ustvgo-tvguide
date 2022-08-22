@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220822192050" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220822194147" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -8641,7 +8641,7 @@
     <desc>Tired of chauffeuring her kids around, Marge takes a job as a driver for a transportation company. Meanwhile, Homer fills in at Moe's one night and costs the bar owner so much that Moe's forced to work a temp job as a janitor at the plant.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Sam Simon</writer>
+      <writer>John Swartzwelder</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -8667,7 +8667,7 @@
     <desc>A Nigerian king comes to Springfield to finalize a deal with Mr. Burns, and Homer is assigned to keep the royal daughter out of trouble, but when he brings her to Moe's, the barman assumes she's related to a Nigerian prince who duped him in an email scam and plots to get back his money. However, Moe finds himself falling for her.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Sam Simon</writer>
+      <writer>John Swartzwelder</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -8693,7 +8693,7 @@
     <desc>Chief Wiggum's military jet pack slams into the church, forcing Marge and the congregation to come up with some clever gambling ploys, including counting cards, to earn money for repairs to the structure.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Sam Simon</writer>
+      <writer>John Swartzwelder</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -8719,7 +8719,7 @@
     <desc>When Duffman retires, the company devises a reality-show competition to find a replacement, and Homer proves to be the winner. Because he must stay sober on the job, Homer comes to realize that beer doesn't need to be a part of having a good time.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Sam Simon</writer>
+      <writer>John Swartzwelder</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -8745,7 +8745,7 @@
     <desc>Bart's tall tale about not being involved in a bulldozer accident is a doozy, but a skeptical Marge decides to dog him all over the place until he 'fesses up. Meanwhile, Flanders gets a new dog which leads Homer to overlook Santa's Little Helper.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Sam Simon</writer>
+      <writer>John Swartzwelder</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -8771,7 +8771,7 @@
     <desc>Homer has an old roll of film developed and it exposes memories of how Lisa and Bart first started fighting with each other.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Sam Simon</writer>
+      <writer>John Swartzwelder</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -10136,29 +10136,6 @@
     <episode-num system="xmltv_ns">10.34.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220822170000 +0000" stop="20220822180000 +0000" channel="HMM">
-    <title lang="en">Diagnosis Murder</title>
-    <sub-title>Flashdance with Death</sub-title>
-    <desc>Dr. Sloan taps a few leads to identify the suspects in the murder of a dance studio's unpopular co-owner. Cindy: Paula Marshall. Shannon: Elizabeth Berkley. Sammy: Kristoff St. John.</desc>
-    <credits>
-      <director>Christian I. Nyby II</director>
-      <actor role="Norman Briggs">Michael Tucci</actor>
-      <writer>Burt Prelutsky</writer>
-      <producer>Robin Madden</producer>
-      <composer>Lou Forestieri</composer>
-    </credits>
-    <date>19940128</date>
-    <category>Crime drama</category>
-    <category>Family</category>
-    <category>Police</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9254932621.jpg" width="535" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9254932625.jpg" width="720" height="690"/>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20220822180000 +0000" stop="20220822190000 +0000" channel="HMM">
@@ -13129,9 +13106,6 @@
     <desc>Denver Broncos at Buffalo Bills. From Highmark Stadium.</desc>
     <date>20220000</date>
   </programme>
-  <programme start="20220822170000 +0000" stop="20220822180000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20220822180000 +0000" stop="20220822190000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -13154,6 +13128,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220823010000 +0000" stop="20220823020000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20220823020000 +0000" stop="20220823030000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220822183000 +0000" stop="20220822190000 +0000" channel="Nickelodeon">
@@ -14132,6 +14109,17 @@
     <sub-title>Women's Events Day 2 in Tampa, Fla.</sub-title>
     <desc>Day 2 of women's competition from the U.S. Championships in Tampa, Fla. Included: floor, balance beam, vault and uneven bars.</desc>
     <date>20220000</date>
+  </programme>
+  <programme start="20220823020000 +0000" stop="20220823040000 +0000" channel="OLY">
+    <title lang="en">Vuelta a España 2022</title>
+    <sub-title>Stage 2: 's-Hertogenbosch to Utrecht (Netherlands)</sub-title>
+    <desc>Stage 2 is a 108-mile flat stage from 's-Hertogenbosch to Utrecht in the Netherlands.</desc>
+    <date>20220820</date>
+    <category>Sports</category>
+    <category>Cycling</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11915867645.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3668544440.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20220822180000 +0000" stop="20220822190000 +0000" channel="Oxygen">
     <title lang="en">Snapped</title>
@@ -15593,19 +15581,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220822170000 +0000" stop="20220822180000 +0000" channel="SECN">
-    <title lang="en">Marty &amp; McGee</title>
-    <sub-title>Talkin' Season - SEC East Coaches</sub-title>
-    <desc>A discussion of the upcoming 2022 season with a look at the SEC East coaches.</desc>
-    <date>20220815</date>
-    <category>Sports stuff</category>
-    <category>Talk</category>
-    <category>College</category>
-    <category>Football</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8151261541.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8151259452.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20220822180000 +0000" stop="20220822190000 +0000" channel="SECN">
     <title lang="en">Marty &amp; McGee</title>
     <sub-title>Talkin' Season - SEC West Coaches</sub-title>
@@ -15693,6 +15668,30 @@
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20220823013000 +0000" stop="20220823020000 +0000" channel="SECN">
+    <title lang="en">SEC Now</title>
+    <sub-title>08-22-2022</sub-title>
+    <desc>Daily studio discussion of all the latest Southeastern Conference news and newsmakers.</desc>
+    <date>20220822</date>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Newscast</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084287.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084286.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220823020000 +0000" stop="20220823023000 +0000" channel="SECN">
+    <title lang="en">SEC Now</title>
+    <sub-title>08-22-2022</sub-title>
+    <desc>Daily studio discussion of all the latest Southeastern Conference news and newsmakers.</desc>
+    <date>20220822</date>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Newscast</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084287.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084286.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220823023000 +0000" stop="20220823030000 +0000" channel="SECN">
     <title lang="en">SEC Now</title>
     <sub-title>08-22-2022</sub-title>
     <desc>Daily studio discussion of all the latest Southeastern Conference news and newsmakers.</desc>
@@ -15950,413 +15949,6 @@
     <star-rating system="Metascore">
       <value>46/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/46.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823043700 +0000" stop="20220823053800 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Mind Your Business</sub-title>
-    <desc>Raq learns she may have a snitch and tasks Marvin with confirming the rumor. Lou brings in a potential new artist, but he and Crown disagree. Kanan helps Famous sell mix tapes. Jukebox tracks down her estranged mother.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220821</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220823053800 +0000" stop="20220823073800 +0000" channel="StarZ">
-    <title lang="en">Stomp the Yard</title>
-    <desc>Columbus Short turns out to be quite the big discovery with his impressive turn as a Los Angeles street tough who tries to fit in on an Atlanta college campus, where his step-dancing prowess gains him the attention of rival fraternities. The outstanding coming-of-age tale features kicky choreography and a knock-out hip-hop soundtrack. Music-video veteran Sylvain White is the director. Meagan Good, Darrin Henson, Harry Lennix, Ne-Yo, Brian White, Laz Alonso, Richmond Duain Martyn.</desc>
-    <date>20080527</date>
-    <category>Drama</category>
-    <category>Music</category>
-    <category>Musical</category>
-    <category>Coming of age</category>
-    <category>Dance</category>
-    <category>Romance</category>
-    <length units="seconds">6960</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172374677.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3643954533.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>44/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823073800 +0000" stop="20220823091400 +0000" channel="StarZ">
-    <title lang="en">Summertime</title>
-    <desc>This loosely structured dramedy follows the intersecting lives of 25 young Angelinos as they go about Los Angeles on a single hot summer day. A fast-food worker, a roller skating guitarist, and two aspiring rappers turn to creative self-expression to give voice to their hopes, traumas, joys, and agonies.</desc>
-    <date>20200000</date>
-    <category>Drama</category>
-    <length units="seconds">5700</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10466512925.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10466512921.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>70/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/70.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823091400 +0000" stop="20220823105200 +0000" channel="StarZ">
-    <title lang="en">Jockey</title>
-    <desc>Aging jockey Jackson refuses to admit that his body can no longer withstand the demands of the sport. When rookie jockey Gabriel arrives at the track, Jackson feels inspired by the young man's grit and vows to claim one final championship before his time is up, all the while grappling with an unexpected revelation from Gabriel.</desc>
-    <date>20220828</date>
-    <category>Drama</category>
-    <category>Animals</category>
-    <category>Horse racing</category>
-    <length units="seconds">5640</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11318192544.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11318192529.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>77/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/77.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823105200 +0000" stop="20220823124100 +0000" channel="StarZ">
-    <title lang="en">Guess Who</title>
-    <desc>A black father must deal with his racial hang-ups when his daughter brings home her white boyfriend. Comedy remake of "Guess Who's Coming to Dinner."</desc>
-    <date>20051021</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Other</category>
-    <category>Remake</category>
-    <category>Romance</category>
-    <length units="seconds">6300</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172406854.jpg" width="484" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-427512470.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>49/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/49.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823124100 +0000" stop="20220823143400 +0000" channel="StarZ">
-    <title lang="en">Paper Spiders</title>
-    <desc>A college-bound teenager tries to come to terms with her mother's escalating persecutory delusional disorder. As she prepares for her high school graduation and pursues a new romantic relationship, she tries to alleviate her mother's paranoia and its effects on their social circle.</desc>
-    <date>20200000</date>
-    <category>Drama</category>
-    <length units="seconds">6540</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10073929207.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10073929203.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>68/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/68.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823143400 +0000" stop="20220823163000 +0000" channel="StarZ">
-    <title lang="en">Thor: The Dark World</title>
-    <desc>In this thrilling fantasy sequel, Thor must team up with his mischievous brother Loki in order to defeat a Dark Elf who's plotting to destroy all of existence. Meanwhile, his true love Jane Foster is possessed by a cosmic force.</desc>
-    <date>20140224</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Other</category>
-    <category>Sequel</category>
-    <category>War</category>
-    <category>Adaptation</category>
-    <category>Superheroes</category>
-    <length units="seconds">6720</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1501099867.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4758342312.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>54/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/54.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823163000 +0000" stop="20220823183400 +0000" channel="StarZ">
-    <title lang="en">The Equalizer 2</title>
-    <desc>A retired CIA Black Ops operative seeks vengeance for his long-time friend's murder at any cost. His relentless, globe-trotting, and violent vigilante campaign takes him as far as Turkey, where he saves a girl who was kidnapped from her mother in America.</desc>
-    <date>20181108</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Other</category>
-    <category>Sequel</category>
-    <length units="seconds">7260</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6637279272.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6192238721.jpg" width="720" height="455"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>50/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/50.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823183400 +0000" stop="20220823193500 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Mind Your Business</sub-title>
-    <desc>Raq learns she may have a snitch and tasks Marvin with confirming the rumor. Lou brings in a potential new artist, but he and Crown disagree. Kanan helps Famous sell mix tapes. Jukebox tracks down her estranged mother.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220821</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220823193500 +0000" stop="20220823215100 +0000" channel="StarZ">
-    <title lang="en">A Journal for Jordan</title>
-    <desc>In the early 2000s, Charles Monroe King, a sergeant, awaits deployment to Iraq to fight in the war. He is married to Dana, and they recently had a newborn son named Jordan. Dana gifts Charles a journal notebook so he can write to his son his musings and life lessons he wants to share.</desc>
-    <date>20220525</date>
-    <category>Drama</category>
-    <category>Family</category>
-    <category>Biography</category>
-    <length units="seconds">7860</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10961159287.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10961159277.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>42/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220823215100 +0000" stop="20220823232800 +0000" channel="StarZ">
-    <title lang="en">Paradise Lost</title>
-    <desc>After being stranded in the Brazilian jungle, young American backpackers are abducted and find themselves the victims of an organ-harvesting ring. Josh Duhamel ("Las Vegas") stars in this chilling shocker. Melissa George, Olivia Wilde, Desmond Askew. Directed by John Stockwell.</desc>
-    <date>20060000</date>
-  </programme>
-  <programme start="20220823232800 +0000" stop="20220824020000 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc>Peter Parker is now unmasked, his identity as Spider-Man known to the world. In a way, he likes it that his girl MJ knows his true identity, the same with his best friend Ned and Aunt May. However, problems follow this reveal. Thus, Peter approaches Doctor Strange to help him resolve the situation by performing a specific time-altering ritual. But that also bears some unintended and problematic consequences.</desc>
-    <date>20220715</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">9000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11220379141.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11220379135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824020000 +0000" stop="20220824025700 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Mind Your Business</sub-title>
-    <desc>Raq learns she may have a snitch and tasks Marvin with confirming the rumor. Lou brings in a potential new artist, but he and Crown disagree. Kanan helps Famous sell mix tapes. Jukebox tracks down her estranged mother.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220821</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220824025700 +0000" stop="20220824050500 +0000" channel="StarZ">
-    <title lang="en">The Equalizer 2</title>
-    <desc>A retired CIA Black Ops operative seeks vengeance for his long-time friend's murder at any cost. His relentless, globe-trotting, and violent vigilante campaign takes him as far as Turkey, where he saves a girl who was kidnapped from her mother in America.</desc>
-    <date>20181108</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Other</category>
-    <category>Sequel</category>
-    <length units="seconds">7260</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6637279272.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6192238721.jpg" width="720" height="455"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>50/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/50.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824050500 +0000" stop="20220824071400 +0000" channel="StarZ">
-    <title lang="en">Vertical Limit</title>
-    <desc>An expedition to the summit of K2 results in disaster in this intense mountaineering adventure. When a sudden storm traps a billionaire, climber Annie Garrett and a guide in an icy crevasse, it's up to Annie's brother (Chris O'Donnell) to rescue them. But he soon discovers that one member of his rescue team may have his own agenda. Bill Paxton, Robin Tunney, Scott Glenn.</desc>
-    <date>20050223</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Other</category>
-    <category>Mountaineering</category>
-    <length units="seconds">7500</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172365681.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1131646765.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824071400 +0000" stop="20220824090600 +0000" channel="StarZ">
-    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
-    <desc>In 1998, the sinister Umbrella Corp unleashes a force that spurs a profound disaster across Raccoon City. A ragtag team of survivors pursues answers to the corporation's shady secrets while fighting against a horde of ravenous zombies on the outskirts of the ravaged city.</desc>
-    <date>20220209</date>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <category>Mystery</category>
-    <length units="seconds">6420</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10872944922.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10872944914.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>44/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824090600 +0000" stop="20220824104400 +0000" channel="StarZ">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc>In this farcical sequel, accomplished mall security guard Paul Blart discovers a heist plot while attending an expo in Las Vegas. His investigative prowess is needed to foil the robbery and arrest those responsible.</desc>
-    <date>20150714</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Crime</category>
-    <category>Sequel</category>
-    <length units="seconds">5640</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3456652891.jpg" width="499" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3456653848.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>13/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/13.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824104400 +0000" stop="20220824124900 +0000" channel="StarZ">
-    <title lang="en">The Equalizer 2</title>
-    <desc>A retired CIA Black Ops operative seeks vengeance for his long-time friend's murder at any cost. His relentless, globe-trotting, and violent vigilante campaign takes him as far as Turkey, where he saves a girl who was kidnapped from her mother in America.</desc>
-    <date>20181108</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Other</category>
-    <category>Sequel</category>
-    <length units="seconds">7260</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6637279272.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6192238721.jpg" width="720" height="455"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>50/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/50.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824124900 +0000" stop="20220824142600 +0000" channel="StarZ">
-    <title lang="en">Paradise Lost</title>
-    <desc>After being stranded in the Brazilian jungle, young American backpackers are abducted and find themselves the victims of an organ-harvesting ring. Josh Duhamel ("Las Vegas") stars in this chilling shocker. Melissa George, Olivia Wilde, Desmond Askew. Directed by John Stockwell.</desc>
-    <date>20060000</date>
-  </programme>
-  <programme start="20220824142600 +0000" stop="20220824161300 +0000" channel="StarZ">
-    <title lang="en">The Family Stone</title>
-    <desc>A top-flight cast led by Sarah Jessica Parker and Diane Keaton sparks this funny and poignant farce about a starchy Manhattan career woman (Parker) who muddles through the Christmas holidays with the screwy family of her black-sheep fiancé (Mulroney). Keaton is wonderful as the matriarch, and Claire Danes is a treat as Parker's much-too-likable sister. Written and directed by Thomas Bezucha. Craig T. Nelson, Rachel McAdams, Luke Wilson, Tyrone Giordano, Brian White.</desc>
-    <date>20080710</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Chick flick</category>
-    <category>Christmas</category>
-    <category>Romance</category>
-    <length units="seconds">6120</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11688079066.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7536986729.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>56/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/56.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824161300 +0000" stop="20220824175100 +0000" channel="StarZ">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc>In this farcical sequel, accomplished mall security guard Paul Blart discovers a heist plot while attending an expo in Las Vegas. His investigative prowess is needed to foil the robbery and arrest those responsible.</desc>
-    <date>20150714</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Crime</category>
-    <category>Sequel</category>
-    <length units="seconds">5640</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3456652891.jpg" width="499" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3456653848.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>13/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/13.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824175100 +0000" stop="20220824202300 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc>Peter Parker is now unmasked, his identity as Spider-Man known to the world. In a way, he likes it that his girl MJ knows his true identity, the same with his best friend Ned and Aunt May. However, problems follow this reveal. Thus, Peter approaches Doctor Strange to help him resolve the situation by performing a specific time-altering ritual. But that also bears some unintended and problematic consequences.</desc>
-    <date>20220715</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">9000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11220379141.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11220379135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220824202300 +0000" stop="20220824220600 +0000" channel="StarZ">
-    <title lang="en">The Unholy</title>
-    <desc>This film based on the novel Shrine by James Herbert sees a journalist investigate the supernatural abilities of a young girl after an alleged visit from the Virgin Mary. Traveling to a small New England town, the journalist begins to uncover a more sinister truth surrounding the girl in this gothic horror film.</desc>
-    <date>20210412</date>
-    <category>Horror</category>
-    <length units="seconds">5940</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10114910645.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10114910642.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>36/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/36.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20220822180000 +0000" stop="20220822190000 +0000" channel="SundanceTV">
@@ -19631,27 +19223,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220822140000 +0000" stop="20220822180000 +0000" channel="YES">
-    <title lang="en">MLB Baseball</title>
-    <sub-title>Toronto Blue Jays at New York Yankees</sub-title>
-    <desc>Toronto Blue Jays at New York Yankees. From Yankee Stadium.</desc>
-    <date>20220821</date>
-    <category>Pro</category>
-    <category>Baseball</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1502030884.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1502050375.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20220822180000 +0000" stop="20220822183000 +0000" channel="YES">
-    <title lang="en">Swing Clinic with Jimmy Hanlin</title>
-    <desc>PGA pro Jimmy Hanlin takes viewers to school with golf tips, rules, etiquette, exercises and more.</desc>
-    <category>Sports stuff</category>
-    <category>Golf</category>
-    <category>How-to</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11727620243.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11727620244.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20220822183000 +0000" stop="20220822190000 +0000" channel="YES">
     <title lang="en">Talkin' Yankees</title>
     <desc>Recaps, hot takes and discussions about all things Yankees.</desc>
@@ -19683,5 +19254,9 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1502030884.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1502050375.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220823020000 +0000" stop="20220823030000 +0000" channel="YES">
+    <title lang="en">Yankees Postgame</title>
+    <desc>A recap of today's game.</desc>
   </programme>
 </tv>

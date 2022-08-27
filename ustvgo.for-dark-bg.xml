@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220827104439" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220827112004" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -4417,13 +4417,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20220827040000 +0000" stop="20220827100000 +0000" channel="CW">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20220827100000 +0000" stop="20220827120000 +0000" channel="CW">
     <title lang="en">Local Programming</title>
     <desc>Local programming.</desc>
@@ -4686,13 +4679,6 @@
     </rating>
   </programme>
   <programme start="20220829200000 +0000" stop="20220830000000 +0000" channel="CW">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220827040000 +0000" stop="20220827100000 +0000" channel="CWNY">
     <title lang="en">Local Programming</title>
     <desc>Local programming.</desc>
     <rating system="VCHIP">

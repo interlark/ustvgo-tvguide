@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220827182922" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220827185042" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -4379,6 +4379,9 @@
     <sub-title>Superhero Sibling Rivalry; Close Shave</sub-title>
     <desc>Gretel battles twin villains on her own; Gretel's "hero hunch" gets her into trouble.</desc>
     <date>20220000</date>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
   </programme>
   <programme start="20220827172500 +0000" stop="20220827181500 +0000" channel="DisneyJr">
     <title lang="en">Sofia the First</title>
@@ -6085,7 +6088,7 @@
     <desc>Bob and Linda accept a Valentine's Day dinner invitation from the chef of a fancy restaurant on Kingshead Island. Meanwhile, the kids have a scheme to get cheap Valentine's Day candy, but first they'll have to make it past an unusually strict Jen the babysitter.</desc>
     <credits>
       <director>Jennifer Coyle</director>
-      <writer>Nora Smith</writer>
+      <writer>Gregory Thompson</writer>
       <producer>Jim Dauterive</producer>
       <composer>Loren Bouchard</composer>
     </credits>

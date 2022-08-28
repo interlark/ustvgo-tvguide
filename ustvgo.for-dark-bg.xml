@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220828182925" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220828185032" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -6501,7 +6501,8 @@
     <category>Cooking</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7624540769.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7624540773.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S30E22</episode-num>
+    <episode-num system="xmltv_ns">29.21.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -12612,6 +12613,9 @@
   <programme start="20220828173000 +0000" stop="20220828180000 +0000" channel="Reelz">
     <title lang="en">Cops</title>
     <sub-title>That's Not Nice</sub-title>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
     <date>20211119</date>
     <category>Reality</category>
     <category>Crime</category>
@@ -12631,6 +12635,9 @@
     <title lang="en">Cops</title>
     <sub-title>Under Cover Drug Sting</sub-title>
     <desc>A man with a suspended license flees a routine traffic stop on foot. Then, deputies respond to a battered woman after receiving a 911 hang-up call. Also, a sting operation nets a suspected drug dealer.</desc>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
     <date>20211105</date>
     <category>Reality</category>
     <category>Crime</category>
@@ -12649,6 +12656,9 @@
   <programme start="20220828183000 +0000" stop="20220828190000 +0000" channel="Reelz">
     <title lang="en">Cops</title>
     <sub-title>Im With You Guys</sub-title>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
     <date>20211119</date>
     <category>Reality</category>
     <category>Crime</category>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220828232423" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220828234517" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -429,6 +429,11 @@
     <title lang="en">America's Funniest Home Videos</title>
     <sub-title>3214</sub-title>
     <desc>Don't miss an all-new episode of "America's Funniest Home Videos," featuring sports mishaps, kids getting upset after being told their mom is expecting, and things in toilets that definitely shouldn't be.</desc>
+    <credits>
+      <director>Steve Hirsen</director>
+      <producer>Chris Cusack</producer>
+      <composer>Frank Macchia</composer>
+    </credits>
     <date>20220306</date>
     <category>Comedy</category>
     <category>Reality</category>
@@ -817,6 +822,11 @@
     <title lang="en">America's Funniest Home Videos</title>
     <sub-title>3214</sub-title>
     <desc>Don't miss an all-new episode of "America's Funniest Home Videos," featuring sports mishaps, kids getting upset after being told their mom is expecting, and things in toilets that definitely shouldn't be.</desc>
+    <credits>
+      <director>Steve Hirsen</director>
+      <producer>Chris Cusack</producer>
+      <composer>Frank Macchia</composer>
+    </credits>
     <date>20220306</date>
     <category>Comedy</category>
     <category>Reality</category>
@@ -6741,6 +6751,11 @@
     <title lang="en">Beat Shazam</title>
     <sub-title>Holding Out for a Hero!</sub-title>
     <desc>Teams try to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the popular song identification app, for the chance to win up to one million dollars. Teams battle to take home the second million-dollar prize.</desc>
+    <credits>
+      <guest>Michael Bolton</guest>
+      <guest>Shaquille O'Neal</guest>
+      <guest>Mariah Carey</guest>
+    </credits>
     <date>20220530</date>
     <category>Music</category>
     <category>Reality</category>
@@ -6905,6 +6920,11 @@
     <title lang="en">Beat Shazam</title>
     <sub-title>You're My Best Friend</sub-title>
     <desc>Three teams of besties compete to win the million dollar prize.</desc>
+    <credits>
+      <guest>Michael Bolton</guest>
+      <guest>Shaquille O'Neal</guest>
+      <guest>Mariah Carey</guest>
+    </credits>
     <date>20220829</date>
     <category>Music</category>
     <category>Reality</category>
@@ -6975,6 +6995,11 @@
     <title lang="en">Beat Shazam</title>
     <sub-title>Holding Out for a Hero!</sub-title>
     <desc>Teams try to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the popular song identification app, for the chance to win up to one million dollars. Teams battle to take home the second million-dollar prize.</desc>
+    <credits>
+      <guest>Michael Bolton</guest>
+      <guest>Shaquille O'Neal</guest>
+      <guest>Mariah Carey</guest>
+    </credits>
     <date>20220530</date>
     <category>Music</category>
     <category>Reality</category>
@@ -11005,6 +11030,9 @@
   <programme start="20220829050500 +0000" stop="20220829060500 +0000" channel="NBC">
     <title lang="en">Meet the Press</title>
     <sub-title>08-28-2022</sub-title>
+    <credits>
+      <producer>Michelle Jaconi</producer>
+    </credits>
     <date>20220828</date>
     <category>Interview</category>
     <category>Talk</category>
@@ -11012,7 +11040,8 @@
     <category>Politics</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7251949148.jpg" width="542" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7251949145.jpg" width="720" height="716"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S76E35</episode-num>
+    <episode-num system="xmltv_ns">75.34.</episode-num>
   </programme>
   <programme start="20220829060500 +0000" stop="20220829083000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

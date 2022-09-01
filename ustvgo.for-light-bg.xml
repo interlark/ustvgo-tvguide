@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220901183302" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220901192007" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -408,11 +408,6 @@
     <display-name>YES Network</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/YES.png" width="512" height="512"/>
   </channel>
-  <programme start="20220901170000 +0000" stop="20220901180000 +0000" channel="ABC">
-    <title lang="en">GMA3: What You Need To Know</title>
-    <sub-title>09-01-2022</sub-title>
-    <date>20220000</date>
-  </programme>
   <programme start="20220901180000 +0000" stop="20220901190000 +0000" channel="ABC">
     <title lang="en">General Hospital</title>
     <sub-title>09-01-2022</sub-title>
@@ -2408,31 +2403,6 @@
     <date>20220901</date>
     <category>Other</category>
     <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20220901173000 +0000" stop="20220901180000 +0000" channel="CBS">
-    <title lang="en">The Bold and the Beautiful</title>
-    <sub-title>09-01-2022</sub-title>
-    <desc>Against Deacon's desperate pleas, Sheila devises a new plan to see Finn. Liam and Brooke fear that Thomas is using his Douglas to manipulate Hope.</desc>
-    <credits>
-      <director>Michael Stich</director>
-      <actor role="Deacon Sharpe">Sean Kanan</actor>
-      <writer>Bradley Bell</writer>
-      <producer>Bradley Bell</producer>
-      <composer>Fawn</composer>
-    </credits>
-    <date>20220901</date>
-    <category>Drama</category>
-    <category>Soap opera</category>
-    <category>Fashion</category>
-    <category>Romance</category>
-    <category>Troubled relationships</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10619857434.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10619857429.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S35E246</episode-num>
-    <episode-num system="xmltv_ns">34.245.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20220901180000 +0000" stop="20220901190000 +0000" channel="CBS">
     <title lang="en">The Talk</title>
@@ -9488,6 +9458,402 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
     </star-rating>
   </programme>
+  <programme start="20220902023500 +0000" stop="20220902042500 +0000" channel="FXMovie">
+    <title lang="en">Transporter 2</title>
+    <desc>In this high-octane sequel packed with exciting car chases and martial-arts battles, an ex-Special Forces operative (Jason Statham) is working as a chauffeur for a wealthy family and springs into action when his employers' young son is kidnapped. Alessandro Gassman, Amber Valletta, Kate Nauta, Matthew Modine. Directed by Louis Leterrier.</desc>
+    <date>20080710</date>
+    <category>Action/Adventure</category>
+    <category>Suspense/Thriller</category>
+    <category>Crime</category>
+    <category>Guy flick</category>
+    <category>Martial arts</category>
+    <category>Other</category>
+    <category>Sequel</category>
+    <length units="seconds">5220</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1834373111.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7514470433.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>56/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/56.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902042500 +0000" stop="20220902064000 +0000" channel="FXMovie">
+    <title lang="en">Push</title>
+    <desc>A group of young Americans in Hong Kong who have telekinetic and psychic abilities band together to battle a sinister U.S. government agency that wants to exploit their powers.</desc>
+    <date>20091117</date>
+    <category>Suspense/Thriller</category>
+    <category>Sci-fi</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <length units="seconds">6600</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1505457915.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7548205623.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>36/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/36.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902064000 +0000" stop="20220902070000 +0000" channel="FXMovie">
+    <title lang="en">FXM Presents</title>
+    <desc>An examination of the process of making movies follows a production from script to screen.</desc>
+    <category>Documentary</category>
+    <category>Entertainment</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6922828536.jpg" width="720" height="405"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6922828536.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902070000 +0000" stop="20220902082500 +0000" channel="FXMovie">
+    <title lang="en">Wizards</title>
+    <desc>Ralph Bakshi's futuristic fable of good vs. evil. Voices by Bob Holt, Jesse Wells, Richard Romanus, David Proval, James Connell.</desc>
+    <date>20210902</date>
+    <category>Action/Adventure</category>
+    <category>Sci-fi</category>
+    <category>Cartoon</category>
+    <category>Cult classic</category>
+    <length units="seconds">4800</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-311438152.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7514140128.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220902082500 +0000" stop="20220902100000 +0000" channel="FXMovie">
+    <title lang="en">The Day the Earth Stood Still</title>
+    <desc>Washington, D.C., is visited by a pacifist outer-space alien and his impressive robot who demand the human race end aggression and warfare.</desc>
+    <date>19510000</date>
+    <category>Drama</category>
+    <category>Action/Adventure</category>
+    <category>Sci-fi</category>
+    <category>Cult classic</category>
+    <category>Adaptation</category>
+    <length units="seconds">5520</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7464499776.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7536213191.jpg" width="720" height="410"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902100000 +0000" stop="20220902110000 +0000" channel="FXMovie">
+    <title lang="en">Champagne Charlie</title>
+    <desc>A murder brings to life the story of a man who gambled with life as well as money.</desc>
+    <date>19360000</date>
+    <category>Drama</category>
+    <length units="seconds">3480</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/3/1-11349520693.jpg" width="393" height="558"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1214263369.jpg" width="720" height="563"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902110000 +0000" stop="20220902134000 +0000" channel="FXMovie">
+    <title lang="en">The Song of Bernadette</title>
+    <desc>A peasant girl named Bernadette living in 1858 Lourdes sees a vision of the Virgin Mary, sending her home town into a tumult as corrupt officials fear her influence over the townsfolk.</desc>
+    <date>20080305</date>
+    <category>Drama</category>
+    <category>History</category>
+    <category>Religion</category>
+    <category>Adaptation</category>
+    <length units="seconds">9360</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1522833206.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3265853325.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220902134000 +0000" stop="20220902152500 +0000" channel="FXMovie">
+    <title lang="en">State Fair</title>
+    <desc>Musical version of "State Fair," with Jeanne Crain, Dana Andrews, Dick Haymes, Vivian Blaine, Charles Winninger. Top enjoyment for all in this tale of a family's visit to the Iowa fair. Rodgers and Hammerstein songs include "It Might as Well Be Spring" and "It's a Grand Night for Singing." Directed by Walter Lang.</desc>
+    <date>19450000</date>
+    <category>Musical</category>
+    <length units="seconds">6000</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-384309412.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1094468990.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902152500 +0000" stop="20220902173500 +0000" channel="FXMovie">
+    <title lang="en">Carousel</title>
+    <desc>Rodgers and Hammerstein's ill-fated musical romance set in 19th-century Maine follows a onetime carousel barker in Heaven, where he's informed of a loophole that permits him to return to Earth for a day, during which he recalls a courtship with a local lass.</desc>
+    <date>19560000</date>
+    <category>Comedy-drama</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <category>Musical</category>
+    <category>Romance</category>
+    <category>Show tunes</category>
+    <category>Adaptation</category>
+    <length units="seconds">7680</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3608089324.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3608089347.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220902173500 +0000" stop="20220902190000 +0000" channel="FXMovie">
+    <title lang="en">Wizards</title>
+    <desc>Ralph Bakshi's futuristic fable of good vs. evil. Voices by Bob Holt, Jesse Wells, Richard Romanus, David Proval, James Connell.</desc>
+    <date>20210902</date>
+    <category>Action/Adventure</category>
+    <category>Sci-fi</category>
+    <category>Cartoon</category>
+    <category>Cult classic</category>
+    <length units="seconds">4800</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-311438152.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7514140128.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220902190000 +0000" stop="20220902211500 +0000" channel="FXMovie">
+    <title lang="en">Push</title>
+    <desc>A group of young Americans in Hong Kong who have telekinetic and psychic abilities band together to battle a sinister U.S. government agency that wants to exploit their powers.</desc>
+    <date>20091117</date>
+    <category>Suspense/Thriller</category>
+    <category>Sci-fi</category>
+    <category>Mystery</category>
+    <category>Other</category>
+    <length units="seconds">6600</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1505457915.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7548205623.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>36/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/36.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902211500 +0000" stop="20220902213000 +0000" channel="FXMovie">
+    <title lang="en">FXM Presents</title>
+    <desc>An examination of the process of making movies follows a production from script to screen.</desc>
+    <category>Documentary</category>
+    <category>Entertainment</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6922828536.jpg" width="720" height="405"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6922828536.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902213000 +0000" stop="20220902235000 +0000" channel="FXMovie">
+    <title lang="en">Charlie's Angels</title>
+    <desc>Elena, a young engineer, unwittingly stumbles upon new government technology that could prove dangerous for society. However, her discovery garners attention from the wrong sort of people. Now it's up to two special operatives to step in and protect the future of the planet.</desc>
+    <date>20190317</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Other</category>
+    <category>Adaptation</category>
+    <length units="seconds">7080</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7890731434.jpg" width="486" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8172643644.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>52/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/52.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902235000 +0000" stop="20220903020500 +0000" channel="FXMovie">
+    <title lang="en">Bloodshot</title>
+    <desc>This adaptation of the 1990s Valiant Comics character revolves around Ray Garrison, a resurrected soldier armed with the power of nanotechnology. After regaining memories of his former life, he rebels against the scientists who created him to pursue the man who killed him.</desc>
+    <date>20200416</date>
+    <category>Drama</category>
+    <category>Action/Adventure</category>
+    <category>Suspense/Thriller</category>
+    <category>Sci-fi</category>
+    <category>Other</category>
+    <length units="seconds">6540</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-8390142142.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8390142132.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>44/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903020500 +0000" stop="20220903042000 +0000" channel="FXMovie">
+    <title lang="en">Bloodshot</title>
+    <desc>This adaptation of the 1990s Valiant Comics character revolves around Ray Garrison, a resurrected soldier armed with the power of nanotechnology. After regaining memories of his former life, he rebels against the scientists who created him to pursue the man who killed him.</desc>
+    <date>20200416</date>
+    <category>Drama</category>
+    <category>Action/Adventure</category>
+    <category>Suspense/Thriller</category>
+    <category>Sci-fi</category>
+    <category>Other</category>
+    <length units="seconds">6540</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-8390142142.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8390142132.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>44/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903042000 +0000" stop="20220903064000 +0000" channel="FXMovie">
+    <title lang="en">Girls Trip</title>
+    <desc>Four gal pals decide they need to take a vacation together after five years apart, and head to New Orleans to have a wild time at the Essence Festival. This winning comedy follows them as they party hard while confronting their personal issues and romantic dilemmas.</desc>
+    <date>20171018</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Romance</category>
+    <length units="seconds">7320</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5202361384.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5202698339.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>71/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903064000 +0000" stop="20220903070000 +0000" channel="FXMovie">
+    <title lang="en">FXM Presents</title>
+    <desc>An examination of the process of making movies follows a production from script to screen.</desc>
+    <category>Documentary</category>
+    <category>Entertainment</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6922828536.jpg" width="720" height="405"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6922828536.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220903070000 +0000" stop="20220903084000 +0000" channel="FXMovie">
+    <title lang="en">My Cousin Rachel</title>
+    <desc>About the attraction between an enigmatic woman and a vengeful young man.</desc>
+    <date>19520000</date>
+    <category>Drama</category>
+    <length units="seconds">5880</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-511756895.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6905610524.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903084000 +0000" stop="20220903100000 +0000" channel="FXMovie">
+    <title lang="en">The Horror of It All</title>
+    <desc>A salesman accompanies his fiancée to a gloomy mansion to meet her family. Pat Boone, Erica Rogers, Jack Bligh. Cornwallis: Dennis Price. Grandpa: Erik Chitty. Natalia: Andree Melly. Reginald: Valentine Dyall. Muldoon: Archie Duncan. Directed by Terence Fisher.</desc>
+    <date>19640000</date>
+    <category>Comedy</category>
+    <category>Horror</category>
+    <category>Paranormal</category>
+    <length units="seconds">4500</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5559784279.jpg" width="479" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5559794175.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903100000 +0000" stop="20220903111500 +0000" channel="FXMovie">
+    <title lang="en">Berlin Correspondent</title>
+    <desc>Spy thriller about an American newscaster (Dana Andrews) in Germany before Pearl Harbor. Virginia Gilmore. Von Rau: Martin Kosleck. Carla: Mona Maris. Weiner: Kurt Katch. Dietrich: Sig Ruman. Fairly exciting despite a wildly improbable script. Directed by Eugene Forde.</desc>
+    <date>19420000</date>
+    <category>Drama</category>
+    <category>Espionage</category>
+    <length units="seconds">4200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/3/1-11349517620.jpg" width="393" height="558"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220903111500 +0000" stop="20220903131500 +0000" channel="FXMovie">
+    <title lang="en">In Like Flint</title>
+    <desc>A secret agent tries to take down a group of nefarious women who are replacing astronauts with doubles in order to gain access to missiles. A sequel to 1965's "Our Man Flint."</desc>
+    <date>19670000</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Aviation</category>
+    <category>Espionage</category>
+    <category>Romance</category>
+    <category>Sequel</category>
+    <length units="seconds">6900</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1054370587.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1054370588.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903131500 +0000" stop="20220903152000 +0000" channel="FXMovie">
+    <title lang="en">The Kremlin Letter</title>
+    <desc>Noel Behn's espionage novel about intelligence agents caught up in Cold War intrigue. Bibi Andersson, Richard Boone, Max von Sydow, Orson Welles, Patrick O'Neal, Barbara Parkins, George Sanders, Nigel Green. Highwayman: Dean Jagger. Sophie: Lila Kedrova. Directed by John Huston.</desc>
+    <date>19700000</date>
+    <category>Drama</category>
+    <category>Espionage</category>
+    <category>Adaptation</category>
+    <length units="seconds">6780</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172541670.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1154397801.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220903152000 +0000" stop="20220903165500 +0000" channel="FXMovie">
+    <title lang="en">The Salzburg Connection</title>
+    <desc>Helen MacInnes's spy yarn about the hunt for WWII documents. Barry Newman, Anna Karina, Karen Jensen, Klaus-Maria Brandauer, Joe Maross. Zauner: Wolfgang Preiss. Grell: Helmut Schmid. Anton: Udo Kier. Newhart: Whit Bissell. Trudi: Elisabeth Felchner. Lee H. Katzin directed.</desc>
+    <date>19720000</date>
+    <category>Action/Adventure</category>
+    <category>War</category>
+    <length units="seconds">5520</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3640544937.jpg" width="479" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3640597337.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903165500 +0000" stop="20220903190000 +0000" channel="FXMovie">
+    <title lang="en">How to Steal a Million</title>
+    <desc>An art forger's daughter unwittingly enlists the aid of a detective to rob a museum, and he plans on arresting all of them when the job is done.</desc>
+    <date>20051101</date>
+    <category>Comedy</category>
+    <category>Crime</category>
+    <category>Romance</category>
+    <length units="seconds">7380</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11411653676.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11411653675.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903190000 +0000" stop="20220903212000 +0000" channel="FXMovie">
+    <title lang="en">Charlie's Angels</title>
+    <desc>Elena, a young engineer, unwittingly stumbles upon new government technology that could prove dangerous for society. However, her discovery garners attention from the wrong sort of people. Now it's up to two special operatives to step in and protect the future of the planet.</desc>
+    <date>20190317</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Other</category>
+    <category>Adaptation</category>
+    <length units="seconds">7080</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7890731434.jpg" width="486" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8172643644.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>52/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/52.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903212000 +0000" stop="20220903234000 +0000" channel="FXMovie">
+    <title lang="en">Girls Trip</title>
+    <desc>Four gal pals decide they need to take a vacation together after five years apart, and head to New Orleans to have a wild time at the Essence Festival. This winning comedy follows them as they party hard while confronting their personal issues and romantic dilemmas.</desc>
+    <date>20171018</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Romance</category>
+    <length units="seconds">7320</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5202361384.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5202698339.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>71/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
   <programme start="20220901173000 +0000" stop="20220901180000 +0000" channel="FXX">
     <title lang="en">The Cleveland Show</title>
     <sub-title>How Cleveland Got His Groove Back</sub-title>
@@ -9980,39 +10346,6 @@
     <sub-title>Dana Open</sub-title>
     <date>20220000</date>
   </programme>
-  <programme start="20220901173000 +0000" stop="20220901180000 +0000" channel="GSN">
-    <title lang="en">Match Game</title>
-    <sub-title>Fannie Flagg, Jo Ann Pflug, Avery Schreiber, Richard Dawson, Charles Nelson Reilly, Brett Somers</sub-title>
-    <desc>Two contestants try to match six celebrities in a game of fill-in the missing blank.</desc>
-    <credits>
-      <director>Marc Breslow</director>
-      <producer>Ira Skutch</producer>
-    </credits>
-    <date>20210716</date>
-    <category>Comedy</category>
-    <category>Game show</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8929859045.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8929859040.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220901180000 +0000" stop="20220901183000 +0000" channel="GSN">
-    <title lang="en">America Says</title>
-    <sub-title>The EMTs vs. The Wilsons</sub-title>
-    <desc>Two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <date>20210802</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Game show</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20220901183000 +0000" stop="20220901190000 +0000" channel="GSN">
     <title lang="en">America Says</title>
     <sub-title>Lady Leaders vs. Dads of Daughters</sub-title>
@@ -10223,19 +10556,1265 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220901160000 +0000" stop="20220901180000 +0000" channel="Hallmark">
-    <title lang="en">All Things Valentine</title>
-    <desc>A blogger who's sour on love changes her tune when she meets a charming veterinarian. However, problems soon arise when she realizes he blames his recent breakup on her blog and has been posting nasty comments on it.</desc>
-    <date>20160131</date>
-    <category>Drama</category>
-    <category>Romance</category>
-    <category>Valentines day</category>
-    <length units="seconds">7200</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11188090379.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3279765007.jpg" width="720" height="360"/>
+  <programme start="20220902020000 +0000" stop="20220902023000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>05-07-2018</sub-title>
+    <desc>Two families of five face off to name the top responses to questions posed to 100 people.</desc>
+    <date>20180507</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902023000 +0000" stop="20220902030000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>05-08-2018</sub-title>
+    <desc>Two families of five face off to name the top responses to questions posed to 100 people.</desc>
+    <date>20180508</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902030000 +0000" stop="20220902033000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>02-13-2019</sub-title>
+    <desc>The Robinson family and the Shaw family compete to guess the answers to various surveys.</desc>
+    <date>20190213</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E527</episode-num>
+    <episode-num system="xmltv_ns">16.526.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902033000 +0000" stop="20220902040000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>02-14-2019</sub-title>
+    <desc>The Robinson family and the Randerson family compete to guess the answers to various surveys.</desc>
+    <date>20190214</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E529</episode-num>
+    <episode-num system="xmltv_ns">16.528.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902040000 +0000" stop="20220902043000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>Hagemann Family vs Grier Family</sub-title>
+    <desc>Steve Harvey hosts the the long-running classic, in which two families compete to guess the answers to various surveys.</desc>
+    <date>20180602</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E178</episode-num>
+    <episode-num system="xmltv_ns">16.177.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902043000 +0000" stop="20220902050000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>Grier Family vs Mccann Family</sub-title>
+    <desc>Steve Harvey hosts the the long-running classic, in which two families compete to guess the answers to various surveys.</desc>
+    <date>20180602</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E179</episode-num>
+    <episode-num system="xmltv_ns">16.178.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902050000 +0000" stop="20220902053000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Video Game Rivals vs. Holistic Hippies</sub-title>
+    <desc>Video game rivals compete against holistic hippies in racing against time to guess how America filled in the blanks.</desc>
+    <date>20220526</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902053000 +0000" stop="20220902060000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Lady Wrestlers vs. Faculty Lounge</sub-title>
+    <desc>The Lady Wrestlers and the Faculty Lounge guess answers to survey questions.</desc>
+    <date>20180815</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E44</episode-num>
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902060000 +0000" stop="20220902063000 +0000" channel="GSN">
+    <title lang="en">Master Minds</title>
+    <sub-title>Trivia, Smarts &amp; Liquid Fire</sub-title>
+    <desc>Brooke Burns hosts as three educators take on some of the greatest minds in trivia, including Ken Jennings, in an exciting showdown of smarts and strategy.</desc>
+    <credits>
+      <producer>Tim Parker</producer>
+      <guest>Muffy Marracco</guest>
+      <guest>Jonathan Corbblah</guest>
+      <guest>Erik Braa</guest>
+    </credits>
+    <date>20200504</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <category>Celebrities</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10347541316.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10347541313.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+  </programme>
+  <programme start="20220902063000 +0000" stop="20220902070000 +0000" channel="GSN">
+    <title lang="en">Common Knowledge</title>
+    <sub-title>Servers vs. Collectors</sub-title>
+    <desc>Servers compete against collectors in a race to guess survey questions.</desc>
+    <date>20200113</date>
+    <category>Talk</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8918115478.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8918115470.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902070000 +0000" stop="20220902073000 +0000" channel="GSN">
+    <title lang="en">Winsanity</title>
+    <sub-title>Let It Ride!</sub-title>
+    <desc>"Let It Ride!" Donald Faison hosts this all-new head-to-head version of the game show in which two contestants rank pop culture facts, including the average age of a Harley-Davidson rider.</desc>
+    <date>20180523</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8885408457.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8885408445.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902073000 +0000" stop="20220902080000 +0000" channel="GSN">
+    <title lang="en">Divided</title>
+    <sub-title>Too Much Estrogen?</sub-title>
+    <desc>Four strangers, including a cage fighter and an attorney, must debate and unanimously agree against a racing clock; the longer they take, the less money they bank.</desc>
+    <date>20170218</date>
+    <category>Game show</category>
+    <category>Debate</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922319172.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922319162.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902080000 +0000" stop="20220902083000 +0000" channel="GSN">
+    <title lang="en">Crepe Erase Ultra</title>
+    <desc>Crepe Erase Ultra visibly transforms your skin with 9 super hydrators! Tune in to see how Jane Seymour and Kate Walsh keep their skin so smooth. Treat and repair the look of crepey skin.Shop at CrepeErase.com</desc>
+    <date>20220717</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902083000 +0000" stop="20220902090000 +0000" channel="GSN">
+    <title lang="en">Crepe Erase Ultra</title>
+    <desc>Crepe Erase Ultra visibly transforms your skin with 9 super hydrators! Tune in to see how Kate Walsh and Jane Seymour keep their skin so smooth. Dr. Ordon shares how you can visibly treat and repair the look of crepey skin. CrepeErase.com</desc>
+    <date>20201001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902090000 +0000" stop="20220902093000 +0000" channel="GSN">
+    <title lang="en">Inogen Portable Oxygen – No More Tanks!</title>
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+  </programme>
+  <programme start="20220902093000 +0000" stop="20220902100000 +0000" channel="GSN">
+    <title lang="en">Served at Camp Lejeune or New River?</title>
+    <desc>If you served at Marine Corps Base Camp Lejeune or New River Air Station from 1953 to 1987 and you or a family member was diagnosed with cancer or another disease, you may be entitled to compensation. Call now for a free case review.</desc>
+    <date>20220621</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902100000 +0000" stop="20220902103000 +0000" channel="GSN">
+    <title lang="en">Blair Underwood V2</title>
+    <desc>Award winning actor, Blair Underwood uncovers the ultimate all natural solution for joint pain from inflammation</desc>
+    <date>20210303</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902103000 +0000" stop="20220902110000 +0000" channel="GSN">
+    <title lang="en">Served at Camp Lejeune or New River?</title>
+    <desc>If you served at Marine Corps Base Camp Lejeune or New River Air Station from 1953 to 1987 and you or a family member was diagnosed with cancer or another disease, you may be entitled to compensation. Call now for a free case review.</desc>
+    <date>20220621</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902110000 +0000" stop="20220902113000 +0000" channel="GSN">
+    <title lang="en">Funny You Should Ask</title>
+    <sub-title>05-27-2022</sub-title>
+    <desc>In this comedy game show, a panel of comedians provide humorous answers to trivia questions, while contestants try and guess if their answers are correct for a chance to win a cash prize. Jon Kelley hosts.</desc>
+    <date>20220527</date>
+    <category>Comedy</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8143711934.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8143711933.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902113000 +0000" stop="20220902120000 +0000" channel="GSN">
+    <title lang="en">Funny You Should Ask</title>
+    <sub-title>05-27-2022</sub-title>
+    <desc>In this comedy game show, a panel of comedians provide humorous answers to trivia questions, while contestants try and guess if their answers are correct for a chance to win a cash prize. Jon Kelley hosts.</desc>
+    <date>20220527</date>
+    <category>Comedy</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8143711934.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8143711933.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902120000 +0000" stop="20220902123000 +0000" channel="GSN">
+    <title lang="en">Catch 21</title>
+    <sub-title>Episode 4017</sub-title>
+    <desc>Contestants answer pop trivia questions to try to build the closest hand to 21 without "busting" in this fast-action game of knowledge, nerve and strategy.</desc>
+    <date>20180615</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Card game</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8918076779.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8918076775.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E17</episode-num>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+    <rating system="VCHIP">
       <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220902123000 +0000" stop="20220902130000 +0000" channel="GSN">
+    <title lang="en">Catch 21</title>
+    <sub-title>Episode 4019</sub-title>
+    <desc>Contestants answer pop trivia questions to try to build the closest hand to 21 without "busting" in this fast-action game of knowledge, nerve and strategy.</desc>
+    <date>20180618</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Card game</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8918076779.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8918076775.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E19</episode-num>
+    <episode-num system="xmltv_ns">3.18.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220902130000 +0000" stop="20220902133000 +0000" channel="GSN">
+    <title lang="en">Master Minds</title>
+    <sub-title>Trivia, Smarts &amp; Dairy Cows</sub-title>
+    <desc>Brooke Burns hosts as three challengers take on some of the greatest minds in trivia in an exciting showdown of smarts and strategy.</desc>
+    <credits>
+      <producer>Tim Parker</producer>
+      <guest>Muffy Marracco</guest>
+      <guest>Jonathan Corbblah</guest>
+      <guest>Erik Braa</guest>
+    </credits>
+    <date>20200505</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <category>Celebrities</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10347541316.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10347541313.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+  </programme>
+  <programme start="20220902133000 +0000" stop="20220902140000 +0000" channel="GSN">
+    <title lang="en">Master Minds</title>
+    <sub-title>Trivia, Smarts &amp; Moon Landings</sub-title>
+    <desc>The segments include: "Trivia, Smarts, and Moon Landings."</desc>
+    <credits>
+      <producer>Tim Parker</producer>
+      <guest>Muffy Marracco</guest>
+      <guest>Jonathan Corbblah</guest>
+      <guest>Erik Braa</guest>
+    </credits>
+    <date>20200515</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <category>Celebrities</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10347541316.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10347541313.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E30</episode-num>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+  </programme>
+  <programme start="20220902140000 +0000" stop="20220902143000 +0000" channel="GSN">
+    <title lang="en">People Puzzler</title>
+    <sub-title>Just Say Beyoncé</sub-title>
+    <desc>Contestants put their pop culture knowledge to the test, competing for a cash prize.</desc>
+    <date>20211220</date>
+    <category>Interview</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9603665462.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9603665455.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E59</episode-num>
+    <episode-num system="xmltv_ns">1.58.</episode-num>
+  </programme>
+  <programme start="20220902143000 +0000" stop="20220902150000 +0000" channel="GSN">
+    <title lang="en">People Puzzler</title>
+    <sub-title>Dancing Queens</sub-title>
+    <desc>Contestants put their pop culture knowledge to the test, competing for a cash prize.</desc>
+    <date>20210211</date>
+    <category>Interview</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9603665462.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9603665455.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20220902150000 +0000" stop="20220902153000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>The Asuncions vs. Rock and Roll Crew</sub-title>
+    <desc>The Asuncions and Rock and Roll Crew guess how America filled in the blanks on survey questions.</desc>
+    <date>20210625</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902153000 +0000" stop="20220902160000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Dance Moms vs. Band Buddies</sub-title>
+    <desc>Dancing moms and band members play against each other in guessing how several survey questions were answered.</desc>
+    <date>20190906</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E35</episode-num>
+    <episode-num system="xmltv_ns">2.34.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902160000 +0000" stop="20220902170000 +0000" channel="GSN">
+    <title lang="en">Deal or No Deal</title>
+    <sub-title>Episode 136</sub-title>
+    <desc>Contestants choose from 26 briefcases containing varying amounts of money, while dealing with "The Banker"to eliminate cases in hopes of securing the top prize of one million dollars.</desc>
+    <credits>
+      <director>R. Brian DiPirro</director>
+    </credits>
+    <date>20060517</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8918163590.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8918163582.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E36</episode-num>
+    <episode-num system="xmltv_ns">0.35.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>48/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902170000 +0000" stop="20220902173000 +0000" channel="GSN">
+    <title lang="en">Match Game</title>
+    <sub-title>Fannie Flagg, Jo Ann Pflug, Avery Schreiber, Richard Dawson, Charles Nelson Reilly, Brett Somers</sub-title>
+    <desc>Two contestants try to match six celebrities in a game of fill-in the missing blank.</desc>
+    <credits>
+      <director>Marc Breslow</director>
+      <producer>Ira Skutch</producer>
+    </credits>
+    <date>20210719</date>
+    <category>Comedy</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8929859045.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8929859040.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902173000 +0000" stop="20220902180000 +0000" channel="GSN">
+    <title lang="en">Match Game</title>
+    <sub-title>Fannie Flagg, Jo Ann Pflug, Avery Schreiber, Richard Dawson, Charles Nelson Reilly, Brett Somers</sub-title>
+    <desc>Two contestants try to match six celebrities in a game of fill-in the missing blank.</desc>
+    <credits>
+      <director>Marc Breslow</director>
+      <producer>Ira Skutch</producer>
+    </credits>
+    <date>20210719</date>
+    <category>Comedy</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8929859045.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8929859040.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902180000 +0000" stop="20220902183000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Crown Chasers vs. Friendly Fliers</sub-title>
+    <desc>Crown Chasers and Friendly Fliers guess how America answered a series of survey questions.</desc>
+    <date>20190918</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E43</episode-num>
+    <episode-num system="xmltv_ns">2.42.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902183000 +0000" stop="20220902190000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Trivia Masters vs. Carpoolers</sub-title>
+    <desc>Trivia Masters and Carpoolers race against a clock to guess how America filled in the blanks on a series of survey questions.</desc>
+    <date>20190902</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E31</episode-num>
+    <episode-num system="xmltv_ns">2.30.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902190000 +0000" stop="20220902193000 +0000" channel="GSN">
+    <title lang="en">25 Words or Less</title>
+    <sub-title>09-26-2019</sub-title>
+    <desc>Meredith Vieira presents two teams comprised of celebrities and civilians who compete against each other in a fast-paced word game with a top prize of $10,000.</desc>
+    <credits>
+      <director>Manny Rodriguez</director>
+    </credits>
+    <date>20190926</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11799613856.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11799613848.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E39</episode-num>
+    <episode-num system="xmltv_ns">0.38.</episode-num>
+  </programme>
+  <programme start="20220902193000 +0000" stop="20220902200000 +0000" channel="GSN">
+    <title lang="en">25 Words or Less</title>
+    <sub-title>10-03-2019</sub-title>
+    <desc>This show pits two teams of celebrities and civilians against each other in a fast-paced word game with a top prize of $10,000.</desc>
+    <credits>
+      <director>Manny Rodriguez</director>
+    </credits>
+    <date>20190926</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11799613856.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11799613848.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E40</episode-num>
+    <episode-num system="xmltv_ns">0.39.</episode-num>
+  </programme>
+  <programme start="20220902200000 +0000" stop="20220902210000 +0000" channel="GSN">
+    <title lang="en">The $100,000 Pyramid</title>
+    <sub-title>Joe Gatto vs. Sal Vulcano and Roselyn Sanchez vs. Ross Mathews</sub-title>
+    <desc>Joe Gatto vs. Sal Vulcano; and Roselyn Sanchez vs. Ross Mathews.</desc>
+    <credits>
+      <director>Richard Dipirro</director>
+    </credits>
+    <date>20190707</date>
+    <category>Game show</category>
+    <category>Celebrities</category>
+    <category>Reboot/Reimagining</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11755668452.jpg" width="486" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11755668450.jpg" width="720" height="532"/>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>74/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/74.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902210000 +0000" stop="20220902213000 +0000" channel="GSN">
+    <title lang="en">Chain Reaction</title>
+    <sub-title>Puga Family vs. Cabaret Kids</sub-title>
+    <desc>Puga Family and Cabaret Kids compete to form chains composed of two-word phrases.</desc>
+    <credits>
+      <director>Matthew Cohen</director>
+      <writer>Taylor Humphries</writer>
+    </credits>
+    <date>20211221</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9604784325.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9604784316.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902213000 +0000" stop="20220902220000 +0000" channel="GSN">
+    <title lang="en">Chain Reaction</title>
+    <sub-title>Flying Divas vs. Parade Planners</sub-title>
+    <desc>Flying Divas and Parade Planners compete to form chains composed of two-word phrases.</desc>
+    <credits>
+      <director>Matthew Cohen</director>
+      <writer>Taylor Humphries</writer>
+    </credits>
+    <date>20211220</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9604784325.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9604784316.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902220000 +0000" stop="20220902223000 +0000" channel="GSN">
+    <title lang="en">People Puzzler</title>
+    <sub-title>Noodles to You</sub-title>
+    <desc>Contestants put their pop culture knowledge to the test, competing for a cash prize.</desc>
+    <date>20220902</date>
+    <category>Interview</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9603665462.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9603665455.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902223000 +0000" stop="20220902230000 +0000" channel="GSN">
+    <title lang="en">People Puzzler</title>
+    <sub-title>Hold for Laughter</sub-title>
+    <desc>Contestants put their pop culture knowledge to the test, competing for a cash prize.</desc>
+    <date>20210326</date>
+    <category>Interview</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9603665462.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9603665455.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E50</episode-num>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+  </programme>
+  <programme start="20220902230000 +0000" stop="20220902233000 +0000" channel="GSN">
+    <title lang="en">People Puzzler</title>
+    <sub-title>Rockin' Out</sub-title>
+    <desc>Contestants put their pop culture knowledge to the test, competing for a cash prize.</desc>
+    <date>20211018</date>
+    <category>Interview</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9603665462.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9603665455.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
+  </programme>
+  <programme start="20220902233000 +0000" stop="20220903000000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Roller Derby Gals vs. The Bros</sub-title>
+    <desc>Roller Derby Gals and The Bros guess how America filled in the blanks on a series of questions.</desc>
+    <date>20220527</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903000000 +0000" stop="20220903003000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Fitness Crew vs. Rock Climbers</sub-title>
+    <desc>Fitness Crew and Rock Climbers compete to guess how America answered a series of survey questions.</desc>
+    <date>20200121</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E151</episode-num>
+    <episode-num system="xmltv_ns">2.150.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903003000 +0000" stop="20220903010000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Quidditch Crew vs. Ski Besties</sub-title>
+    <desc>Two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
+    <date>20220715</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903010000 +0000" stop="20220903013000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>11-01-2019</sub-title>
+    <desc>Tran family and Brown family compete to guess the answers to various surveys.</desc>
+    <date>20191101</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903013000 +0000" stop="20220903020000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>11-11-2019</sub-title>
+    <desc>Two families of five face off to guess the answers with the results of a survey of one hundred people.</desc>
+    <date>20191111</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903020000 +0000" stop="20220903023000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>05-09-2018</sub-title>
+    <desc>Two families of five face off to name the top responses to questions posed to 100 people.</desc>
+    <date>20180509</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903023000 +0000" stop="20220903030000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>05-10-2018</sub-title>
+    <desc>Two families of five face off to name the top responses to questions posed to 100 people.</desc>
+    <date>20180510</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903030000 +0000" stop="20220903033000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>02-15-2019</sub-title>
+    <desc>The Cooper family and the Randerson family compete to guess the answers to various surveys.</desc>
+    <date>20190215</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E531</episode-num>
+    <episode-num system="xmltv_ns">16.530.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903033000 +0000" stop="20220903040000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>02-18-2019</sub-title>
+    <desc>The Cooper family and the Barber family compete to guess the answers to various surveys.</desc>
+    <date>20190218</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E533</episode-num>
+    <episode-num system="xmltv_ns">16.532.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903040000 +0000" stop="20220903043000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>Grier Family vs Dahlquist Family</sub-title>
+    <desc>Steve Harvey hosts the network's new season of the long-running classic, in which two families compete to guess the answers to various surveys.</desc>
+    <date>20180605</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903043000 +0000" stop="20220903050000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>Stuerke Family vs Grier Family</sub-title>
+    <desc>Steve Harvey hosts the network's new season of the long-running classic, in which two families compete to guess the answers to various surveys.</desc>
+    <date>20180605</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903050000 +0000" stop="20220903053000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Roller Derby Gals vs. The Bros</sub-title>
+    <desc>Roller Derby Gals and The Bros guess how America filled in the blanks on a series of questions.</desc>
+    <date>20220527</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903053000 +0000" stop="20220903060000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>The Asuncions vs. Rock and Roll Crew</sub-title>
+    <desc>The Asuncions and Rock and Roll Crew guess how America filled in the blanks on survey questions.</desc>
+    <date>20210625</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903060000 +0000" stop="20220903063000 +0000" channel="GSN">
+    <title lang="en">Master Minds</title>
+    <sub-title>Trivia, Smarts &amp; Moon Landings</sub-title>
+    <desc>The segments include: "Trivia, Smarts, and Moon Landings."</desc>
+    <credits>
+      <producer>Tim Parker</producer>
+      <guest>Muffy Marracco</guest>
+      <guest>Jonathan Corbblah</guest>
+      <guest>Erik Braa</guest>
+    </credits>
+    <date>20200515</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Entertainment</category>
+    <category>Celebrities</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10347541316.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10347541313.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E30</episode-num>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+  </programme>
+  <programme start="20220903063000 +0000" stop="20220903070000 +0000" channel="GSN">
+    <title lang="en">Common Knowledge</title>
+    <sub-title>Homerun Parents vs. The Kinsocks</sub-title>
+    <desc>Homerun Parents and The Kinsocks compete to answer practical, everyday questions that everyone should know, such as which part of a tree does cork come from.</desc>
+    <date>20200121</date>
+    <category>Talk</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8918115478.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8918115470.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903070000 +0000" stop="20220903073000 +0000" channel="GSN">
+    <title lang="en">Winsanity</title>
+    <sub-title>Training Day</sub-title>
+    <desc>"Training Day" Donald Faison hosts this all-new head-to- head version of the game show in which two contestants rank pop culture facts, including the percentage of military recruits who fail basic training.</desc>
+    <date>20180524</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8885408457.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8885408445.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903073000 +0000" stop="20220903080000 +0000" channel="GSN">
+    <title lang="en">Divided</title>
+    <sub-title>Come Together</sub-title>
+    <desc>Four strangers, including a journalist and a tire technician, must debate and unanimously agree; the longer they take, the less money they bank.</desc>
+    <date>20170126</date>
+    <category>Game show</category>
+    <category>Debate</category>
+    <category>Adaptation</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922319172.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922319162.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903080000 +0000" stop="20220903083000 +0000" channel="GSN">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20190327</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903083000 +0000" stop="20220903090000 +0000" channel="GSN">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20190327</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903090000 +0000" stop="20220903093000 +0000" channel="GSN">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20190327</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903093000 +0000" stop="20220903100000 +0000" channel="GSN">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20190327</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903100000 +0000" stop="20220903103000 +0000" channel="GSN">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20190327</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903103000 +0000" stop="20220903110000 +0000" channel="GSN">
+    <title lang="en">Oxygen Therapy Innovation</title>
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+  </programme>
+  <programme start="20220903110000 +0000" stop="20220903113000 +0000" channel="GSN">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20190327</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903113000 +0000" stop="20220903120000 +0000" channel="GSN">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20190327</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903120000 +0000" stop="20220903123000 +0000" channel="GSN">
+    <title lang="en">Relief from inflammation</title>
+    <desc>Connie Craig-Carrol &amp; Founder Ken Meares investigates Omega XL, the ultimate all natural solution for joint pain from inflammation.</desc>
+  </programme>
+  <programme start="20220903123000 +0000" stop="20220903130000 +0000" channel="GSN">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20190327</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903130000 +0000" stop="20220903133000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Team Runners vs. The Proctor Family</sub-title>
+    <desc>Team runners compete against the Proctor family in guessing how America filled in the blanks on a series of survey questions.</desc>
+    <date>20210920</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903133000 +0000" stop="20220903140000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>The Fleeks vs. The Canadians</sub-title>
+    <desc>Canadians compete with the Fleeks in answering a series of survey questions.</desc>
+    <date>20191029</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E72</episode-num>
+    <episode-num system="xmltv_ns">2.71.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903140000 +0000" stop="20220903143000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Flight Attendants vs. Whiffle Ballers</sub-title>
+    <desc>Two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
+    <date>20190730</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903143000 +0000" stop="20220903150000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Law Students vs. Hosptial Staff</sub-title>
+    <desc>Two teams guess how America answered a series of questions.</desc>
+    <date>20190128</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S02E46</episode-num>
+    <episode-num system="xmltv_ns">1.45.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903150000 +0000" stop="20220903153000 +0000" channel="GSN">
+    <title lang="en">Chain Reaction</title>
+    <sub-title>Festival Friends vs. Brainy Beauties</sub-title>
+    <desc>A word puzzle game in which players compete to form chains composed of two-word phrases.</desc>
+    <credits>
+      <director>Matthew Cohen</director>
+      <writer>Taylor Humphries</writer>
+    </credits>
+    <date>20210506</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9604784325.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9604784316.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E52</episode-num>
+    <episode-num system="xmltv_ns">0.51.</episode-num>
+  </programme>
+  <programme start="20220903153000 +0000" stop="20220903160000 +0000" channel="GSN">
+    <title lang="en">Chain Reaction</title>
+    <sub-title>The Campfire Friends vs. Plane Pals</sub-title>
+    <desc>Players compete to form chains composed of two-word phrases.</desc>
+    <credits>
+      <director>Matthew Cohen</director>
+      <writer>Taylor Humphries</writer>
+    </credits>
+    <date>20210507</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9604784325.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9604784316.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E53</episode-num>
+    <episode-num system="xmltv_ns">0.52.</episode-num>
+  </programme>
+  <programme start="20220903160000 +0000" stop="20220903163000 +0000" channel="GSN">
+    <title lang="en">Chain Reaction</title>
+    <sub-title>The Bbq Family vs. The Realtors</sub-title>
+    <desc>A word puzzle game in which players compete to form chains composed of two-word phrases.</desc>
+    <credits>
+      <director>Matthew Cohen</director>
+      <writer>Taylor Humphries</writer>
+    </credits>
+    <date>20210503</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9604784325.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9604784316.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220903163000 +0000" stop="20220903170000 +0000" channel="GSN">
+    <title lang="en">Chain Reaction</title>
+    <sub-title>Escape Room Buds vs. Fantasy Leaguers</sub-title>
+    <desc>Players compete to form chains composed of two-word phrases.</desc>
+    <credits>
+      <director>Matthew Cohen</director>
+      <writer>Taylor Humphries</writer>
+    </credits>
+    <date>20210505</date>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9604784325.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9604784316.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E51</episode-num>
+    <episode-num system="xmltv_ns">0.50.</episode-num>
+  </programme>
+  <programme start="20220903170000 +0000" stop="20220903173000 +0000" channel="GSN">
+    <title lang="en">Cash Cab</title>
+    <sub-title>Episode 4040</sub-title>
+    <desc>Unassuming people enter a taxi cab as simple passengers taking a normal ride, only to be shocked when they discover that they're instant contestants. The driver/host, Ben Bailey, asks the passengers trivia questions as he escorts them to their destination.</desc>
+    <credits>
+      <director>Ron Deutsch</director>
+      <writer>Susan M. Clarke</writer>
+    </credits>
+    <date>20180818</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Friendly games</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7753317357.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8647625100.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S04E40</episode-num>
+    <episode-num system="xmltv_ns">3.39.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903173000 +0000" stop="20220903180000 +0000" channel="GSN">
+    <title lang="en">Cash Cab</title>
+    <sub-title>Episode 5001</sub-title>
+    <desc>Unassuming people enter a taxi cab as simple passengers taking a normal ride, only to be shocked when they discover that they're instant contestants. The driver/host, Ben Bailey, asks the passengers trivia questions as he escorts them to their destination.</desc>
+    <credits>
+      <director>Ron Deutsch</director>
+      <writer>Susan M. Clarke</writer>
+    </credits>
+    <date>20181102</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Friendly games</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7753317357.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8647625100.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903180000 +0000" stop="20220903183000 +0000" channel="GSN">
+    <title lang="en">Cash Cab</title>
+    <sub-title>Episode 5002</sub-title>
+    <desc>Unassuming people enter a taxi cab as simple passengers taking a normal ride, only to be shocked when they discover that they're instant contestants. The driver/host asks the passengers trivia questions as he escorts them to the destination.</desc>
+    <credits>
+      <director>Ron Deutsch</director>
+      <writer>Susan M. Clarke</writer>
+    </credits>
+    <date>20181028</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Friendly games</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7753317357.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8647625100.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903183000 +0000" stop="20220903190000 +0000" channel="GSN">
+    <title lang="en">Cash Cab</title>
+    <sub-title>Episode 5003</sub-title>
+    <desc>Unassuming people enter a taxi cab as simple passengers taking a normal ride, only to be shocked when they discover that they're instant contestants. The driver/host, Ben Bailey, asks the passengers trivia questions as he escorts them to their destination.</desc>
+    <credits>
+      <director>Ron Deutsch</director>
+      <writer>Susan M. Clarke</writer>
+    </credits>
+    <date>20181104</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Friendly games</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7753317357.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8647625100.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903190000 +0000" stop="20220903193000 +0000" channel="GSN">
+    <title lang="en">Cash Cab</title>
+    <sub-title>Episode 5004</sub-title>
+    <desc>Unassuming people enter a taxi cab as simple passengers taking a normal ride, only to be shocked when they discover that they're instant contestants. The driver/host asks the passengers trivia questions as he escorts them to the destination.</desc>
+    <credits>
+      <director>Ron Deutsch</director>
+      <writer>Susan M. Clarke</writer>
+    </credits>
+    <date>20181028</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Friendly games</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7753317357.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8647625100.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903193000 +0000" stop="20220903200000 +0000" channel="GSN">
+    <title lang="en">Cash Cab</title>
+    <sub-title>Episode 5005</sub-title>
+    <desc>Unassuming people enter a taxi cab as simple passengers taking a normal ride, only to be shocked when they discover that they're instant contestants. The driver/host, Ben Bailey, asks the passengers trivia questions as he escorts them to their destination.</desc>
+    <credits>
+      <director>Ron Deutsch</director>
+      <writer>Susan M. Clarke</writer>
+    </credits>
+    <date>20181104</date>
+    <category>Reality competition</category>
+    <category>Game show</category>
+    <category>Friendly games</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7753317357.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8647625100.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903200000 +0000" stop="20220903203000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Zookeepers vs. The Edwards</sub-title>
+    <desc>Two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
+    <date>20210601</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903203000 +0000" stop="20220903210000 +0000" channel="GSN">
+    <title lang="en">America Says</title>
+    <sub-title>Beach Bums vs. Playdate Crew</sub-title>
+    <desc>Beach Bums and Playdate Crew compete to guess how America answered a series of survey questions.</desc>
+    <date>20200106</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E129</episode-num>
+    <episode-num system="xmltv_ns">2.128.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903210000 +0000" stop="20220903213000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>Chambers Family vs Rondinella Family</sub-title>
+    <desc>"Chambers Family vs Rondinella Family" Steve Harvey hosts the network's new season of the long-running classic, in which two families compete to guess the answers to various surveys.</desc>
+    <date>20180528</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E129</episode-num>
+    <episode-num system="xmltv_ns">16.128.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903213000 +0000" stop="20220903220000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>Rondinella Family vs Burns Family</sub-title>
+    <desc>Steve Harvey hosts the the long-running classic, in which two families compete to guess the answers to various surveys.</desc>
+    <date>20180603</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S17E182</episode-num>
+    <episode-num system="xmltv_ns">16.181.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20220901180000 +0000" stop="20220901200000 +0000" channel="Hallmark">
@@ -10288,6 +11867,1416 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11874487154.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11874487155.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220902020000 +0000" stop="20220902023000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>To Catch a Neighbor</sub-title>
+    <desc>Two detectives (Joseph Campanella, George Clooney) move in with the girls to stake out their neighbors, who deal in stolen gems. Beatrice Arthur, Estelle Getty. Martha: Barbara Tarbuck. Blanche: Rue McClanahan.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19870502</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E24</episode-num>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902023000 +0000" stop="20220902030000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>A Piece of Cake</sub-title>
+    <desc>Preparing for a birthday party evokes memories of parties past, including one for Sophia's 50th. Estelle Getty, Beatrice Arthur. Young Dorothy: Lyn Greene. Mr. Ha Ha: Alan Blumenfeld. Salvadore: Sid Melton.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19870509</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902030000 +0000" stop="20220902033000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Empty Nest</sub-title>
+    <desc>Renee (Rita Moreno) is down because the kids are gone and her husband is busy with his medical practice. Chuck: Geoffrey Lewis. Oliver: David Leisure. Jenny: Jane Harnick. Dorothy: Beatrice Arthur.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19870516</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E26</episode-num>
+    <episode-num system="xmltv_ns">1.25.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902033000 +0000" stop="20220902040000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Old Friends</sub-title>
+    <desc>In a show about Alzheimer's disease, Sophia befriends a forgetful octogenarian (Joe Seneca); and Blanche gives away Rose's beloved teddy bear. Rue McClanahan, Betty White. Daisy: Jenny Lewis.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19870919</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902040000 +0000" stop="20220902043000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>One for the Money</sub-title>
+    <desc>Sophia's gimmick---selling bottled water from the backyard hose---recalls other wild brainstorms from the past. Estelle Getty, Beatrice Arthur. Young Dorothy: Lyn Greene. Salvadore: Sid Melton. Priscilla: Starr Andreeff.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19870926</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902043000 +0000" stop="20220902050000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Bringing Up Baby</sub-title>
+    <desc>After Rose's uncle leaves her custody of his "baby," the girls look forward to being mothers again---until they get a load of baby. Betty White, Beatrice Arthur. Chester T. McRainey: Parley Baer. Blanche: Rue McClanahan. Sophia: Estelle Getty.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871003</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902050000 +0000" stop="20220902053000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>Author, Author</sub-title>
+    <desc>Frasier and Niles (Kelsey Grammer, David Hyde Pierce) try to write a book on sibling relationships. Sam Fukuto: Mako. Martin: John Mahoney. Waitress: Luck Hari. Roz: Peri Gilpin. Daphne: Jane Leeves.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19940505</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902053000 +0000" stop="20220902060000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>Frasier Crane's Day Off</sub-title>
+    <desc>Frasier's ill, so he hands his show over to Niles (David Hyde Pierce). Gil Chesterton: Edward Hibbert. Daphne: Jane Leeves. Roz: Peri Gilpin. Frasier: Kelsey Grammer. Martin: John Mahoney.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19940512</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902060000 +0000" stop="20220902063000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>My Coffee with Niles</sub-title>
+    <desc>Frasier spends a half hour with Niles at Cafe Nervosa discussing Frasier's first year in Seattle. Waitress: Luck Hari. Frasier: Kelsey Grammer. Niles: David Hyde Pierce. Martin: John Mahoney. Roz: Peri Gilpin.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19940519</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902063000 +0000" stop="20220902070000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>Slow Tango in South Seattle</sub-title>
+    <desc>Frasier is steamed over a hot romance novel, which was based on an affair he had with his piano teacher in his youth. Thomas Jay Fallow: John O'Hurley. Clarice: Constance Towers. Mrs. Warner: Myra Carter. Martin: John Mahoney.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19940920</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902070000 +0000" stop="20220902073000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>The Unkindest Cut of All</sub-title>
+    <desc>Eddie sires a litter of puppies, and Frasier barks at Martin for not having had the dog neutered. Martin: John Mahoney. Niles: David Hyde Pierce. Roz: Peri Gilpin. Mrs. Greenway: Jo de Winter.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19940927</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902073000 +0000" stop="20220902080000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>The Matchmaker</sub-title>
+    <desc>Not knowing that the new station manager is gay, Frasier tries to fix him up with Daphne (Jane Leeves), but the man thinks Frasier wants to go out with him. Tom: Eric Lutes. Roz: Peri Gilpin. Martin: John Mahoney.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19941004</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902080000 +0000" stop="20220902083000 +0000" channel="Hallmark">
+    <title lang="en">Cheers</title>
+    <sub-title>Executive Sweet</sub-title>
+    <desc>Rebecca tells Sam that she only dates men who'll help her career, then has to recant when her underage boss (Alex Nevil) asks her out. Dennis: Gerald Hiken. Chauffeur: David Schall. Delivery Man: Nathan Purdee.</desc>
+    <credits>
+      <director>James Burrows</director>
+      <actor role="Eddie LeBec">Jay Thomas</actor>
+      <writer>David Lloyd</writer>
+      <producer>Tim Berry</producer>
+      <composer>Craig Safan</composer>
+    </credits>
+    <date>19881110</date>
+    <category>Comedy</category>
+    <category>Romance</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9046101080.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9046101076.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S07E03</episode-num>
+    <episode-num system="xmltv_ns">6.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902083000 +0000" stop="20220902090000 +0000" channel="Hallmark">
+    <title lang="en">Cheers</title>
+    <sub-title>One Happy Chappy in a Snappy Serape</sub-title>
+    <desc>Rebecca's plan to escape her boss's proposal goes south (of the border) when Sam, her "intended," is sent to tend bar at a Mexican resort, likes it and thinks about staying. Martin: Alex Nevil. Dennis: Gerald Hiken. Tourist: Loren Farmer. Pepe: Fred Asparagus. Ramon: Marco Hernandez.</desc>
+    <credits>
+      <director>James Burrows</director>
+      <actor role="Eddie LeBec">Jay Thomas</actor>
+      <writer>David Lloyd</writer>
+      <producer>Tim Berry</producer>
+      <composer>Craig Safan</composer>
+    </credits>
+    <date>19881117</date>
+    <category>Comedy</category>
+    <category>Romance</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9046101080.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9046101076.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S07E04</episode-num>
+    <episode-num system="xmltv_ns">6.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902090000 +0000" stop="20220902093000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>She's With the Band</sub-title>
+    <desc>Kyra shocks Reba when she announces that she is postponing college so she can go on tour with her band; and Cheyenne and Van differ on ideas about how to decorate their new house.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20070211</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S06E11</episode-num>
+    <episode-num system="xmltv_ns">5.10.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902093000 +0000" stop="20220902100000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>The Housewarming</sub-title>
+    <desc>Barbra Jean has a meltdown on camera while doing a weather report and Brock sees it as a sign that she isn't ready to give up on their marriage; Reba annoys Cheyenne and Van by continually dropping by their new house unannounced.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20070218</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902100000 +0000" stop="20220902103000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>The Kids Are Alright</sub-title>
+    <desc>In the series' finale, Cheyenne and Van ask Reba if they can move back in with her after Van accidentally starts a fire at their new house. Also, Barbra Jean is offered a job at a TV station in Arkansas.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20070218</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S06E13</episode-num>
+    <episode-num system="xmltv_ns">5.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902103000 +0000" stop="20220902110000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>Pilot Episode</sub-title>
+    <desc>In the series pilot, Reba and her family go to therapy to talk about the recent breakup of her marriage to dentist husband Brock, but what Reba doesn't know is that her 17-year-old daughter, Cheyenne, also has an unexpected announcement. Reba: Reba McEntire. Brock: Christopher Rich. Cheyenne: JoAnna Garcia.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011005</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902110000 +0000" stop="20220902113000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>The Honeymoon's Over or Now What?</sub-title>
+    <desc>Cheyenne and Van come home from their honeymoon in Galveston and have to deal with returning to school---married. Meanwhile, Reba adjusts the house for their new living arrangements, but not everyone is as ready to accept the newlyweds. Van: Steve Gowey. Cheyenne: JoAnna Garcia. Mrs. Hodge: Julia Duffy.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011012</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902113000 +0000" stop="20220902120000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>Someone's at the Gyno with Reba</sub-title>
+    <desc>Van moves his belongings into his and Cheyenne's room, and Reba and Kyra are shocked when Cheyenne accepts the mess, which includes a large neon sign, 12 pairs of sneakers, exercise equipment and a Dallas Cowboy Cheerleaders poster. Meanwhile, Jake has his first visitation with his father, and Reba makes a discovery about herself. Van: Steve Howey. Cheyenne: JoAnna Garcia. Jake: Mitch Holleman.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011005</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902120000 +0000" stop="20220902123000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>You Make Me Sick</sub-title>
+    <desc>Cheyenne has morning sickness and tries to hide it from Van; Reba learns that Jake's friend isn't allowed to sleep over because his mother disapproves of the Harts' dysfunctional lifestyle. Jake: Mitch Holleman. Cheyenne: JoAnna Garcia. Van: Steve Howie.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011026</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902123000 +0000" stop="20220902130000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>The Steaks Are High</sub-title>
+    <desc>Van gets a "kidnap breakfast," a tradition that includes the drill team making the football player of the week an early morning meal. Meanwhile, Reba decides to host the Wildcat pregame dinner for the team and everything goes well until Barbra Jean discovers the potato salad. Van: Steve Howey. Barbra Jean: Melissa Peterman. Cheyenne: JoAnna Garcia.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011102</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220902130000 +0000" stop="20220902133000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>The Housekeeper</sub-title>
+    <desc>The new housekeeper's magic powers work wonders for Blanche's love life and Rose's tomatoes, but they spell bad news when she is fired. Rue McClanahan, Betty White. Marguerite: Paula Kelly. Dorothy: Beatrice Arthur.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871017</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902133000 +0000" stop="20220902140000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Nothing to Fear but Fear Itself</sub-title>
+    <desc>Rose has to deliver a eulogy in the Bahamas, which scares up many fears: Rose's of speaking, Dorothy's of flying, and Blanche's of being enclosed with bald men. Beatrice Arthur, Rue McClanahan. Stewardess: Elvia Allman. Sophia: Estelle Getty.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871024</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902140000 +0000" stop="20220902143000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Letter to Gorbachev</sub-title>
+    <desc>Worried about the threat of nuclear war, Rose pens a letter to Soviet leader Gorbachev---and receives an invitation to Moscow. Edwin Newman has a cameo. Beatrice Arthur, Rue McClanahan. Alexi: Allan Rich. Linda: Jaclyn Bernstein.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871031</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902143000 +0000" stop="20220902150000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Strange Bedfellows</sub-title>
+    <desc>Front-page exposé: a photo of Blanche entering the home of a politician (John Schuck) while his wife is away. Beatrice Arthur, Betty White. Secretary: Sarah Partridge. First Reporter: Darwyn Carson.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871107</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902150000 +0000" stop="20220902153000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Brotherly Love</sub-title>
+    <desc>Blanche makes a move on Ted (McLean Stevenson), the brother of Dorothy's ex, the minute she learns he's a neurosurgeon. Rue McClanahan, Beatrice Arthur. Stan: Herbert Edelman. Maitre d': Brad Trumbull.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871114</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902153000 +0000" stop="20220902160000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>A Visit From Little Sven</sub-title>
+    <desc>A visit by Rose's naive cousin Sven takes a turn, with Blanche providing the detour; and Sophia's driving lessons are driving Dorothy nuts. Olga: Yvette Heyden. Floyd: Chuck Walling.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871121</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220902160000 +0000" stop="20220902180000 +0000" channel="Hallmark">
+    <title lang="en">My Summer Prince</title>
+    <desc>A party-boy prince gets into trouble, so his family hire a PR consultant to help rein him in. When circumstances force the consultant's assistant to step in, an unexpected romance ignites.</desc>
+    <date>20160806</date>
+    <category>Drama</category>
+    <category>Romance</category>
+    <length units="seconds">7200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3928597688.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/6/1-3928624253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220902180000 +0000" stop="20220902200000 +0000" channel="Hallmark">
+    <title lang="en">A Little Daytime Drama</title>
+    <desc>In order to save her daytime soap drama from cancellation, head writer Maggie must convince Darin, fan favorite actor and her real-life ex-boyfriend, to return to the show.</desc>
+    <date>20210821</date>
+    <category>Drama</category>
+    <category>Chick flick</category>
+    <length units="seconds">7200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10436511729.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10436511723.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220902200000 +0000" stop="20220902220000 +0000" channel="Hallmark">
+    <title lang="en">Yes, I Do</title>
+    <desc>Busy chocolatier Charlotte has left helicopter mechanic James at the altar three times. She now needs to prove to him that she really does want to marry him.</desc>
+    <date>20180630</date>
+    <category>Drama</category>
+    <category>Romance</category>
+    <category>Wedding</category>
+    <length units="seconds">7200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6314593713.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6314593732.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220902220000 +0000" stop="20220903000000 +0000" channel="Hallmark">
+    <title lang="en">Love on Harbor Island</title>
+    <desc>Interior designer Lily returns home to help her Aunt Maggie run her marina-side bed and breakfast when she meets Marcus, a handsome seaplane pilot..</desc>
+    <date>20200808</date>
+    <category>Drama</category>
+    <category>Romance</category>
+    <length units="seconds">7200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-8918190146.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8918185536.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903000000 +0000" stop="20220903020000 +0000" channel="Hallmark">
+    <title lang="en">My Christmas Family Tree</title>
+    <desc>When Vanessa receives the results from her Family Tree DNA test, she discovers a family she didn't know existed and travels to their home for Christmas.</desc>
+    <date>20211113</date>
+    <category>Drama</category>
+    <category>Christmas</category>
+    <category>Romance</category>
+    <length units="seconds">7200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10777285252.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10777285253.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903020000 +0000" stop="20220903023000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>The Housekeeper</sub-title>
+    <desc>The new housekeeper's magic powers work wonders for Blanche's love life and Rose's tomatoes, but they spell bad news when she is fired. Rue McClanahan, Betty White. Marguerite: Paula Kelly. Dorothy: Beatrice Arthur.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871017</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903023000 +0000" stop="20220903030000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Nothing to Fear but Fear Itself</sub-title>
+    <desc>Rose has to deliver a eulogy in the Bahamas, which scares up many fears: Rose's of speaking, Dorothy's of flying, and Blanche's of being enclosed with bald men. Beatrice Arthur, Rue McClanahan. Stewardess: Elvia Allman. Sophia: Estelle Getty.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871024</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903030000 +0000" stop="20220903033000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Letter to Gorbachev</sub-title>
+    <desc>Worried about the threat of nuclear war, Rose pens a letter to Soviet leader Gorbachev---and receives an invitation to Moscow. Edwin Newman has a cameo. Beatrice Arthur, Rue McClanahan. Alexi: Allan Rich. Linda: Jaclyn Bernstein.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871031</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903033000 +0000" stop="20220903040000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Strange Bedfellows</sub-title>
+    <desc>Front-page exposé: a photo of Blanche entering the home of a politician (John Schuck) while his wife is away. Beatrice Arthur, Betty White. Secretary: Sarah Partridge. First Reporter: Darwyn Carson.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871107</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903040000 +0000" stop="20220903043000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Brotherly Love</sub-title>
+    <desc>Blanche makes a move on Ted (McLean Stevenson), the brother of Dorothy's ex, the minute she learns he's a neurosurgeon. Rue McClanahan, Beatrice Arthur. Stan: Herbert Edelman. Maitre d': Brad Trumbull.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871114</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903043000 +0000" stop="20220903050000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>A Visit From Little Sven</sub-title>
+    <desc>A visit by Rose's naive cousin Sven takes a turn, with Blanche providing the detour; and Sophia's driving lessons are driving Dorothy nuts. Olga: Yvette Heyden. Floyd: Chuck Walling.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871121</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903050000 +0000" stop="20220903053000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>Flour Child</sub-title>
+    <desc>Wondering if fatherhood might be his bag, Niles simulates the experience by lugging around a sack of flour. Arleen: Charlayne Woodard. Clarence: Aaron Heyman. Mary: Linda Porter. Frasier: Kelsey Grammer.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19941011</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903053000 +0000" stop="20220903060000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>Duke's, We Hardly Knew Ye</sub-title>
+    <desc>Frasier and Niles invest in a mini-mall, unaware that it's to be built on the site of Martin's favorite tavern. Martin: John Mahoney. Duke: John La Motta. Joe: Jack Wallace. Leo: Bill Gratton. Niles: David Hyde Pierce.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19941018</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903060000 +0000" stop="20220903063000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>The Botched Language of Cranes</sub-title>
+    <desc>Frasier's deluged by an outraged public when he advises a caller to consider leaving rain-soaked Seattle. Frasier: Kelsey Grammer. Father Mike: George Deloy. Sister Joselia: Helen Geller. Roz: Peri Gilpin.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19941101</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903063000 +0000" stop="20220903070000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>The Candidate</sub-title>
+    <desc>Frasier endorses a "sane" political candidate, who privately shares something spacey with him. Phil Patterson: Boyd Gaines. Frasier: Kelsey Grammer. Martin: John Mahoney. Niles: David Hyde Pierce.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19941108</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903070000 +0000" stop="20220903073000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>Adventures in Paradise</sub-title>
+    <desc>Frasier falls for a businesswoman, and the lovebirds fly off to a tropical paradise, where trouble awaits. Part 1 of two. Frasier: Kelsey Grammer. Ettienne: Pierre Epstein. Mother: Kirsten Devere.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19941115</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903073000 +0000" stop="20220903080000 +0000" channel="Hallmark">
+    <title lang="en">Frasier</title>
+    <sub-title>Adventures in Paradise</sub-title>
+    <desc>Conclusion. Lilith's unexpected appearance with her new beau disrupts Frasier's romantic excursion with Madeline (JoBeth Williams). Lilith: Bebe Neuwirth. Brian: James Morrison. Frasier: Kelsey Grammer.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Bulldog">Dan Butler</actor>
+      <writer>Peter Casey</writer>
+      <producer>Maggie Blanc</producer>
+      <composer>Bruce Miller</composer>
+    </credits>
+    <date>19941122</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1702564463.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5812806814.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>79/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903080000 +0000" stop="20220903083000 +0000" channel="Hallmark">
+    <title lang="en">Cheers</title>
+    <sub-title>Those Lips, Those Ice</sub-title>
+    <desc>Carla is ready to deep-freeze Eddie (Jay Thomas) when she suspects him of warming the heart of the comely ice-show star (Isa Andersen). Hockey Buddy No. 1: Charles Noland. Hockey Buddy No. 2: Andy Saylor.</desc>
+    <credits>
+      <director>James Burrows</director>
+      <actor role="Eddie LeBec">Jay Thomas</actor>
+      <writer>David Lloyd</writer>
+      <producer>Tim Berry</producer>
+      <composer>Craig Safan</composer>
+    </credits>
+    <date>19881124</date>
+    <category>Comedy</category>
+    <category>Romance</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9046101080.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9046101076.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S07E05</episode-num>
+    <episode-num system="xmltv_ns">6.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903083000 +0000" stop="20220903090000 +0000" channel="Hallmark">
+    <title lang="en">Cheers</title>
+    <sub-title>Norm, Is That You?</sub-title>
+    <desc>Fearful of being taunted, Norm hides the fact he's (gasp!) an interior decorator, but plays the part to the flamboyant hilt for his yuppie clients. Robert: George Deloy. Kim: Jane Sibbett. Ivan: B.J. Turner. Todd: Craig Branham.</desc>
+    <credits>
+      <director>James Burrows</director>
+      <actor role="Eddie LeBec">Jay Thomas</actor>
+      <writer>David Lloyd</writer>
+      <producer>Tim Berry</producer>
+      <composer>Craig Safan</composer>
+    </credits>
+    <date>19881208</date>
+    <category>Comedy</category>
+    <category>Romance</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9046101080.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9046101076.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S07E06</episode-num>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903090000 +0000" stop="20220903093000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>The Honeymoon's Over or Now What?</sub-title>
+    <desc>Cheyenne and Van come home from their honeymoon in Galveston and have to deal with returning to school---married. Meanwhile, Reba adjusts the house for their new living arrangements, but not everyone is as ready to accept the newlyweds. Van: Steve Gowey. Cheyenne: JoAnna Garcia. Mrs. Hodge: Julia Duffy.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011012</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903093000 +0000" stop="20220903100000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>Someone's at the Gyno with Reba</sub-title>
+    <desc>Van moves his belongings into his and Cheyenne's room, and Reba and Kyra are shocked when Cheyenne accepts the mess, which includes a large neon sign, 12 pairs of sneakers, exercise equipment and a Dallas Cowboy Cheerleaders poster. Meanwhile, Jake has his first visitation with his father, and Reba makes a discovery about herself. Van: Steve Howey. Cheyenne: JoAnna Garcia. Jake: Mitch Holleman.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011005</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903100000 +0000" stop="20220903103000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>You Make Me Sick</sub-title>
+    <desc>Cheyenne has morning sickness and tries to hide it from Van; Reba learns that Jake's friend isn't allowed to sleep over because his mother disapproves of the Harts' dysfunctional lifestyle. Jake: Mitch Holleman. Cheyenne: JoAnna Garcia. Van: Steve Howie.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011026</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903103000 +0000" stop="20220903110000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>The Steaks Are High</sub-title>
+    <desc>Van gets a "kidnap breakfast," a tradition that includes the drill team making the football player of the week an early morning meal. Meanwhile, Reba decides to host the Wildcat pregame dinner for the team and everything goes well until Barbra Jean discovers the potato salad. Van: Steve Howey. Barbra Jean: Melissa Peterman. Cheyenne: JoAnna Garcia.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011102</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903110000 +0000" stop="20220903113000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>The Man and the Moon</sub-title>
+    <desc>When Reba calls a plumber (Greg Evigan) to fix a leaky faucet, their encounter leads to a date at the hardware store. Meanwhile, Cheyenne decides that she's going to "moon" Van and his teammates. Cheyenne: JoAnna Garcia. Van: Steve Howey.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011109</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903113000 +0000" stop="20220903120000 +0000" channel="Hallmark">
+    <title lang="en">Reba</title>
+    <sub-title>Tea and Antipathy</sub-title>
+    <desc>Cheyenne wants to be treated like an adult and decides to get an apartment---until she sees how much they cost. Meanwhile, it looks like Van's parents are trying to reconcile with the young married couple and even offer a housing suggestion. Van: Steve Howey. Kyra: Scarlett Pomers. Cheyenne: JoAnna Garcia.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Lori-Ann">Park Overall</actor>
+      <writer>Pat Bullard</writer>
+    </credits>
+    <date>20011116</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172452138.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533628090.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903120000 +0000" stop="20220903123000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>The Audit</sub-title>
+    <desc>An audit leaves Dorothy and Stan (Beatrice Arthur, Herbert Edelman) gasping: they have 30 days to cough up $2500 apiece. Murray: Richard Penn. Rose: Betty White. Escobar: Tony Perez. Blanche: Rue McClanahan.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871128</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903123000 +0000" stop="20220903130000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Three on a Couch</sub-title>
+    <desc>The girls consult a shrink about their incompatibility: after five years together they still get on each other's nerves. Beatrice Arthur, Rue McClanahan, Betty White, Estelle Getty. Toto: Terry Wills.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871205</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903130000 +0000" stop="20220903133000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>Charlie's Buddy</sub-title>
+    <desc>A wartime buddy of Rose's husband drops by, and has more on his mind than just a friendly visit. Buddy Roarke: Milo O'Shea. Rose: Betty White. Dorothy: Beatrice Arthur.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871212</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903133000 +0000" stop="20220903140000 +0000" channel="Hallmark">
+    <title lang="en">The Golden Girls</title>
+    <sub-title>The Artist</sub-title>
+    <desc>Blanche, Rose and Dorothy pose nude for a sculptor (Tony Jay), then each wonders which one he'll use for his final work. Rue McClanahan, Betty White, Beatrice Arthur. Victor: Monte Landis.</desc>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor role="Sophia Petrillo">Estelle Getty</actor>
+      <writer>Jeffrey Duteil</writer>
+      <producer>Terry Grossman</producer>
+      <composer>Andrew Gold</composer>
+    </credits>
+    <date>19871219</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>82/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20220903140000 +0000" stop="20220903160000 +0000" channel="Hallmark">
+    <title lang="en">A Splash of Love</title>
+    <desc>A PhD student expands her studies to include the whales of the Pacific Northwest where she relies on the expertise of a whale watching tour guide. Soon they find themselves bonding over more than just Orcas.</desc>
+    <date>20220730</date>
+    <category>Comedy</category>
+    <category>Other</category>
+    <category>Romance</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11824164793.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11824164792.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903160000 +0000" stop="20220903180000 +0000" channel="Hallmark">
+    <title lang="en">Right in Front of Me</title>
+    <desc>Carly has a second chance at romance with her college crush but is unable to impress him until her new friend Nick starts giving her advice. Soon she learns who the right man for her really is.</desc>
+    <date>20210417</date>
+    <category>Drama</category>
+    <category>Chick flick</category>
+    <category>Romance</category>
+    <length units="seconds">7200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9958951176.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9958951181.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903180000 +0000" stop="20220903200000 +0000" channel="Hallmark">
+    <title lang="en">Under the Autumn Moon</title>
+    <desc>An executive convinces her boss that a ranch would be perfect for their company retreat, and he agrees to let her check it out. However, her plan hits a snag when the owner refuses to sell unless she can promise to preserve its history.</desc>
+    <date>20181013</date>
+    <category>Drama</category>
+    <category>Chick flick</category>
+    <category>Romance</category>
+    <length units="seconds">7200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6592994457.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6593006670.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220903200000 +0000" stop="20220903220000 +0000" channel="Hallmark">
+    <title lang="en">A Valentine's Match</title>
+    <desc>After losing her job, a reality TV host returns home for Valentine's Day, only to find herself running the town festival's auction with her ex-fiancé thanks to two scheming mothers.</desc>
+    <date>20200201</date>
+    <category>Drama</category>
+    <category>Romance</category>
+    <length units="seconds">4920</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-8137196969.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8137196979.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20220901163500 +0000" stop="20220901182500 +0000" channel="HBO">
     <title lang="en">Colossal</title>

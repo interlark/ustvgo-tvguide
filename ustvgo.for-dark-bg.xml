@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220910192053" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220910194038" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -7064,8 +7064,8 @@
     <desc>"Family Guy" is reimagined as a series that's been on the air for 60 years and, in a special retrospective, it looks back at the cultural events and issues that were tackled on the show in the 1950s, '60s and '70s.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
-      <producer>Cherry Chevapravatdumrong</producer>
+      <writer>Seth MacFarlane</writer>
+      <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
     </credits>
@@ -7093,8 +7093,8 @@
     <desc>The episode offers viewers a behind-the-scenes peek at a production week of the series to see what goes into the making of the show. At one point, Peter is replaced and appears in the office of TV execs to pitch his own new series.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
-      <producer>Cherry Chevapravatdumrong</producer>
+      <writer>Seth MacFarlane</writer>
+      <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
     </credits>
@@ -7122,8 +7122,8 @@
     <desc>The network decides that it's time to explore some unique ways to reboot the series. When three versions of the reboots are shown to a focus group, the feedback takes some surprising turns.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
-      <producer>Cherry Chevapravatdumrong</producer>
+      <writer>Seth MacFarlane</writer>
+      <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
     </credits>
@@ -7151,8 +7151,8 @@
     <desc>The Season 16 premiere finds Peter, who's tired of not winning an Emmy, embarking on his own "For Your Consideration" campaign for "Family Guy" by making the show more like Emmy-winning shows—and no category is off limits.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
-      <producer>Cherry Chevapravatdumrong</producer>
+      <writer>Seth MacFarlane</writer>
+      <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
     </credits>
@@ -7184,8 +7184,8 @@
     <desc>The Griffins provide DVD commentary on a recent episode and reveal never-before-told drama between Peter and Lois.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
-      <producer>Cherry Chevapravatdumrong</producer>
+      <writer>Seth MacFarlane</writer>
+      <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
     </credits>
@@ -10243,9 +10243,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-520767473.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20220910170000 +0000" stop="20220910180000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20220910180000 +0000" stop="20220910190000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -10268,6 +10265,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220911010000 +0000" stop="20220911020000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20220911020000 +0000" stop="20220911030000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20220910163000 +0000" stop="20220910190000 +0000" channel="Nickelodeon">
@@ -11158,12 +11158,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20220910160000 +0000" stop="20220910183000 +0000" channel="OLY">
-    <title lang="en">U.S. Gymnastics Championships</title>
-    <sub-title>Men's Events Day 1 in Tampa, Fla.</sub-title>
-    <desc>Day 1 of men's events from the U.S. Championships in Tampa, Fla. Included: pommel horse, rings, floor, vault, high bar and parallel bars.</desc>
-    <date>20220000</date>
   </programme>
   <programme start="20220910183000 +0000" stop="20220910203000 +0000" channel="OLY">
     <title lang="en">U.S. Gymnastics Championships</title>
@@ -12248,6 +12242,10 @@
     <desc>Southern at LSU. From Tiger Stadium.</desc>
     <date>20220000</date>
   </programme>
+  <programme start="20220911023000 +0000" stop="20220911033000 +0000" channel="SECN">
+    <title lang="en">SEC Football Final</title>
+    <desc>Highlights and analysis from the weekend's SEC football games.</desc>
+  </programme>
   <programme start="20220910171500 +0000" stop="20220910191500 +0000" channel="Showtime">
     <title lang="en">Three Kings</title>
     <desc>George Clooney stars in an audacious blend of action, drama and political satire. Amid the confusion at the end of the Gulf War, four GIs disappear into the Iraqi desert to search for millions in stolen Kuwaiti bullion. But their scheme to steal it doesn't go as smoothly as planned, and they soon find their lives spinning out of control. Mark Wahlberg, Ice Cube, Spike Jonze.</desc>
@@ -12555,523 +12553,6 @@
     <star-rating system="Metascore">
       <value>36/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/36.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911030000 +0000" stop="20220911040300 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Pay the Toll</sub-title>
-    <desc>Jukebox and Kanan look for answers in family matters. When Raq's push into another territory is stalled, she proposes a meeting.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220904</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220911040300 +0000" stop="20220911063500 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc>Peter Parker is now unmasked, his identity as Spider-Man known to the world. In a way, he likes it that his girl MJ knows his true identity, the same with his best friend Ned and Aunt May. However, problems follow this reveal. Thus, Peter approaches Doctor Strange to help him resolve the situation by performing a specific time-altering ritual. But that also bears some unintended and problematic consequences.</desc>
-    <date>20220408</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">9000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11220379141.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11220379135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911063500 +0000" stop="20220911073700 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Pay the Toll</sub-title>
-    <desc>Jukebox and Kanan look for answers in family matters. When Raq's push into another territory is stalled, she proposes a meeting.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220904</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220911073700 +0000" stop="20220911094800 +0000" channel="StarZ">
-    <title lang="en">Spy Game</title>
-    <desc>Director Tony Scott puts golden boys Robert Redford and Brad Pitt through their paces in this fast-paced espionage thriller. Redford plays a CIA operative who spends his final day at the agency trying to coordinate the rescue of his protégé (Pitt), who's being held in a Chinese prison---and hung out to dry by his superiors. Catherine McCormack, Marianne Jean-Baptiste.</desc>
-    <date>20050530</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Espionage</category>
-    <category>Mystery &amp; Suspense</category>
-    <length units="seconds">7560</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6291386574.jpg" width="506" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6925728819.jpg" width="720" height="406"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>63/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/63.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911094800 +0000" stop="20220911123600 +0000" channel="StarZ">
-    <title lang="en">The Patriot</title>
-    <desc>Director Roland Emmerich went from "Independence Day" to the War for Independence with this sweeping epic about a pacifist (Mel Gibson) who takes up arms against the British in 1776 South Carolina. Gibson is sensational as Benjamin Martin, who seeks an "alternative to war"---until a British officer guns down his teenage son. Heath Ledger costars as another son who enlists. Joely Richardson.</desc>
-    <date>20120524</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Other</category>
-    <category>War</category>
-    <length units="seconds">9900</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172365243.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7504519314.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>63/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/63.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911123600 +0000" stop="20220911142800 +0000" channel="StarZ">
-    <title lang="en">Mamma Mia!</title>
-    <desc>A bride-to-be in Greece attempts to solve the mystery of her paternity by reading her mother's diary. Based on the popular ABBA-inspired stage musical.</desc>
-    <date>20100802</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Music</category>
-    <category>Musical</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <length units="seconds">6480</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6453958065.jpg" width="542" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6453939693.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>51/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911142800 +0000" stop="20220911160600 +0000" channel="StarZ">
-    <title lang="en">Sex Tape</title>
-    <desc>In this hilarious comedy, a married couple go on a mad dash to recover a sex tape of theirs that accidentally went viral. However, their desperate race reveals more about them than their steamy video.</desc>
-    <date>20141021</date>
-    <category>Comedy</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <length units="seconds">5700</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6273541573.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7488533648.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>36/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/36.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911160600 +0000" stop="20220911181900 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: Far From Home</title>
-    <desc>Peter Parker goes on a trip to Europe with his classmates. Despite planning on leaving his superhero identity behind for the holiday, Nick Fury enlists his help when elementals start to wreak havoc across the continent. It forces him to pick his mask back up and to battle the new threats alongside Mysterio, a master illusionist.</desc>
-    <date>20191001</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Other</category>
-    <category>Superheroes</category>
-    <length units="seconds">7740</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7540607519.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7540607553.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>69/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/69.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911181900 +0000" stop="20220911205100 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc>Peter Parker is now unmasked, his identity as Spider-Man known to the world. In a way, he likes it that his girl MJ knows his true identity, the same with his best friend Ned and Aunt May. However, problems follow this reveal. Thus, Peter approaches Doctor Strange to help him resolve the situation by performing a specific time-altering ritual. But that also bears some unintended and problematic consequences.</desc>
-    <date>20220408</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">9000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11220379141.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11220379135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911205100 +0000" stop="20220911225800 +0000" channel="StarZ">
-    <title lang="en">Ghostbusters: Afterlife</title>
-    <desc>Single mother Callie seeks a fresh start with her two children, moving her family to a rural midwestern town. Yet they soon experience a host of supernatural circumstances, unveiling a strange connection to the children's eccentric grandfather. Based on the 1984 cult classic film.</desc>
-    <date>20211102</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <category>Fantasy</category>
-    <length units="seconds">7440</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10922216355.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10922216350.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>45/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/45.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220911225800 +0000" stop="20220912000000 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>Pay the Toll</sub-title>
-    <desc>Jukebox and Kanan look for answers in family matters. When Raq's push into another territory is stalled, she proposes a meeting.</desc>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220904</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220912000000 +0000" stop="20220912005500 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>Medici B.</sub-title>
-    <credits>
-      <director>Stacie Passon</director>
-    </credits>
-    <date>20220911</date>
-    <category>Drama</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <star-rating system="Metascore">
-      <value>79/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912005500 +0000" stop="20220912015700 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>What Happens in the Catskills</sub-title>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220911</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220912015700 +0000" stop="20220912024900 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>Medici B.</sub-title>
-    <credits>
-      <director>Stacie Passon</director>
-    </credits>
-    <date>20220911</date>
-    <category>Drama</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <star-rating system="Metascore">
-      <value>79/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912024900 +0000" stop="20220912035100 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>What Happens in the Catskills</sub-title>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220911</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220912035100 +0000" stop="20220912044400 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>Medici B.</sub-title>
-    <credits>
-      <director>Stacie Passon</director>
-    </credits>
-    <date>20220911</date>
-    <category>Drama</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <star-rating system="Metascore">
-      <value>79/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912044400 +0000" stop="20220912054700 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>What Happens in the Catskills</sub-title>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220911</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220912054700 +0000" stop="20220912071800 +0000" channel="StarZ">
-    <title lang="en">The Strangers: Prey at Night</title>
-    <desc>In the shocking sequel to 2008's "The Strangers," a family of four on vacation stop at an isolated trailer park for the night, where they're antagonized by three masked murderers. The twisted trio toy with their prey as they desperately try to survive.</desc>
-    <date>20180612</date>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <category>Sequel</category>
-    <length units="seconds">5100</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5634286382.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6082085575.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912071800 +0000" stop="20220912091500 +0000" channel="StarZ">
-    <title lang="en">French Exit</title>
-    <desc>Due to financial incapacity after her husband's death, aging socialite Frances is forced to move out of her luxurious Manhattan apartment and into a small, empty flat in Paris with her son Malcolm and their pet cat. As they try to rebuild their lives, they meet a plethora of colorful characters: the lonely Mme. Reynard, psychic Madeleine, and private detective Julius.</desc>
-    <date>20210528</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Comedy-drama</category>
-    <length units="seconds">6600</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9932786028.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9932786039.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>56/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/56.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912091500 +0000" stop="20220912100600 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>Medici B.</sub-title>
-    <credits>
-      <director>Stacie Passon</director>
-    </credits>
-    <date>20220911</date>
-    <category>Drama</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <star-rating system="Metascore">
-      <value>79/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912100600 +0000" stop="20220912115600 +0000" channel="StarZ">
-    <title lang="en">Monster Hunter</title>
-    <desc>After Lieutenant Artemis and her team of elite soldiers go through a portal and get transported to a different dimension, they are faced with a threat they have never encountered before: huge, powerful monsters. In the middle of the chaos, however, they meet The Hunter, a mysterious warrior whose impressive skills have allowed him to last in the new hostile land. Together, they team up to secure their survival and find a way home.</desc>
-    <date>20210412</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <length units="seconds">5940</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9692268321.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9692268313.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>47/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/47.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912115600 +0000" stop="20220912140900 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: Far From Home</title>
-    <desc>Peter Parker goes on a trip to Europe with his classmates. Despite planning on leaving his superhero identity behind for the holiday, Nick Fury enlists his help when elementals start to wreak havoc across the continent. It forces him to pick his mask back up and to battle the new threats alongside Mysterio, a master illusionist.</desc>
-    <date>20191001</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Other</category>
-    <category>Superheroes</category>
-    <length units="seconds">7740</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7540607519.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7540607553.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>69/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/69.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912140900 +0000" stop="20220912155700 +0000" channel="StarZ">
-    <title lang="en">Brothers</title>
-    <desc>In this powerful drama, Sam Cahill is believed to be killed while serving in Afghanistan, and his deadbeat younger brother Tommy becomes an unexpected source of support for Sam's grieving wife Grace and their two daughters. However, Sam actually lived through his ordeal, and he returns home suffering from post-traumatic stress disorder and filled with jealousy toward his brother.</desc>
-    <date>20100401</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Other</category>
-    <category>Remake</category>
-    <category>Romance</category>
-    <category>War</category>
-    <length units="seconds">6300</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172424858.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1076312250.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>58/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912155700 +0000" stop="20220912180300 +0000" channel="StarZ">
-    <title lang="en">Jarhead</title>
-    <desc>Jake Gyllenhaal gives a dead-on-target performance as a marine followed from boot camp to his assignment as an elite sniper during Operation Desert Storm. The superb film is based on the memoir of ex-leatherneck Anthony Swofford (Gyllenhaal). Sam Mendes ("American Beauty") directed from a script by William Broyles Jr. Jamie Foxx, Peter Sarsgaard, Chris Cooper, Lucas Black, Brianne Davis, Jacob Vargas.</desc>
-    <date>20110916</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Guy flick</category>
-    <category>War</category>
-    <category>Adaptation</category>
-    <length units="seconds">6900</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172486451.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6847597306.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>58/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912180300 +0000" stop="20220912190500 +0000" channel="StarZ">
-    <title lang="en">Power Book III: Raising Kanan</title>
-    <sub-title>What Happens in the Catskills</sub-title>
-    <credits>
-      <director>Mario Van Peebles</director>
-      <actor>Quincy Brown</actor>
-    </credits>
-    <date>20220911</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Prequel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11944533167.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11944533166.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220912190500 +0000" stop="20220912195700 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>Medici B.</sub-title>
-    <credits>
-      <director>Stacie Passon</director>
-    </credits>
-    <date>20220911</date>
-    <category>Drama</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <star-rating system="Metascore">
-      <value>79/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912195700 +0000" stop="20220912215300 +0000" channel="StarZ">
-    <title lang="en">French Exit</title>
-    <desc>Due to financial incapacity after her husband's death, aging socialite Frances is forced to move out of her luxurious Manhattan apartment and into a small, empty flat in Paris with her son Malcolm and their pet cat. As they try to rebuild their lives, they meet a plethora of colorful characters: the lonely Mme. Reynard, psychic Madeleine, and private detective Julius.</desc>
-    <date>20210528</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Comedy-drama</category>
-    <length units="seconds">6600</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9932786028.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9932786039.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>56/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/56.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20220912215300 +0000" stop="20220913000000 +0000" channel="StarZ">
-    <title lang="en">Ghostbusters: Afterlife</title>
-    <desc>Single mother Callie seeks a fresh start with her two children, moving her family to a rural midwestern town. Yet they soon experience a host of supernatural circumstances, unveiling a strange connection to the children's eccentric grandfather. Based on the 1984 cult classic film.</desc>
-    <date>20211102</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <category>Fantasy</category>
-    <length units="seconds">7440</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10922216355.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10922216350.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>45/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/45.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20220910163000 +0000" stop="20220910190000 +0000" channel="SundanceTV">
@@ -15905,6 +15386,17 @@
     <category>Talk</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11301045001.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11301045000.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20220911020000 +0000" stop="20220911050000 +0000" channel="YES">
+    <title lang="en">MLB Baseball</title>
+    <sub-title>Tampa Bay Rays at New York Yankees</sub-title>
+    <desc>Tampa Bay Rays at New York Yankees. From Yankee Stadium.</desc>
+    <date>20220910</date>
+    <category>Pro</category>
+    <category>Baseball</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1502030884.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1502050375.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
 </tv>

@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from typing import Optional
+from typing import Optional, List
 
 from pydantic import BaseModel, PrivateAttr
 
@@ -18,6 +18,7 @@ class Program(BaseModel):
     day: str
     start_time: str
     end_time: str
+    tags: List[str] = []
 
     _details: Optional[ProgramDetails] = PrivateAttr(default=None)
     _cast: Optional[ShowsCast] = PrivateAttr(default=None)

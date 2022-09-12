@@ -32,7 +32,7 @@ from ustvgo_iptv import (USER_AGENT, USTVGO_HEADERS, gather_with_concurrency,
 # ./epg-downloader.py ustvgo.xml --create-archive
 
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 DISK_CACHE = Cache(root_dir() / 'cache', size_limit=2**32)  # 2**32 bytes == 4 GB
 DISK_CACHE_EXPIRE = int(timedelta(days=3).total_seconds())  # 3 days cache expire
 
@@ -197,6 +197,35 @@ async def download_program_images(program, images_size, images_quality, base_url
                          'working with image: %s (URL: %s)', e, image.url))
 
 
+async def download_program_tags(channels):
+    """Download tags for programs."""
+    start_date = datetime.utcnow() - timedelta(minutes=30)
+    start_ts = int(start_date.timestamp())
+    duration_mins = 60 * 12
+    provider_id = '9100001138'  # Eastern Time Zone
+    url = ('https://cmg-prod.apigee.net/v1/xapi/tvschedules'
+           f'/tvguide/{provider_id}/web?start={start_ts}&duration={duration_mins}')
+    headers = {**USTVGO_HEADERS, 'Referer': 'https://www.tvguide.com/'}
+
+    def loader(response):
+        programs = sum([x['programSchedules'] for x in response['data']['items']], [])
+        programs_and_attrs = {x['programId']: x['airingAttrib'] for x in programs
+                              if x['airingAttrib'] and x['programId']}
+        return programs_and_attrs
+
+    data = await download_with_retries(url, headers, loader=loader)
+    programs_new = {k for k, v in data.items() if v & 0b100}
+    programs_live = {k for k, v in data.items() if v & 0b1}
+
+    for channel in channels:
+        for program in channel['programs']:
+            if program.id in programs_new:
+                program.tags.append('new')
+
+            if program.id in programs_live:
+                program.tags.append('live')
+
+
 @lru_cache
 def icon_manifest(manifest_name):
     """Load icon manifest."""
@@ -266,6 +295,10 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
             # Bind current channel to the program
             xmltv_program.channel = channel['stream_id']
 
+            # Add tags
+            if 'new' in program.tags:
+                xmltv_program.new = ''
+
             # Start / End dates
             start_ts = datetime.fromtimestamp(program.start_timestamp, tz=timezone.utc)
             end_ts = datetime.fromtimestamp(program.end_timestamp, tz=timezone.utc)
@@ -322,6 +355,10 @@ async def download_and_make_epg(filepath, parallel, create_archive, images_size,
         download_tasks = [download_program_images(program, images_size, images_quality, base_url)
                           for program in channel['programs']]
         await gather_with_concurrency(parallel, *download_tasks, show_progress=False)
+
+    # Add tags for programs,
+    # could be usefull for IPTV recorders.
+    await download_program_tags(channels)
 
     # Make EPG
     make_xmltv(channels, filepath, base_url, icons_for_light_bg)

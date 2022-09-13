@@ -14,5 +14,9 @@
 
 This repo is a 📺 **TV Guide**, the part of [USTVGO Free IPTV](https://github.com/interlark/ustvgo-iptv) project.
 
-It generates **EPG XML** for upcoming programs of all the channels **twice an hour**.
+This Github Action based ETL generates **EPG XML** for upcoming programs of all the channels **twice an hour**.
 
+- [ustvgo.for-dark-bg.xml](https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/ustvgo.for-dark-bg.xml) - TV Guide for players with Dark UI
+- [ustvgo.for-dark-bg.xml.gz](https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/ustvgo.for-dark-bg.xml.gz) - Compressed TV Guide for players with Dark UI
+- [ustvgo.for-light-bg.xml](https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/ustvgo.for-light-bg.xml) - TV Guide for players with Light UI
+- [ustvgo.for-light-bg.xml.gz](https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/ustvgo.for-light-bg.xml.gz) - Compressed TV Guide for players with Light UI

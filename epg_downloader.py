@@ -299,7 +299,7 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
             # Add tags
             if 'new' in program.tags:
                 xmltv_program.new = ''
-                
+
             if 'live' in program.tags:
                 xmltv_program.live = ''
 

@@ -25,6 +25,7 @@ from xsdata.formats.dataclass.serializers.config import SerializerConfig
 
 import models.tvguide
 import models.ustvgo
+import models.xmltv
 from ustvgo_iptv import (USER_AGENT, USTVGO_HEADERS, gather_with_concurrency,
                          load_dict, logger, root_dir)
 
@@ -287,7 +288,7 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
                 )
             else:
                 # Create program without details
-                xmltv_program = xmltv.models.Programme(
+                xmltv_program = models.xmltv.Programme(
                     title=[xmltv.models.Title(content=[program.name])],
                     clumpidx=None,
                 )
@@ -298,6 +299,9 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
             # Add tags
             if 'new' in program.tags:
                 xmltv_program.new = ''
+                
+            if 'live' in program.tags:
+                xmltv_program.live = ''
 
             # Start / End dates
             start_ts = datetime.fromtimestamp(program.start_timestamp, tz=timezone.utc)

@@ -6,8 +6,10 @@ from datetime import datetime
 from typing import List, Optional
 
 from pydantic import BaseModel, validator
-from xmltv.models import (Category, EpisodeNum, Icon, Length, Programme,
-                          Rating, StarRating, SubTitle, Title)
+from xmltv.models import (Category, EpisodeNum, Icon, Length, Rating,
+                          StarRating, SubTitle, Title)
+
+from ..xmltv import Programme
 
 
 class ImageType(BaseModel):

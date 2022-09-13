@@ -257,6 +257,7 @@
         <xs:element minOccurs="0" ref="premiere"/>
         <xs:element minOccurs="0" ref="last-chance"/>
         <xs:element minOccurs="0" ref="new"/>
+        <xs:element minOccurs="0" ref="live"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="subtitles"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="rating"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="star-rating"/>
@@ -639,6 +640,10 @@
     stuff.
   -->
   <xs:element name="new">
+    <xs:complexType/>
+  </xs:element>
+  <!-- Live. Live event. -->
+  <xs:element name="live">
     <xs:complexType/>
   </xs:element>
   <!--

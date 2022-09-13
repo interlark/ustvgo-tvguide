@@ -14,6 +14,7 @@ from datetime import datetime, timedelta, timezone
 from functools import lru_cache, partial
 
 import aiohttp
+import lxml.etree as ET
 import xmltv.models
 from diskcache import Cache
 from furl import furl
@@ -320,6 +321,17 @@ def make_xmltv(channels, filepath, base_url, icons_for_light_bg):
     write_file_from_xml(filepath, tv, base_url)
 
 
+def postprocess_xml(xml_filepath):
+    """Postprocess output XML file."""
+    xml = ET.parse(xml_filepath)
+    xsi_type = '{http://www.w3.org/2001/XMLSchema-instance}type'
+
+    for programme in xml.findall('programme'):
+        programme.attrib.pop(xsi_type, None)
+
+    xml.write(xml_filepath, pretty_print=True, encoding='utf-8', xml_declaration=True)
+
+
 def write_file_from_xml(xml_filepath, serialize_class, base_url):
     """Method to write serialized XML data to a file."""
     serializer = XmlSerializer(config=SerializerConfig(
@@ -332,6 +344,8 @@ def write_file_from_xml(xml_filepath, serialize_class, base_url):
 
     with xml_filepath.open('w') as data:
         serializer.write(data, serialize_class)
+
+    postprocess_xml(xml_filepath)
 
 
 async def download_and_make_epg(filepath, parallel, create_archive, images_size,

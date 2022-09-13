@@ -211,7 +211,7 @@ async def download_program_tags(channels):
 
     def loader(response):
         programs = sum([x['programSchedules'] for x in response['data']['items']], [])
-        programs_and_attrs = {x['programId']: x['airingAttrib'] for x in programs
+        programs_and_attrs = {(x['programId'], x['startTime']): x['airingAttrib'] for x in programs
                               if x['airingAttrib'] and x['programId']}
         return programs_and_attrs
 
@@ -221,10 +221,10 @@ async def download_program_tags(channels):
 
     for channel in channels:
         for program in channel['programs']:
-            if program.id in programs_new:
+            if (program.id, program.start_timestamp) in programs_new:
                 program.tags.append('new')
 
-            if program.id in programs_live:
+            if (program.id, program.start_timestamp) in programs_live:
                 program.tags.append('live')
 
 

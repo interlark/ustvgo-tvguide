@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220915062447" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220915070347" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -508,6 +508,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4018176703.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S59E255</episode-num>
     <episode-num system="xmltv_ns">58.254.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3082,6 +3083,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10620223078.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E04</episode-num>
     <episode-num system="xmltv_ns">12.3.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -5087,7 +5089,7 @@
     <credits>
       <director>Daniel J Goor</director>
       <actor>Joel McKinnon Miller</actor>
-      <writer>Gabe Liedman</writer>
+      <writer>Daniel J. Goor</writer>
       <producer>Andy Samberg</producer>
       <composer>Dan Marocco</composer>
     </credits>
@@ -5116,7 +5118,7 @@
     <credits>
       <director>Daniel J Goor</director>
       <actor>Joel McKinnon Miller</actor>
-      <writer>Gabe Liedman</writer>
+      <writer>Daniel J. Goor</writer>
       <producer>Andy Samberg</producer>
       <composer>Dan Marocco</composer>
     </credits>
@@ -5145,7 +5147,7 @@
     <credits>
       <director>Daniel J Goor</director>
       <actor>Joel McKinnon Miller</actor>
-      <writer>Gabe Liedman</writer>
+      <writer>Daniel J. Goor</writer>
       <producer>Andy Samberg</producer>
       <composer>Dan Marocco</composer>
     </credits>
@@ -8376,7 +8378,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20220915060000 +0000" stop="20220915070000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -9170,7 +9171,6 @@
   <programme start="20220915050000 +0000" stop="20220915060000 +0000" channel="FoxNews">
     <title lang="en">Fox News Live</title>
     <desc>The important stories of the day are addressed.</desc>
-    <new/>
   </programme>
   <programme start="20220915060000 +0000" stop="20220915070000 +0000" channel="FoxNews">
     <title lang="en">Hannity</title>
@@ -9494,7 +9494,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-2020290694.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E187</episode-num>
     <episode-num system="xmltv_ns">2021.186.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -19605,8 +19604,8 @@
     <credits>
       <director>Charles S. Dubin</director>
       <actor role="Gen. Mitchell">Robert F. Simon</actor>
-      <writer>Laurence Marks</writer>
-      <producer>Gene Reynolds</producer>
+      <writer>Jim Fritzell</writer>
+      <producer>Larry Gelbart</producer>
       <composer>Benny Golson</composer>
     </credits>
     <date>19760224</date>
@@ -19634,8 +19633,8 @@
     <credits>
       <director>Charles S. Dubin</director>
       <actor role="Gen. Mitchell">Robert F. Simon</actor>
-      <writer>Laurence Marks</writer>
-      <producer>Gene Reynolds</producer>
+      <writer>Jim Fritzell</writer>
+      <producer>Larry Gelbart</producer>
       <composer>Benny Golson</composer>
     </credits>
     <date>19761019</date>
@@ -19739,7 +19738,6 @@
     <title lang="es">Noticiero Univision - Edicion Nocturna</title>
     <sub-title>09-14-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20220915060000 +0000" stop="20220915070000 +0000" channel="Univision">
     <title lang="es">Peregrina</title>
@@ -19982,7 +19980,7 @@
     <credits>
       <director>Alan J. Levi</director>
       <actor role="Hollis Mann">Susanna Thompson</actor>
-      <writer>Donald P. Bellisario</writer>
+      <writer>Steven D. Binder</writer>
       <producer>Avery C. Drewe</producer>
       <composer>Greg Burns</composer>
     </credits>

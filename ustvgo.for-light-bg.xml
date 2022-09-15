@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220915204435" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220915210941" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -7019,7 +7019,6 @@
     <credits>
       <director>Kim Roberson</director>
       <actor role="Polly Plantar">Amanda Leighton</actor>
-      <writer>Matt Braly</writer>
       <composer>T.J. Hill</composer>
     </credits>
     <date>20211106</date>
@@ -7046,7 +7045,6 @@
     <credits>
       <director>Kim Roberson</director>
       <actor role="Polly Plantar">Amanda Leighton</actor>
-      <writer>Matt Braly</writer>
       <composer>T.J. Hill</composer>
     </credits>
     <date>20211113</date>
@@ -7073,7 +7071,6 @@
     <credits>
       <director>Kim Roberson</director>
       <actor role="Polly Plantar">Amanda Leighton</actor>
-      <writer>Matt Braly</writer>
       <composer>T.J. Hill</composer>
     </credits>
     <date>20211120</date>
@@ -8146,7 +8143,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3272239623.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9436557727.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20220915203000 +0000" stop="20220915210000 +0000" channel="ESPN2">
     <title lang="en">College Football Live</title>
@@ -9662,7 +9658,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E165</episode-num>
     <episode-num system="xmltv_ns">2021.164.</episode-num>
-    <live/>
   </programme>
   <programme start="20220915203000 +0000" stop="20220915220000 +0000" channel="FS1">
     <title lang="en">NASCAR Camping World Truck Series</title>
@@ -14285,6 +14280,7 @@
   <programme start="20220916083000 +0000" stop="20220916090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20220916090000 +0000" stop="20220916110000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

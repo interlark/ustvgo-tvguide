@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220917064815" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220917070952" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2930,6 +2930,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784446.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784449.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20220917190000 +0000" stop="20220917193000 +0000" channel="CBS">
     <title lang="en">College Football Today</title>
@@ -13215,6 +13216,7 @@
     <sub-title>California at Notre Dame</sub-title>
     <desc>California at Notre Dame. From Notre Dame Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20220917220000 +0000" stop="20220917223000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

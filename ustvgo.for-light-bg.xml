@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220917104247" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220917110809" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -559,6 +559,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797548.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797546.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20220917230000 +0000" stop="20220917233000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -8227,7 +8228,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3174408704.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3174408708.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -10385,7 +10385,7 @@
     <desc>Larry Weaver spends the night in Sikeston, Missouri. The next day he vanishes without a trace. Police launch a statewide search and rescue mission, but only when they turn to surveillance cameras, do they find out the terrifying truth of what happened.</desc>
     <credits>
       <director>Ian Clark</director>
-      <producer>Tara Elwood</producer>
+      <producer>Tim Baney</producer>
       <composer>Walter Rathie</composer>
     </credits>
     <date>20200520</date>
@@ -10407,7 +10407,7 @@
     <desc>On June 3rd, 2007, Shirley Shell, a loving wife and dedicated mother, is found brutally murdered at home in Edmond, Oklahoma.</desc>
     <credits>
       <director>Ian Clark</director>
-      <producer>Tara Elwood</producer>
+      <producer>Tim Baney</producer>
       <composer>Walter Rathie</composer>
     </credits>
     <date>20200429</date>
@@ -12465,6 +12465,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707594264.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E269</episode-num>
     <episode-num system="xmltv_ns">2021.268.</episode-num>
+    <new/>
   </programme>
   <programme start="20220917230000 +0000" stop="20220918000000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

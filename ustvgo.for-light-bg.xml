@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220917184630" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220917190733" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2134,7 +2134,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11925511537.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11344651235.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20220917183000 +0000" stop="20220917190000 +0000" channel="CBS">
     <title lang="en">College Football: The Drive to Atlanta</title>
@@ -2599,7 +2598,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11925511537.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11344651235.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20220917183000 +0000" stop="20220917190000 +0000" channel="CBSNY">
     <title lang="en">College Football: The Drive to Atlanta</title>
@@ -5904,12 +5902,14 @@
   <programme start="20220917170000 +0000" stop="20220917180000 +0000" channel="FoodNetwork">
     <title lang="en">Guy's Ultimate Game Night</title>
     <sub-title>Game Day Game Night</sub-title>
-    <desc>Iconic actor Vivica A. Fox joins Fox NFL sportscasters Charissa Thompson and Jay Glazer in a series of Guy Fieri's epic food games! Plus, NFL legend and Super Bowl champ Andrew Whitworth competes in a challenge unlike any he's ever faced.</desc>
+    <desc>The Flavortown Lounge gets foxy as iconic actor Vivica A. Fox joins Fox NFL sportscasters Charissa Thompson and Jay Glazer in a series of Guy Fieri's epic food games!</desc>
     <date>20220914</date>
     <category>Reality competition</category>
     <category>Cooking</category>
     <category>Food</category>
     <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12053053337.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12053049172.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E03</episode-num>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating system="VCHIP">
@@ -10012,7 +10012,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20220917183000 +0000" stop="20220917220000 +0000" channel="NBC">
     <title lang="en">College Football</title>
@@ -10403,7 +10402,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20220917183000 +0000" stop="20220917220000 +0000" channel="NBCNY">
     <title lang="en">College Football</title>

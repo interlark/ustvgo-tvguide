@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220918224049" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220918230922" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -515,7 +515,6 @@
   <programme start="20220919100000 +0000" stop="20220919110000 +0000" channel="ABC">
     <title lang="en">America This Morning</title>
     <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
-    <new/>
   </programme>
   <programme start="20220919110000 +0000" stop="20220919130000 +0000" channel="ABC">
     <title lang="en">Good Morning America</title>
@@ -2569,7 +2568,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8427364070.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E187</episode-num>
     <episode-num system="xmltv_ns">2021.186.</episode-num>
-    <new/>
   </programme>
   <programme start="20220919103000 +0000" stop="20220919110000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -7726,7 +7724,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8678001101.jpg" width="541" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8678001108.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20220918230000 +0000" stop="20220919000000 +0000" channel="FoxNews">
     <title lang="en">Sunday Night in America with Trey Gowdy</title>
@@ -7761,7 +7759,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7425083869.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S06E38</episode-num>
     <episode-num system="xmltv_ns">5.37.</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20220919020000 +0000" stop="20220919030000 +0000" channel="FoxNews">
     <title lang="en">Sunday Night in America with Trey Gowdy</title>
@@ -8610,7 +8608,6 @@
     <sub-title>Sanford International</sub-title>
     <desc>Sanford International final-round play from Minnehaha CC in Sioux Falls, South Dakota. Darren Clarke (12-under) was last year's winner in a playoff over K.J. Choi and Steve Flesch. Clarke is 13th in the 2022 Schwab Cup standings, led by Steven Alker.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20220919033000 +0000" stop="20220919063000 +0000" channel="GOLF">
     <title lang="en">PGA Tour Golf</title>
@@ -11354,7 +11351,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20220918230000 +0000" stop="20220919000000 +0000" channel="MSNBC">
     <title lang="en">American Voices with Alicia Menendez</title>
@@ -11364,7 +11360,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20220919000000 +0000" stop="20220919010000 +0000" channel="MSNBC">
     <title lang="en">The Mehdi Hasan Show</title>
@@ -11380,14 +11375,12 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20220919010000 +0000" stop="20220919020000 +0000" channel="MSNBC">
     <title lang="en">Ayman</title>
     <sub-title>09-18-2022</sub-title>
     <desc>Breaking news and important stories are featured.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20220919020000 +0000" stop="20220919030000 +0000" channel="MSNBC">
     <title lang="en">Model America</title>
@@ -14310,7 +14303,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11439710877.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S10E100</episode-num>
     <episode-num system="xmltv_ns">9.99.</episode-num>
-    <new/>
   </programme>
   <programme start="20220918223000 +0000" stop="20220918230000 +0000" channel="PBS">
     <title lang="en">Washington Week</title>

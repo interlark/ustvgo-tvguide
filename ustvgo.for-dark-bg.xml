@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220918104228" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220918110755" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -480,6 +480,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4848049500.jpg" width="552" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10455224228.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20220918230000 +0000" stop="20220919000000 +0000" channel="ABC">
     <title lang="en">America's Funniest Home Videos</title>
@@ -3406,7 +3407,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9675906144.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9675906141.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -12362,6 +12362,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707594264.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E271</episode-num>
     <episode-num system="xmltv_ns">2021.270.</episode-num>
+    <new/>
   </programme>
   <programme start="20220918230000 +0000" stop="20220919001500 +0000" channel="NBC">
     <title lang="en">Football Night in America</title>
@@ -16181,7 +16182,6 @@
   <programme start="20220918100000 +0000" stop="20220918103000 +0000" channel="Telemundo">
     <title lang="es">La Liga Premier Extra</title>
     <desc>Edición extra con toda la información y las últimas novedades de la Premier League. El fútbol doméstico de Inglaterra no da respiro y los partidos, jornada a jornada, se tornan cada vez más intensos y emocionantes. La pelea por los primeros lugares de la tabla está muy disputada y los equipos saben que no pueden fallar en sus próximos compromisos.</desc>
-    <live/>
   </programme>
   <programme start="20220918103000 +0000" stop="20220918130000 +0000" channel="Telemundo">
     <title lang="es">Fútbol: Premier League</title>

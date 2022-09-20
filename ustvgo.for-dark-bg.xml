@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220920104452" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220920110833" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -520,6 +520,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4848049500.jpg" width="552" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10455224228.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20220920230000 +0000" stop="20220921000000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -2910,7 +2911,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8427364070.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E188</episode-num>
     <episode-num system="xmltv_ns">2021.187.</episode-num>
-    <new/>
   </programme>
   <programme start="20220920103000 +0000" stop="20220920110000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -3068,6 +3068,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8631653649.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E202</episode-num>
     <episode-num system="xmltv_ns">2021.201.</episode-num>
+    <new/>
   </programme>
   <programme start="20220920230000 +0000" stop="20220921000000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -4249,7 +4250,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-431943851.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-431943852.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -12910,6 +12910,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707594264.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E273</episode-num>
     <episode-num system="xmltv_ns">2021.272.</episode-num>
+    <new/>
   </programme>
   <programme start="20220920230000 +0000" stop="20220921000000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

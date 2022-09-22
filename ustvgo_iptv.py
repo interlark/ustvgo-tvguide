@@ -9,7 +9,7 @@ from tqdm.asyncio import tqdm
 
 USER_AGENT = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
               '(KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36')
-USTVGO_HEADERS = {'Referer': 'https://ustvgo.tv', 'User-Agent': USER_AGENT}
+USTVGO_HEADERS = {'Referer': 'https://ustvgo.tv/', 'User-Agent': USER_AGENT}
 
 logging.basicConfig(
     level=logging.INFO, format='%(asctime)s :: %(levelname)s :: %(message)s',

@@ -94,7 +94,7 @@ async def download_with_retries(url, headers=None, timeout=1, timeout_increment=
                 raise
             timeout = min(timeout + timeout_increment, timeout_max)
             if retry > retries_max:
-                logger.error('Failed to download URL %s', url)
+                logger.warning('Failed to download URL %s', url)
                 return ret_default
             retry += 1
 

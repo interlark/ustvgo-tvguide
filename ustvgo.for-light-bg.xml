@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220924074017" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220924081745" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -553,6 +553,7 @@
     <sub-title>Notre Dame at North Carolina</sub-title>
     <desc>Notre Dame at North Carolina. From Kenan Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20220924223000 +0000" stop="20220924230000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -965,6 +966,7 @@
     <desc>A young father is shot in his driveway after putting his daughter to sleep.</desc>
     <credits>
       <director>Peter Tarshis</director>
+      <writer>Elena Sorre</writer>
       <producer>Chris Engelmann</producer>
       <composer>Paul Brill</composer>
     </credits>
@@ -986,6 +988,7 @@
     <desc>In Tulsa, a high-school football player is gunned down when his friends make a dangerous decision. Detectives must separate witnesses from suspects to find out who fired the fatal bullet.</desc>
     <credits>
       <director>Peter Tarshis</director>
+      <writer>Elena Sorre</writer>
       <producer>Chris Engelmann</producer>
       <composer>Paul Brill</composer>
     </credits>
@@ -2899,6 +2902,7 @@
     <sub-title>Florida at Tennessee</sub-title>
     <desc>Florida at Tennessee. From Neyland Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20220924230000 +0000" stop="20220925000000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -8051,6 +8055,7 @@
     <title lang="en">Fox College Football Extra</title>
     <sub-title>09-24-2022</sub-title>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20220924200000 +0000" stop="20220924233000 +0000" channel="FOX">
     <title lang="en">College Football</title>
@@ -8800,7 +8805,6 @@
     <sub-title>Grand Final: Geelong Cats vs. Sydney Swans</sub-title>
     <desc>Geelong Cats vs. Sydney Swans in the 127th Grand Final. From Melbourne Cricket Ground.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20220924073000 +0000" stop="20220924080000 +0000" channel="FS1">
     <title lang="en">TMZ Sports</title>

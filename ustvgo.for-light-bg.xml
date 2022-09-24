@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220924122742" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220924130934" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -3899,7 +3899,6 @@
   <programme start="20220924110000 +0000" stop="20220924120000 +0000" channel="CNN">
     <title lang="en">New Day Weekend</title>
     <desc>The latest news and top stories.</desc>
-    <new/>
   </programme>
   <programme start="20220924120000 +0000" stop="20220924130000 +0000" channel="CNN">
     <title lang="en">New Day Weekend</title>
@@ -6000,7 +5999,6 @@
     <sub-title>The Final Nail</sub-title>
     <desc>Yuga and Nail fight for the future of Rush Duels.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -6721,7 +6719,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20220924120000 +0000" stop="20220924130000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -7312,6 +7309,7 @@
     <sub-title>Kansas State at Oklahoma</sub-title>
     <desc>Kansas State at Oklahoma. From Memorial Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20220925033000 +0000" stop="20220925040000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>
@@ -8553,7 +8551,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12062166785.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12062166784.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20220924120000 +0000" stop="20220924140000 +0000" channel="GOLF">
     <title lang="en">PGA Tour Champions Golf</title>
@@ -11042,7 +11039,6 @@
     <sub-title>09-24-2022</sub-title>
     <desc>Katie Phang explores the intersections of race, law, politics, culture and more, and features interviews with the nation's top newsmakers.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20220924120000 +0000" stop="20220924130000 +0000" channel="MSNBC">
     <title lang="en">Velshi</title>

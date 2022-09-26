@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220926142853" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220926145314" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2857,6 +2857,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12033090208.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S02E02</episode-num>
     <episode-num system="xmltv_ns">1.1.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4574,7 +4575,6 @@
   <programme start="20220926130000 +0000" stop="20220926140000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom with Poppy Harlow and Jim Sciutto</title>
     <desc>The latest news from around the world.</desc>
-    <new/>
   </programme>
   <programme start="20220926140000 +0000" stop="20220926150000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom with Poppy Harlow and Jim Sciutto</title>
@@ -7203,7 +7203,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9555883150.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S04E04</episode-num>
     <episode-num system="xmltv_ns">3.3.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -7681,7 +7680,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9109265629.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E183</episode-num>
     <episode-num system="xmltv_ns">2021.182.</episode-num>
-    <live/>
   </programme>
   <programme start="20220926140000 +0000" stop="20220926160000 +0000" channel="ESPN">
     <title lang="en">First Take</title>
@@ -7866,7 +7864,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9025728921.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9025728925.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20220926140000 +0000" stop="20220926170000 +0000" channel="ESPNU">
     <title lang="en">College Football</title>
@@ -12134,7 +12131,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7532788354.jpg" width="720" height="526"/>
     <episode-num system="onscreen">S2022E317</episode-num>
     <episode-num system="xmltv_ns">2021.316.</episode-num>
-    <live/>
   </programme>
   <programme start="20220926140000 +0000" stop="20220926150000 +0000" channel="MSNBC">
     <title lang="en">José Díaz-Balart Reports</title>
@@ -12894,7 +12890,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7577835718.jpg" width="720" height="534"/>
     <episode-num system="onscreen">S2022E187</episode-num>
     <episode-num system="xmltv_ns">2021.186.</episode-num>
-    <new/>
   </programme>
   <programme start="20220926140000 +0000" stop="20220926150000 +0000" channel="NBC">
     <title lang="en">Today with Hoda &amp; Jenna</title>
@@ -12994,6 +12989,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12023402983.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E02</episode-num>
     <episode-num system="xmltv_ns">0.1.</episode-num>
+    <new/>
     <star-rating system="Metascore">
       <value>56/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/56.png" width="128" height="128"/>
@@ -13434,7 +13430,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7577835718.jpg" width="720" height="534"/>
     <episode-num system="onscreen">S2022E187</episode-num>
     <episode-num system="xmltv_ns">2021.186.</episode-num>
-    <new/>
   </programme>
   <programme start="20220926140000 +0000" stop="20220926150000 +0000" channel="NBCNY">
     <title lang="en">Today with Hoda &amp; Jenna</title>
@@ -17658,7 +17653,6 @@
     <sub-title>26-09-2022</sub-title>
     <desc>Inicia tu día con el show de las mañanas que te informa mejor con las noticias más oportunas, equilibradas y relevantes que la comunidad hispana en EE.UU. necesita. Los eventos más importantes de la jornada, el entretenimiento, el pronóstico del tiempo, las recetas de cocina y los consejos para una vida sana.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20220926140000 +0000" stop="20220926150000 +0000" channel="Telemundo">
     <title lang="es">Caso cerrado</title>

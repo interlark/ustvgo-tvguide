@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220927192829" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220927194342" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -424,7 +424,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4018176703.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S60E12</episode-num>
     <episode-num system="xmltv_ns">59.11.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2597,7 +2596,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10620223078.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E12</episode-num>
     <episode-num system="xmltv_ns">12.11.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3226,7 +3224,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10620223078.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E12</episode-num>
     <episode-num system="xmltv_ns">12.11.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4403,7 +4400,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6643847374.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6643847377.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20220927190000 +0000" stop="20220927200000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom With Alisyn Camerota and Victor Blackwell</title>
@@ -7668,7 +7664,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11626988796.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11626988795.jpg" width="499" height="499"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20220927190000 +0000" stop="20220927200000 +0000" channel="ESPN">
     <title lang="en">NBA Today</title>
@@ -7866,7 +7861,7 @@
   <programme start="20220927233000 +0000" stop="20220928023000 +0000" channel="ESPNU">
     <title lang="en">College Football</title>
     <sub-title>Utah at Arizona State</sub-title>
-    <desc>Utah at Arizona State. From Sun Devil Stadium.</desc>
+    <desc>Utah (2-1) at Arizona State (1-2). From Sun Devil Stadium.</desc>
     <date>20220000</date>
   </programme>
   <programme start="20220928023000 +0000" stop="20220928033000 +0000" channel="ESPNU">
@@ -8653,7 +8648,6 @@
     <sub-title>09-27-2022</sub-title>
     <desc>An in-depth look at the top stories affecting Americans today.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20220927190000 +0000" stop="20220927200000 +0000" channel="FoxNews">
     <title lang="en">The Story With Martha MacCallum</title>
@@ -12234,7 +12228,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9900240973.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9900240969.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20220927190000 +0000" stop="20220927200000 +0000" channel="MSNBC">
     <title lang="en">Hallie Jackson Reports</title>
@@ -13169,6 +13162,7 @@
   <programme start="20220928070000 +0000" stop="20220928073000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20220928073000 +0000" stop="20220928080000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
@@ -18823,7 +18817,6 @@
     <title lang="es">Contigo Sí</title>
     <sub-title>09-16-2022</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220928162628" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220928171208" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -424,7 +424,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12019986475.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S26E16</episode-num>
     <episode-num system="xmltv_ns">25.15.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -653,6 +652,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8483786729.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S43E198</episode-num>
     <episode-num system="xmltv_ns">42.197.</episode-num>
+    <new/>
   </programme>
   <programme start="20220929050700 +0000" stop="20220929090000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -981,7 +981,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12019986475.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S26E16</episode-num>
     <episode-num system="xmltv_ns">25.15.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2005,7 +2004,8 @@
   <programme start="20220928200000 +0000" stop="20220928210000 +0000" channel="BTN">
     <title lang="en">B1G Football in 60</title>
     <sub-title>Minnesota at Michigan State</sub-title>
-    <date>20220000</date>
+    <desc>Minnesota at Michigan State.</desc>
+    <date>20220924</date>
     <category>Sports stuff</category>
     <category>College</category>
     <category>Football</category>
@@ -2726,7 +2726,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080660024.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S50E197</episode-num>
     <episode-num system="xmltv_ns">49.196.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -2930,6 +2929,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7834104618.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E14</episode-num>
     <episode-num system="xmltv_ns">7.13.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3425,7 +3425,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080660024.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S50E197</episode-num>
     <episode-num system="xmltv_ns">49.196.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -4593,7 +4592,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928170000 +0000" channel="CNBC">
     <title lang="en">Fast Money Halftime Report</title>
@@ -4720,7 +4718,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6655880264.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E135</episode-num>
     <episode-num system="xmltv_ns">2021.134.</episode-num>
-    <new/>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928200000 +0000" channel="CNN">
     <title lang="en">Attack on Democracy: The January 6th Hearings</title>
@@ -8013,7 +8010,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1233687302.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7530483255.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928170000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -9023,7 +9019,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9651332501.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S02E193</episode-num>
     <episode-num system="xmltv_ns">1.192.</episode-num>
-    <new/>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928170000 +0000" channel="FoxNews">
     <title lang="en">Outnumbered</title>
@@ -9333,7 +9328,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4016008579.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8741059608.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928190000 +0000" channel="FS1">
     <title lang="en">The Herd With Colin Cowherd</title>
@@ -12592,7 +12586,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9891135107.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E267</episode-num>
     <episode-num system="xmltv_ns">2021.266.</episode-num>
-    <live/>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928200000 +0000" channel="MSNBC">
     <title lang="en">The January 6th Hearings: The House Investigates</title>
@@ -13600,6 +13593,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10770481237.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S10E07</episode-num>
     <episode-num system="xmltv_ns">9.6.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -14962,7 +14956,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10576362924.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E06</episode-num>
     <episode-num system="xmltv_ns">20.5.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -19881,7 +19874,6 @@
     <title lang="es">Como dice el dicho</title>
     <sub-title>09-29-2022</sub-title>
     <date>20110000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -19890,7 +19882,6 @@
     <title lang="es">Noticiero Univision - Edicion Digital</title>
     <sub-title>09-28-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20220928163000 +0000" stop="20220928170000 +0000" channel="Univision">
     <title lang="es">Nosotros Los Guapos</title>

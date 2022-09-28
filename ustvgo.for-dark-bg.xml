@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220928133032" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220928141844" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -598,6 +598,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12076917082.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S03E02</episode-num>
     <episode-num system="xmltv_ns">2.1.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -2926,6 +2927,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12020068326.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12020068327.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20220929030000 +0000" stop="20220929033500 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -8511,6 +8513,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8053052880.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S03E02</episode-num>
     <episode-num system="xmltv_ns">2.1.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -9205,7 +9208,6 @@
     <sub-title>09-28-2022</sub-title>
     <desc>Craig Carton brings his unique style to the day's biggest sports stories. Joined by guests and analysts, Carton will give the first perspective of the day on all the major topics.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20220928133000 +0000" stop="20220928160000 +0000" channel="FS1">
     <title lang="en">Skip and Shannon: Undisputed</title>

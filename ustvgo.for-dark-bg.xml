@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220928204543" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220928211339" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -7979,7 +7979,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3272239623.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9436557727.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20220928203000 +0000" stop="20220928210000 +0000" channel="ESPN2">
     <title lang="en">College Football Live</title>
@@ -9220,7 +9219,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E171</episode-num>
     <episode-num system="xmltv_ns">2021.170.</episode-num>
-    <live/>
   </programme>
   <programme start="20220928203000 +0000" stop="20220928220000 +0000" channel="FS1">
     <title lang="en">Speak</title>
@@ -9753,7 +9751,8 @@
     <desc>Meg falls in love with Brian---then becomes obsessive about it---after he takes her to a high-school dance when no one else will. And Peter, Quagmire, Cleveland and Mort join the Quahog police after Mayor West (voice of Adam West) sends most of the force to Colombia in search of a character from a movie. Garrett Morris has a voice cameo as himself.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
+      <actor>Lori Alan</actor>
+      <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
@@ -9782,7 +9781,8 @@
     <desc>Brian inadvertently sells Stewie's teddy bear Rupert at a yard sale, prompting a cross-country odyssey to get it back. And Peter loses his driver's license after crashing his car doing an Evel Knievel-type stunt. He makes such a pest of himself around the house that Lois enlists Meg to be his chauffeur. Rob Lowe provides the voice of Rupert's buyer, and George Wendt has a cameo as Norm in a fantasy scene set in the "Cheers" bar.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
+      <actor>Lori Alan</actor>
+      <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
@@ -9811,7 +9811,8 @@
     <desc>Peter stops drinking (but starts smoking crack) after accidentally killing his father (voice of Charles Durning) while drinking heavily at Meg's birthday party. But is the dead man really his father? No, his mother (Phyllis Diller) confesses, he isn't. So Peter heads to Ireland to find his real dad. Meanwhile, Stewie develops masochistic tendencies.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
+      <actor>Lori Alan</actor>
+      <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
@@ -9840,7 +9841,8 @@
     <desc>After Chris is bullied by a rival paperboy, Peter recalls his own days of being bullied---and becomes a bully himself. Meanwhile, Stewie stays out in the sun too long without sunscreen and becomes very enamored of his tan.</desc>
     <credits>
       <director>Peter Shin</director>
-      <writer>Steve Callaghan</writer>
+      <actor>Lori Alan</actor>
+      <writer>David Zuckerman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
       <editor>Seth MacFarlane</editor>
@@ -13794,6 +13796,7 @@
   <programme start="20220929083000 +0000" stop="20220929090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20220929090000 +0000" stop="20220929110000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

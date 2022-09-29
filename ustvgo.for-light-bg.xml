@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220929082613" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20220929085610" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2662,7 +2662,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7915087065.jpg" width="720" height="533"/>
     <episode-num system="onscreen">S19E151</episode-num>
     <episode-num system="xmltv_ns">18.150.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4528,7 +4527,6 @@
   <programme start="20220929070000 +0000" stop="20220929080000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom Live (CNNI)</title>
     <desc>The latest news from around the world.</desc>
-    <live/>
   </programme>
   <programme start="20220929080000 +0000" stop="20220929090000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom Live (CNNI)</title>
@@ -11307,7 +11305,7 @@
     <credits>
       <director>Christian I. Nyby II</director>
       <actor role="Norman Briggs">Michael Tucci</actor>
-      <writer>Burt Prelutsky</writer>
+      <writer>Joel Steiger</writer>
       <producer>Robin Madden</producer>
       <composer>Lou Forestieri</composer>
     </credits>
@@ -13315,7 +13313,6 @@
   <programme start="20220929073000 +0000" stop="20220929080000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
-    <new/>
   </programme>
   <programme start="20220929080000 +0000" stop="20220929083000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -13966,7 +13963,6 @@
   <programme start="20220929073000 +0000" stop="20220929080000 +0000" channel="NBCNY">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
-    <new/>
   </programme>
   <programme start="20220929080000 +0000" stop="20220929083000 +0000" channel="NBCNY">
     <title lang="en">Today in New York</title>
@@ -19428,8 +19424,8 @@
     <desc>Ben intervenes when a con man tries to cheat four sisters out of their inheritance. Ara: Vera Miles. Gabrielle: Lyn Edgington. Joe: Michael Landon. Hoss: Dan Blocker. Lorraine: Madeline Mack. Sheriff: Ray Teal. Heather: Melinda Plowman.</desc>
     <credits>
       <director>William F. Claxton</director>
-      <actor role="Major Reynolds">Bing Russell</actor>
-      <writer>Michael Landon</writer>
+      <actor role="Deputy Clem Foster">Bing Russell</actor>
+      <writer>John Hawkins</writer>
       <producer>David Dortort</producer>
       <composer>Walter Scharf</composer>
       <editor>Marvin J. Coil</editor>

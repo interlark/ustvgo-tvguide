@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221002062512" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221002065712" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -1032,7 +1032,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8415020272.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8415020268.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3786,7 +3785,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11822380460.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S16E07</episode-num>
     <episode-num system="xmltv_ns">15.6.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -5674,7 +5672,6 @@
     <credits>
       <director>Bob Koherr</director>
       <actor>Trevor Tordjman</actor>
-      <writer>Pamela Eells</writer>
       <producer>Shari Tavey</producer>
       <composer>Steve Hampton</composer>
     </credits>
@@ -7175,7 +7172,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812450.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812449.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221002060000 +0000" stop="20221002080000 +0000" channel="ESPN2">
     <title lang="en">College Football</title>
@@ -12929,6 +12925,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8137153338.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8137153337.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221002220000 +0000" stop="20221002223000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -13842,7 +13839,7 @@
     <desc>After Ryder is knighted by the princess of Barkingburg, he and the pups are put to the test when a disgruntled former knight gains control of a dragon and attacks the castle.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Charles Johnston</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -13866,7 +13863,7 @@
     <desc>The Duke and Claw use a magic cauldron to put the people of Barkingburg to sleep. Their plan backfires when the enchanted fog works on Sparks, it's up to the Paw Patrol to wake up the Dragon along with everyone else in town.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Charles Johnston</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -18542,7 +18539,6 @@
     <title lang="es">Mas noche</title>
     <sub-title>10-01-2022</sub-title>
     <date>20180000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

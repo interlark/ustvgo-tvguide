@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221006182045" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221006185847" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -413,7 +413,6 @@
     <sub-title>Uyen Kirshenbaum; Rachel Scott; Erica Blaire Roby; Tori Spelling</sub-title>
     <desc>Restaurant owner Uyen Kirshenbaum; ABC News Congressional correspondent Rachel Scott on abortion rights ("IMPACT x Nightline"); BBQ demonstration with pitmaster Erica Blaire Roby; Tori Spelling ("Love at First Lie").</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221006180000 +0000" stop="20221006190000 +0000" channel="ABC">
     <title lang="en">General Hospital</title>
@@ -950,7 +949,6 @@
     <sub-title>Uyen Kirshenbaum; Rachel Scott; Erica Blaire Roby; Tori Spelling</sub-title>
     <desc>Restaurant owner Uyen Kirshenbaum; ABC News Congressional correspondent Rachel Scott on abortion rights ("IMPACT x Nightline"); BBQ demonstration with pitmaster Erica Blaire Roby; Tori Spelling ("Love at First Lie").</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221006180000 +0000" stop="20221006190000 +0000" channel="ABCNY">
     <title lang="en">The Rachael Ray Show</title>
@@ -1838,10 +1836,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/77.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221006160000 +0000" stop="20221006170000 +0000" channel="BTN">
-    <title lang="en">B1G Today</title>
-    <desc>Dave Revsine breaks down the biggest stories of the day from around the Big Ten. Hear from B1G analysts, coaches, players and more as they discuss a range of sports topics.</desc>
-  </programme>
   <programme start="20221006170000 +0000" stop="20221006180000 +0000" channel="BTN">
     <title lang="en">Classic College Football</title>
     <sub-title>2014: Wisconsin at Northwestern</sub-title>
@@ -2717,7 +2711,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10619857429.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S36E09</episode-num>
     <episode-num system="xmltv_ns">35.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3455,7 +3448,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10619857429.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S36E09</episode-num>
     <episode-num system="xmltv_ns">35.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4714,7 +4706,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221006180000 +0000" stop="20221006190000 +0000" channel="CNBC">
     <title lang="en">Power Lunch</title>
@@ -4856,7 +4847,6 @@
     <sub-title>10-06-2022</sub-title>
     <desc>The latest news and information from around the world with host Ana Cabrera.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221006180000 +0000" stop="20221006190000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom With Alisyn Camerota and Victor Blackwell</title>
@@ -8191,7 +8181,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221006180000 +0000" stop="20221006190000 +0000" channel="ESPN">
     <title lang="en">This Just In</title>
@@ -9561,6 +9550,24 @@
     <title lang="en">NHRA in 30</title>
     <sub-title>From St.Louis</sub-title>
     <date>20220000</date>
+    <category>Motor sports</category>
+    <category>Sports stuff</category>
+    <category>Drag racing</category>
+    <category>Highlights</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1882259933.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7501410479.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221007010000 +0000" stop="20221007013000 +0000" channel="FS2">
+    <title lang="en">NHRA Sportsman Series</title>
+    <sub-title>From Charlotte</sub-title>
+    <desc>NHRA Sportsmans Series racing in Charlotte, N.C.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221007013000 +0000" stop="20221007020000 +0000" channel="FS2">
+    <title lang="en">NHRA in 30</title>
+    <sub-title>They Walked Away 5</sub-title>
+    <date>20220218</date>
     <category>Motor sports</category>
     <category>Sports stuff</category>
     <category>Drag racing</category>
@@ -12819,7 +12826,6 @@
     <sub-title>10-06-2022</sub-title>
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221006180000 +0000" stop="20221006190000 +0000" channel="MSNBC">
     <title lang="en">Katy Tur Reports</title>
@@ -13770,7 +13776,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12052823345.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E16</episode-num>
     <episode-num system="xmltv_ns">0.15.</episode-num>
-    <new/>
   </programme>
   <programme start="20221006180000 +0000" stop="20221006223000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -14630,9 +14635,6 @@
     <desc>New England Patriots (1-2) at Green Bay Packers (2-1). From Lambeau Field. Brian Hoyer (lost last 11 starts, dating to 2016) fills in at QB for the Pats' fourth-ever visit to Lambeau, where the Pack has won its last 14 regular-season games. Rhamondre Stevenson and Aaron Jones key the ground games.</desc>
     <date>20220000</date>
   </programme>
-  <programme start="20221006160000 +0000" stop="20221006170000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20221006170000 +0000" stop="20221006180000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -14655,6 +14657,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20221007000000 +0000" stop="20221007010000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20221007010000 +0000" stop="20221007020000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20221006173000 +0000" stop="20221006180000 +0000" channel="Nickelodeon">
@@ -18130,14 +18135,12 @@
     <sub-title>Victoria dorada</sub-title>
     <desc>El primer juego individual es una prueba de todos contra todos por un lingote de oro.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221007010000 +0000" stop="20221007020000 +0000" channel="Telemundo">
     <title lang="es">El fuego del destino</title>
     <sub-title>El triunfo de la injusticia</sub-title>
     <desc>Un revés en los planes descontrola a Cemre y Celebi obtiene las pruebas para acorralar a su esposa.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221006100000 +0000" stop="20221006180000 +0000" channel="Tennis">
     <title lang="en">Center Court</title>
@@ -19778,7 +19781,6 @@
     <title lang="es">Hoy</title>
     <sub-title>10-06-2022</sub-title>
     <date>19920000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>

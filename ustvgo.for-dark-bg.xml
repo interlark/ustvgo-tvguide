@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221006072233" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221006074622" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -4196,6 +4196,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10548816782.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E193</episode-num>
     <episode-num system="xmltv_ns">12.192.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -11538,7 +11539,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221006070000 +0000" stop="20221006080000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -23405,6 +23405,7 @@
     <sub-title>10-06-2022</sub-title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221006200000 +0000" stop="20221006220000 +0000" channel="MSNBC">
     <title lang="en">Deadline: White House</title>
@@ -27351,6 +27352,7 @@
     <desc>Charkie is afraid of thunder; and George and Steve take Charkie to get groomed for a charity dog calendar photo shoot.</desc>
     <credits>
       <director>Scott Heming</director>
+      <writer>Bruce Akiyama</writer>
       <producer>Patty Jausoro</producer>
       <composer>Nick Nolan</composer>
     </credits>
@@ -28136,6 +28138,7 @@
     <desc>George helps the Man With the Yellow Hat publicize his book about the endangered cerulean warbler, which is George's favorite bird, after bookstores refuse to stock the 1400-page tome.</desc>
     <credits>
       <director>Scott Heming</director>
+      <writer>Bruce Akiyama</writer>
       <producer>Patty Jausoro</producer>
       <composer>Nick Nolan</composer>
     </credits>
@@ -28881,6 +28884,7 @@
     <desc>Charkie is afraid of thunder; and George and Steve take Charkie to get groomed for a charity dog calendar photo shoot.</desc>
     <credits>
       <director>Scott Heming</director>
+      <writer>Bruce Akiyama</writer>
       <producer>Patty Jausoro</producer>
       <composer>Nick Nolan</composer>
     </credits>
@@ -34910,7 +34914,6 @@
     <title lang="en">Forest of the Damned</title>
     <desc>A remote forest harbors a seductive but satanic secret. Legend has it that beautiful nymphs who were once angels dwell deep in the heart of Miranda Forest, and when five teens travel deep into the woods to seek out the source of this enduring old wives tale, they're about to find out just how beautiful the face of fear can truly be.</desc>
     <date>20050000</date>
-    <new/>
   </programme>
   <programme start="20221006071400 +0000" stop="20221006074500 +0000" channel="SYFY">
     <title lang="en">The Twilight Zone</title>
@@ -36802,6 +36805,7 @@
   <programme start="20221006185800 +0000" stop="20221006195800 +0000" channel="Telemundo">
     <title lang="es">La mesa caliente</title>
     <desc>Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.</desc>
+    <new/>
   </programme>
   <programme start="20221006195800 +0000" stop="20221006210000 +0000" channel="Telemundo">
     <title lang="es">Al rojo vivo</title>
@@ -43131,6 +43135,7 @@
     <title lang="es">La Mexicana y el Güero</title>
     <sub-title>10-06-2022</sub-title>
     <date>20200000</date>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>

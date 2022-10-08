@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221008074339" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221008081915" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -559,6 +559,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797548.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797546.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221008200000 +0000" stop="20221008230000 +0000" channel="ABC">
     <title lang="en">College Football</title>
@@ -2767,6 +2768,7 @@
     <sub-title>Auburn at Georgia</sub-title>
     <desc>Auburn at Georgia. From Sanford Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221008230000 +0000" stop="20221008233000 +0000" channel="CBS">
     <title lang="en">College Football Postgame Show</title>
@@ -7792,6 +7794,7 @@
     <desc>Ree Drummond shares a collection of her favorite easy chicken recipes from times gone by. She gets cooking with Chicken Enchilasagna, Crispy Chicken Florentine Melts, comforting Braised Chicken with Apricots and Crispy Chicken Skins to go with drinks.</desc>
     <credits>
       <director>Olivia Ball</director>
+      <producer>Rachel Purnell</producer>
     </credits>
     <date>20221008</date>
     <category>Cooking</category>
@@ -7812,6 +7815,7 @@
     <desc>Ree Drummond is making four meals on four days, and they all have just five ingredients. For breakfast, she whips up chilaquiles, a Mexican breakfast with Osage County style. Ree's lunch is speedy teriyaki salmon.</desc>
     <credits>
       <director>Olivia Ball</director>
+      <producer>Rachel Purnell</producer>
     </credits>
     <date>20190921</date>
     <category>Cooking</category>
@@ -7844,6 +7848,7 @@
     <sub-title>Utah at UCLA</sub-title>
     <desc>Utah at UCLA. From the Rose Bowl.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221008230000 +0000" stop="20221008233000 +0000" channel="FOX">
     <title lang="en">Fox College Football Extra</title>
@@ -12884,6 +12889,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1372396147.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7584074150.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221008220000 +0000" stop="20221008223000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221010092154" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221010094958" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2633,7 +2633,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7695528329.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S04E20</episode-num>
     <episode-num system="xmltv_ns">3.19.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -4476,7 +4475,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221010090000 +0000" stop="20221010100000 +0000" channel="CNBC">
     <title lang="en">Worldwide Exchange</title>
@@ -4543,7 +4541,6 @@
   <programme start="20221010080000 +0000" stop="20221010090000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom Live (CNNI)</title>
     <desc>The latest news from around the world.</desc>
-    <live/>
   </programme>
   <programme start="20221010090000 +0000" stop="20221010100000 +0000" channel="CNN">
     <title lang="en">Early Start with Christine Romans and Laura Jarrett</title>
@@ -8305,7 +8302,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6941697068.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E404</episode-num>
     <episode-num system="xmltv_ns">2021.403.</episode-num>
-    <live/>
   </programme>
   <programme start="20221010090000 +0000" stop="20221010100000 +0000" channel="FoxNews">
     <title lang="en">Fox and Friends First</title>
@@ -12580,7 +12576,6 @@
   <programme start="20221010083000 +0000" stop="20221010090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
-    <new/>
   </programme>
   <programme start="20221010090000 +0000" stop="20221010110000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

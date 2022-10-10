@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221010192222" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221010194451" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -424,7 +424,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4018176703.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S60E20</episode-num>
     <episode-num system="xmltv_ns">59.19.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2657,7 +2656,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10620223078.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E20</episode-num>
     <episode-num system="xmltv_ns">12.19.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3367,7 +3365,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10620223078.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E20</episode-num>
     <episode-num system="xmltv_ns">12.19.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4239,7 +4236,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5153435004.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7533875017.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -4450,7 +4446,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6072052303.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7533900897.jpg" width="720" height="407"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221010190000 +0000" stop="20221010200000 +0000" channel="CNBC">
     <title lang="en">Closing Bell</title>
@@ -4597,7 +4592,6 @@
   <programme start="20221010180000 +0000" stop="20221010190000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom</title>
     <desc>The latest news and information from around the world.</desc>
-    <new/>
   </programme>
   <programme start="20221010190000 +0000" stop="20221010200000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom</title>
@@ -7590,7 +7584,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11626988796.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11626988795.jpg" width="499" height="499"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221010190000 +0000" stop="20221010200000 +0000" channel="ESPN">
     <title lang="en">NFL Rewind</title>
@@ -8505,7 +8498,6 @@
     <sub-title>10-10-2022</sub-title>
     <desc>An in-depth look at the top stories affecting Americans today.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221010190000 +0000" stop="20221010200000 +0000" channel="FoxNews">
     <title lang="en">The Story With Martha MacCallum</title>
@@ -8703,7 +8695,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10977173354.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E199</episode-num>
     <episode-num system="xmltv_ns">2021.198.</episode-num>
-    <live/>
   </programme>
   <programme start="20221010190000 +0000" stop="20221010203000 +0000" channel="FS1">
     <title lang="en">First Things First</title>
@@ -11931,7 +11922,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9900240973.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9900240969.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221010190000 +0000" stop="20221010200000 +0000" channel="MSNBC">
     <title lang="en">Hallie Jackson Reports</title>
@@ -12901,6 +12891,7 @@
   <programme start="20221011070000 +0000" stop="20221011073000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221011073000 +0000" stop="20221011080000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
@@ -16590,7 +16581,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3378695522.jpg" width="450" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9047274207.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <star-rating system="Metascore">
       <value>42/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
@@ -17223,7 +17213,6 @@
   <programme start="20221010180000 +0000" stop="20221010185800 +0000" channel="Telemundo">
     <title lang="es">En casa con Telemundo</title>
     <desc>Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.</desc>
-    <new/>
   </programme>
   <programme start="20221010185800 +0000" stop="20221010195800 +0000" channel="Telemundo">
     <title lang="es">La mesa caliente</title>
@@ -18759,7 +18748,6 @@
     <title lang="es">Amor Dividido</title>
     <sub-title>10-10-2022</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -18837,7 +18825,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3941376655.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3941641902.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221010190000 +0000" stop="20221010210000 +0000" channel="USANetwork">
     <title lang="en">Premier League Soccer</title>

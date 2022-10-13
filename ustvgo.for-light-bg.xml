@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221013062521" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221013070922" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -508,6 +508,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4018176703.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S60E23</episode-num>
     <episode-num system="xmltv_ns">59.22.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3069,6 +3070,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10620223078.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E23</episode-num>
     <episode-num system="xmltv_ns">12.22.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -8222,7 +8224,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221013063000 +0000" stop="20221013073000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -9099,7 +9100,6 @@
   <programme start="20221013050000 +0000" stop="20221013060000 +0000" channel="FoxNews">
     <title lang="en">Fox News Live</title>
     <desc>The important stories of the day are addressed.</desc>
-    <new/>
   </programme>
   <programme start="20221013060000 +0000" stop="20221013070000 +0000" channel="FoxNews">
     <title lang="en">Hannity</title>
@@ -13187,7 +13187,7 @@
     <credits>
       <director>David Metzler</director>
       <writer>Sarah Carey</writer>
-      <producer>Brad Bishop</producer>
+      <producer>David Metzler</producer>
       <composer>Benjamin Forrest Davis</composer>
     </credits>
     <date>20180124</date>
@@ -18064,7 +18064,7 @@
       <director>Michael Patrick King</director>
       <actor>Ryan Hansen</actor>
       <writer>Molly McAleer</writer>
-      <producer>Bruce Alden</producer>
+      <producer>Darryl Bates</producer>
       <editor>Darryl Bates</editor>
     </credits>
     <date>20160407</date>
@@ -18093,7 +18093,7 @@
       <director>Michael Patrick King</director>
       <actor>Ryan Hansen</actor>
       <writer>Molly McAleer</writer>
-      <producer>Bruce Alden</producer>
+      <producer>Darryl Bates</producer>
       <editor>Darryl Bates</editor>
     </credits>
     <date>20160414</date>
@@ -18122,7 +18122,7 @@
       <director>Michael Patrick King</director>
       <actor>Ryan Hansen</actor>
       <writer>Molly McAleer</writer>
-      <producer>Bruce Alden</producer>
+      <producer>Darryl Bates</producer>
       <editor>Darryl Bates</editor>
     </credits>
     <date>20160415</date>
@@ -18151,7 +18151,7 @@
       <director>Michael Patrick King</director>
       <actor>Ryan Hansen</actor>
       <writer>Molly McAleer</writer>
-      <producer>Bruce Alden</producer>
+      <producer>Darryl Bates</producer>
       <editor>Darryl Bates</editor>
     </credits>
     <date>20160422</date>
@@ -19332,7 +19332,7 @@
     <desc>A viral video feat and a claim about gas mileage are tested.</desc>
     <credits>
       <director>Lauren Gray Williams</director>
-      <writer>Jessica Mallett</writer>
+      <writer>Chris Williams</writer>
       <producer>Linda Wolkovitch</producer>
       <composer>Neil Sutherland</composer>
     </credits>
@@ -19621,7 +19621,7 @@
       <director>Charles S. Dubin</director>
       <actor role="Gen. Mitchell">Robert F. Simon</actor>
       <writer>Larry Gelbart</writer>
-      <producer>Gene Reynolds</producer>
+      <producer>Larry Gelbart</producer>
       <composer>Benny Golson</composer>
     </credits>
     <date>19721105</date>
@@ -19650,7 +19650,7 @@
       <director>Charles S. Dubin</director>
       <actor role="Gen. Mitchell">Robert F. Simon</actor>
       <writer>Larry Gelbart</writer>
-      <producer>Gene Reynolds</producer>
+      <producer>Larry Gelbart</producer>
       <composer>Benny Golson</composer>
     </credits>
     <date>19721112</date>
@@ -19773,7 +19773,6 @@
     <title lang="es">Peregrina</title>
     <sub-title>10-12-2022</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>

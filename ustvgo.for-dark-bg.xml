@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221013162328" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221013171109" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -424,7 +424,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12019986475.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S26E27</episode-num>
     <episode-num system="xmltv_ns">25.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -627,6 +626,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8483786729.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S43E206</episode-num>
     <episode-num system="xmltv_ns">42.205.</episode-num>
+    <new/>
   </programme>
   <programme start="20221014050700 +0000" stop="20221014090000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -995,7 +995,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12019986475.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S26E27</episode-num>
     <episode-num system="xmltv_ns">25.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2579,7 +2578,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12080660031.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080660024.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -2849,6 +2847,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7834104618.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E23</episode-num>
     <episode-num system="xmltv_ns">7.22.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3368,7 +3367,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12080660031.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080660024.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -4231,6 +4229,7 @@
     <desc>Raven sprouts tentacles after eating a bad meatball; Robin goes on a dangerous quest to replace his beloved broken staff.</desc>
     <credits>
       <director>Peter Rida Michael</director>
+      <writer>John Loy</writer>
       <producer>Michael Jelenic</producer>
       <composer>Armen Chakmakian</composer>
     </credits>
@@ -4254,6 +4253,7 @@
     <desc>Beast Boy has a new girlfriend, but Raven thinks she's up to no good; the Titans play dodgeball against a formidable team.</desc>
     <credits>
       <director>Peter Rida Michael</director>
+      <writer>John Loy</writer>
       <producer>Michael Jelenic</producer>
       <composer>Armen Chakmakian</composer>
     </credits>
@@ -4424,6 +4424,7 @@
     <desc>Cyborg and Beast Boy refuse to say anything but "waffles"; Cyborg has a crush on Jinx.</desc>
     <credits>
       <director>Peter Rida Michael</director>
+      <writer>John Loy</writer>
       <producer>Michael Jelenic</producer>
       <composer>Armen Chakmakian</composer>
     </credits>
@@ -4447,6 +4448,7 @@
     <desc>Robin ignores Raven's warnings about performing magic; Robin gets frustrated with the Titans and turns them to puppets.</desc>
     <credits>
       <director>Peter Rida Michael</director>
+      <writer>John Loy</writer>
       <producer>Michael Jelenic</producer>
       <composer>Armen Chakmakian</composer>
     </credits>
@@ -4582,7 +4584,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221013160000 +0000" stop="20221013170000 +0000" channel="CNBC">
     <title lang="en">Fast Money Halftime Report</title>
@@ -4709,7 +4710,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6655880264.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E146</episode-num>
     <episode-num system="xmltv_ns">2021.145.</episode-num>
-    <new/>
   </programme>
   <programme start="20221013160000 +0000" stop="20221013170000 +0000" channel="CNN">
     <title lang="en">Inside Politics</title>
@@ -8075,7 +8075,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1233687302.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7530483255.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221013160000 +0000" stop="20221013170000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -9086,7 +9085,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9651332501.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S02E204</episode-num>
     <episode-num system="xmltv_ns">1.203.</episode-num>
-    <new/>
   </programme>
   <programme start="20221013160000 +0000" stop="20221013170000 +0000" channel="FoxNews">
     <title lang="en">Outnumbered</title>
@@ -9277,7 +9275,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4016008579.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8741059608.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221013160000 +0000" stop="20221013190000 +0000" channel="FS1">
     <title lang="en">The Herd With Colin Cowherd</title>
@@ -12461,7 +12458,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9891135107.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E278</episode-num>
     <episode-num system="xmltv_ns">2021.277.</episode-num>
-    <live/>
   </programme>
   <programme start="20221013160000 +0000" stop="20221013200000 +0000" channel="MSNBC">
     <title lang="en">The January 6th Hearings: The House Investigates</title>
@@ -13451,6 +13447,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10770481237.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S10E16</episode-num>
     <episode-num system="xmltv_ns">9.15.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -19342,7 +19339,6 @@
   <programme start="20221013150000 +0000" stop="20221013160000 +0000" channel="Univision">
     <title lang="es">Como Dice el Dicho</title>
     <date>20110000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -19351,7 +19347,6 @@
     <title lang="es">Noticiero Univision - Edicion Digital</title>
     <sub-title>10-13-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221013163000 +0000" stop="20221013170000 +0000" channel="Univision">
     <title lang="es">Nosotros los Guapos</title>

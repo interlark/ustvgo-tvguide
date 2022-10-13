@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221013142340" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221013145004" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -578,6 +578,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12046695288.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E02</episode-num>
     <episode-num system="xmltv_ns">0.1.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -2785,6 +2786,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10562819598.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S02E03</episode-num>
     <episode-num system="xmltv_ns">1.2.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4116,7 +4118,6 @@
     <title lang="en">Bugs Bunny Builders</title>
     <sub-title>Smash House; Rock On</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -4582,7 +4583,6 @@
   <programme start="20221013130000 +0000" stop="20221013140000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom</title>
     <desc>The latest news and information from around the world.</desc>
-    <new/>
   </programme>
   <programme start="20221013140000 +0000" stop="20221013150000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom</title>
@@ -6631,6 +6631,7 @@
     <credits>
       <director>Dirk Campbell</director>
       <actor role="Julie Hubble">Nicola Stephenson</actor>
+      <producer>Nicole Keeb</producer>
       <composer>Mark Russell</composer>
     </credits>
     <date>20190209</date>
@@ -6656,6 +6657,7 @@
     <credits>
       <director>Dirk Campbell</director>
       <actor role="Julie Hubble">Nicola Stephenson</actor>
+      <producer>Nicole Keeb</producer>
       <composer>Mark Russell</composer>
     </credits>
     <date>20190726</date>
@@ -7887,7 +7889,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9109265629.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E196</episode-num>
     <episode-num system="xmltv_ns">2021.195.</episode-num>
-    <live/>
   </programme>
   <programme start="20221013140000 +0000" stop="20221013160000 +0000" channel="ESPN">
     <title lang="en">First Take</title>
@@ -8083,7 +8084,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9025728921.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9025728925.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221013140000 +0000" stop="20221013153000 +0000" channel="ESPNU">
     <title lang="en">SEC Storied</title>
@@ -12020,7 +12020,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7532788354.jpg" width="720" height="526"/>
     <episode-num system="onscreen">S2022E343</episode-num>
     <episode-num system="xmltv_ns">2021.342.</episode-num>
-    <live/>
   </programme>
   <programme start="20221013140000 +0000" stop="20221013150000 +0000" channel="MSNBC">
     <title lang="en">José Díaz-Balart Reports</title>
@@ -12774,7 +12773,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7577835718.jpg" width="720" height="534"/>
     <episode-num system="onscreen">S2022E199</episode-num>
     <episode-num system="xmltv_ns">2021.198.</episode-num>
-    <new/>
   </programme>
   <programme start="20221013140000 +0000" stop="20221013150000 +0000" channel="NBC">
     <title lang="en">Today with Hoda &amp; Jenna</title>
@@ -12921,6 +12919,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10466114130.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S03E04</episode-num>
     <episode-num system="xmltv_ns">2.3.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -13406,7 +13405,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7577835718.jpg" width="720" height="534"/>
     <episode-num system="onscreen">S2022E199</episode-num>
     <episode-num system="xmltv_ns">2021.198.</episode-num>
-    <new/>
   </programme>
   <programme start="20221013140000 +0000" stop="20221013150000 +0000" channel="NBCNY">
     <title lang="en">Today with Hoda &amp; Jenna</title>
@@ -16453,7 +16451,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19751214</date>
@@ -16475,7 +16473,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19751207</date>
@@ -16497,7 +16495,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19751130</date>
@@ -16519,7 +16517,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19751123</date>
@@ -16541,7 +16539,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19751116</date>
@@ -17279,7 +17277,6 @@
   <programme start="20221013110000 +0000" stop="20221013140000 +0000" channel="Telemundo">
     <title lang="es">Hoy día</title>
     <desc>Inicia tu día con el show de las mañanas que te informa mejor con las noticias más oportunas, equilibradas y relevantes que la comunidad hispana en EE.UU. necesita. Los eventos más importantes de la jornada, el entretenimiento, el pronóstico del tiempo, las recetas de cocina y los consejos para una vida sana.</desc>
-    <new/>
   </programme>
   <programme start="20221013140000 +0000" stop="20221013150000 +0000" channel="Telemundo">
     <title lang="es">Caso cerrado</title>
@@ -18840,7 +18837,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19740310</date>
@@ -18862,7 +18859,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19740303</date>
@@ -18884,7 +18881,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19740224</date>
@@ -18906,7 +18903,7 @@
     <credits>
       <director>Bob Sweeney</director>
       <actor role="Emmett Clark">Paul Hartman</actor>
-      <writer>Everett Greenbaum</writer>
+      <writer>Jim Fritzell</writer>
       <producer>Aaron Ruben</producer>
     </credits>
     <date>19740217</date>

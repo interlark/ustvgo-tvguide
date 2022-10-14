@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221014194042" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221014201631" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -6932,7 +6932,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812436.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812435.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221014193000 +0000" stop="20221014200000 +0000" channel="ESPN2">
     <title lang="en">This Just In</title>
@@ -8562,7 +8561,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12019464916.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221014193000 +0000" stop="20221014203000 +0000" channel="FS1">
     <title lang="en">MLB on FS1 Pregame</title>
@@ -10059,6 +10057,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5694808443.jpg" width="720" height="348"/>
     <episode-num system="onscreen">S13E03</episode-num>
     <episode-num system="xmltv_ns">12.2.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -11892,7 +11891,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9916644343.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E200</episode-num>
     <episode-num system="xmltv_ns">2021.199.</episode-num>
-    <live/>
   </programme>
   <programme start="20221014180000 +0000" stop="20221014190000 +0000" channel="MTV">
     <title lang="en">Catfish: The TV Show</title>
@@ -16973,7 +16971,6 @@
   <programme start="20221014223000 +0000" stop="20221014230000 +0000" channel="Telemundo">
     <title lang="es">Noticias Telemundo</title>
     <desc>Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.</desc>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -16989,7 +16986,6 @@
     <title lang="es">El fuego del destino</title>
     <desc>La vida de tres mujeres cambia por completo luego de un incendio en una fiesta benéfica.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221015020000 +0000" stop="20221015030000 +0000" channel="Telemundo">
     <title lang="es">Infiel, Historia de un engaño</title>

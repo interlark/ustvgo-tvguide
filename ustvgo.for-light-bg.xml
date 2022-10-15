@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221015154719" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221015161958" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -11151,7 +11151,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12138750557.jpg" width="484" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12138750556.jpg" width="720" height="714"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221015153000 +0000" stop="20221015160000 +0000" channel="NBC">
     <title lang="en">One Team: The Power of Sports</title>
@@ -11279,6 +11278,7 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221016050200 +0000" stop="20221016053200 +0000" channel="NBC">
     <title lang="en">1st Look</title>
@@ -11586,7 +11586,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12138750557.jpg" width="484" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12138750556.jpg" width="720" height="714"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221015153000 +0000" stop="20221015160000 +0000" channel="NBCNY">
     <title lang="en">One Team: The Power of Sports</title>

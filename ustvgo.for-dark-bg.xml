@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221015122825" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221015131622" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2347,7 +2347,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1370109267.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E29</episode-num>
     <episode-num system="xmltv_ns">7.28.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -2368,7 +2367,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7775377942.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S03E26</episode-num>
     <episode-num system="xmltv_ns">2.25.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -3723,7 +3721,6 @@
   <programme start="20221015110000 +0000" stop="20221015120000 +0000" channel="CNN">
     <title lang="en">New Day Weekend</title>
     <desc>The latest news and top stories.</desc>
-    <new/>
   </programme>
   <programme start="20221015120000 +0000" stop="20221015130000 +0000" channel="CNN">
     <title lang="en">New Day Weekend</title>
@@ -4394,6 +4391,7 @@
     <category>Profile</category>
     <category>Royals &amp; Gotha</category>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20221016010000 +0000" stop="20221016020000 +0000" channel="CW">
     <title lang="en">The Winchesters</title>
@@ -4664,6 +4662,7 @@
     <category>Profile</category>
     <category>Royals &amp; Gotha</category>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20221016010000 +0000" stop="20221016020000 +0000" channel="CWNY">
     <title lang="en">The Winchesters</title>
@@ -5857,7 +5856,6 @@
     <sub-title>Heavy Duty Duel</sub-title>
     <desc>Rayne helps to release her friends from the grips of the Heavy Cavalry Duel Club.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -6646,7 +6644,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221015120000 +0000" stop="20221015130000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -7189,6 +7186,7 @@
     <sub-title>Southern California at Utah</sub-title>
     <desc>Southern California at Utah. From Rice-Eccles Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221016033000 +0000" stop="20221016043000 +0000" channel="FOX">
     <title lang="en">Beat Shazam</title>
@@ -10877,7 +10875,6 @@
     <sub-title>10-15-2022</sub-title>
     <desc>Katie Phang explores the intersections of race, law, politics, culture and more, and features interviews with the nation's top newsmakers.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221015120000 +0000" stop="20221015130000 +0000" channel="MSNBC">
     <title lang="en">Velshi</title>
@@ -17770,7 +17767,6 @@
     <title lang="es">Planeta de Niños</title>
     <sub-title>10-15-2022</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>

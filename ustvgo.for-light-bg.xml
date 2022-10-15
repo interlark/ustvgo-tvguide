@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221015074538" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221015081948" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -555,6 +555,7 @@
     <sub-title>Oklahoma State at TCU</sub-title>
     <desc>Oklahoma State at TCU. From Amon G. Carter Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221015223000 +0000" stop="20221015230000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -2762,6 +2763,7 @@
     <sub-title>Alabama at Tennessee</sub-title>
     <desc>Alabama at Tennessee. From Neyland Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221015230000 +0000" stop="20221016000000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -7824,6 +7826,7 @@
     <desc>Ree Drummond prepares fall sweets for visitors at her and her sister's remodeled home. She starts the housewarming with her classic S'mores Cookies, shortcut Cherry Cheesecake Brownie Cups, easy Apple Fritters and divine Pumpkin Pie Snacking Granola.</desc>
     <credits>
       <director>Olivia Ball</director>
+      <producer>Rachel Purnell</producer>
     </credits>
     <date>20221015</date>
     <category>Cooking</category>
@@ -7844,6 +7847,7 @@
     <desc>Ree Drummond shares her favorite chocolate treats from over the years. First up is quick-and-easy white chocolate pudding followed by her magnificent Mississippi mud cake. She also makes her boys' favorite milk chocolate mousse.</desc>
     <credits>
       <director>Olivia Ball</director>
+      <producer>Rachel Purnell</producer>
     </credits>
     <date>20200208</date>
     <category>Cooking</category>
@@ -7895,6 +7899,7 @@
     <title lang="en">Fox College Football Extra</title>
     <sub-title>10-15-2022</sub-title>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221015200000 +0000" stop="20221015233000 +0000" channel="FOX">
     <title lang="en">College Football</title>
@@ -12978,6 +12983,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1372396147.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7584074150.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221015220000 +0000" stop="20221015223000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -15315,7 +15321,6 @@
     <desc>George, Gnocchi and Marco tour the solar system.</desc>
     <credits>
       <director>Scott Heming</director>
-      <writer>Joe Fallon</writer>
       <producer>Patty Jausoro</producer>
       <composer>Nick Nolan</composer>
     </credits>
@@ -16293,7 +16298,7 @@
     <credits>
       <director>Vincent McEveety</director>
       <actor>Mike Lally</actor>
-      <writer>Jackson Gillis</writer>
+      <writer>Steven Bochco</writer>
       <producer>Everett Chambers</producer>
       <composer>Dick DeBenedictis</composer>
       <editor>Bill Parker</editor>
@@ -16317,7 +16322,7 @@
     <credits>
       <director>Vincent McEveety</director>
       <actor>Mike Lally</actor>
-      <writer>Jackson Gillis</writer>
+      <writer>Steven Bochco</writer>
       <producer>Everett Chambers</producer>
       <composer>Dick DeBenedictis</composer>
       <editor>Bill Parker</editor>

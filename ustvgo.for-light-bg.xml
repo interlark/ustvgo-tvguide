@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221015174955" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221015181758" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -1581,6 +1581,12 @@
   <programme start="20221015160000 +0000" stop="20221015170000 +0000" channel="Boomerang">
     <title lang="en">Tom &amp; Jerry</title>
     <sub-title>Advance and Be Mechanized Cannery Rodent Cat Above and the Mouse Below Cat Concerto, the Cat and Dupli-Cat Catty Cornered</sub-title>
+    <credits>
+      <director>Joseph Barbera</director>
+      <writer>William Hanna</writer>
+      <producer>Fred Quimby</producer>
+      <composer>Scott Bradley</composer>
+    </credits>
     <date>20220827</date>
     <category>Comedy</category>
     <category>Family</category>
@@ -4733,7 +4739,7 @@
     <desc>Cricket wins a role in Big Coffee's new TV commercial but loses his confidence; Bill trades in his pick-up for a state-of-the-art electric car.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191116</date>
@@ -4757,7 +4763,7 @@
     <desc>Gramma convinces the neighbors she's a witch and Bill throws a barbeque; Cricket's scheme to cash in on a wishing well snares Tilly, leaving Cricket with a dilemma.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191123</date>
@@ -4781,7 +4787,7 @@
     <desc>Gloria gets stuck on an elevator with the Greens.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191130</date>
@@ -4805,7 +4811,7 @@
     <desc>"Reckoning Ball" – Convinced that Cricket and the Greens have ruined his life, Chip Whistler returns to exact his revenge.*Ed Begley Jr. ("Pineapple Express") guest stars as Mr. Whistler. Paul Scheer ("The League") returns as Chip Whistler."Clubbed" – When Gloria tells Tilly and Andromeda about her plans for a night on the town, the girls assume they're invited.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191214</date>
@@ -5050,7 +5056,6 @@
     <credits>
       <director>Richard Jeffery</director>
       <actor>Melanie Zanetti</actor>
-      <producer>Charlie Aspinwall</producer>
       <composer>Joff Bush</composer>
     </credits>
     <date>20190910</date>
@@ -5100,7 +5105,6 @@
     <credits>
       <director>Richard Jeffery</director>
       <actor>Melanie Zanetti</actor>
-      <producer>Charlie Aspinwall</producer>
       <composer>Joff Bush</composer>
     </credits>
     <date>20191202</date>
@@ -5125,7 +5129,6 @@
     <credits>
       <director>Richard Jeffery</director>
       <actor>Melanie Zanetti</actor>
-      <producer>Charlie Aspinwall</producer>
       <composer>Joff Bush</composer>
     </credits>
     <date>20210310</date>
@@ -5200,7 +5203,6 @@
     <credits>
       <director>Richard Jeffery</director>
       <actor>Melanie Zanetti</actor>
-      <producer>Charlie Aspinwall</producer>
       <composer>Joff Bush</composer>
     </credits>
     <date>20190930</date>
@@ -5297,7 +5299,7 @@
     <desc>The Spidey Team is planning to stop Green Goblin, he manages to throw the heroes' plans off course; w new superpowered spidey-jetback ends up in the hands of Rhino.</desc>
     <credits>
       <director>Chris Gilligan</director>
-      <writer>Claudia Silver</writer>
+      <writer>Bart Jennett</writer>
     </credits>
     <date>20211001</date>
     <category>Action/Adventure</category>
@@ -5318,7 +5320,6 @@
     <credits>
       <director>Richard Jeffery</director>
       <actor>Melanie Zanetti</actor>
-      <producer>Charlie Aspinwall</producer>
       <composer>Joff Bush</composer>
     </credits>
     <date>20190923</date>
@@ -5343,7 +5344,6 @@
     <credits>
       <director>Richard Jeffery</director>
       <actor>Melanie Zanetti</actor>
-      <producer>Charlie Aspinwall</producer>
       <composer>Joff Bush</composer>
     </credits>
     <date>20210212</date>
@@ -5751,7 +5751,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10575880732.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E03</episode-num>
     <episode-num system="xmltv_ns">0.2.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -8814,8 +8813,8 @@
     <credits>
       <director>Randy Zisk</director>
       <actor>David Koechner</actor>
-      <writer>Hy Conrad</writer>
-      <producer>Anthony Santa Croce</producer>
+      <writer>David Breckman</writer>
+      <producer>Jane Bartelme</producer>
       <composer>Jeff Beal</composer>
     </credits>
     <date>20061222</date>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221016065656" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221016072007" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -3689,7 +3689,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11822380460.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S16E13</episode-num>
     <episode-num system="xmltv_ns">15.12.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -7493,7 +7492,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812450.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812449.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221016060000 +0000" stop="20221016070000 +0000" channel="ESPN2">
     <title lang="en">College Football Final</title>
@@ -7591,30 +7589,6 @@
     <episode-num system="onscreen">S--E00</episode-num>
     <live/>
   </programme>
-  <programme start="20221016030000 +0000" stop="20221016060000 +0000" channel="ESPNU">
-    <title lang="en">College Football</title>
-    <sub-title>Harvard at Howard</sub-title>
-    <desc>Harvard at Howard. From Audi Field in Washington, D.C.</desc>
-    <date>20220000</date>
-  </programme>
-  <programme start="20221016060000 +0000" stop="20221016063000 +0000" channel="ESPNU">
-    <title lang="en">College Football 150: The Greatest</title>
-    <sub-title>Greatest What Ifs</sub-title>
-    <desc>Part of the fun is wondering what might have happened if a call went one way instead of another; or a key figure made a different decision; or the rules were just a little different. These are the Top 11 hypotheticals of all time.</desc>
-    <credits>
-      <director>Jonathan Hock</director>
-    </credits>
-    <date>20191114</date>
-    <category>Documentary</category>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <category>Football</category>
-    <category>Retrospective</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-  </programme>
   <programme start="20221016063000 +0000" stop="20221016080000 +0000" channel="ESPNU">
     <title lang="en">30 for 30</title>
     <sub-title>Brian and The Boz</sub-title>
@@ -7706,6 +7680,259 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812450.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812449.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221016140000 +0000" stop="20221016150000 +0000" channel="ESPNU">
+    <title lang="en">College Football Final</title>
+    <desc>A comprehensive college football wrap-up, plus a look at major storylines heading into next week.</desc>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Highlights</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812450.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812449.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221016150000 +0000" stop="20221016160000 +0000" channel="ESPNU">
+    <title lang="en">College Football Final</title>
+    <desc>A comprehensive college football wrap-up, plus a look at major storylines heading into next week.</desc>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Highlights</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812450.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812449.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221016160000 +0000" stop="20221016170000 +0000" channel="ESPNU">
+    <title lang="en">College Football Final</title>
+    <desc>A comprehensive college football wrap-up, plus a look at major storylines heading into next week.</desc>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Highlights</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812450.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812449.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221016170000 +0000" stop="20221016190000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Soccer</title>
+    <sub-title>Florida at Kentucky</sub-title>
+    <desc>Florida at Kentucky.</desc>
+    <date>20220000</date>
+    <live/>
+  </programme>
+  <programme start="20221016190000 +0000" stop="20221016210000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Soccer</title>
+    <sub-title>Baylor at West Virginia</sub-title>
+    <desc>Baylor at West Virginia.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221016210000 +0000" stop="20221016230000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Volleyball</title>
+    <sub-title>Oregon at UCLA</sub-title>
+    <desc>Oregon at UCLA.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221016230000 +0000" stop="20221016233000 +0000" channel="ESPNU">
+    <title lang="en">College Football 150: The Greatest</title>
+    <sub-title>Innovations</sub-title>
+    <desc>College football has continually evolved and innovated in ways that have made the game safer, more entertaining, and more exciting. These are the top 11 innovations that have impacted the sport's history.</desc>
+    <credits>
+      <director>Jonathan Hock</director>
+    </credits>
+    <date>20190919</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Retrospective</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20221016233000 +0000" stop="20221017023000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Jackson State at Bethune-Cookman</sub-title>
+    <desc>Jackson State at Bethune-Cookman.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221017023000 +0000" stop="20221017053000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Kansas at Oklahoma</sub-title>
+    <desc>Kansas at Oklahoma. From Memorial Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221017053000 +0000" stop="20221017073000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Volleyball</title>
+    <sub-title>Oregon at UCLA</sub-title>
+    <desc>Oregon at UCLA.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221017073000 +0000" stop="20221017093000 +0000" channel="ESPNU">
+    <title lang="en">Women's College Soccer</title>
+    <sub-title>Florida at Kentucky</sub-title>
+    <desc>Florida at Kentucky.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="ESPNU">
+    <title lang="en">College Football 150: The Greatest</title>
+    <sub-title>Rivalry Games</sub-title>
+    <desc>Every season, college football rivals face off--and the intensity and passion are at a fever pitch. Some clashes have resulted in unforgettable games. These are the Top 11 of those quintessential, classic gridiron battles.</desc>
+    <credits>
+      <director>Jonathan Hock</director>
+    </credits>
+    <date>20191031</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Retrospective</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20221017100000 +0000" stop="20221017140000 +0000" channel="ESPNU">
+    <title lang="en">Keyshawn, JWill and Max</title>
+    <desc>Keyshawn Johnson, Jay Williams and Max Kellerman host daily morning sports talk on ESPN Radio.</desc>
+    <category>Sports stuff</category>
+    <category>Talk</category>
+    <category>Newscast</category>
+    <category>Radio talk</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9025728921.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9025728925.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221017140000 +0000" stop="20221017143000 +0000" channel="ESPNU">
+    <title lang="en">College Football 150: The Greatest</title>
+    <sub-title>Innovations</sub-title>
+    <desc>College football has continually evolved and innovated in ways that have made the game safer, more entertaining, and more exciting. These are the top 11 innovations that have impacted the sport's history.</desc>
+    <credits>
+      <director>Jonathan Hock</director>
+    </credits>
+    <date>20190919</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Retrospective</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20221017143000 +0000" stop="20221017160000 +0000" channel="ESPNU">
+    <title lang="en">High-School Basketball</title>
+    <desc>A GEICO Top Flight Invitational Showcase game in Las Vegas.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221017160000 +0000" stop="20221017190000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Arkansas at BYU</sub-title>
+    <desc>Arkansas at BYU. From LaVell Edwards Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221017190000 +0000" stop="20221017220000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Kansas at Oklahoma</sub-title>
+    <desc>Kansas at Oklahoma. From Memorial Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221017220000 +0000" stop="20221018010000 +0000" channel="ESPNU">
+    <title lang="en">ESPNU Instant Classic</title>
+    <desc>Replaying recent standout college games, with additional analysis.</desc>
+  </programme>
+  <programme start="20221018010000 +0000" stop="20221018040000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Clemson at Florida State</sub-title>
+    <desc>Clemson at Florida State. From Doak Campbell Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221018040000 +0000" stop="20221018070000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Arkansas at BYU</sub-title>
+    <desc>Arkansas at BYU. From LaVell Edwards Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221018070000 +0000" stop="20221018100000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Kansas at Oklahoma</sub-title>
+    <desc>Kansas at Oklahoma. From Memorial Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221018100000 +0000" stop="20221018140000 +0000" channel="ESPNU">
+    <title lang="en">Keyshawn, JWill and Max</title>
+    <desc>Keyshawn Johnson, Jay Williams and Max Kellerman host daily morning sports talk on ESPN Radio.</desc>
+    <category>Sports stuff</category>
+    <category>Talk</category>
+    <category>Newscast</category>
+    <category>Radio talk</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9025728921.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9025728925.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221018140000 +0000" stop="20221018170000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Clemson at Florida State</sub-title>
+    <desc>Clemson at Florida State. From Doak Campbell Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221018170000 +0000" stop="20221018180000 +0000" channel="ESPNU">
+    <title lang="en">SEC Storied</title>
+    <sub-title>Miracles on the Plains</sub-title>
+    <desc>Chronicling the 2013 Auburn football season under coach Gus Malzahn, who led an epic Tigers turnaround from 2012 in a year of implausible finishes, cinematic heroics, games for the ages and, eventually, the symbolic return of the oaks at Toomer's Corner.</desc>
+    <credits>
+      <director>Rory Karpf</director>
+      <producer>Kenny Chesney</producer>
+      <composer>David Wolfert</composer>
+      <editor>Tyler Adams</editor>
+    </credits>
+    <date>20150908</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7849459248.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7849459251.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+  </programme>
+  <programme start="20221018180000 +0000" stop="20221018210000 +0000" channel="ESPNU">
+    <title lang="en">College Football</title>
+    <sub-title>Auburn at Mississippi</sub-title>
+    <desc>Auburn at Mississippi. From Vaught-Hemingway Stadium.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221018210000 +0000" stop="20221018213000 +0000" channel="ESPNU">
+    <title lang="en">College Football Live</title>
+    <sub-title>10-18-2022</sub-title>
+    <desc>A daily dose of college football news, features, analysis, game previews and studio discussion, plus on-campus reports.</desc>
+    <date>20221018</date>
+    <category>Sports</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812436.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812435.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221018213000 +0000" stop="20221018220000 +0000" channel="ESPNU">
+    <title lang="en">College Football 150: The Greatest</title>
+    <sub-title>Walk-Ons</sub-title>
+    <desc>There's a difference, it turns out, between impossible and improbable. And in college football's long history, there have been a handful of incredible stories of walk-ons who became stars. These are the Top 11 of all time.</desc>
+    <credits>
+      <director>Jonathan Hock</director>
+    </credits>
+    <date>20191010</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Retrospective</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
   <programme start="20221016050000 +0000" stop="20221016060000 +0000" channel="ESPNews">
     <title lang="en">World of X Games</title>
@@ -12997,6 +13224,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8137153338.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8137153337.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221016220000 +0000" stop="20221016223000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

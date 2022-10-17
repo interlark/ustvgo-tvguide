@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221017204719" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221017211431" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -7715,7 +7715,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3272239623.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9436557727.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221017203000 +0000" stop="20221017210000 +0000" channel="ESPN2">
     <title lang="en">Daily Wager</title>
@@ -8779,7 +8778,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E183</episode-num>
     <episode-num system="xmltv_ns">2021.182.</episode-num>
-    <live/>
   </programme>
   <programme start="20221017203000 +0000" stop="20221017220000 +0000" channel="FS1">
     <title lang="en">Speak</title>
@@ -11591,6 +11589,9 @@
     <title lang="en">Meet, Marry, Murder</title>
     <sub-title>Love on Fire</sub-title>
     <desc>Tim and Barbara Pasa meet at a gig Tim is performing at and quickly fall for one another. Barbara is a surgical nurse by day, and off shift, a fun-loving party animal. They marry quickly, shocking their friends, but two children and 18 years later, they seem happy until the emergency services rush to their home. A life has been lost in what looks like a tragic accident caused by a lit candle. But on closer inspection, a darker truth emerges.</desc>
+    <credits>
+      <producer>Shura Davison</producer>
+    </credits>
     <date>20221017</date>
     <category>Documentary</category>
     <category>Crime</category>
@@ -11624,6 +11625,9 @@
     <title lang="en">Meet, Marry, Murder</title>
     <sub-title>Love on Fire</sub-title>
     <desc>Tim and Barbara Pasa meet at a gig Tim is performing at and quickly fall for one another. Barbara is a surgical nurse by day, and off shift, a fun-loving party animal. They marry quickly, shocking their friends, but two children and 18 years later, they seem happy until the emergency services rush to their home. A life has been lost in what looks like a tragic accident caused by a lit candle. But on closer inspection, a darker truth emerges.</desc>
+    <credits>
+      <producer>Shura Davison</producer>
+    </credits>
     <date>20221017</date>
     <category>Documentary</category>
     <category>Crime</category>
@@ -11792,6 +11796,9 @@
     <title lang="en">Meet, Marry, Murder</title>
     <sub-title>Love on Fire</sub-title>
     <desc>Tim and Barbara Pasa meet at a gig Tim is performing at and quickly fall for one another. Barbara is a surgical nurse by day, and off shift, a fun-loving party animal. They marry quickly, shocking their friends, but two children and 18 years later, they seem happy until the emergency services rush to their home. A life has been lost in what looks like a tragic accident caused by a lit candle. But on closer inspection, a darker truth emerges.</desc>
+    <credits>
+      <producer>Shura Davison</producer>
+    </credits>
     <date>20221017</date>
     <category>Documentary</category>
     <category>Crime</category>
@@ -11825,6 +11832,9 @@
     <title lang="en">Meet, Marry, Murder</title>
     <sub-title>Love on Fire</sub-title>
     <desc>Tim and Barbara Pasa meet at a gig Tim is performing at and quickly fall for one another. Barbara is a surgical nurse by day, and off shift, a fun-loving party animal. They marry quickly, shocking their friends, but two children and 18 years later, they seem happy until the emergency services rush to their home. A life has been lost in what looks like a tragic accident caused by a lit candle. But on closer inspection, a darker truth emerges.</desc>
+    <credits>
+      <producer>Shura Davison</producer>
+    </credits>
     <date>20221017</date>
     <category>Documentary</category>
     <category>Crime</category>
@@ -13255,6 +13265,7 @@
   <programme start="20221018083000 +0000" stop="20221018090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221018090000 +0000" stop="20221018110000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

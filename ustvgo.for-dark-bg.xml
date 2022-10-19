@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221019082942" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221019090356" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -8603,6 +8603,7 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221019233000 +0000" stop="20221020000000 +0000" channel="FOX">
     <title lang="en">To Be Announced</title>
@@ -13415,7 +13416,6 @@
   <programme start="20221019073000 +0000" stop="20221019080000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
-    <new/>
   </programme>
   <programme start="20221019080000 +0000" stop="20221019083000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -14055,7 +14055,6 @@
   <programme start="20221019073000 +0000" stop="20221019080000 +0000" channel="NBCNY">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
-    <new/>
   </programme>
   <programme start="20221019080000 +0000" stop="20221019083000 +0000" channel="NBCNY">
     <title lang="en">Today in New York</title>

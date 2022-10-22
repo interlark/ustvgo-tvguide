@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221022193937" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221022201608" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -423,7 +423,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797548.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797546.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221022193000 +0000" stop="20221022223000 +0000" channel="ABC">
     <title lang="en">College Football</title>
@@ -749,7 +748,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797548.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797546.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221022193000 +0000" stop="20221022223000 +0000" channel="ABCNY">
     <title lang="en">College Football</title>
@@ -1822,7 +1820,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784446.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784449.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221022193000 +0000" stop="20221022230000 +0000" channel="CBS">
     <title lang="en">College Football</title>
@@ -2268,7 +2265,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784446.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784449.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221022193000 +0000" stop="20221022230000 +0000" channel="CBSNY">
     <title lang="en">College Football</title>
@@ -5880,7 +5876,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797548.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797546.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221022193000 +0000" stop="20221022223000 +0000" channel="ESPN">
     <title lang="en">College Football</title>
@@ -5940,7 +5935,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797548.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797546.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221022193000 +0000" stop="20221022223000 +0000" channel="ESPN2">
     <title lang="en">College Football</title>
@@ -6416,7 +6410,6 @@
     <sub-title>Iowa at Ohio State</sub-title>
     <desc>Iowa at Ohio State. From Ohio Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221022193000 +0000" stop="20221022230000 +0000" channel="FOX">
     <title lang="en">College Football</title>
@@ -6697,7 +6690,6 @@
     <sub-title>Iowa at Ohio State</sub-title>
     <desc>Iowa at Ohio State. From Ohio Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221022193000 +0000" stop="20221022230000 +0000" channel="FOXNY">
     <title lang="en">College Football</title>
@@ -8734,8 +8726,8 @@
     <category>Troubled relationships</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8089379039.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8089379047.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -14460,7 +14452,7 @@
     <desc>Q, Sal, Joe and Murr act as not-so-handy-men assembling furniture; and Thanksgiving comes early for the loser when he must talk turkey at a dating event.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20160406</date>
@@ -14483,7 +14475,7 @@
     <desc>Murr, Sal, Q and Joe head to Joey Fatone's hot-dog joint to dish up weenies; and the big loser performs a stand-up-comedy routine but barely gets out alive.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20170504</date>
@@ -14506,7 +14498,7 @@
     <desc>Joe, Sal, Murr and Q lead guided meditations; and the big loser gets boxed in with a 24-hour punishment.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20170720</date>
@@ -14549,7 +14541,7 @@
     <desc>Joe, Sal, Q and Murr cruise the food court sending texts to strangers, then throw caution and groceries to the wind; and the loser is cast as a genie in a play, but wishes he could be anywhere else.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20170810</date>
@@ -14572,7 +14564,7 @@
     <desc>The guys take some customers for a wild ride, and things get messy when they ask fellow shoppers for a hand. Also: the big losers suffer a monster punishment that leaves them crushed.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20190328</date>
@@ -14595,7 +14587,7 @@
     <desc>Q, Joe, Sal and Murr get tech help from some confused tutors, then play Hot Potato in a shoe store. Plus, the big loser wishes he could press escape during a brutal coffee shop punishment.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20190404</date>
@@ -14618,7 +14610,7 @@
     <desc>Sal, Q, Joe, and Murr showcase products to participants.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20191017</date>
@@ -14641,7 +14633,7 @@
     <desc>Four longtime friends compete to embarrass each other with dares. If they refuse, they lose. At the end, the big loser must endure an epic punishment.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20191024</date>
@@ -14664,7 +14656,7 @@
     <desc>The team goes to Los Angeles to try directing. Then, they meet up with Silent Bob and Jay.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20200130</date>
@@ -14687,7 +14679,7 @@
     <desc>The guys play concierges at a hotel lobby doing and saying what they are told, and then try to get insurance fraud at a grocery store using strangers.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20200131</date>

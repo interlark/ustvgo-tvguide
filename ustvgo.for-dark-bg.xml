@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221022185204" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221022191436" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -1829,7 +1829,6 @@
     <sub-title>DC Open</sub-title>
     <desc>Mixed-doubles action from the DC Pickleball Open in College Park, Md. The fast-growing sport is a blend of tennis, badminton and ping pong, with hundreds of players taking part in one of the premier events of the year.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221022183000 +0000" stop="20221022190000 +0000" channel="CBS">
     <title lang="en">College Football: The Drive to Atlanta</title>
@@ -2283,7 +2282,6 @@
     <sub-title>DC Open</sub-title>
     <desc>Mixed-doubles action from the DC Pickleball Open in College Park, Md. The fast-growing sport is a blend of tennis, badminton and ping pong, with hundreds of players taking part in one of the premier events of the year.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221022183000 +0000" stop="20221022190000 +0000" channel="CBSNY">
     <title lang="en">College Football: The Drive to Atlanta</title>
@@ -8087,7 +8085,12 @@
     <desc>A documentary examining the first year of President Joe Biden's administration.</desc>
     <date>20221019</date>
     <category>Documentary</category>
+    <category>Politics</category>
+    <category>Social issues</category>
+    <category>Civil rights</category>
     <length units="seconds">5400</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-12191288324.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12191288331.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221022182500 +0000" stop="20221022185500 +0000" channel="HBO">
@@ -8736,8 +8739,8 @@
     <category>Troubled relationships</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8089379039.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8089379047.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -10554,7 +10557,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221022183000 +0000" stop="20221022190000 +0000" channel="NBC">
     <title lang="en">Premier League Goal Zone</title>
@@ -10982,7 +10984,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221022183000 +0000" stop="20221022190000 +0000" channel="NBCNY">
     <title lang="en">Premier League Goal Zone</title>

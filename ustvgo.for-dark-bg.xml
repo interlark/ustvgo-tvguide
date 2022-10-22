@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221022122826" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221022131957" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2197,7 +2197,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1370109267.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E30</episode-num>
     <episode-num system="xmltv_ns">7.29.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -2218,7 +2217,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7775377942.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S03E27</episode-num>
     <episode-num system="xmltv_ns">2.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -3605,7 +3603,6 @@
   <programme start="20221022110000 +0000" stop="20221022120000 +0000" channel="CNN">
     <title lang="en">New Day Weekend</title>
     <desc>The latest news and top stories.</desc>
-    <new/>
   </programme>
   <programme start="20221022120000 +0000" stop="20221022130000 +0000" channel="CNN">
     <title lang="en">New Day Weekend</title>
@@ -4260,6 +4257,7 @@
     <category>Magic</category>
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4543,6 +4541,7 @@
     <category>Magic</category>
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -5735,7 +5734,6 @@
     <sub-title>Tiger's Breath</sub-title>
     <desc>The Rush Duel Club learns to play music, but their new teacher is Luke's worst nightmare.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -6451,7 +6449,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221022120000 +0000" stop="20221022130000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -10573,7 +10570,6 @@
     <sub-title>10-22-2022</sub-title>
     <desc>Katie Phang explores the intersections of race, law, politics, culture and more, and features interviews with the nation's top newsmakers.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221022120000 +0000" stop="20221022130000 +0000" channel="MSNBC">
     <title lang="en">Velshi</title>
@@ -17039,7 +17035,6 @@
     <title lang="es">Planeta de Niños</title>
     <sub-title>10-22-2022</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>

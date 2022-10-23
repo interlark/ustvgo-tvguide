@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221023142922" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221023144808" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -541,6 +541,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9609342931.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S05E05</episode-num>
     <episode-num system="xmltv_ns">4.4.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2494,6 +2495,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12090348967.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S14E03</episode-num>
     <episode-num system="xmltv_ns">13.2.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3318,7 +3320,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11722443350.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E79</episode-num>
     <episode-num system="xmltv_ns">0.78.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -3755,7 +3756,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9758972632.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S02E44</episode-num>
     <episode-num system="xmltv_ns">1.43.</episode-num>
-    <new/>
   </programme>
   <programme start="20221023140000 +0000" stop="20221023150000 +0000" channel="CNN">
     <title lang="en">Fareed Zakaria GPS</title>
@@ -6283,7 +6283,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221023140000 +0000" stop="20221023170000 +0000" channel="ESPN">
     <title lang="en">Sunday NFL Countdown</title>
@@ -6346,7 +6345,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7535281576.jpg" width="481" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7535281578.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221023140000 +0000" stop="20221023170000 +0000" channel="ESPN2">
     <title lang="en">Fantasy Football Now</title>
@@ -6787,7 +6785,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10930496913.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E35</episode-num>
     <episode-num system="xmltv_ns">2021.34.</episode-num>
-    <new/>
   </programme>
   <programme start="20221023140000 +0000" stop="20221023150000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>
@@ -7267,7 +7264,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10746480192.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E79</episode-num>
     <episode-num system="xmltv_ns">2021.78.</episode-num>
-    <live/>
   </programme>
   <programme start="20221023140000 +0000" stop="20221023150000 +0000" channel="FoxNews">
     <title lang="en">Sunday Morning Futures With Maria Bartiromo</title>
@@ -10240,7 +10236,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8351532570.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8351532575.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221023140000 +0000" stop="20221023160000 +0000" channel="MSNBC">
     <title lang="en">The Sunday Show with Jonathan Capehart</title>
@@ -10948,6 +10943,7 @@
   <programme start="20221023190000 +0000" stop="20221023193000 +0000" channel="NBA">
     <title lang="en">NBA Action</title>
     <desc>A recap of the week in the NBA, featuring news and highlights. Also included is a rundown of the best and worst performers.</desc>
+    <category>Sports</category>
     <category>Sports stuff</category>
     <category>Pro</category>
     <category>Basketball</category>
@@ -10992,7 +10988,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7251949145.jpg" width="720" height="716"/>
     <episode-num system="onscreen">S76E43</episode-num>
     <episode-num system="xmltv_ns">75.42.</episode-num>
-    <new/>
   </programme>
   <programme start="20221023140000 +0000" stop="20221023160000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

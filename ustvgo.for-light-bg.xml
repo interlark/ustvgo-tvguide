@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221027213951" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221027221355" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2355,6 +2355,9 @@
     <title lang="en">Winter House</title>
     <sub-title>And Stowe It Begins</sub-title>
     <desc>The cast members are introduced, which are a mixture of returnees and new faces. Arriving in the winter house in Stowe, VT is Amanda, Craig, Paige, Jason, and several other returnees. They will be joined by newcomers Rachel, Jessica, and Kory.</desc>
+    <credits>
+      <producer>Sean Clifford</producer>
+    </credits>
     <date>20221013</date>
     <category>Reality</category>
     <category>Romance</category>
@@ -2371,6 +2374,9 @@
     <title lang="en">Winter House</title>
     <sub-title>Cold Snap</sub-title>
     <desc>Relationships begin to shatter during a snow squall; Craig takes a firm stance on shared house chores; Ciara, Luke and Jason flirt with the newcomers; after a party at a local bar in town, tensions rise.</desc>
+    <credits>
+      <producer>Sean Clifford</producer>
+    </credits>
     <date>20221020</date>
     <category>Reality</category>
     <category>Romance</category>
@@ -2387,6 +2393,9 @@
     <title lang="en">Winter House</title>
     <sub-title>Saints &amp; Sinners</sub-title>
     <desc>After a heated argument, one housemate remains in exile; Paige grows frustrated with Craig's behavior; Kory's attraction to one of the housemates starts to grow stronger.</desc>
+    <credits>
+      <producer>Sean Clifford</producer>
+    </credits>
     <date>20221027</date>
     <category>Reality</category>
     <category>Romance</category>
@@ -2404,6 +2413,9 @@
     <title lang="en">Winter House</title>
     <sub-title>Saints &amp; Sinners</sub-title>
     <desc>After a heated argument, one housemate remains in exile; Paige grows frustrated with Craig's behavior; Kory's attraction to one of the housemates starts to grow stronger.</desc>
+    <credits>
+      <producer>Sean Clifford</producer>
+    </credits>
     <date>20221027</date>
     <category>Reality</category>
     <category>Romance</category>
@@ -7915,7 +7927,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6714483584.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S20E186</episode-num>
     <episode-num system="xmltv_ns">19.185.</episode-num>
-    <new/>
   </programme>
   <programme start="20221027213000 +0000" stop="20221027220000 +0000" channel="ESPN">
     <title lang="en">Pardon the Interruption</title>
@@ -10153,7 +10164,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221027213000 +0000" stop="20221028003000 +0000" channel="GOLF">
     <title lang="en">PGA Tour Golf</title>

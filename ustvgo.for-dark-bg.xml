@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221028054817" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221028061743" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2670,7 +2670,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7834104618.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E27</episode-num>
     <episode-num system="xmltv_ns">7.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2798,6 +2797,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10619857429.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S36E25</episode-num>
     <episode-num system="xmltv_ns">35.24.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3324,7 +3324,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7834104618.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E27</episode-num>
     <episode-num system="xmltv_ns">7.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -8903,7 +8902,6 @@
     <sub-title>Utah at Washington State</sub-title>
     <desc>Utah at Washington State. From Martin Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221028053000 +0000" stop="20221028063000 +0000" channel="FS1">
     <title lang="en">The Carton Show</title>

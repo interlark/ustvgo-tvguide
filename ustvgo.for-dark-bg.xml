@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221030134851" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221030141204" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -6347,7 +6347,6 @@
   </programme>
   <programme start="20221030131500 +0000" stop="20221030133000 +0000" channel="ESPN">
     <title lang="en">Sunday Kickoff</title>
-    <live/>
   </programme>
   <programme start="20221030133000 +0000" stop="20221030170000 +0000" channel="ESPN">
     <title lang="en">Sunday NFL Countdown</title>
@@ -7008,6 +7007,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9162001881.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E06</episode-num>
     <episode-num system="xmltv_ns">20.5.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -14505,7 +14505,6 @@
   <programme start="20221030130000 +0000" stop="20221030133000 +0000" channel="Telemundo">
     <title lang="es">La Liga Premier Extra</title>
     <desc>Edición extra con toda la información y las últimas novedades de la Premier League. El fútbol doméstico de Inglaterra no da respiro y los partidos, jornada a jornada, se tornan cada vez más intensos y emocionantes. La pelea por los primeros lugares de la tabla está muy disputada y los equipos saben que no pueden fallar en sus próximos compromisos.</desc>
-    <live/>
   </programme>
   <programme start="20221030133000 +0000" stop="20221030160000 +0000" channel="Telemundo">
     <title lang="es">Fútbol: Premier League</title>

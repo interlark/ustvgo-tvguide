@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221030184657" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221030191043" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -5794,7 +5794,6 @@
     <sub-title>Episode 1</sub-title>
     <desc>Samantha Seneviratne talks pasta with Chef Allison Arevalo before showing the versatility of pesto.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -13810,7 +13809,6 @@
   <programme start="20221030180000 +0000" stop="20221030183000 +0000" channel="Telemundo">
     <title lang="es">La Liga Premier - 3er Tiempo</title>
     <desc>La Premier League es una de las competencias locales de fútbol más apasionantes del planeta. Repleta de figuras internacionales, cada uno de los partidos de los fines de semana se transforman en verdaderos espectáculos que trascienden el mundo del deporte. Análisis, resúmenes, entrevistas de las jornadas y mucho más.</desc>
-    <live/>
   </programme>
   <programme start="20221030183000 +0000" stop="20221030200000 +0000" channel="Telemundo">
     <title lang="es">American Exit</title>
@@ -15659,7 +15657,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221030183000 +0000" stop="20221030190000 +0000" channel="USANetwork">
     <title lang="en">Premier League Goal Zone</title>

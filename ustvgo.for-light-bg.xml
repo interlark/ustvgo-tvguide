@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221030204110" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221030211225" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -5464,6 +5464,7 @@
     <credits>
       <director>Christian De Vita</director>
       <producer>Guillaume Hellouin</producer>
+      <composer>Fabrice Aboulker</composer>
     </credits>
     <date>20220925</date>
     <category>Family</category>
@@ -6526,7 +6527,7 @@
   <programme start="20221031000000 +0000" stop="20221031030000 +0000" channel="ESPNU">
     <title lang="en">College Football</title>
     <sub-title>Notre Dame at Syracuse</sub-title>
-    <desc>Notre Dame at Syracuse. From the JMA Wireless Dome.</desc>
+    <desc>Notre Dame (4-3) at Syracuse (6-1). From the JMA Wireless Dome. QB Drew Pyne and versatile TE Michael Mayer lead the Irish against a Syracuse squad smarting a loss to Clemson in which they led 21-7. LB Mikel Jones anchors the Orange defense (15.1 ppg).</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221031030000 +0000" stop="20221031040000 +0000" channel="ESPNU">
@@ -8150,7 +8151,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221030203000 +0000" stop="20221030213000 +0000" channel="GOLF">
     <title lang="en">Golf Central</title>
@@ -11298,6 +11298,7 @@
   <programme start="20221031083000 +0000" stop="20221031090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221031090000 +0000" stop="20221031110000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

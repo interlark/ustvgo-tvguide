@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221031082043" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221031085155" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2509,7 +2509,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7915087065.jpg" width="720" height="533"/>
     <episode-num system="onscreen">S19E173</episode-num>
     <episode-num system="xmltv_ns">18.172.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4426,7 +4425,6 @@
   <programme start="20221031070000 +0000" stop="20221031080000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom Live (CNNI)</title>
     <desc>The latest news from around the world.</desc>
-    <live/>
   </programme>
   <programme start="20221031080000 +0000" stop="20221031090000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom Live (CNNI)</title>
@@ -12506,9 +12504,6 @@
     <episode-num system="onscreen">S2022E197</episode-num>
     <episode-num system="xmltv_ns">2021.196.</episode-num>
   </programme>
-  <programme start="20221031060000 +0000" stop="20221031070000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20221031070000 +0000" stop="20221031080000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -12531,6 +12526,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20221031140000 +0000" stop="20221031150000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20221031150000 +0000" stop="20221031160000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20221031073000 +0000" stop="20221031080000 +0000" channel="Nickelodeon">
@@ -17990,5 +17988,21 @@
     <title lang="en">Yankees HOPE Week Remembered</title>
     <desc>Highlighting community events for HOPE Week (Helping Others Persevere and Excel). Included: Joe Girardi's train ride with a 67-year-old blind woman; Mariano Rivera's visit with a quadruple amputee; Hank Steinbrenner's under-18 baseball team.</desc>
     <date>20100000</date>
+  </programme>
+  <programme start="20221031150000 +0000" stop="20221031153000 +0000" channel="YES">
+    <title lang="en">Swing Clinic with Jimmy Hanlin</title>
+    <desc>PGA pro Jimmy Hanlin takes viewers to school with golf tips, rules, etiquette, exercises and more.</desc>
+    <category>Sports stuff</category>
+    <category>Golf</category>
+    <category>How-to</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11727620243.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11727620244.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221031153000 +0000" stop="20221031160000 +0000" channel="YES">
+    <title lang="en">18 Holes With Jimmy Hanlin</title>
+    <sub-title>University of Arizona, Tucson</sub-title>
+    <desc>Pro Jimmy Hanlin provides tips and features from the University of Arizona course in Tucson.</desc>
+    <date>20220000</date>
   </programme>
 </tv>

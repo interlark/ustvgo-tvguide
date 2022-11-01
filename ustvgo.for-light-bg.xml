@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221101162150" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221101170117" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -424,7 +424,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12019986475.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S26E40</episode-num>
     <episode-num system="xmltv_ns">25.39.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -993,7 +992,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12019986475.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S26E40</episode-num>
     <episode-num system="xmltv_ns">25.39.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2958,7 +2956,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080660024.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S50E216</episode-num>
     <episode-num system="xmltv_ns">49.215.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -3697,7 +3694,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080660024.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S50E216</episode-num>
     <episode-num system="xmltv_ns">49.215.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -4863,7 +4859,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221101160000 +0000" stop="20221101170000 +0000" channel="CNBC">
     <title lang="en">Fast Money Halftime Report</title>
@@ -4990,7 +4985,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6655880264.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E159</episode-num>
     <episode-num system="xmltv_ns">2021.158.</episode-num>
-    <new/>
   </programme>
   <programme start="20221101160000 +0000" stop="20221101170000 +0000" channel="CNN">
     <title lang="en">Inside Politics</title>
@@ -8340,7 +8334,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1233687302.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7530483255.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221101160000 +0000" stop="20221101170000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -8554,7 +8547,7 @@
   <programme start="20221101150000 +0000" stop="20221101180000 +0000" channel="ESPNU">
     <title lang="en">College Football</title>
     <sub-title>Kentucky at Tennessee</sub-title>
-    <desc>Kentucky (5-2) at Tennessee (7-0). From Neyland Stadium.</desc>
+    <desc>Kentucky (5-2) at Tennessee (7-0). From Neyland Stadium. The No. 3 Vols tangle with No. 19 UK in their first meeting as ranked foes since 1951. Junior WR Jalin Hyatt (12 TDs, one shy of UT record) and Wildcats RB Chris Rodriguez are top weapons.</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221101180000 +0000" stop="20221101210000 +0000" channel="ESPNU">
@@ -9288,7 +9281,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9651332501.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S02E217</episode-num>
     <episode-num system="xmltv_ns">1.216.</episode-num>
-    <new/>
   </programme>
   <programme start="20221101160000 +0000" stop="20221101170000 +0000" channel="FoxNews">
     <title lang="en">Outnumbered</title>
@@ -9626,7 +9618,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4016008579.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8741059608.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221101160000 +0000" stop="20221101190000 +0000" channel="FS1">
     <title lang="en">The Herd With Colin Cowherd</title>
@@ -12505,7 +12496,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9891135107.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E291</episode-num>
     <episode-num system="xmltv_ns">2021.290.</episode-num>
-    <live/>
   </programme>
   <programme start="20221101160000 +0000" stop="20221101170000 +0000" channel="MSNBC">
     <title lang="en">Andrea Mitchell Reports</title>
@@ -19534,7 +19524,6 @@
     <title lang="es">Como dice el dicho</title>
     <desc>Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.</desc>
     <date>20110000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -19543,7 +19532,6 @@
     <title lang="es">Noticiero Univision - Edicion Digital</title>
     <sub-title>11-01-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221101163000 +0000" stop="20221101170000 +0000" channel="Univision">
     <title lang="es">Nosotros los Guapos</title>

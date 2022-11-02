@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221102162045" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221102170524" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -424,7 +424,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12019986475.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S26E41</episode-num>
     <episode-num system="xmltv_ns">25.40.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -1043,7 +1042,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12019986475.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S26E41</episode-num>
     <episode-num system="xmltv_ns">25.40.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2186,9 +2184,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221102130000 +0000" stop="20221102150000 +0000" channel="BTN">
-    <title lang="en">B1G Plus Encore</title>
-  </programme>
   <programme start="20221102150000 +0000" stop="20221102160000 +0000" channel="BTN">
     <title lang="en">B1G Volleyball in 60</title>
     <sub-title>Minnesota at Wisconsin</sub-title>
@@ -2247,6 +2242,12 @@
   <programme start="20221102223000 +0000" stop="20221102230000 +0000" channel="BTN">
     <title lang="en">Big Ten Volleyball: At The Net</title>
     <sub-title>2022 Episode 3</sub-title>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221102230000 +0000" stop="20221103010000 +0000" channel="BTN">
+    <title lang="en">Women's College Volleyball</title>
+    <sub-title>Maryland at Penn State</sub-title>
+    <desc>Maryland at Penn State.</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221102153000 +0000" stop="20221102160000 +0000" channel="BET">
@@ -2992,7 +2993,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12080660031.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080660024.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -3751,7 +3751,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12080660031.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080660024.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -4889,7 +4888,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221102160000 +0000" stop="20221102170000 +0000" channel="CNBC">
     <title lang="en">Fast Money Halftime Report</title>
@@ -5016,7 +5014,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6655880264.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E160</episode-num>
     <episode-num system="xmltv_ns">2021.159.</episode-num>
-    <new/>
   </programme>
   <programme start="20221102160000 +0000" stop="20221102170000 +0000" channel="CNN">
     <title lang="en">Inside Politics</title>
@@ -8110,7 +8107,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1233687302.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7530483255.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221102160000 +0000" stop="20221102170000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -9104,7 +9100,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9651332501.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S02E218</episode-num>
     <episode-num system="xmltv_ns">1.217.</episode-num>
-    <new/>
   </programme>
   <programme start="20221102160000 +0000" stop="20221102170000 +0000" channel="FoxNews">
     <title lang="en">Outnumbered</title>
@@ -9475,7 +9470,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4016008579.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8741059608.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221102160000 +0000" stop="20221102190000 +0000" channel="FS1">
     <title lang="en">The Herd With Colin Cowherd</title>
@@ -12355,7 +12349,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9891135107.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E292</episode-num>
     <episode-num system="xmltv_ns">2021.291.</episode-num>
-    <live/>
   </programme>
   <programme start="20221102160000 +0000" stop="20221102170000 +0000" channel="MSNBC">
     <title lang="en">Andrea Mitchell Reports</title>
@@ -14101,9 +14094,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221102140000 +0000" stop="20221102150000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-  </programme>
   <programme start="20221102150000 +0000" stop="20221102160000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
@@ -14126,6 +14116,9 @@
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20221102220000 +0000" stop="20221102230000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+  </programme>
+  <programme start="20221102230000 +0000" stop="20221103000000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
   </programme>
   <programme start="20221102153000 +0000" stop="20221102160000 +0000" channel="Nickelodeon">
@@ -16688,18 +16681,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221102143000 +0000" stop="20221102153000 +0000" channel="SECN">
-    <title lang="en">SEC Now</title>
-    <sub-title>11-01-2022 -4</sub-title>
-    <desc>Daily studio discussion of all the latest Southeastern Conference news and newsmakers.</desc>
-    <date>20221101</date>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084287.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084286.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221102153000 +0000" stop="20221102183000 +0000" channel="SECN">
     <title lang="en">College Football</title>
     <sub-title>Florida vs. Georgia</sub-title>
@@ -16731,6 +16712,17 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1146280828.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
+  <programme start="20221102230000 +0000" stop="20221103000000 +0000" channel="SECN">
+    <title lang="en">Out of Pocket</title>
+    <desc>Alyssa Lang previews the big day of SEC football ahead, meshing her sideline and studio experience.</desc>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <category>Preview</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10610766130.jpg" width="466" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10610802870.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
   <programme start="20221102143500 +0000" stop="20221102161500 +0000" channel="Showtime">
     <title lang="en">The Mod Squad</title>
     <desc>The 1968-73 TV series is stylishly updated for the 1990s, with Claire Danes, Giovanni Ribisi and Omar Epps well cast as juvenile delinquents who must pay their debt to society by working as undercover officers for an LAPD detective (Dennis Farina). The plot involves the hip trio investigating a drug ring. Josh Brolin, Steve Harris, Sam McMurray, Richard Jenkins, Larry Brandenburg.</desc>
@@ -16741,7 +16733,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-12193676531.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4947712530.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -16808,6 +16799,27 @@
     <star-rating system="Metascore">
       <value>79/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/79.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20221102230000 +0000" stop="20221103020000 +0000" channel="Showtime">
+    <title lang="en">The Curious Case of Benjamin Button</title>
+    <desc>In this remarkable tale, a man is born in New Orleans just after World War I, but he is already in his eighties and then proceeds to live his life aging in reverse into the 21st century, experiencing joy and sadness, loves lost and found, and the meaning of timelessness.</desc>
+    <date>20081225</date>
+    <category>Drama</category>
+    <category>Fantasy</category>
+    <category>Romance</category>
+    <category>Adaptation</category>
+    <length units="seconds">10020</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-424471243.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1188246858.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>70/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/70.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221102145200 +0000" stop="20221102162400 +0000" channel="StarZ">
@@ -16896,599 +16908,6 @@
       <value>55/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/55.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221103001100 +0000" stop="20221103020000 +0000" channel="StarZ">
-    <title lang="en">Mirror Mirror</title>
-    <desc>In this visually stunning take on the classic fairy tale, Prince Alcott falls in love with Snow White, which prompts the Evil Queen to cast her into exile. Snow White then allies herself with a gang of pint-sized thieves in order to win back the throne and her true love.</desc>
-    <date>20120626</date>
-    <category>Drama</category>
-    <category>Comedy-drama</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Fantasy</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <length units="seconds">6360</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-8767239078.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6865655757.jpg" width="720" height="408"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
-    <star-rating system="Metascore">
-      <value>46/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/46.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103020000 +0000" stop="20221103040900 +0000" channel="StarZ">
-    <title lang="en">Duplicity</title>
-    <desc>Two rival corporate spies and former government employees begin a clandestine love affair as they try to outwit and double-cross each other in this twisty and entertaining espionage caper.</desc>
-    <date>20100618</date>
-    <category>Crime drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Mystery &amp; Suspense</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <length units="seconds">7500</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10459655783.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1513476119.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>69/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/69.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103040900 +0000" stop="20221103051200 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>A Queen Is Made</sub-title>
-    <desc>The planned kidnapping of King Francis goes awry, but Catherine thinks of a new plan to allow her control of the country.</desc>
-    <credits>
-      <director>Ingrid Jungermann</director>
-    </credits>
-    <date>20221030</date>
-    <category>Drama</category>
-    <category>Royals &amp; Gotha</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>76/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/76.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103051200 +0000" stop="20221103071700 +0000" channel="StarZ">
-    <title lang="en">Inferno</title>
-    <desc>In this riveting adaptation of the best-selling novel, Harvard symbologist Robert Langdon teams up with Dr. Sienna Brooks to unravel a mystery involving Dante's "The Divine Comedy" and stop a terrorist from unleashing a devastating biological weapon.</desc>
-    <date>20161019</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Other</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <length units="seconds">7260</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3571269407.jpg" width="522" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4389625143.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>42/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103071700 +0000" stop="20221103081800 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>A Queen Is Made</sub-title>
-    <desc>The planned kidnapping of King Francis goes awry, but Catherine thinks of a new plan to allow her control of the country.</desc>
-    <credits>
-      <director>Ingrid Jungermann</director>
-    </credits>
-    <date>20221030</date>
-    <category>Drama</category>
-    <category>Royals &amp; Gotha</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>76/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/76.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103081800 +0000" stop="20221103095000 +0000" channel="StarZ">
-    <title lang="en">Escape Room: Tournament of Champions</title>
-    <desc>The original escape room game scenario team's survivors, Zoey and Ben, meet up in the present to face another round orchestrated by the Gamemaster as they are joined by a new set of teammates composed of diverse individuals. However, the original group's members died one by one inside different escape rooms as the team progressed into the game. Zoey and Ben try to figure things out so as not to repeat the same tragedy.</desc>
-    <date>20211006</date>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <length units="seconds">5280</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10446698234.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10446698232.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103095000 +0000" stop="20221103114200 +0000" channel="StarZ">
-    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
-    <desc>In 1998, the sinister Umbrella Corp unleashes a force that spurs a profound disaster across Raccoon City. A ragtag team of survivors pursues answers to the corporation's shady secrets while fighting against a horde of ravenous zombies on the outskirts of the ravaged city.</desc>
-    <date>20220209</date>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <category>Mystery</category>
-    <length units="seconds">6420</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10872944922.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10872944914.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>44/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103114200 +0000" stop="20221103124300 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>A Queen Is Made</sub-title>
-    <desc>The planned kidnapping of King Francis goes awry, but Catherine thinks of a new plan to allow her control of the country.</desc>
-    <credits>
-      <director>Ingrid Jungermann</director>
-    </credits>
-    <date>20221030</date>
-    <category>Drama</category>
-    <category>Royals &amp; Gotha</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>76/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/76.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103124300 +0000" stop="20221103142200 +0000" channel="StarZ">
-    <title lang="en">Jockey</title>
-    <desc>Aging jockey Jackson refuses to admit that his body can no longer withstand the demands of the sport. When rookie jockey Gabriel arrives at the track, Jackson feels inspired by the young man's grit and vows to claim one final championship before his time is up, all the while grappling with an unexpected revelation from Gabriel.</desc>
-    <date>20220828</date>
-    <category>Drama</category>
-    <category>Animals</category>
-    <category>Horse racing</category>
-    <length units="seconds">5640</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11318192544.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11318192529.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>77/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/77.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103142200 +0000" stop="20221103163100 +0000" channel="StarZ">
-    <title lang="en">Duplicity</title>
-    <desc>Two rival corporate spies and former government employees begin a clandestine love affair as they try to outwit and double-cross each other in this twisty and entertaining espionage caper.</desc>
-    <date>20100618</date>
-    <category>Crime drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Mystery &amp; Suspense</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <length units="seconds">7500</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10459655783.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1513476119.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>69/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/69.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103163100 +0000" stop="20221103173000 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>A Queen Is Made</sub-title>
-    <desc>The planned kidnapping of King Francis goes awry, but Catherine thinks of a new plan to allow her control of the country.</desc>
-    <credits>
-      <director>Ingrid Jungermann</director>
-    </credits>
-    <date>20221030</date>
-    <category>Drama</category>
-    <category>Royals &amp; Gotha</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>76/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/76.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103173000 +0000" stop="20221103192100 +0000" channel="StarZ">
-    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
-    <desc>In 1998, the sinister Umbrella Corp unleashes a force that spurs a profound disaster across Raccoon City. A ragtag team of survivors pursues answers to the corporation's shady secrets while fighting against a horde of ravenous zombies on the outskirts of the ravaged city.</desc>
-    <date>20220209</date>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <category>Mystery</category>
-    <length units="seconds">6420</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10872944922.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10872944914.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>44/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103192100 +0000" stop="20221103205300 +0000" channel="StarZ">
-    <title lang="en">Escape Room: Tournament of Champions</title>
-    <desc>The original escape room game scenario team's survivors, Zoey and Ben, meet up in the present to face another round orchestrated by the Gamemaster as they are joined by a new set of teammates composed of diverse individuals. However, the original group's members died one by one inside different escape rooms as the team progressed into the game. Zoey and Ben try to figure things out so as not to repeat the same tragedy.</desc>
-    <date>20211006</date>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <length units="seconds">5280</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10446698234.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10446698232.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103205300 +0000" stop="20221103232500 +0000" channel="StarZ">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc>Peter Parker is now unmasked, his identity as Spider-Man known to the world. In a way, he likes it that his girl MJ knows his true identity, the same with his best friend Ned and Aunt May. However, problems follow this reveal. Thus, Peter approaches Doctor Strange to help him resolve the situation by performing a specific time-altering ritual. But that also bears some unintended and problematic consequences.</desc>
-    <date>20220408</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <category>Sequel</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">9000</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11220379141.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11220379135.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>71/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221103232500 +0000" stop="20221104010000 +0000" channel="StarZ">
-    <title lang="en">The Scorpion King</title>
-    <desc>An ancient assassin attempts to trounce an evil conqueror by teaming up with a coalition of the remaining "free tribes" surviving under tyrannical rule.</desc>
-    <date>20051022</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <length units="seconds">5280</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172491644.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6033339974.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>45/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/45.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104010000 +0000" stop="20221104034100 +0000" channel="StarZ">
-    <title lang="en">2012</title>
-    <desc>Get ready for edge-of-your-seat thrills as a global cataclysm throws the world into chaos and divorced writer and father Jackson Curtis races to save his family by obtaining passage on a gigantic ark in China.</desc>
-    <date>20091111</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Other</category>
-    <category>Disaster</category>
-    <length units="seconds">9480</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172368832.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1061701215.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>49/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/49.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104034100 +0000" stop="20221104053400 +0000" channel="StarZ">
-    <title lang="en">Get Him to the Greek</title>
-    <desc>In this uproarious buddy comedy, an intern is forced to follow rowdy rock star Aldous Snow on a trip from London to a concert in Los Angeles meant to revive his stalled career. Their trip is further complicated when Snow's arrival coincides with that of a gorgeous model-singer.</desc>
-    <date>20101228</date>
-    <category>Comedy</category>
-    <category>Music</category>
-    <length units="seconds">6600</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172518789.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6857010556.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>65/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104053400 +0000" stop="20221104072000 +0000" channel="StarZ">
-    <title lang="en">Galaxy Quest</title>
-    <desc>Tim Allen, Sigourney Weaver and Alan Rickman star in this clever spoof of TV science-fiction. At a sci-fi convention, the cast from the canceled series "Galaxy Quest" is approached by a group of extraterrestrials who ask them to help with a raging war back home. Tony Shalhoub, Daryl Mitchell.</desc>
-    <date>20080523</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Sci-fi</category>
-    <length units="seconds">6180</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3507193155.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6110199626.jpg" width="720" height="521"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>70/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/70.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104072000 +0000" stop="20221104085500 +0000" channel="StarZ">
-    <title lang="en">The Scorpion King</title>
-    <desc>An ancient assassin attempts to trounce an evil conqueror by teaming up with a coalition of the remaining "free tribes" surviving under tyrannical rule.</desc>
-    <date>20051022</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <length units="seconds">5280</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172491644.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6033339974.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>45/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/45.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104085500 +0000" stop="20221104102700 +0000" channel="StarZ">
-    <title lang="en">Incarnation</title>
-    <desc>Brad and Jess decide to move to Los Angeles in pursuit of a better life. The two immediately score a win when they acquire a hidden real estate gem at a great price. Their celebration is short-lived, however, when they begin to realize that they got more than what they bargained for. As a sinister force begins to create more chaos for the young couple, they are forced to find a way to survive.</desc>
-    <date>20221004</date>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <length units="seconds">5340</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11418377680.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11418377675.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221104102700 +0000" stop="20221104121300 +0000" channel="StarZ">
-    <title lang="en">Bewitched</title>
-    <desc>Nicole Kidman and Will Ferrell conjure magic in this comedy, inspired by the TV show "Bewitched." A failed actor (Ferrell) revives the old TV series and hires a naive newcomer (Kidman) to play his witchy female costar---unaware that she's a real witch who's trying to abandon witchcraft in an effort to live a normal life. Nora Ephron directed and co-wrote. Shirley MacLaine, Michael Caine.</desc>
-    <date>20110628</date>
-    <category>Comedy</category>
-    <category>Fantasy</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <length units="seconds">6120</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172374244.jpg" width="560" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4417158952.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>34/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/34.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104121300 +0000" stop="20221104140600 +0000" channel="StarZ">
-    <title lang="en">Get Him to the Greek</title>
-    <desc>In this uproarious buddy comedy, an intern is forced to follow rowdy rock star Aldous Snow on a trip from London to a concert in Los Angeles meant to revive his stalled career. Their trip is further complicated when Snow's arrival coincides with that of a gorgeous model-singer.</desc>
-    <date>20101228</date>
-    <category>Comedy</category>
-    <category>Music</category>
-    <length units="seconds">6600</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172518789.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6857010556.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>65/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104140600 +0000" stop="20221104150100 +0000" channel="StarZ">
-    <title lang="en">Step Up</title>
-    <sub-title>Player's Ball</sub-title>
-    <desc>Sage has no choice but let Rigo perform in his place at the BMT Awards; Poppy and Collette team up to convince Rigo to show up; Angel and Marquise meet each other; Rigo makes a surprise move during the live awards.</desc>
-    <credits>
-      <director>Janice Cooke</director>
-      <actor role="Angel">Rebbi Rose</actor>
-      <guest>Sage</guest>
-      <guest>Collette</guest>
-      <guest>Uncle Al</guest>
-    </credits>
-    <date>20221030</date>
-    <category>Drama</category>
-    <category>Music</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12138325231.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12138372412.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221104150100 +0000" stop="20221104160200 +0000" channel="StarZ">
-    <title lang="en">The Serpent Queen</title>
-    <sub-title>A Queen Is Made</sub-title>
-    <desc>The planned kidnapping of King Francis goes awry, but Catherine thinks of a new plan to allow her control of the country.</desc>
-    <credits>
-      <director>Ingrid Jungermann</director>
-    </credits>
-    <date>20221030</date>
-    <category>Drama</category>
-    <category>Royals &amp; Gotha</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11906344034.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11899922322.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>76/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/76.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104160200 +0000" stop="20221104182100 +0000" channel="StarZ">
-    <title lang="en">Walk the Line</title>
-    <desc>Joaquin Phoenix and Reese Witherspoon give award-winning performances and do their own singing in this touching portrait of music legend Johnny Cash and his tumultuous love affair with June Carter. Ginnifer Goodwin, Robert Patrick, Dallas Roberts. Directed by James Mangold.</desc>
-    <date>20111129</date>
-    <category>Drama</category>
-    <category>Country music</category>
-    <category>Music</category>
-    <category>Musical</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <length units="seconds">8160</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3263262136.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7548272992.jpg" width="720" height="410"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>72/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/72.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104182100 +0000" stop="20221104185300 +0000" channel="StarZ">
-    <title lang="en">The BMF Documentary: Blowing Money Fast</title>
-    <sub-title>Gangster Boogie</sub-title>
-    <desc>The rivalry between the Flenory brothers and Layton escalates. The Detroit drug landscape shifts due to gang wars.</desc>
-    <credits>
-      <director>Shan Nicholson</director>
-      <actor role="Jack Harvey">Scott Fowler</actor>
-      <producer>Laurent Jamet</producer>
-    </credits>
-    <date>20221030</date>
-    <category>Documentary</category>
-    <category>Crime</category>
-    <category>History</category>
-    <category>Profile</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12166676218.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12166676219.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221104185300 +0000" stop="20221104210000 +0000" channel="StarZ">
-    <title lang="en">Ghostbusters: Afterlife</title>
-    <desc>Single mother Callie seeks a fresh start with her two children, moving her family to a rural midwestern town. Yet they soon experience a host of supernatural circumstances, unveiling a strange connection to the children's eccentric grandfather. Based on the 1984 cult classic film.</desc>
-    <date>20211102</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <category>Fantasy</category>
-    <length units="seconds">7440</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10922216355.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10922216350.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>45/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/45.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221104210000 +0000" stop="20221104215900 +0000" channel="StarZ">
-    <title lang="en">Step Up</title>
-    <sub-title>Kryptonite</sub-title>
-    <desc>Accused of murdering his former friend East-O, Sage Odom is poised to lose everything in his empire. His partner and now fiancé Collette Jones is by his side supporting him; but Collette is hiding a deep secret.</desc>
-    <credits>
-      <director>Janice Cooke</director>
-      <actor role="Angel">Rebbi Rose</actor>
-      <guest>Sage</guest>
-      <guest>Collette</guest>
-      <guest>Uncle Al</guest>
-    </credits>
-    <date>20221016</date>
-    <category>Drama</category>
-    <category>Music</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12138325231.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12138372412.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221104215900 +0000" stop="20221104225700 +0000" channel="StarZ">
-    <title lang="en">Step Up</title>
-    <sub-title>Ain't Gon' Let Up</sub-title>
-    <desc>A troubled Rigo must choose between abandoning the lucrative tour or headline the tour to help rescue the man who possibly murdered his father. With his friend Poppy by his side, he turns the tables on Sage and Collette.</desc>
-    <credits>
-      <director>Janice Cooke</director>
-      <actor role="Angel">Rebbi Rose</actor>
-      <guest>Sage</guest>
-      <guest>Collette</guest>
-      <guest>Uncle Al</guest>
-    </credits>
-    <date>20221023</date>
-    <category>Drama</category>
-    <category>Music</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12138325231.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12138372412.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221104225700 +0000" stop="20221104235200 +0000" channel="StarZ">
-    <title lang="en">Step Up</title>
-    <sub-title>Player's Ball</sub-title>
-    <desc>Sage has no choice but let Rigo perform in his place at the BMT Awards; Poppy and Collette team up to convince Rigo to show up; Angel and Marquise meet each other; Rigo makes a surprise move during the live awards.</desc>
-    <credits>
-      <director>Janice Cooke</director>
-      <actor role="Angel">Rebbi Rose</actor>
-      <guest>Sage</guest>
-      <guest>Collette</guest>
-      <guest>Uncle Al</guest>
-    </credits>
-    <date>20221030</date>
-    <category>Drama</category>
-    <category>Music</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12138325231.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12138372412.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221102153000 +0000" stop="20221102160000 +0000" channel="SundanceTV">
     <title lang="en">The Andy Griffith Show</title>
@@ -20130,7 +19549,6 @@
     <title lang="es">Noticiero Univision - Edicion Digital</title>
     <sub-title>11-02-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221102162000 +0000" stop="20221102165000 +0000" channel="Univision">
     <title lang="es">Nosotros los guapos</title>
@@ -21098,5 +20516,9 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7488543743.jpg" width="465" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7488543741.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221102230000 +0000" stop="20221103020000 +0000" channel="YES">
+    <title lang="en">AC Milan Magazine</title>
+    <desc>AC Milan soccer highlights, features an in-depth discussion.</desc>
   </programme>
 </tv>

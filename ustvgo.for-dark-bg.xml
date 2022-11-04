@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221104213737" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221104221253" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -3557,7 +3557,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221104213000 +0000" stop="20221104220000 +0000" channel="CNBC">
     <title lang="en">Options Action</title>
@@ -6803,7 +6802,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6714483584.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S20E192</episode-num>
     <episode-num system="xmltv_ns">19.191.</episode-num>
-    <new/>
   </programme>
   <programme start="20221104213000 +0000" stop="20221104220000 +0000" channel="ESPN">
     <title lang="en">Pardon the Interruption</title>

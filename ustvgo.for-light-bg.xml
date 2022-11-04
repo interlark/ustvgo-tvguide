@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221104193611" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221104201500" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -7095,7 +7095,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812436.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812435.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221104193000 +0000" stop="20221104200000 +0000" channel="ESPN2">
     <title lang="en">Jalen &amp; Jacoby</title>
@@ -7145,7 +7144,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5991181406.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7535467792.jpg" width="720" height="410"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221104220000 +0000" stop="20221104230000 +0000" channel="ESPN2">
     <title lang="en">Daily Wager</title>
@@ -7830,6 +7828,7 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221105020000 +0000" stop="20221105040000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>
@@ -8113,6 +8112,7 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221105020000 +0000" stop="20221105030000 +0000" channel="FOXNY">
     <title lang="en">The 10 O'Clock News</title>
@@ -8934,6 +8934,7 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221105020000 +0000" stop="20221105043000 +0000" channel="FS1">
     <title lang="en">NASCAR Camping World Truck Series</title>
@@ -11893,7 +11894,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5089328239.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S11E90</episode-num>
     <episode-num system="xmltv_ns">10.89.</episode-num>
-    <live/>
+    <new/>
   </programme>
   <programme start="20221104220000 +0000" stop="20221104230000 +0000" channel="MSNBC">
     <title lang="en">The Beat With Ari Melber</title>
@@ -11952,7 +11953,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9916644343.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E213</episode-num>
     <episode-num system="xmltv_ns">2021.212.</episode-num>
-    <live/>
   </programme>
   <programme start="20221104180000 +0000" stop="20221104190000 +0000" channel="MTV">
     <title lang="en">Catfish: The TV Show</title>

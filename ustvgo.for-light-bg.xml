@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221105073635" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221105081627" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -561,6 +561,7 @@
     <sub-title>Penn State at Indiana</sub-title>
     <desc>Penn State at Indiana. From Memorial Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221105223000 +0000" stop="20221105230000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -2968,6 +2969,7 @@
     <sub-title>Tennessee at Georgia</sub-title>
     <desc>Tennessee at Georgia. From Sanford Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221105230000 +0000" stop="20221106000000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -8349,6 +8351,7 @@
     <desc>Ree Drummond thinks thrifty with meals that are budget-friendly and big on flavor. She makes hearty Veggie Ragu with Cheesy Polenta, a 16-minute Creamy Pork Chop Pasta, stunning Slow Cooker Chicken Verde Burritos and her mash-up Cheeseburger Bowls.</desc>
     <credits>
       <director>Olivia Ball</director>
+      <producer>Rachel Purnell</producer>
     </credits>
     <date>20221022</date>
     <category>Cooking</category>
@@ -8419,6 +8422,7 @@
     <sub-title>From Los Angeles</sub-title>
     <desc>Previewing LAFC vs. Philadelphia Union in the 27th Major League Soccer championship game in Los Angeles.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221105200000 +0000" stop="20221105223000 +0000" channel="FOX">
     <title lang="en">MLS Cup</title>
@@ -13050,6 +13054,7 @@
     <sub-title>BC Classic From Keeneland</sub-title>
     <desc>The 39th Thoroughbred World Championships conclude with the $6 million Classic from Keeneland in Lexington, Ky., as well as the $4 million Turf and $2 million Distaff.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221105220000 +0000" stop="20221105223000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

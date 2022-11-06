@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221106203854" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221106211211" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -5260,7 +5260,7 @@
     <credits>
       <director>Leonard R. Garner Jr.</director>
       <actor role="Tess">Sky Katz</actor>
-      <producer>Julie Tsutsui</producer>
+      <producer>Jed Elinoff</producer>
       <composer>Bert Selen</composer>
     </credits>
     <date>20221104</date>
@@ -7156,12 +7156,11 @@
   <programme start="20221106210000 +0000" stop="20221106220000 +0000" channel="FoxNews">
     <title lang="en">Fox News Live</title>
     <desc>The important stories of the day are addressed.</desc>
-    <new/>
+    <live/>
   </programme>
   <programme start="20221106220000 +0000" stop="20221106230000 +0000" channel="FoxNews">
     <title lang="en">The Big Sunday Show</title>
     <date>20210000</date>
-    <new/>
   </programme>
   <programme start="20221106230000 +0000" stop="20221107000000 +0000" channel="FoxNews">
     <title lang="en">FOX Report With Jon Scott</title>
@@ -7171,7 +7170,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8678001101.jpg" width="541" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8678001108.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20221107000000 +0000" stop="20221107010000 +0000" channel="FoxNews">
     <title lang="en">Sunday Night in America with Trey Gowdy</title>
@@ -7206,7 +7205,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7425083869.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S06E46</episode-num>
     <episode-num system="xmltv_ns">5.45.</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20221107030000 +0000" stop="20221107040000 +0000" channel="FoxNews">
     <title lang="en">Sunday Night in America with Trey Gowdy</title>
@@ -7274,7 +7273,6 @@
   <programme start="20221106183000 +0000" stop="20221106203000 +0000" channel="FS1">
     <title lang="en">Women's College Soccer</title>
     <desc>Women's college soccer action.</desc>
-    <live/>
   </programme>
   <programme start="20221106203000 +0000" stop="20221106210000 +0000" channel="FS1">
     <title lang="en">FIFA World Cup 2022 Preview Series</title>

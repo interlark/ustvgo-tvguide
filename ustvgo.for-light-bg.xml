@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221109132731" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221109140121" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -532,6 +532,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12047119828.jpg" width="486" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12047119829.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221110040000 +0000" stop="20221110043500 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -3011,6 +3012,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11959807400.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S43E08</episode-num>
     <episode-num system="xmltv_ns">42.7.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -5023,7 +5025,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19971106</date>
@@ -5050,7 +5052,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19971113</date>
@@ -5077,7 +5079,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19971120</date>
@@ -5104,7 +5106,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19971211</date>
@@ -5167,6 +5169,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10375061160.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S03E10</episode-num>
     <episode-num system="xmltv_ns">2.9.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -5370,6 +5373,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10375061160.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S03E10</episode-num>
     <episode-num system="xmltv_ns">2.9.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -7457,7 +7461,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221109130000 +0000" stop="20221109150000 +0000" channel="ESPN">
     <title lang="en">Get Up</title>
@@ -7992,6 +7995,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9813244490.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E07</episode-num>
     <episode-num system="xmltv_ns">7.6.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -10883,7 +10887,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7819690990.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7819690988.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -10950,7 +10953,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7819690990.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7819690988.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -12313,6 +12315,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12031501006.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S08E07</episode-num>
     <episode-num system="xmltv_ns">7.6.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

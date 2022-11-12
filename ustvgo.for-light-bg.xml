@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112045309" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112051421" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -1295,7 +1295,10 @@
   <programme start="20221112113000 +0000" stop="20221112120000 +0000" channel="AE">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112030000 +0000" stop="20221112073000 +0000" channel="AMC">
     <title lang="en">The Godfather: Part II</title>
@@ -2492,7 +2495,6 @@
     <sub-title>BABY MOMMMA...</sub-title>
     <desc>Annie and Ayanda settle things at game night; Annie's bridal shower theme gets people curious.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221112042500 +0000" stop="20221112053000 +0000" channel="Bravo">
     <title lang="en">The Real Housewives of Durban</title>
@@ -2860,6 +2862,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6525813411.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E07</episode-num>
     <episode-num system="xmltv_ns">0.6.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -4252,7 +4255,7 @@
     <credits>
       <director>Tricia Garcia</director>
       <writer>Dan McGrath</writer>
-      <producer>Mark McJimsey</producer>
+      <producer>Joe Boucher</producer>
       <composer>Greg Edmonson</composer>
     </credits>
     <date>20000416</date>
@@ -4279,7 +4282,7 @@
     <credits>
       <director>Tricia Garcia</director>
       <writer>Dan McGrath</writer>
-      <producer>Mark McJimsey</producer>
+      <producer>Joe Boucher</producer>
       <composer>Greg Edmonson</composer>
     </credits>
     <date>20000430</date>
@@ -4306,7 +4309,7 @@
     <credits>
       <director>Tricia Garcia</director>
       <writer>Dan McGrath</writer>
-      <producer>Mark McJimsey</producer>
+      <producer>Joe Boucher</producer>
       <composer>Greg Edmonson</composer>
     </credits>
     <date>20000507</date>
@@ -4333,7 +4336,7 @@
     <credits>
       <director>Tricia Garcia</director>
       <writer>Dan McGrath</writer>
-      <producer>Mark McJimsey</producer>
+      <producer>Joe Boucher</producer>
       <composer>Greg Edmonson</composer>
     </credits>
     <date>20000514</date>
@@ -4973,7 +4976,10 @@
   <programme start="20221112110000 +0000" stop="20221112113000 +0000" channel="Comedy">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112113000 +0000" stop="20221112120000 +0000" channel="Comedy">
     <title lang="en">Paid Programming</title>
@@ -6593,8 +6599,8 @@
     <category>Cartoon</category>
     <category>Other</category>
     <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8863750778.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8863750787.jpg" width="720" height="540"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-Y</value>
@@ -8278,7 +8284,10 @@
   <programme start="20221112103000 +0000" stop="20221112110000 +0000" channel="FoodNetwork">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112110000 +0000" stop="20221112113000 +0000" channel="FoodNetwork">
     <title lang="en">Paid Programming</title>
@@ -8294,7 +8303,10 @@
   <programme start="20221112113000 +0000" stop="20221112120000 +0000" channel="FoodNetwork">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112030000 +0000" stop="20221112050000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>
@@ -9273,7 +9285,10 @@
   <programme start="20221112100000 +0000" stop="20221112103000 +0000" channel="Freeform">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112103000 +0000" stop="20221112110000 +0000" channel="Freeform">
     <title lang="en">Paid Programming</title>
@@ -9490,7 +9505,10 @@
   <programme start="20221112100000 +0000" stop="20221112103000 +0000" channel="FX">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112103000 +0000" stop="20221112110000 +0000" channel="FX">
     <title lang="en">Try Total Gym Risk Free</title>
@@ -9503,7 +9521,10 @@
   <programme start="20221112110000 +0000" stop="20221112113000 +0000" channel="FX">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112113000 +0000" stop="20221112120000 +0000" channel="FX">
     <title lang="en">Hall &amp; Oates, Air Supply, Orleans</title>
@@ -10653,7 +10674,10 @@
   <programme start="20221112103000 +0000" stop="20221112110000 +0000" channel="HGTV">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112110000 +0000" stop="20221112113000 +0000" channel="HGTV">
     <title lang="en">Age Spots? Rosacea? Try This Secret!</title>
@@ -10666,7 +10690,10 @@
   <programme start="20221112113000 +0000" stop="20221112120000 +0000" channel="HGTV">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112020000 +0000" stop="20221112050300 +0000" channel="History">
     <title lang="en">Hacksaw Ridge</title>
@@ -13248,6 +13275,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9666960315.jpg" width="720" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11728153275.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20221112170000 +0000" stop="20221112173000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -15606,7 +15634,10 @@
   <programme start="20221112100000 +0000" stop="20221112103000 +0000" channel="Paramount">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112103000 +0000" stop="20221112110000 +0000" channel="Paramount">
     <title lang="en">Inogen Portable Oxygen – No More Tanks!</title>
@@ -15619,7 +15650,10 @@
   <programme start="20221112110000 +0000" stop="20221112113000 +0000" channel="Paramount">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112113000 +0000" stop="20221112120000 +0000" channel="Paramount">
     <title lang="en">The PiYo Craze from Beachbody!</title>
@@ -15994,7 +16028,10 @@
   <programme start="20221112103000 +0000" stop="20221112110000 +0000" channel="Reelz">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112110000 +0000" stop="20221112130000 +0000" channel="Reelz">
     <title lang="en">Marilyn, Misunderstood</title>
@@ -16859,7 +16896,10 @@
   <programme start="20221112113000 +0000" stop="20221112120000 +0000" channel="SYFY">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-    <date>20120000</date>
+    <date>20121001</date>
+    <category>Infomercial</category>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221112032400 +0000" stop="20221112060600 +0000" channel="TBS">
     <title lang="en">The Karate Kid</title>
@@ -18678,7 +18718,6 @@
     <title lang="es">Sabor de Mañana</title>
     <sub-title>11-13-2022</sub-title>
     <date>20190000</date>
-    <new/>
   </programme>
   <programme start="20221112043500 +0000" stop="20221112050000 +0000" channel="Univision">
     <title lang="es">Noticiero Univision - Edicion Nocturna</title>

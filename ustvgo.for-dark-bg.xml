@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112154035" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112161710" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -437,7 +437,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7358481366.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S04E14</episode-num>
     <episode-num system="xmltv_ns">3.13.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-MA</value>
     </rating>
@@ -4765,7 +4764,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7211706613.jpg" width="541" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7997825425.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -5428,8 +5426,8 @@
     <category>Cartoon</category>
     <category>Other</category>
     <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8863750778.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8863750787.jpg" width="720" height="540"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-Y</value>
@@ -6399,7 +6397,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172457789.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4493541950.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -6618,6 +6615,7 @@
     <sub-title>Arizona at UCLA</sub-title>
     <desc>Arizona at UCLA. From the Rose Bowl.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221113070000 +0000" stop="20221113110000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>
@@ -6695,7 +6693,7 @@
     <desc>When Homer becomes Duffman's girl-dad hero, they head on a road trip with Lisa that threatens to expose his terrible parenting of Homer.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7559,7 +7557,7 @@
     <desc>From 1992: Lisa's ability to pick winning football teams kicks off a strong bond with Homer---which might end with the upcoming Super Bowl. Voices: Hank Azaria, Julie Kavner, Yeardley Smith, Dan Castellaneta, Phil Hartman.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7585,7 +7583,7 @@
     <desc>Flanders' extra ticket to the big game makes him Homer's new best friend, a role that sorely tests Flanders' patience. Harry Shearer, Dan Castellaneta, Hank Azaria, Julie Kavner, Nancy Cartwright.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7611,7 +7609,7 @@
     <desc>Homer heckles Flanders out of coaching Pee Wee football---and then takes over, replacing winning QB Nelson with Bart. Joe Namath has a cartoon cameo. Other voices: Dan Castellaneta, Nancy Cartwright.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7637,7 +7635,7 @@
     <desc>Homer leads a slew of Springfield denizens to the Super Bowl. Guest voices include Rupert Murdoch, Dolly Parton, John Elway, Dan Marino, John Madden and Pat Summerall.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7663,7 +7661,7 @@
     <desc>After Bart's successful laying on of hands at a revival meeting, a preacher declares Bart has "the power." So the boy pitches his own tent. Nancy Cartwright, Dan Castellaneta, Julie Kavner, Yeardley Smith, Harry Shearer.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7689,7 +7687,7 @@
     <desc>Homer's victory dance at a carnival game leads to fame as a personal choreographer, and a gig producing the Super Bowl halftime show, with help from Flanders. Athlete cameos include Tom Brady, Michelle Kwan, Warren Sapp, LeBron James and Yao Ming.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7715,7 +7713,7 @@
     <desc>Grandpa derails Homer's plan to bring a pro football team to Springfield when he mistakes the football commissioner for a burglar.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7741,7 +7739,7 @@
     <desc>Homer's rage toward Bart gets him in trouble with a therapist (Paul Rudd) who manages to reverse Bart and Homer's roles. Kareem Abdul-Jabbar has a voice cameo as himself.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7767,7 +7765,7 @@
     <desc>When Homer calls on his Lamaze skills to help deliver a baby in an elevator, the grateful mother names the boy Homer Jr., and he develops a deep attachment to the little guy. Meanwhile, Lisa is asked to join the cheerleading squad for the local pro-football team, the Springfield Atoms.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -7793,7 +7791,7 @@
     <desc>Bart's disrespectful behavior leads Marge to book him and Homer for a conflict-resolution cruise on the Relation Ship, and while Homer's away, Marge takes charge of his fantasy-football team, with surprising results.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>Matt Groening</writer>
+      <writer>James L. Brooks</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -10873,7 +10871,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6905480877.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7503384702.jpg" width="720" height="448"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -11359,7 +11356,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6905480877.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7503384702.jpg" width="720" height="448"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -16329,7 +16325,6 @@
   <programme start="20221112150000 +0000" stop="20221112153000 +0000" channel="Univision">
     <title lang="es">Franklin &amp; Friends</title>
     <date>20170000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112165217" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112171329" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -10801,6 +10801,7 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221113060200 +0000" stop="20221113063200 +0000" channel="NBC">
     <title lang="en">1st Look</title>
@@ -12773,18 +12774,19 @@
   <programme start="20221112190000 +0000" stop="20221112193000 +0000" channel="PBS">
     <title lang="en">Ask This Old House</title>
     <sub-title>Paint Bathroom Tile, Hot Water Tank Replacement</sub-title>
+    <desc>Richard helps remove an old 40-gallon hot water tank; Heath shares safety tips for holiday light decoration; Tom explains how to identify, repair, and prevent woodpecker damage; Mauro shows how to paint over bathroom tile using epoxy acrylic paint.</desc>
     <credits>
       <commentator>Roger Cook</commentator>
       <commentator>Norm Abram</commentator>
     </credits>
-    <date>20221023</date>
+    <date>20221110</date>
     <category>Home &amp; Garden</category>
     <category>Home projects</category>
     <category>How-to</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172449930.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172449929.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S21E06</episode-num>
-    <episode-num system="xmltv_ns">20.5.</episode-num>
+    <episode-num system="onscreen">S21E07</episode-num>
+    <episode-num system="xmltv_ns">20.6.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -14960,6 +14962,7 @@
     <desc>A Colorado man is tormented by a voodoo curse. Baffling bright lights in the sky stun onlookers in Philadelphia. In Mexico, a child's favorite play area is invaded by the notorious duende.</desc>
     <credits>
       <director>Jason Cilo</director>
+      <producer>Jason Cilo</producer>
     </credits>
     <date>20220407</date>
     <category>Reality</category>
@@ -14981,6 +14984,7 @@
     <desc>Spirits take their seats in a haunted auditorium in Pakistan. A father and son on a hunting trip catch sight of a Sasquatch. A ghostly figure mysteriously fades away as it walks toward a morgue in Peru.</desc>
     <credits>
       <director>Jason Cilo</director>
+      <producer>Jason Cilo</producer>
     </credits>
     <date>20221002</date>
     <category>Reality</category>

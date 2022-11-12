@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112053820" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112061611" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -427,7 +427,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4931736503.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E27</episode-num>
     <episode-num system="xmltv_ns">20.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -896,7 +895,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4931736503.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E27</episode-num>
     <episode-num system="xmltv_ns">20.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2483,7 +2481,6 @@
     <title lang="en">The Real Housewives of Durban</title>
     <sub-title>FOR THE SAKE OF THE CHILDREN</sub-title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221112053000 +0000" stop="20221112073000 +0000" channel="Bravo">
     <title lang="en">Ride Along 2</title>
@@ -6770,8 +6767,8 @@
     <category>Cartoon</category>
     <category>Other</category>
     <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8863750778.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8863750787.jpg" width="720" height="540"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-Y</value>
@@ -12929,7 +12926,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10648602905.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -13131,6 +13127,7 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221112193000 +0000" stop="20221112210000 +0000" channel="NBC">
     <title lang="en">ISU Grand Prix of Figure Skating</title>
@@ -13545,7 +13542,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10648602905.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -16918,7 +16914,6 @@
   <programme start="20221112050000 +0000" stop="20221112053000 +0000" channel="Telemundo">
     <title lang="es">Zona Mixta</title>
     <desc>El deporte y el periodismo se unen todos los fines de semana en la Zona Mixta con las opiniones más controversiales y las entrevistas más relevantes del mundo deportivo.</desc>
-    <new/>
   </programme>
   <programme start="20221112053000 +0000" stop="20221112060000 +0000" channel="Telemundo">
     <title lang="es">Caso Cerrado</title>

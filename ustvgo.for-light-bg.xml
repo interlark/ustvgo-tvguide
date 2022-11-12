@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112084409" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221112091329" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -559,6 +559,7 @@
     <sub-title>Nebraska at Michigan</sub-title>
     <desc>Nebraska at Michigan. From Michigan Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221112233000 +0000" stop="20221113000000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -2890,6 +2891,7 @@
     <sub-title>Alabama at Mississippi</sub-title>
     <desc>Alabama at Mississippi. From Vaught-Hemingway Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221113000000 +0000" stop="20221113010000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -5879,8 +5881,8 @@
     <category>Cartoon</category>
     <category>Other</category>
     <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8863750778.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8863750787.jpg" width="720" height="540"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-Y</value>
@@ -8033,6 +8035,7 @@
     <sub-title>Maryland at Penn State</sub-title>
     <desc>Maryland at Penn State. From Beaver Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221113000000 +0000" stop="20221113033000 +0000" channel="FOX">
     <title lang="en">College Football</title>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221113040730" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221113045547" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -413,7 +413,6 @@
     <sub-title>TCU at Texas</sub-title>
     <desc>TCU at Texas. From DKR-Texas Memorial Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221113040000 +0000" stop="20221113100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -873,7 +872,6 @@
     <sub-title>TCU at Texas</sub-title>
     <desc>TCU at Texas. From DKR-Texas Memorial Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221113040000 +0000" stop="20221113050000 +0000" channel="ABCNY">
     <title lang="en">Eyewitness News</title>
@@ -1061,7 +1059,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9504598784.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9504598788.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2481,7 +2478,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5920084381.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S35E08</episode-num>
     <episode-num system="xmltv_ns">34.7.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3205,7 +3201,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5920084381.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S35E08</episode-num>
     <episode-num system="xmltv_ns">34.7.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -7329,7 +7324,6 @@
     <title lang="en">SportsCenter Veterans Day Special</title>
     <desc>Veterans Day is saluted with a look at military-themed sports stories.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221113040000 +0000" stop="20221113043000 +0000" channel="ESPN2">
     <title lang="en">SC Featured</title>
@@ -7800,6 +7794,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11065779619.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11065779616.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221113180000 +0000" stop="20221113210000 +0000" channel="FOX">
     <title lang="en">NFL Football</title>
@@ -8276,7 +8271,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11114517627.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11114517625.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221113040000 +0000" stop="20221113050000 +0000" channel="FoxNews">
     <title lang="en">One Nation with Brian Kilmeade</title>
@@ -8720,7 +8714,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Gemma Baker</writer>
+      <writer>Chuck Lorre</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20181101</date>
@@ -8746,7 +8740,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Gemma Baker</writer>
+      <writer>Chuck Lorre</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20181122</date>
@@ -9568,7 +9562,6 @@
     <category>Stand-up comedy</category>
     <length units="seconds">3600</length>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221113040500 +0000" stop="20221113045500 +0000" channel="HBO">
     <title lang="en">Hard Knocks In Season: The Arizona Cardinals</title>
@@ -10446,7 +10439,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12174441888.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4180957086.jpg" width="720" height="396"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -11554,7 +11546,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5691326314.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S02E07</episode-num>
     <episode-num system="xmltv_ns">1.6.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -15755,7 +15746,6 @@
     <sub-title>El pacto</sub-title>
     <desc>Un asesinato complica la vida de Emanuel, un cotizado escort contratado para acercarse a Julia.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221113040000 +0000" stop="20221113043000 +0000" channel="Telemundo">
     <title lang="es">Noticias Telemundo fin de semana</title>
@@ -16558,7 +16548,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080487409.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-MA</value>
     </rating>
@@ -17613,7 +17602,6 @@
     <title lang="es">¿Tú Crees?</title>
     <sub-title>11-12-2022</sub-title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221113040000 +0000" stop="20221113043000 +0000" channel="Univision">
     <title lang="es">Nosotros los guapos</title>

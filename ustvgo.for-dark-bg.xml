@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221113122447" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221113130244" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -500,6 +500,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10548805255.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S33E06</episode-num>
     <episode-num system="xmltv_ns">32.5.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -2467,6 +2468,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10738645770.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S55E09</episode-num>
     <episode-num system="xmltv_ns">54.8.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -3942,7 +3944,6 @@
   <programme start="20221113110000 +0000" stop="20221113120000 +0000" channel="CNN">
     <title lang="en">CNN This Morning Weekend</title>
     <desc>Stories from across the world and refreshing conversations with Boris Sanchez and Amara Walker.</desc>
-    <new/>
   </programme>
   <programme start="20221113120000 +0000" stop="20221113130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning Weekend</title>
@@ -7623,6 +7624,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6561329594.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6561329611.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221114010000 +0000" stop="20221114013100 +0000" channel="FOX">
     <title lang="en">The Simpsons</title>
@@ -11821,6 +11823,7 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221114011500 +0000" stop="20221114043000 +0000" channel="NBC">
     <title lang="en">Sunday Night Football</title>

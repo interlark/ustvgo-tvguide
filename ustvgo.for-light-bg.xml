@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221113061615" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221113064506" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -468,6 +468,7 @@
     <sub-title>Sao Paulo Brazilian Grand Prix</sub-title>
     <desc>The Sao Paulo Brazilian Grand Prix from the 4.3km Autodromo Jose Carlos Pace. Lewis Hamilton prevailed here last year but is winless in 2022, despite eight podium finishes. Charles Leclerc battles Sergio Perez for season runner-up behind Max Verstappen.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221113200000 +0000" stop="20221113233000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -2673,6 +2674,7 @@
     <sub-title>Teams TBA</sub-title>
     <desc>Teams TBA.</desc>
     <date>20110000</date>
+    <live/>
   </programme>
   <programme start="20221113210000 +0000" stop="20221114000000 +0000" channel="CBS">
     <title lang="en">NFL Football</title>
@@ -3762,7 +3764,6 @@
     <category>Anime</category>
     <episode-num system="onscreen">S02E02</episode-num>
     <episode-num system="xmltv_ns">1.1.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-MA</value>
     </rating>
@@ -3903,7 +3904,7 @@
     <desc>Fry runs afoul of beloved entrepreneur Mom by outbidding her for a can of anchovies, whose secret properties could ruin Mom's business. Voices include Katey Sagal, John DiMaggio, Billy West, Lauren Tom, Phil Lamarr.</desc>
     <credits>
       <director>Rich Moore</director>
-      <writer>Lewis Morton</writer>
+      <writer>Michael Rowe</writer>
       <producer>Claudia Katz</producer>
       <composer>Christopher Tyng</composer>
     </credits>
@@ -3930,7 +3931,7 @@
     <desc>In the Forbidden Zone of the Galaxy of Terror, Fry's mistake turns him into a planet's emperor, a position with a notoriously short lifespan. Voices include Billy West, Katey Sagal, John DiMaggio, Lauren Tom, Phil Lamarr.</desc>
     <credits>
       <director>Rich Moore</director>
-      <writer>Lewis Morton</writer>
+      <writer>Michael Rowe</writer>
       <producer>Claudia Katz</producer>
       <composer>Christopher Tyng</composer>
     </credits>
@@ -7445,7 +7446,6 @@
     <sub-title>Stanford at Utah</sub-title>
     <desc>Stanford (3-6) at Utah (7-2). From Rice-Eccles Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221113060000 +0000" stop="20221113070000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -7536,7 +7536,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797548.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797546.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221113060000 +0000" stop="20221113070000 +0000" channel="ESPN2">
     <title lang="en">College Football Scoreboard</title>
@@ -8046,6 +8045,7 @@
     <sub-title>Teams TBA</sub-title>
     <desc>Teams TBA.</desc>
     <date>20110000</date>
+    <live/>
   </programme>
   <programme start="20221113210000 +0000" stop="20221114000000 +0000" channel="FOX">
     <title lang="en">NFL Football</title>
@@ -12267,7 +12267,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221113060200 +0000" stop="20221113063200 +0000" channel="NBC">
     <title lang="en">1st Look</title>
@@ -12789,7 +12788,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221113060200 +0000" stop="20221113063200 +0000" channel="NBCNY">
     <title lang="en">1st Look</title>
@@ -17967,7 +17965,6 @@
     <title lang="es">Mas Noche</title>
     <sub-title>11-12-2022</sub-title>
     <date>20180000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

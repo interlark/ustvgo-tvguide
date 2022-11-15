@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221115044735" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221115051145" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -8269,7 +8269,6 @@
   <programme start="20221115041500 +0000" stop="20221115043000 +0000" channel="ESPN">
     <title lang="en">Monday Night Postgame</title>
     <desc>Interviews and analysis wrapping up Monday Night Football coverage.</desc>
-    <live/>
   </programme>
   <programme start="20221115043000 +0000" stop="20221115053000 +0000" channel="ESPN">
     <title lang="en">SportsCenter with Scott Van Pelt</title>
@@ -19437,7 +19436,6 @@
   <programme start="20221115043000 +0000" stop="20221115043500 +0000" channel="Univision">
     <title lang="es">Sabor de mañana</title>
     <desc>Una previa de lo que pasara en los programas Despierta América, El Gordo y La Flaca, y Primer Impacto.</desc>
-    <new/>
   </programme>
   <programme start="20221115043500 +0000" stop="20221115050000 +0000" channel="Univision">
     <title lang="es">Noticiero Univision - Edicion Nocturna</title>

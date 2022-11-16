@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221116184330" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221116191035" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2889,7 +2889,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12097499680.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S50E34</episode-num>
     <episode-num system="xmltv_ns">49.33.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3563,7 +3562,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12097499680.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S50E34</episode-num>
     <episode-num system="xmltv_ns">49.33.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -8400,7 +8398,8 @@
   </programme>
   <programme start="20221116200000 +0000" stop="20221116203000 +0000" channel="ESPNU">
     <title lang="en">TrueSouth</title>
-    <sub-title>Jackson, MS</sub-title>
+    <sub-title>Jackson, Miss.</sub-title>
+    <desc>A visit to Jackson, Miss., to witness the drive and hustle and belief that a creative class of risk takers and change makers now brings to bear in this capital city. Jackson faced down a summer crisis that left the city without safe water for six weeks, but those problems do not define this city. Instead, we celebrate the work of artists and musicians and chefs whose commitment to excellence make Jackson a magnet for Mississippians who regard creativity as an engine for progress.</desc>
     <date>20221113</date>
     <category>Sports stuff</category>
     <category>Food</category>
@@ -8408,7 +8407,8 @@
     <category>Local cultures</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7746910352.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7746910356.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
   </programme>
   <programme start="20221116203000 +0000" stop="20221116223000 +0000" channel="ESPNU">
     <title lang="en">College Basketball</title>

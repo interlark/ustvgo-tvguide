@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221117203836" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221117211149" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -7882,7 +7882,6 @@
     <sub-title>Colorado vs. Massachusetts</sub-title>
     <desc>Colorado vs. Massachusetts in a Myrtle Beach Invitational quarterfinal. From The HTC Center in Conway, S.C.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221117203000 +0000" stop="20221117210000 +0000" channel="ESPNU">
     <title lang="en">The Season: Ole Miss Football 2022</title>
@@ -12926,6 +12925,7 @@
   <programme start="20221118083000 +0000" stop="20221118090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221118090000 +0000" stop="20221118093000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

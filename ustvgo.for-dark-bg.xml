@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221118193528" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221118201318" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -1987,6 +1987,9 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12062698577.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E03</episode-num>
     <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
   </programme>
   <programme start="20221118234500 +0000" stop="20221119010000 +0000" channel="Bravo">
     <title lang="en">The Real Housewives Ultimate Girls Trip</title>
@@ -3355,7 +3358,7 @@
     <sub-title>The Wish; The; Web</sub-title>
     <credits>
       <director>Mic Graves</director>
-      <writer>Benjamin Bocquelet</writer>
+      <writer>James Lamont</writer>
       <producer>Carsten Bunte</producer>
       <composer>Ben Locket</composer>
     </credits>
@@ -3379,7 +3382,7 @@
     <sub-title>The Factory; The; Inquisition</sub-title>
     <credits>
       <director>Mic Graves</director>
-      <writer>Benjamin Bocquelet</writer>
+      <writer>James Lamont</writer>
       <producer>Carsten Bunte</producer>
       <composer>Ben Locket</composer>
     </credits>
@@ -3404,7 +3407,7 @@
     <desc>Gumball asks his girlfriend, Penny, to be his running mate. Gumball hopes Leslie's newfound cheer fame will help his campaign.</desc>
     <credits>
       <director>Mic Graves</director>
-      <writer>Benjamin Bocquelet</writer>
+      <writer>James Lamont</writer>
       <producer>Carsten Bunte</producer>
       <composer>Ben Locket</composer>
     </credits>
@@ -7123,7 +7126,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7535281576.jpg" width="481" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7535281578.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221118193000 +0000" stop="20221118213000 +0000" channel="ESPN2">
     <title lang="en">College Basketball</title>

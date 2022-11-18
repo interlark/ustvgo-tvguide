@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221118122411" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221118130245" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -411,7 +411,6 @@
   <programme start="20221118110000 +0000" stop="20221118120000 +0000" channel="ABC">
     <title lang="en">America This Morning</title>
     <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
-    <new/>
   </programme>
   <programme start="20221118120000 +0000" stop="20221118140000 +0000" channel="ABC">
     <title lang="en">Good Morning America</title>
@@ -4119,7 +4118,6 @@
   <programme start="20221118110000 +0000" stop="20221118120000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221118120000 +0000" stop="20221118130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
@@ -7636,7 +7634,6 @@
     <sub-title>Rider at Stetson</sub-title>
     <desc>Rider at Stetson. From National Basketball Arena.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221118120000 +0000" stop="20221118123000 +0000" channel="ESPNU">
     <title lang="en">The Pulse: Texas A&amp;M Football</title>
@@ -17118,7 +17115,6 @@
     <sub-title>Episode 50</sub-title>
     <desc>Jennifer Hudson sits down with Justin Hartley.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221119132800" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221119134210" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -3828,7 +3828,6 @@
   <programme start="20221119120000 +0000" stop="20221119130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning Weekend</title>
     <desc>Stories from across the world and refreshing conversations with Boris Sanchez and Amara Walker.</desc>
-    <new/>
   </programme>
   <programme start="20221119130000 +0000" stop="20221119140000 +0000" channel="CNN">
     <title lang="en">CNN This Morning Weekend</title>
@@ -4504,6 +4503,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12232686647.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E05</episode-num>
     <episode-num system="xmltv_ns">0.4.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4764,6 +4764,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12232686647.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E05</episode-num>
     <episode-num system="xmltv_ns">0.4.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -6658,7 +6659,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221119130000 +0000" stop="20221119140000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -6779,7 +6779,6 @@
     <sub-title>Central Arkansas at Rider</sub-title>
     <desc>Central Arkansas at Rider. From National Basketball Arena.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221119130000 +0000" stop="20221119150000 +0000" channel="ESPNU">
     <title lang="en">College Basketball</title>
@@ -7211,6 +7210,7 @@
     <sub-title>Southern California at UCLA</sub-title>
     <desc>Southern California at UCLA. From the Rose Bowl.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221120043000 +0000" stop="20221120053000 +0000" channel="FOX">
     <title lang="en">Beat Shazam</title>
@@ -8452,7 +8452,6 @@
     <sub-title>DP World Tour Championship</sub-title>
     <desc>DP World Tour Championship third-round play from Jumeirah Golf Estates in Dubai. Season-long title contenders include FedEx Cup winner Rory McIlroy, Ryan Fox, Matt Fitzpatrick, Viktor Hovland, Tommy Fleetwood, Shane Lowry and Adrian Meronk.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221119130000 +0000" stop="20221119170000 +0000" channel="GOLF">
     <title lang="en">DP World Tour Golf</title>
@@ -10623,7 +10622,6 @@
     <sub-title>11-19-2022</sub-title>
     <desc>Katie Phang explores the intersections of race, law, politics, culture and more, and features interviews with the nation's top newsmakers.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221119130000 +0000" stop="20221119140000 +0000" channel="MSNBC">
     <title lang="en">Velshi</title>

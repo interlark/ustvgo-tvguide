@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221119084201" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221119091151" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -557,6 +557,7 @@
     <sub-title>Ohio State at Maryland</sub-title>
     <desc>Ohio State at Maryland. From SECU Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221119233000 +0000" stop="20221120000000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -3025,6 +3026,7 @@
     <sub-title>Georgia at Kentucky</sub-title>
     <desc>Georgia at Kentucky. From Kroger Field.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221120000000 +0000" stop="20221120010000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -8366,6 +8368,7 @@
     <title lang="en">Fox College Football Extra</title>
     <sub-title>11-19-2022</sub-title>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221119210000 +0000" stop="20221120003000 +0000" channel="FOX">
     <title lang="en">College Football</title>

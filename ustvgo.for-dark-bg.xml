@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221120042453" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221120044527" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -413,7 +413,6 @@
     <sub-title>Oklahoma State at Oklahoma</sub-title>
     <desc>Oklahoma State at Oklahoma. From Memorial Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221120040000 +0000" stop="20221120100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -855,7 +854,6 @@
     <sub-title>Oklahoma State at Oklahoma</sub-title>
     <desc>Oklahoma State at Oklahoma. From Memorial Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221120040000 +0000" stop="20221120050000 +0000" channel="ABCNY">
     <title lang="en">Eyewitness News</title>
@@ -998,7 +996,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9504598784.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9504598788.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2739,7 +2736,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11805053761.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6600368084.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3971,7 +3967,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5920084381.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S35E09</episode-num>
     <episode-num system="xmltv_ns">34.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4717,7 +4712,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5920084381.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S35E09</episode-num>
     <episode-num system="xmltv_ns">34.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -12297,6 +12291,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10530748311.jpg" width="489" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-778414510.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221120170000 +0000" stop="20221120180000 +0000" channel="FOX">
     <title lang="en">Fox NFL Sunday</title>
@@ -12953,7 +12948,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11114517627.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11114517625.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221120040000 +0000" stop="20221120050000 +0000" channel="FoxNews">
     <title lang="en">One Nation with Brian Kilmeade</title>
@@ -19572,7 +19566,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12174441888.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4180957086.jpg" width="720" height="396"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -22747,7 +22740,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5691326314.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S03E05</episode-num>
     <episode-num system="xmltv_ns">2.4.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -34859,7 +34851,6 @@
     <sub-title>Traidor</sub-title>
     <desc>Emanuel y Julia están cada vez más cerca, las reacciones a su alrededor son inmediatas.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221120040000 +0000" stop="20221120043000 +0000" channel="Telemundo">
     <title lang="es">Noticias Telemundo fin de semana</title>
@@ -36847,7 +36838,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12080487409.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E02</episode-num>
     <episode-num system="xmltv_ns">0.1.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-MA</value>
     </rating>
@@ -41537,6 +41527,7 @@
     <title lang="es">Al Punto con Jorge Ramos</title>
     <sub-title>11-20-2022</sub-title>
     <date>20220000</date>
+    <new/>
   </programme>
   <programme start="20221120170000 +0000" stop="20221120180000 +0000" channel="Univision">
     <title lang="es">Aquí y Ahora</title>

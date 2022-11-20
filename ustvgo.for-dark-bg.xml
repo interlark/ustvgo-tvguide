@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221120134256" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221120141059" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2393,6 +2393,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10590316930.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S03E06</episode-num>
     <episode-num system="xmltv_ns">2.5.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -7063,6 +7064,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9556000083.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S03E08</episode-num>
     <episode-num system="xmltv_ns">2.7.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -11067,6 +11069,7 @@
     <sub-title>Kansas City Chiefs at Los Angeles Chargers</sub-title>
     <desc>Kansas City Chiefs (7-2) at Los Angeles Chargers (5-4). From SoFi Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221121043000 +0000" stop="20221121050500 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

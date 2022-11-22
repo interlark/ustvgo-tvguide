@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221122053803" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221122061630" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -426,7 +426,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4931700702.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4931736503.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -1037,7 +1036,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4931700702.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4931736503.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3065,7 +3063,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629174650.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S08E39</episode-num>
     <episode-num system="xmltv_ns">7.38.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -3192,6 +3189,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12097499680.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S50E38</episode-num>
     <episode-num system="xmltv_ns">49.37.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3817,7 +3815,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629174650.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S08E39</episode-num>
     <episode-num system="xmltv_ns">7.38.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -8125,7 +8122,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4216169712.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4216169735.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221122053000 +0000" stop="20221122063000 +0000" channel="ESPN">
     <title lang="en">NFL Rewind</title>
@@ -13396,7 +13392,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S10E38</episode-num>
     <episode-num system="xmltv_ns">9.37.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -14005,7 +14000,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S10E38</episode-num>
     <episode-num system="xmltv_ns">9.37.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -14560,9 +14554,9 @@
     <desc>SpongeBob breaks his precious alarm clock, but nothing else is loud enough to wake him up on time. Karen quickly learns that kids grow up too fast after her new child arrives in the mail.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20190823</date>
     <category>Comedy</category>
@@ -14637,9 +14631,9 @@
     <desc>Patrick tries to act mature after he grows a beard; SpongeBob gets nervous about a public-speaking assignment.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20110604</date>
     <category>Comedy</category>
@@ -14664,9 +14658,9 @@
     <desc>SpongeBob quits after the original Krusty Krab fry chef gives him a harsh review. Later, SpongeBob finds as many lights as he can to ward off the bogeyman.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20070730</date>
     <category>Comedy</category>
@@ -14691,9 +14685,9 @@
     <desc>Stray snails show up in Bikini Bottom, and SpongeBob becomes their caregiver; Patrick competes in an eating contest in order to uphold Bikini Bottom's honor.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20151016</date>
     <category>Comedy</category>
@@ -14718,9 +14712,9 @@
     <desc>SpongeBob imitates others in order to flatter them, but he doesn't know when to stop; SpongeBob gets invaded by worms who move into the holes on his body, so he tries hiding them.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20170225</date>
     <category>Comedy</category>
@@ -14745,9 +14739,9 @@
     <desc>The Krusty Krab now offers 24-hour service, which SpongeBob thinks is a dream come true until he succumbs to being overworked and develops a Krabby Patty phobia. Later, Mr. Krabs is embarrassed to attend a reunion of his manly Navy buddies because he's "all flab and no ab."</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20050506</date>
     <category>Comedy</category>
@@ -14772,9 +14766,9 @@
     <desc>SpongeGar, Patar and Squog, prehistoric cave-dwelling ancestors who live in Bikini Bottom, B.C., experience an underwater thunderstorm that leads to the discovery of fire, and right behind that, barbecuing.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20040305</date>
     <category>Comedy</category>
@@ -14800,9 +14794,9 @@
     <desc>Squidward is very tired and won't wake up, but SpongeBob doesn't want him to miss his big audition; a fancy party is held and Mr. Krabs caters it with his crew, but they might be out of their element with these wealthy customers.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20170304</date>
     <category>Comedy</category>
@@ -14827,9 +14821,9 @@
     <desc>Sandy's pet caterpillar is consumed by a "monster" butterfly; SpongeBob markets his colored crabcakes to the Krusty Krab's clientele. Voices include Tom Kenny, Clancy Brown and Carolyn Lawrence.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20010217</date>
     <category>Comedy</category>
@@ -14854,9 +14848,9 @@
     <desc>Pearl sends Mr. Krabs out of the house as she prepares for her slumber party, so Mr. Krabs has SpongeBob spy on her; Gary is reluctant to get a makeover when SpongeBob enters him in a pet show.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20081128</date>
     <category>Comedy</category>
@@ -14881,9 +14875,9 @@
     <desc>SpongeBob and Patrick believe their homes were sold so they relocate, and Squidward couldn't be happier about this; the future is predicted by some fortune cookies, so Plankton manipulates things to fit his malicious plans.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20160711</date>
     <category>Comedy</category>
@@ -14908,9 +14902,9 @@
     <desc>SpongeBob resorts to underhanded measures to learn the mystery behind Patrick's secret box. Later, Squidward forms a marching band.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20010907</date>
     <category>Comedy</category>
@@ -14935,9 +14929,9 @@
     <desc>Mr. Krabs forces SpongeBob to take his first-ever vacation day, but the poor yellow guy doesn't know what to do with the free time. Later, SpongeBob starts wearing an old powdered wig, which everyone in Bikini Bottom deems ridiculous.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20061013</date>
     <category>Comedy</category>
@@ -14962,9 +14956,9 @@
     <desc>SpongeBob neglects to feed Gary because he's too wrapped up in completing a paddleball challenge. In fact, SpongeBob is so distracted that it takes him more than a week to notice a tired, hungry and sad Gary has run away to the city, where a grandmotherly woman (voice of Amy Poehler) offers the stray snail shelter, deviled eggs and fresh-baked cookies.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20051111</date>
     <category>Comedy</category>
@@ -14990,9 +14984,9 @@
     <desc>The krabby patty special ingredient is missing and SpongeBob is on the case; Plankton is shocked to discover he has a regular patron at the Chum Bucket.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20080805</date>
     <category>Comedy</category>
@@ -15017,9 +15011,9 @@
     <desc>SpongeBob and friends attempt to cure Sandy Cheeks' homesickness by bringing the heart of Texas to Bikini Bottom. Also: SpongeBob learns a lesson about respect after the mischievous Plankton's evil scheme fails. Voices include Tom Kenny, Bill Fagerbakke, Rodger Bumpass, Clancy Brown, Carolyn Lawrence.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20000322</date>
     <category>Comedy</category>
@@ -15084,9 +15078,9 @@
     <desc>Mr. Krabs' wish that his money could talk is granted, and it tells him how it wants to be spent; SpongeBob pits his skills against a patty-making machine; SpongeBob trains for the Bikini Bottom dance contest with Squidward's help.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20070731</date>
     <category>Comedy</category>
@@ -15111,9 +15105,9 @@
     <desc>Squidward coerces SpongeBob to walk off the job and go on strike against Mr. Krabs; Sandy bullies SpongeBob into fighting a giant worm.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Luke Brookshier</writer>
-      <producer>Jennie Monica</producer>
-      <composer>Nick Carr</composer>
+      <writer>Stephen Hillenburg</writer>
+      <producer>Zeus Cervas</producer>
+      <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20011012</date>
     <category>Comedy</category>
@@ -15658,7 +15652,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8377135117.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S05E102</episode-num>
     <episode-num system="xmltv_ns">4.101.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>

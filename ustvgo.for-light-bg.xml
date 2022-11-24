@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221124164752" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221124171111" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2012,6 +2012,7 @@
     <desc>Shaggy is a bit of a Beatnik poet, but only when no one is around. Scooby is so proud that he enters Shaggy into a poetry slam contest in Central Park.</desc>
     <credits>
       <director>Mike Milo</director>
+      <writer>Caroline Farah</writer>
       <producer>Chris Bailey</producer>
       <composer>Steve Morrell</composer>
     </credits>
@@ -2040,6 +2041,7 @@
     <desc>The crew meets Steve Bescumi in Sicily.</desc>
     <credits>
       <director>Mike Milo</director>
+      <writer>Caroline Farah</writer>
       <producer>Chris Bailey</producer>
       <composer>Steve Morrell</composer>
     </credits>
@@ -9137,7 +9139,7 @@
     <desc>On Thanksgiving, Bart runs away after accidentally wrecking Lisa's centerpiece. Voices: Nancy Cartwright, Dan Castellaneta, Yeardley Smith, Julie Kavner.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>James L. Brooks</writer>
+      <writer>Sam Simon</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -9163,7 +9165,7 @@
     <desc>With Smithers away, Burns hires a cash-hungry Homer as his "prank monkey" to perform stunts that ultimately damage Homer's dignity. Leeza Gibbons has a cameo. Harry Shearer, Dan Castellaneta, Yeardley Smith.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>James L. Brooks</writer>
+      <writer>Sam Simon</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -9189,7 +9191,7 @@
     <desc>To change his attitude, Moe changes his bar, but the result drives his regulars out...and into Homer's garage bar, where R.E.M. performs. Hank Azaria, Dan Castellaneta, Julie Kavner.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>James L. Brooks</writer>
+      <writer>Sam Simon</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -9215,7 +9217,7 @@
     <desc>When dinner at the Frying Dutchman turns ugly, the Simpsons try to salvage the evening by taking turns telling tales of tragedies at sea.</desc>
     <credits>
       <director>Mike B. Anderson</director>
-      <writer>James L. Brooks</writer>
+      <writer>Sam Simon</writer>
       <producer>Richard Raynis</producer>
       <composer>Alf Clausen</composer>
     </credits>
@@ -9239,7 +9241,6 @@
     <title lang="en">Ladies European Tour Golf</title>
     <sub-title>Andalucía Costa del Sol Open de Espana</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221124163000 +0000" stop="20221124200000 +0000" channel="GOLF">
     <title lang="en">DP World Tour Golf</title>
@@ -11985,6 +11986,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S10E41</episode-num>
     <episode-num system="xmltv_ns">9.40.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

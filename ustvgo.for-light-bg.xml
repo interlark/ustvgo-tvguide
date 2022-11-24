@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221124093635" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221124101310" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2924,7 +2924,7 @@
     <credits>
       <director>Edward Allen Bernero</director>
       <actor role="Kevin Lynch">Nicholas Brendon</actor>
-      <writer>Bruce Zimmerman</writer>
+      <writer>Breen Frazier</writer>
       <producer>Erica Messer</producer>
       <composer>Steffan Fantini</composer>
     </credits>
@@ -8084,6 +8084,7 @@
     <sub-title>New York Giants at Dallas Cowboys</sub-title>
     <desc>New York Giants at Dallas Cowboys. From AT&amp;T Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221125003000 +0000" stop="20221125010000 +0000" channel="FOX">
     <title lang="en">NFL on FOX Postgame</title>
@@ -16764,7 +16765,6 @@
     <title lang="es">Hoy en la Copa Mundial</title>
     <desc>Las principales historias del día contadas desde los estadios y campos de entrenamiento con un enfoque entretenido. Noticias, reportajes, entrevistas y el análisis previo al juego en vivo.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221124093000 +0000" stop="20221124120000 +0000" channel="Telemundo">
     <title lang="es">Copa Mundial de la FIFA Catar 2022</title>

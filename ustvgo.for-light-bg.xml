@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221124122443" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221124130211" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -411,7 +411,6 @@
   <programme start="20221124110000 +0000" stop="20221124120000 +0000" channel="ABC">
     <title lang="en">America This Morning</title>
     <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
-    <new/>
   </programme>
   <programme start="20221124120000 +0000" stop="20221124140000 +0000" channel="ABC">
     <title lang="en">Good Morning America</title>
@@ -1405,7 +1404,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Patrick Keegan</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20170107</date>
@@ -1431,7 +1430,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Patrick Keegan</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20101204</date>
@@ -1457,7 +1456,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Patrick Keegan</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20101218</date>
@@ -1483,7 +1482,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Patrick Keegan</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20101030</date>
@@ -1509,7 +1508,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Patrick Keegan</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20091120</date>
@@ -3960,7 +3959,6 @@
   <programme start="20221124110000 +0000" stop="20221124120000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221124120000 +0000" stop="20221124130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
@@ -7779,6 +7777,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9643565800.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9643565796.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221125010000 +0000" stop="20221125020200 +0000" channel="FOX">
     <title lang="en">The Masked Singer</title>
@@ -8414,7 +8413,6 @@
     <sub-title>Switzerland vs. Cameroon</sub-title>
     <desc>Switzerland vs. Cameroon in a Group G opener. From Al Janoub Stadium in Al Wakrah, Qatar. Cameroon's "Indomitable Lions" try to snap a seven-match World Cup losing streak dating to 2002. Cameroon-born Breel Embolo (Monaco) is a key threat for the Swiss after tallying in a pair of Nations League wins in September.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221124120000 +0000" stop="20221124130000 +0000" channel="FS1">
     <title lang="en">FIFA World Cup Today</title>
@@ -8939,7 +8937,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12252407177.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12252407176.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -11010,7 +11007,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7532788354.jpg" width="720" height="526"/>
     <episode-num system="onscreen">S2022E400</episode-num>
     <episode-num system="xmltv_ns">2021.399.</episode-num>
-    <live/>
   </programme>
   <programme start="20221124120000 +0000" stop="20221124130000 +0000" channel="MSNBC">
     <title lang="en">Morning Joe</title>
@@ -16129,13 +16125,11 @@
     <sub-title>Suiza vs. Camerún</sub-title>
     <desc>Suiza vs. Camerún en un partido de Grupo G. Desde Estadio Al Janoub en Al Wakrah, Qatar.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221124120000 +0000" stop="20221124123000 +0000" channel="Telemundo">
     <title lang="es">Hoy en la Copa Mundial</title>
     <desc>Las principales historias del día contadas desde los estadios y campos de entrenamiento con un enfoque entretenido. Noticias, reportajes, entrevistas y el análisis previo al juego en vivo.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221124123000 +0000" stop="20221124150000 +0000" channel="Telemundo">
     <title lang="es">Copa Mundial de la FIFA Catar 2022</title>

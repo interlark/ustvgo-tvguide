@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221124203614" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221124211032" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -7890,7 +7890,6 @@
     <sub-title>Battle 4 Atlantis</sub-title>
     <desc>Battle 4 Atlantis semifinal from Imperial Arena on Nassau, Bahamas.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221124203000 +0000" stop="20221124223000 +0000" channel="ESPN2">
     <title lang="en">College Basketball</title>
@@ -7930,7 +7929,6 @@
     <sub-title>Mississippi vs. Stanford</sub-title>
     <desc>Mississippi vs. Stanford in an ESPN Events Invitational quarterfinal in Kissimmee, Fla. From State Farm Field House.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221124203000 +0000" stop="20221124210000 +0000" channel="ESPNU">
     <title lang="en">The Season: Ole Miss Football 2022</title>
@@ -8675,7 +8673,8 @@
     <category>Politics</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11486116365.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11486116360.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
   </programme>
   <programme start="20221125000000 +0000" stop="20221125010000 +0000" channel="FoxBusiness">
     <title lang="en">How America Works</title>
@@ -12327,6 +12326,7 @@
   <programme start="20221125083000 +0000" stop="20221125090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221125090000 +0000" stop="20221125093000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

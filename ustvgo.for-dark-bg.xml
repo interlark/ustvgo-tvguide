@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125134139" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125141050" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -9782,6 +9782,7 @@
     <sub-title>Phil Knight Legacy</sub-title>
     <desc>Phil Knight Legacy consolation semifinal from Moda Center in Portland, Ore.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221126033000 +0000" stop="20221126040000 +0000" channel="ESPNU">
     <title lang="en">The Season: Ole Miss Football 2022</title>
@@ -21568,6 +21569,7 @@
   <programme start="20221125160000 +0000" stop="20221125170000 +0000" channel="OWN">
     <title lang="en">Dr. Phil</title>
     <sub-title>Inside America’s Teen Mental Health Crisis (Part 1)</sub-title>
+    <desc>Youth mental health is trending in the wrong direction across the country.</desc>
     <credits>
       <director>Jeremy Olson</director>
       <actor>Phil McGraw</actor>
@@ -22586,6 +22588,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6184969975.jpg" width="565" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6184969973.jpg" width="720" height="541"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20221126020000 +0000" stop="20221126040000 +0000" channel="PBS">
     <title lang="en">Great Performances</title>

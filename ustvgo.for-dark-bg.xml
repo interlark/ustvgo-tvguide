@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125053531" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125061546" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -7738,7 +7738,6 @@
     <sub-title>Alabama vs. Michigan State</sub-title>
     <desc>Alabama vs. Michigan State in a quarterfinal of the Phil Knight Invitational in Portland, Ore. From Moda Center.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221125053000 +0000" stop="20221125073000 +0000" channel="ESPN">
     <title lang="en">College Basketball</title>
@@ -7808,7 +7807,6 @@
   <programme start="20221125050000 +0000" stop="20221125053000 +0000" channel="ESPN2">
     <title lang="en">College Basketball Scoreboard</title>
     <desc>Studio highlights, analysis and interviews.</desc>
-    <live/>
   </programme>
   <programme start="20221125053000 +0000" stop="20221125073000 +0000" channel="ESPN2">
     <title lang="en">College Basketball</title>
@@ -12848,7 +12846,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S10E41</episode-num>
     <episode-num system="xmltv_ns">9.40.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -15221,7 +15218,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8377135117.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S05E105</episode-num>
     <episode-num system="xmltv_ns">4.104.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -16810,7 +16806,6 @@
     <title lang="es">Noticias Telemundo en la Noche</title>
     <desc>En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.</desc>
     <date>20200000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>

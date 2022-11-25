@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125132951" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125134139" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -4534,7 +4534,6 @@
   <programme start="20221125120000 +0000" stop="20221125130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221125130000 +0000" stop="20221125140000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
@@ -9583,7 +9582,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221125130000 +0000" stop="20221125150000 +0000" channel="ESPN">
     <title lang="en">Get Up</title>
@@ -11119,7 +11117,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12252084294.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12224090974.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221125130000 +0000" stop="20221125150000 +0000" channel="FS1">
     <title lang="en">2022 FIFA World Cup Qatar</title>
@@ -13817,6 +13814,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-12321023398.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12321023401.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -17723,6 +17721,11 @@
     <title lang="en">Ice Cold Killers</title>
     <sub-title>Permanent Frost</sub-title>
     <desc>A 29-year-old mother doesn't return home from a meeting on a wintery December evening.</desc>
+    <credits>
+      <director>John Kavanaugh</director>
+      <producer>Danica Neddenien</producer>
+      <composer>Kevin Bluhm</composer>
+    </credits>
     <date>20160216</date>
     <category>Documentary</category>
     <category>Crime</category>
@@ -18170,7 +18173,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7819690990.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7819690988.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -18246,7 +18248,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7819690990.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7819690988.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -22571,6 +22572,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10460545340.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E45</episode-num>
     <episode-num system="xmltv_ns">2021.44.</episode-num>
+    <new/>
   </programme>
   <programme start="20221126013000 +0000" stop="20221126020000 +0000" channel="PBS">
     <title lang="en">Firing Line With Margaret Hoover</title>
@@ -24227,6 +24229,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11915437119.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11915437124.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -32194,6 +32197,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172488095.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3175381424.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221126033000 +0000" stop="20221126043000 +0000" channel="TNT">
     <title lang="en">NHL on TNT Postgame</title>
@@ -37215,6 +37219,7 @@
     <sub-title>11-25-2022</sub-title>
     <desc>Cuatro mujeres de distinto origen unidas por una entrañable amistad, la cual se resquebrajará cuando, sorpresivamente, un accidente hace que todas ellas pierdan a un ser amado.</desc>
     <date>20220000</date>
+    <new/>
   </programme>
   <programme start="20221126020000 +0000" stop="20221126040000 +0000" channel="Univision">
     <title lang="es">Mi Camino Es Amarte</title>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125084037" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125091154" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -500,6 +500,7 @@
     <sub-title>North Carolina State at North Carolina</sub-title>
     <desc>North Carolina State at North Carolina. From Kenan Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221125233000 +0000" stop="20221126000000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -1255,7 +1256,7 @@
     <desc>Spring arrives on the homestead. Included: Atz and Atz Lee attempt to tame wild stallions at the head of the bay; at the same time, Otto, Eivin, Charlotte and Jane must innovate to protect their calves and overcome threats to their herd.</desc>
     <credits>
       <director>Informado N�o</director>
-      <producer>Frank Gibson</producer>
+      <producer>John Slaughter</producer>
       <composer>Michael Baiardi</composer>
     </credits>
     <date>20151018</date>
@@ -1284,7 +1285,7 @@
     <desc>Spring has sprung and there's no shortage of needs on the homestead. Atz Sr. goes bowhunting to restock dwindling food supplies. Meanwhile, Otto, Charlotte and August scramble to protect livestock at the head of the bay; and Atz Lee develops a new foothold in the wilderness.</desc>
     <credits>
       <director>Informado N�o</director>
-      <producer>Frank Gibson</producer>
+      <producer>John Slaughter</producer>
       <composer>Michael Baiardi</composer>
     </credits>
     <date>20151025</date>
@@ -2699,6 +2700,7 @@
     <sub-title>Arkansas at Missouri</sub-title>
     <desc>Arkansas at Missouri. From Memorial Stadium/Faurot Field.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221126000000 +0000" stop="20221126010000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -7148,7 +7150,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221125083000 +0000" stop="20221125090000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -11854,7 +11855,6 @@
   <programme start="20221125080000 +0000" stop="20221125083000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
-    <new/>
   </programme>
   <programme start="20221125083000 +0000" stop="20221125090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>

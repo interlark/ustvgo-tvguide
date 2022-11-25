@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125223652" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125231138" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -3426,7 +3426,7 @@
     <desc>Earth's most popular new food is discovered and marketed by the crew---until one of the snacks speaks to Leela. Katey Sagal, Billy West, John DiMaggio.</desc>
     <credits>
       <director>Rich Moore</director>
-      <writer>Michael Rowe</writer>
+      <writer>Ken Keeler</writer>
       <producer>Claudia Katz</producer>
       <composer>Christopher Tyng</composer>
     </credits>
@@ -3453,7 +3453,7 @@
     <desc>The Professor is the key to stopping a robot-and-machine revolt against humans, as ordered by robot-creator Mom, who seeks to be declared Supreme Overlord of Earth. Voices include Tress MacNeille, Billy West, John DiMaggio, Katey Sagal.</desc>
     <credits>
       <director>Rich Moore</director>
-      <writer>Michael Rowe</writer>
+      <writer>Ken Keeler</writer>
       <producer>Claudia Katz</producer>
       <composer>Christopher Tyng</composer>
     </credits>
@@ -3481,7 +3481,7 @@
     <credits>
       <director>Ron Hughart</director>
       <actor>Dee Bradley Baker</actor>
-      <writer>Brian Boyle</writer>
+      <writer>Matt Weitzman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
     </credits>
@@ -3508,7 +3508,7 @@
     <credits>
       <director>Ron Hughart</director>
       <actor>Dee Bradley Baker</actor>
-      <writer>Brian Boyle</writer>
+      <writer>Matt Weitzman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
     </credits>
@@ -3535,7 +3535,7 @@
     <credits>
       <director>Ron Hughart</director>
       <actor>Dee Bradley Baker</actor>
-      <writer>Brian Boyle</writer>
+      <writer>Matt Weitzman</writer>
       <producer>Kara Vallow</producer>
       <composer>Walter Murphy</composer>
     </credits>
@@ -6588,7 +6588,6 @@
     <sub-title>Phil Knight Legacy</sub-title>
     <desc>Phil Knight Legacy semifinal from Moda Center in Portland, Ore.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221125223000 +0000" stop="20221126003000 +0000" channel="ESPN">
     <title lang="en">College Basketball</title>
@@ -6662,7 +6661,6 @@
     <sub-title>Battle 4 Atlantis</sub-title>
     <desc>Battle 4 Atlantis seventh-place game from Imperial Arena on Nassau, Bahamas.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221125223000 +0000" stop="20221125230000 +0000" channel="ESPNU">
     <title lang="en">College Football 150: The Greatest</title>
@@ -6745,7 +6743,13 @@
   </programme>
   <programme start="20221125213000 +0000" stop="20221125220000 +0000" channel="ESPNews">
     <title lang="en">PFL Championship Countdown</title>
-    <date>20220000</date>
+    <desc>The latest MMA news and interviews in a preview of the Pro Fighters League World Championships.</desc>
+    <date>20221124</date>
+    <category>Sports</category>
+    <category>Sports stuff</category>
+    <category>Full-contact</category>
+    <category>Preview</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221125220000 +0000" stop="20221125223000 +0000" channel="ESPNews">
     <title lang="en">UFC Top Ten</title>
@@ -6866,7 +6870,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591830682.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S44E20</episode-num>
     <episode-num system="xmltv_ns">43.19.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -15670,7 +15673,6 @@
     <title lang="es">Al Rojo Vivo: Edicion Mundial</title>
     <desc>La más amplia cobertura de la Copa Mundial de la FIFA Catar 2022, desde el país anfitrión.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221125223000 +0000" stop="20221125230000 +0000" channel="Telemundo">
     <title lang="es">Al Rojo Vivo: Edicion Mundial</title>
@@ -16188,7 +16190,6 @@
   <programme start="20221125220000 +0000" stop="20221125223000 +0000" channel="TNT">
     <title lang="en">NHL Pregame</title>
     <desc>A preview of NHL action.</desc>
-    <live/>
   </programme>
   <programme start="20221125223000 +0000" stop="20221126010000 +0000" channel="TNT">
     <title lang="en">NHL Hockey</title>

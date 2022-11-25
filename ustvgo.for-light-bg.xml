@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125122428" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125125903" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -411,7 +411,6 @@
   <programme start="20221125110000 +0000" stop="20221125120000 +0000" channel="ABC">
     <title lang="en">America This Morning</title>
     <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
-    <new/>
   </programme>
   <programme start="20221125120000 +0000" stop="20221125140000 +0000" channel="ABC">
     <title lang="en">Good Morning America</title>
@@ -508,6 +507,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797548.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383797546.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221126003000 +0000" stop="20221126003700 +0000" channel="ABC">
     <title lang="en">College Football Countdown</title>
@@ -3637,7 +3637,6 @@
   <programme start="20221125110000 +0000" stop="20221125120000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221125120000 +0000" stop="20221125130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
@@ -7558,7 +7557,6 @@
     <sub-title>Wales vs. Iran</sub-title>
     <desc>Wales vs. Iran in a Group B match. From Ahmad bin Ali Stadium in Al Rayyan, Qatar.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221125120000 +0000" stop="20221125130000 +0000" channel="FS1">
     <title lang="en">FIFA World Cup Today</title>
@@ -15076,7 +15074,6 @@
     <sub-title>Gales vs. Irán</sub-title>
     <desc>Gales vs. Irán en un partido de Grupo B. Desde Estadio Ahmad bin Ali en Al Rayyan, Qatar.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221125120000 +0000" stop="20221125123000 +0000" channel="Telemundo">
     <title lang="es">Hoy en la Copa Mundial</title>

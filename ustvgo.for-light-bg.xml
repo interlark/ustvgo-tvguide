@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125073515" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221125081541" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -7309,7 +7309,6 @@
     <sub-title>Portland State vs. Gonzaga</sub-title>
     <desc>Portland State vs. Gonzaga in a quarterfinal of the Phil Knight Legacy in Portland, Ore. From Veterans Memorial Coliseum.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221125073000 +0000" stop="20221125083000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -7381,7 +7380,6 @@
     <sub-title>Wooden Legacy</sub-title>
     <desc>Wooden Legacy championship game from Anaheim Convention Center in California.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221125073000 +0000" stop="20221125080000 +0000" channel="ESPN2">
     <title lang="en">The Ascent - Journey to the PFL Championship</title>
@@ -8612,7 +8610,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-2020290694.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E240</episode-num>
     <episode-num system="xmltv_ns">2021.239.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -15763,9 +15760,9 @@
     <credits>
       <director>John Brahm</director>
       <actor>Rod Serling</actor>
-      <writer>Earl Hamner Jr.</writer>
-      <producer>Buck Houghton</producer>
-      <composer>Fred Steiner</composer>
+      <writer>Richard Matheson</writer>
+      <producer>William Froug</producer>
+      <composer>Jerry Goldsmith</composer>
     </credits>
     <date>19780215</date>
     <category>Suspense/Thriller</category>
@@ -16879,7 +16876,7 @@
     <desc>Zak and the crew visit a mysterious Nevada town plagued by paranormal activity.</desc>
     <credits>
       <director>Milton Lage</director>
-      <producer>Joe Townley</producer>
+      <producer>Patrick Gallo</producer>
       <composer>Michael Mouracade</composer>
     </credits>
     <date>20221110</date>
@@ -16901,7 +16898,7 @@
     <sub-title>Vengeance in Oxnard</sub-title>
     <credits>
       <director>Milton Lage</director>
-      <producer>Joe Townley</producer>
+      <producer>Patrick Gallo</producer>
       <composer>Michael Mouracade</composer>
     </credits>
     <date>20221124</date>
@@ -16924,7 +16921,7 @@
     <desc>The crew sets sail for a Southern California island steeped in supernatural phenomena. And the epicenter of the paranormal activity is a sprawling theater that once housed the disinterred bones of the island's indigenous people.</desc>
     <credits>
       <director>Milton Lage</director>
-      <producer>Joe Townley</producer>
+      <producer>Patrick Gallo</producer>
       <composer>Michael Mouracade</composer>
     </credits>
     <date>20221117</date>

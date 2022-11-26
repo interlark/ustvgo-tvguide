@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221126044124" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221126051037" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -1824,7 +1824,6 @@
     <category>Romance</category>
     <length units="seconds">7200</length>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221126042700 +0000" stop="20221126050000 +0000" channel="BET">
     <title lang="en">Martin</title>
@@ -2383,7 +2382,6 @@
     <title lang="en">The Real Housewives of Durban</title>
     <sub-title>SMOKE &amp; MIRRORS</sub-title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221126042600 +0000" stop="20221126053200 +0000" channel="Bravo">
     <title lang="en">The Real Housewives of Durban</title>
@@ -7303,7 +7301,6 @@
     <sub-title>Phil Knight Invitational</sub-title>
     <desc>Phil Knight Invitational semifinal from Veterans Memorial Coliseum in Portland, Ore.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221126043000 +0000" stop="20221126063000 +0000" channel="ESPN">
     <title lang="en">College Basketball</title>
@@ -7692,7 +7689,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591830682.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S44E32</episode-num>
     <episode-num system="xmltv_ns">43.31.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -10013,6 +10009,7 @@
   <programme start="20221126090000 +0000" stop="20221126103000 +0000" channel="HBO">
     <title lang="en">The Vow</title>
     <sub-title>Crime and Punishment</sub-title>
+    <desc>After Keith's abuses of Dani's sister "Cami" are detailed through disturbing text messages, Keith's trial ends with a guilty verdict. As NXIVM's critics rejoice, Keith's remaining supporters regroup. After "Cami" and others give victim impact statements, Keith is sentenced to 120 years. Following the trial, Nancy examines her role as she awaits her own sentencing.</desc>
     <credits>
       <director>Karim Amer</director>
       <producer>Victor Buhler</producer>
@@ -17018,7 +17015,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10378942021.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10378942022.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -17205,7 +17201,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12191848024.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12191848027.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221126043000 +0000" stop="20221126070000 +0000" channel="TNT">
     <title lang="en">Shazam!</title>
@@ -18278,7 +18273,7 @@
       <director>David Katzenberg</director>
       <actor>Sam Lerner</actor>
       <writer>Alex Barnow</writer>
-      <producer>Adam F. Goldberg</producer>
+      <producer>Doug Robinson</producer>
       <composer>Michael Wandmacher</composer>
     </credits>
     <date>20151104</date>
@@ -18306,7 +18301,7 @@
       <director>David Katzenberg</director>
       <actor>Sam Lerner</actor>
       <writer>Alex Barnow</writer>
-      <producer>Adam F. Goldberg</producer>
+      <producer>Doug Robinson</producer>
       <composer>Michael Wandmacher</composer>
     </credits>
     <date>20161116</date>
@@ -18552,7 +18547,6 @@
     <title lang="es">Sabor de Mañana</title>
     <sub-title>11-27-2022</sub-title>
     <date>20190000</date>
-    <new/>
   </programme>
   <programme start="20221126043500 +0000" stop="20221126050000 +0000" channel="Univision">
     <title lang="es">Noticiero Univision - Edicion Nocturna</title>

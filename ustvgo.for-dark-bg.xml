@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221126022250" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221126030322" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2549,6 +2549,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10549098590.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10549098591.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
   </programme>
   <programme start="20221126160000 +0000" stop="20221126163000 +0000" channel="CBS">
     <title lang="en">All in With Laila Ali</title>
@@ -4330,7 +4331,6 @@
     <category>Comedy</category>
     <category>Stand-up comedy</category>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -7244,7 +7244,6 @@
     <sub-title>Battle 4 Atlantis</sub-title>
     <desc>Battle 4 Atlantis championship game from Imperial Arena on Nassau, Bahamas.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221126023000 +0000" stop="20221126043000 +0000" channel="ESPN">
     <title lang="en">College Basketball</title>
@@ -7585,7 +7584,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591830682.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S44E27</episode-num>
     <episode-num system="xmltv_ns">43.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -7609,7 +7607,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591830682.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S44E28</episode-num>
     <episode-num system="xmltv_ns">43.27.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -8029,6 +8026,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11974959011.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10492786702.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221126170000 +0000" stop="20221126203000 +0000" channel="FOX">
     <title lang="en">College Football</title>
@@ -8607,7 +8605,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9106724071.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E235</episode-num>
     <episode-num system="xmltv_ns">2021.234.</episode-num>
-    <live/>
   </programme>
   <programme start="20221126020000 +0000" stop="20221126030000 +0000" channel="FoxNews">
     <title lang="en">Hannity</title>
@@ -10126,7 +10123,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5694808443.jpg" width="720" height="348"/>
     <episode-num system="onscreen">S12E32</episode-num>
     <episode-num system="xmltv_ns">11.31.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -11694,7 +11690,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -11720,7 +11715,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -12120,7 +12114,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11639185026.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E12</episode-num>
     <episode-num system="xmltv_ns">0.11.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -13443,7 +13436,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-8297162261.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10148604397.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <star-rating system="Metascore">
       <value>65/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
@@ -14968,7 +14960,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6184969975.jpg" width="565" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6184969973.jpg" width="720" height="541"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221126020000 +0000" stop="20221126040000 +0000" channel="PBS">
     <title lang="en">Great Performances</title>
@@ -15111,7 +15102,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-925785463.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8447186381.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -15196,7 +15186,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11915437119.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11915437124.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -18425,7 +18414,6 @@
     <sub-title>11-25-2022</sub-title>
     <desc>Cuatro mujeres de distinto origen unidas por una entrañable amistad, la cual se resquebrajará cuando, sorpresivamente, un accidente hace que todas ellas pierdan a un ser amado.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221126020000 +0000" stop="20221126040000 +0000" channel="Univision">
     <title lang="es">Mi Camino Es Amarte</title>

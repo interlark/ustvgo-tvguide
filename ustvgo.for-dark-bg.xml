@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221126083937" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221126091057" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -556,6 +556,7 @@
     <sub-title>Oregon at Oregon State</sub-title>
     <desc>Oregon at Oregon State. From Reser Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221126233000 +0000" stop="20221127000000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -2743,6 +2744,7 @@
     <sub-title>Auburn at Alabama</sub-title>
     <desc>Auburn at Alabama. From Bryant-Denny Stadium.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221127000000 +0000" stop="20221127010000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -7156,7 +7158,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221126083000 +0000" stop="20221126090000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -7797,6 +7798,7 @@
     <desc>Ree Drummond shares make-ahead eats for when the kids get home for the holidays. She prepares her shortcut Tex-Mex Meatball Soup, festive DIY Holiday Brownie Kits, a stress-free Breakfast Burrito Casserole and an epic stash of Everything Snack Mix.</desc>
     <credits>
       <director>Olivia Ball</director>
+      <producer>Rachel Purnell</producer>
     </credits>
     <date>20221126</date>
     <category>Cooking</category>
@@ -7866,6 +7868,7 @@
     <title lang="en">Fox College Football Extra</title>
     <sub-title>11-26-2022</sub-title>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221126210000 +0000" stop="20221127003000 +0000" channel="FOX">
     <title lang="en">College Football</title>

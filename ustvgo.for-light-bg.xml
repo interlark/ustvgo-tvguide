@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221127183916" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221127190914" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -1522,7 +1522,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-953950275.jpg" width="486" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4947752837.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -3185,7 +3184,8 @@
   </programme>
   <programme start="20221127170000 +0000" stop="20221127190000 +0000" channel="CBSSN">
     <title lang="en">Equestrian Competition</title>
-    <sub-title>Longines FEI Juming World Cup North American League Las Vegas, NV</sub-title>
+    <sub-title>Longines FEI Jumping World Cup North American League</sub-title>
+    <desc>Longines FEI Jumping World Cup North American League in Las Vegas.</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221127190000 +0000" stop="20221127210000 +0000" channel="CBSSN">
@@ -3468,7 +3468,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10170978579.JPEG" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7535830290.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -6523,7 +6522,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9588145284.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S05E04</episode-num>
     <episode-num system="xmltv_ns">4.3.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -6788,7 +6786,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7799855812.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7799855815.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221127183000 +0000" stop="20221127203000 +0000" channel="ESPN">
     <title lang="en">College Basketball</title>
@@ -14671,7 +14668,6 @@
     <title lang="es">Hoy en la Copa Mundial</title>
     <desc>Las principales historias del día contadas desde los estadios y campos de entrenamiento con un enfoque entretenido. Noticias, reportajes, entrevistas y el análisis previo al juego en vivo.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221127183000 +0000" stop="20221127210000 +0000" channel="Telemundo">
     <title lang="es">Copa Mundial de la FIFA Catar 2022</title>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221127053556" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221127061446" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -22899,6 +22899,7 @@
     <title lang="en">Freestyle Skiing/Snowboarding</title>
     <sub-title>From Killington, Vt.</sub-title>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221127190000 +0000" stop="20221127203000 +0000" channel="NBC">
     <title lang="en">Ironman World Championship</title>
@@ -35291,7 +35292,6 @@
     <title lang="es">Zona Mixta: Edición Mundial</title>
     <desc>Toda la información de la jornada mundialista presentada de la manera más divertida e irreverente.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221127053000 +0000" stop="20221127060000 +0000" channel="Telemundo">
     <title lang="es">Zona Mixta: Edición Mundial</title>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221127193454" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221127201148" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2261,7 +2261,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12192308383.jpg" width="720" height="404"/>
     <episode-num system="onscreen">S03E04</episode-num>
     <episode-num system="xmltv_ns">2.3.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2354,6 +2353,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10738645770.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S55E11</episode-num>
     <episode-num system="xmltv_ns">54.10.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -3018,6 +3018,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10738645770.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S55E11</episode-num>
     <episode-num system="xmltv_ns">54.10.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -3390,7 +3391,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10170978579.JPEG" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7535830290.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -6685,7 +6685,6 @@
     <sub-title>Phil Knight Invitational</sub-title>
     <desc>Phil Knight Invitational third-place game from Veterans Memorial Coliseum in Portland, Ore.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221127200000 +0000" stop="20221127220000 +0000" channel="ESPN2">
     <title lang="en">College Basketball</title>
@@ -6711,7 +6710,6 @@
     <sub-title>Phil Knight Invitational</sub-title>
     <desc>Phil Knight Invitational championship game from Moda Center in Portland, Ore.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221128023000 +0000" stop="20221128030000 +0000" channel="ESPN2">
     <title lang="en">College Basketball Scoreboard</title>
@@ -7395,6 +7393,7 @@
     <sub-title>Flatchural Disaster</sub-title>
     <desc>Mandy, Dylan, and Barb throw their hats in the ring for the town's "selectperson."</desc>
     <date>20220000</date>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -7417,6 +7416,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9175280455.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S34E19</episode-num>
     <episode-num system="xmltv_ns">33.18.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -7443,6 +7443,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9161806513.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S13E09</episode-num>
     <episode-num system="xmltv_ns">12.8.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -7465,6 +7466,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9556000083.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S03E09</episode-num>
     <episode-num system="xmltv_ns">2.8.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>

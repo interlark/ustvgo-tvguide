@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221129213553" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221129221111" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -8126,7 +8126,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12252084294.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12224090974.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221129213000 +0000" stop="20221129230000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>
@@ -8409,7 +8408,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12252084294.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12224090974.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221129213000 +0000" stop="20221129220000 +0000" channel="FOXNY">
     <title lang="en">Pictionary</title>
@@ -12868,6 +12866,7 @@
   <programme start="20221130093000 +0000" stop="20221130100000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221130100000 +0000" stop="20221130120000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -16974,7 +16973,6 @@
     <title lang="es">Debate Mundial</title>
     <desc>Desde Catar, exjugadores y entrenadores discuten sobre las acciones más relevantes y controversiales de cada juego. Entrevistas post partido, ruedas de prensa y un vistazo al futuro del torneo.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221129213000 +0000" stop="20221129223000 +0000" channel="Telemundo">
     <title lang="es">Al Rojo Vivo: Edicion Mundial</title>

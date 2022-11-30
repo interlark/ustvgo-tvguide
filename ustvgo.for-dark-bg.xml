@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221130053631" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221130061535" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -426,7 +426,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4931736503.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E37</episode-num>
     <episode-num system="xmltv_ns">20.36.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -1075,7 +1074,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4931736503.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E37</episode-num>
     <episode-num system="xmltv_ns">20.36.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3002,7 +3000,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629174650.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S08E43</episode-num>
     <episode-num system="xmltv_ns">7.42.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -3129,6 +3126,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12097499680.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S50E42</episode-num>
     <episode-num system="xmltv_ns">49.41.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3838,7 +3836,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629174650.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S08E43</episode-num>
     <episode-num system="xmltv_ns">7.42.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -7968,7 +7965,6 @@
   <programme start="20221130050000 +0000" stop="20221130053000 +0000" channel="ESPN2">
     <title lang="en">DC &amp; RC</title>
     <desc>UFC legend Daniel Cormier and Super Bowl champion Ryan Clark, both Louisiana natives, hang out and kick around the hottest topics from across the world of MMA.</desc>
-    <new/>
   </programme>
   <programme start="20221130053000 +0000" stop="20221130060000 +0000" channel="ESPN2">
     <title lang="en">UFC Main Event</title>
@@ -13340,7 +13336,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S10E44</episode-num>
     <episode-num system="xmltv_ns">9.43.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -13925,7 +13920,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S10E44</episode-num>
     <episode-num system="xmltv_ns">9.43.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -18167,7 +18161,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124289.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124288.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221130053000 +0000" stop="20221130063000 +0000" channel="TNT">
     <title lang="en">Inside the NBA</title>

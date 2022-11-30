@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221130032037" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221130034246" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -411,7 +411,6 @@
   <programme start="20221130020000 +0000" stop="20221130030000 +0000" channel="ABC">
     <title lang="en">Cold to the Touch</title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221130030000 +0000" stop="20221130040000 +0000" channel="ABC">
     <title lang="en">The Rookie: Feds</title>
@@ -1092,7 +1091,6 @@
   <programme start="20221130020000 +0000" stop="20221130030000 +0000" channel="ABCNY">
     <title lang="en">Cold to the Touch</title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221130030000 +0000" stop="20221130040000 +0000" channel="ABCNY">
     <title lang="en">The Rookie: Feds</title>
@@ -1316,6 +1314,12 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme start="20221130100000 +0000" stop="20221130130000 +0000" channel="ACCN">
+    <title lang="en">College Football</title>
+    <sub-title>Wake Forest at Florida State</sub-title>
+    <desc>Wake Forest (3-1) at Florida State (4-0). From Doak Campbell Stadium. Wake has eight wins in 39 meetings with the Noles, including last year's 35-14 triumph keyed by six FSU turnovers. DB Jammie Robinson leads FSU's defense (310 ypg) vs. QB Sam Hartman.</desc>
+    <date>20220000</date>
+  </programme>
   <programme start="20221130023000 +0000" stop="20221130030100 +0000" channel="AE">
     <title lang="en">Neighborhood Wars</title>
     <sub-title>Two Full Moons</sub-title>
@@ -1327,7 +1331,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10427402490.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10427402493.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2136,19 +2139,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221130010000 +0000" stop="20221130020000 +0000" channel="BTN">
-    <title lang="en">B1G Football in 60</title>
-    <sub-title>Minnesota at Wisconsin</sub-title>
-    <desc>Minnesota at Wisconsin.</desc>
-    <date>20221126</date>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <category>Football</category>
-    <category>Highlights</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9321657734.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321686872.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221130020000 +0000" stop="20221130030000 +0000" channel="BTN">
     <title lang="en">B1G Football in 60</title>
     <sub-title>Illinois at Northwestern</sub-title>
@@ -2260,6 +2250,18 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9321686872.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
+  <programme start="20221130100000 +0000" stop="20221130103000 +0000" channel="BTN">
+    <title lang="en">The B1G Show</title>
+    <sub-title>11-29-2022</sub-title>
+    <desc>A recap of action around the Big Ten Conference.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221130103000 +0000" stop="20221130110000 +0000" channel="BTN">
+    <title lang="en">The B1G Show</title>
+    <sub-title>11-29-2022</sub-title>
+    <desc>A recap of action around the Big Ten Conference.</desc>
+    <date>20220000</date>
+  </programme>
   <programme start="20221130020000 +0000" stop="20221130030000 +0000" channel="BET">
     <title lang="en">Tyler Perry's The Oval</title>
     <sub-title>It's Over</sub-title>
@@ -2277,7 +2279,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10869631629.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S04E07</episode-num>
     <episode-num system="xmltv_ns">3.6.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2802,7 +2803,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12062698577.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E05</episode-num>
     <episode-num system="xmltv_ns">0.4.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3005,7 +3005,6 @@
   <programme start="20221130020100 +0000" stop="20221130030100 +0000" channel="CBS">
     <title lang="en">Reindeer in Here</title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221130030100 +0000" stop="20221130040000 +0000" channel="CBS">
     <title lang="en">FBI: Most Wanted</title>
@@ -3875,7 +3874,6 @@
   <programme start="20221130020100 +0000" stop="20221130030100 +0000" channel="CBSNY">
     <title lang="en">Reindeer in Here</title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221130030100 +0000" stop="20221130040000 +0000" channel="CBSNY">
     <title lang="en">FBI: Most Wanted</title>
@@ -5043,7 +5041,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7526634421.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2022E292</episode-num>
     <episode-num system="xmltv_ns">2021.291.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -5537,7 +5534,6 @@
     <sub-title>The Hunted</sub-title>
     <desc>Grace, Malu and Djamba manage to reach the camp in safety due to the daring exploits of their pilot, but not without leaving Peter and Vincent behind.</desc>
     <date>20200000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -5727,7 +5723,6 @@
     <sub-title>The Hunted</sub-title>
     <desc>Grace, Malu and Djamba manage to reach the camp in safety due to the daring exploits of their pilot, but not without leaving Peter and Vincent behind.</desc>
     <date>20200000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -8429,7 +8424,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7624540769.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7624540773.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -8681,7 +8675,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10921178396.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E10</episode-num>
     <episode-num system="xmltv_ns">0.9.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -8743,6 +8736,7 @@
     <sub-title>Tunisia vs. France</sub-title>
     <desc>Tunisia vs. France in a Group D finale. From Education City Stadium in Al Rayyan, Qatar.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221130170000 +0000" stop="20221130180000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>
@@ -9048,7 +9042,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10921178396.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E10</episode-num>
     <episode-num system="xmltv_ns">0.9.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -9383,7 +9376,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8668848580.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E237</episode-num>
     <episode-num system="xmltv_ns">2021.236.</episode-num>
-    <new/>
   </programme>
   <programme start="20221130030000 +0000" stop="20221130040000 +0000" channel="FoxNews">
     <title lang="en">The Ingraham Angle</title>
@@ -10915,7 +10907,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9435182352.jpg" width="720" height="717"/>
     <episode-num system="onscreen">S03E10</episode-num>
     <episode-num system="xmltv_ns">2.9.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -11209,7 +11200,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9339337860.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S10E03</episode-num>
     <episode-num system="xmltv_ns">9.2.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -11747,7 +11737,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7971439443.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7971439449.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -12671,7 +12660,6 @@
     <sub-title>11-29-2022</sub-title>
     <desc>Alex Wagner covers the news of the day, politics, and the cultural trends that are shaping American lives.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221130030000 +0000" stop="20221130040000 +0000" channel="MSNBC">
     <title lang="en">The Last Word With Lawrence O'Donnell</title>
@@ -12777,7 +12765,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221130030000 +0000" stop="20221130033000 +0000" channel="MTV">
     <title lang="en">Ridiculousness</title>
@@ -13226,7 +13213,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9139584530.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S04E22</episode-num>
     <episode-num system="xmltv_ns">3.21.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -13806,6 +13792,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483978.jpg" width="720" height="660"/>
     <episode-num system="onscreen">S2022E236</episode-num>
     <episode-num system="xmltv_ns">2021.235.</episode-num>
+    <new/>
   </programme>
   <programme start="20221130160000 +0000" stop="20221130180000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -14496,10 +14483,6 @@
     <episode-num system="onscreen">S2022E77</episode-num>
     <episode-num system="xmltv_ns">2021.76.</episode-num>
   </programme>
-  <programme start="20221130010000 +0000" stop="20221130020000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-    <date>20210000</date>
-  </programme>
   <programme start="20221130020000 +0000" stop="20221130030000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
     <date>20210000</date>
@@ -14529,6 +14512,10 @@
     <date>20210000</date>
   </programme>
   <programme start="20221130090000 +0000" stop="20221130100000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+    <date>20210000</date>
+  </programme>
+  <programme start="20221130100000 +0000" stop="20221130110000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
     <date>20210000</date>
   </programme>
@@ -15487,7 +15474,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10402469008.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S07E14</episode-num>
     <episode-num system="xmltv_ns">6.13.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -15709,7 +15695,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11474786797.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S02E21</episode-num>
     <episode-num system="xmltv_ns">1.20.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -16718,11 +16703,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221130000000 +0000" stop="20221130020000 +0000" channel="SECN">
-    <title lang="en">Women's College Basketball</title>
-    <sub-title>UCLA at South Carolina</sub-title>
-    <date>20220000</date>
-  </programme>
   <programme start="20221130020000 +0000" stop="20221130030000 +0000" channel="SECN">
     <title lang="en">SEC Now</title>
     <sub-title>11-29-2022</sub-title>
@@ -16921,6 +16901,21 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/75.png" width="128" height="128"/>
     </star-rating>
   </programme>
+  <programme start="20221130103000 +0000" stop="20221130123000 +0000" channel="Showtime">
+    <title lang="en">National Champions</title>
+    <desc>With their university's reputation on the line, a football team prepares for the most critical match of their season. However, the team's charismatic and talented quarterback leads his brothers into a strike moments before kick-off, spurring a crusade for equal opportunities amongst all student athletes at their institution.</desc>
+    <date>20211210</date>
+    <category>Drama</category>
+    <category>Football</category>
+    <length units="seconds">6120</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10892369694.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10892369692.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>52/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/52.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
   <programme start="20221130022000 +0000" stop="20221130042500 +0000" channel="StarZ">
     <title lang="en">Inferno</title>
     <desc>In this riveting adaptation of the best-selling novel, Harvard symbologist Robert Langdon teams up with Dr. Sienna Brooks to unravel a mystery involving Dante's "The Divine Comedy" and stop a terrorist from unleashing a devastating biological weapon.</desc>
@@ -17018,639 +17013,6 @@
     <star-rating system="Metascore">
       <value>88/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/88.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221130110200 +0000" stop="20221130125300 +0000" channel="StarZ">
-    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
-    <desc>In 1998, the sinister Umbrella Corp unleashes a force that spurs a profound disaster across Raccoon City. A ragtag team of survivors pursues answers to the corporation's shady secrets while fighting against a horde of ravenous zombies on the outskirts of the ravaged city.</desc>
-    <date>20220209</date>
-    <category>Action/Adventure</category>
-    <category>Horror</category>
-    <category>Mystery</category>
-    <length units="seconds">6420</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10872944922.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10872944914.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>44/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221130125300 +0000" stop="20221130141900 +0000" channel="StarZ">
-    <title lang="en">The Hitcher</title>
-    <desc>This creepy horror vehicle, a remake of the frightmarish 1986 chiller, comes with a whole new set of shocks. Sean Bean is deliriously menacing as a homicidal maniac who brings an entirely different meaning to the term "road rage." Zachary Knighton is the vacationing college kid who picks him up, and Sophia Bush costars as Knighton's resourceful girlfriend, who sees her spring-break getaway turn into a crazed slay-ride. Directed by music-video veteran Dave Meyers.</desc>
-    <date>20070000</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <category>Remake</category>
-    <length units="seconds">5040</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-853163407.jpg" width="505" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6854188506.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>28/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/28.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221130141900 +0000" stop="20221130163300 +0000" channel="StarZ">
-    <title lang="en">A Journal for Jordan</title>
-    <desc>In the early 2000s, Charles Monroe King, a sergeant, awaits deployment to Iraq to fight in the war. He is married to Dana, and they recently had a newborn son named Jordan. Dana gifts Charles a journal notebook so he can write to his son his musings and life lessons he wants to share.</desc>
-    <date>20220525</date>
-    <category>Drama</category>
-    <category>Biography</category>
-    <length units="seconds">7860</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10961159287.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10961159277.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>42/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221130163300 +0000" stop="20221130181200 +0000" channel="StarZ">
-    <title lang="en">The Father</title>
-    <desc>At 80 years old, Anthony finds himself dependent on his daughter Anne for everything. Anne, however, is not planning on staying to take care of him as she wants to move to Paris to be with her boyfriend. Before she does, though, she wants to make sure that her father has someone who will look after him. Anthony detests this and tries his best to scare everyone Anne hires. But soon enough, his brain begins to play tricks on him.</desc>
-    <date>20210601</date>
-    <category>Drama</category>
-    <length units="seconds">5820</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9783680794.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9783680787.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>88/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/88.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221130181200 +0000" stop="20221130194700 +0000" channel="StarZ">
-    <title lang="en">Spiral: From the Book of Saw</title>
-    <desc>Detective Ezekiel Banks teams up with a green officer to track down the culprit of a series of unsettling murders. Yet the further the pair digs into the evidence, the more the recent killings begin to resemble a disturbing period in the city's history, ultimately leaving Ezekiel vulnerable as the murderer's next target.</desc>
-    <date>20210000</date>
-  </programme>
-  <programme start="20221130194700 +0000" stop="20221130221000 +0000" channel="StarZ">
-    <title lang="en">Public Enemies</title>
-    <desc>Director Michael Mann's electrifying historical crime drama follows the efforts of top FBI agent Melvin Purvis in capturing notorious bank robber John Dillinger. A folk hero to the American public, Dillinger was virtually unstoppable at the height of his criminal career. J. Edgar Hoover's FBI was just being formed, and in order to turn his fledgling agency into a national police force, Hoover recruits Purvis to catch the most-elusive criminal in the country.</desc>
-    <date>20100312</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Crime</category>
-    <category>Other</category>
-    <category>Adaptation</category>
-    <length units="seconds">8580</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172490671.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1507675174.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>70/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/70.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221130221000 +0000" stop="20221130233500 +0000" channel="StarZ">
-    <title lang="en">Operation: Endgame</title>
-    <desc>In this edgy action-comedy, a new recruit (Joe Anderson) joins an elite gang of assassins charged with protecting the U.S., and he must fight to stay alive when his first day on the job finds him responsible for eliminating a traitor within their ranks.</desc>
-    <date>20110328</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <length units="seconds">4920</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172444851.jpg" width="502" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-992015046.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221130233500 +0000" stop="20221201015500 +0000" channel="StarZ">
-    <title lang="en">Backdraft</title>
-    <desc>Oscar-nominated special effects ignite this tale of combative firefighting siblings searching for a deadly arsonist. The film was written by former firefighter Gregory Widen and filmed in Chicago, where real city firemen served as extras.</desc>
-    <date>20050421</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Filmed on location</category>
-    <category>Other</category>
-    <length units="seconds">8252</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9862647585.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7522905971.jpg" width="720" height="538"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>38/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/38.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201015500 +0000" stop="20221201041000 +0000" channel="StarZ">
-    <title lang="en">A Journal for Jordan</title>
-    <desc>In the early 2000s, Charles Monroe King, a sergeant, awaits deployment to Iraq to fight in the war. He is married to Dana, and they recently had a newborn son named Jordan. Dana gifts Charles a journal notebook so he can write to his son his musings and life lessons he wants to share.</desc>
-    <date>20220525</date>
-    <category>Drama</category>
-    <category>Biography</category>
-    <length units="seconds">7860</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10961159287.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10961159277.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>42/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201041000 +0000" stop="20221201050700 +0000" channel="StarZ">
-    <title lang="en">Dangerous Liaisons</title>
-    <sub-title>You Don't Know Me</sub-title>
-    <desc>Valmont seeks new terms in his deal with Camille, while Camille seeks to dominate Jean.</desc>
-    <credits>
-      <director>Leonora Lonsdale</director>
-      <actor role="Genevieve de Merteuil">Lesley Manville</actor>
-    </credits>
-    <date>20221127</date>
-    <category>Drama</category>
-    <category>History</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12166682701.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12166682700.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>58/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201050700 +0000" stop="20221201064200 +0000" channel="StarZ">
-    <title lang="en">Cordelia</title>
-    <desc>Cordelia currently lives with her twin sister Caroline in their late father's basement flat after an incident in her past.</desc>
-    <date>20211019</date>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <length units="seconds">5460</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11370398825.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11506079219.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>66/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201064200 +0000" stop="20221201084100 +0000" channel="StarZ">
-    <title lang="en">I'll Find You</title>
-    <desc>Robert is a Catholic opera singer in a relationship with Jewish violinist Rachel. Together, they have dreams of performing at Carnegie Hall. But the German invasion of Poland during World War II separates them, potentially ending this hope. Robert vows that he will find Rachel, journeying into the heart of Nazi Germany and facing the potential tragedy of her being lost to him forever.</desc>
-    <date>20220225</date>
-    <category>Drama</category>
-    <category>Music</category>
-    <category>Romance</category>
-    <length units="seconds">6960</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11131626116.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11131626106.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221201084100 +0000" stop="20221201093900 +0000" channel="StarZ">
-    <title lang="en">Dangerous Liaisons</title>
-    <sub-title>You Don't Know Me</sub-title>
-    <desc>Valmont seeks new terms in his deal with Camille, while Camille seeks to dominate Jean.</desc>
-    <credits>
-      <director>Leonora Lonsdale</director>
-      <actor role="Genevieve de Merteuil">Lesley Manville</actor>
-    </credits>
-    <date>20221127</date>
-    <category>Drama</category>
-    <category>History</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12166682701.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12166682700.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>58/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201093900 +0000" stop="20221201111200 +0000" channel="StarZ">
-    <title lang="en">Aquarela</title>
-    <desc>Aquarela is a film that focuses on the Earth's most abundant and powerful element—water. Devoid of any narration, the film pushes its own narrative by using shots of different locations: the ice sheets in Greenland, Lake Baikal in Russia, Miami as Hurricane Irma hits, and Angel Falls in Venezuela. Finnish metal band Apocalyptica lends their music to the art film.</desc>
-    <date>20200719</date>
-    <category>Documentary</category>
-    <category>Environment</category>
-    <category>Nature</category>
-    <category>Wildlife</category>
-    <length units="seconds">5340</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7711556019.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8150036431.jpg" width="720" height="677"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>80/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/80.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201111200 +0000" stop="20221201124500 +0000" channel="StarZ">
-    <title lang="en">Jingle All the Way</title>
-    <desc>Arnold Schwarzenegger shows his lighter side in this jolly Yuletide comedy. He plays an overworked father who scrambles to find the perfect gift for his son on Christmas Eve. Desperate to make up for previous disappointments, he searches the city and battles frantic parents, a toy-crazed postal worker and a deviant Santa to find the elusive Turbo Man doll. Sinbad, Phil Hartman, Rita Wilson.</desc>
-    <date>19961122</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Christmas</category>
-    <length units="seconds">5640</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11684454950.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7551018538.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>34/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/34.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201124500 +0000" stop="20221201141600 +0000" channel="StarZ">
-    <title lang="en">Gulliver Returns</title>
-    <desc>World traveler and adventurer Gulliver is invited back to a town he once saved from destruction - just in time for an old enemy to rear its head.</desc>
-    <date>20220410</date>
-    <category>Action/Adventure</category>
-    <category>Animated</category>
-    <length units="seconds">5700</length>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221201141600 +0000" stop="20221201155400 +0000" channel="StarZ">
-    <title lang="en">Ice Age: Dawn of the Dinosaurs</title>
-    <desc>Ray Romano returns to voice Manny the woolly mammoth in this heartwarming animated sequel in which he and his wacky prehistoric friends discover an underground world populated by dinosaurs so large that Manny is no longer the most-feared creature in their realm.</desc>
-    <date>20100423</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <category>Sequel</category>
-    <category>Preteen</category>
-    <length units="seconds">5640</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-441695843.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3931155664.jpg" width="720" height="432"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>50/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/50.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201155400 +0000" stop="20221201175400 +0000" channel="StarZ">
-    <title lang="en">Here Today</title>
-    <desc>Veteran comedy writer Charlie Burnz meets New York street singer Emma Payge when she wins him in an auction. They later form a unique bond that starts when he brings her to the E.R. after a food allergy incident, and the doctors mistake them as a father-and-daughter tandem. As Emma gets to know Charlie's life, she takes it upon herself to help him fix things before it's too late for him to achieve his last life goals.</desc>
-    <date>20210804</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <length units="seconds">7020</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10242352450.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10242352456.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>40/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/40.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201175400 +0000" stop="20221201185100 +0000" channel="StarZ">
-    <title lang="en">Dangerous Liaisons</title>
-    <sub-title>You Don't Know Me</sub-title>
-    <desc>Valmont seeks new terms in his deal with Camille, while Camille seeks to dominate Jean.</desc>
-    <credits>
-      <director>Leonora Lonsdale</director>
-      <actor role="Genevieve de Merteuil">Lesley Manville</actor>
-    </credits>
-    <date>20221127</date>
-    <category>Drama</category>
-    <category>History</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12166682701.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12166682700.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>58/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201185100 +0000" stop="20221201204000 +0000" channel="StarZ">
-    <title lang="en">Lucky Numbers</title>
-    <desc>John Travolta and Lisa Kudrow are charming in Nora Ephron's amiable comedy about a lottery scam gone bad. Travolta plays a TV weatherman whose snowmobile business starts to fail, so he and his bumbling girlfriend (Kudrow) try to fix a lottery drawing. Tim Roth, Ed O'Neill, Michael Rapaport.</desc>
-    <date>20000000</date>
-    <category>Comedy</category>
-    <category>Crime</category>
-    <length units="seconds">6360</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1875464650.jpg" width="422" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-8885038247.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>31/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/31.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201204000 +0000" stop="20221201221300 +0000" channel="StarZ">
-    <title lang="en">John Tucker Must Die</title>
-    <desc>In this romantic comedy with an edge, the good-looking star of a high-school basketball squad is in for a rude awakening when a trio of teen girls team up to bring him and his two-timing ways to justice.</desc>
-    <date>20101129</date>
-    <category>Comedy</category>
-    <category>Romance</category>
-    <length units="seconds">5340</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3220593745.jpg" width="542" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3220662164.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>41/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/41.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221201221300 +0000" stop="20221201234500 +0000" channel="StarZ">
-    <title lang="en">Keep Watching</title>
-    <desc>In this nerve-shredding horror thriller, parents and their three children return from a vacation to find themselves in a battle with masked home invaders. It soon becomes clear that their terrifying ordeal is really a sick and deadly game and if they want to survive, they must kill or be killed.</desc>
-    <date>20181006</date>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <length units="seconds">5340</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5666456743.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5666580849.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221201234500 +0000" stop="20221202020000 +0000" channel="StarZ">
-    <title lang="en">The Equalizer</title>
-    <desc>In this exciting thriller based on the hit '80s TV series, an ex-Black Ops agent emerges from self-imposed retirement and decides to help the downtrodden after he saves a young woman from vicious Russian gangsters.</desc>
-    <date>20141230</date>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Other</category>
-    <length units="seconds">7860</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1028653156.JPG" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3394643963.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>57/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/57.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221202020000 +0000" stop="20221202040000 +0000" channel="StarZ">
-    <title lang="en">Arrival</title>
-    <desc>Alien spacecraft plant themselves at various locations around the globe in this riveting science-fiction film, forcing a linguist and a theoretical physicist to find a way to communicate with the mysterious visitors in order to learn what they want.</desc>
-    <date>20161111</date>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Sci-fi</category>
-    <category>Other</category>
-    <category>Adaptation</category>
-    <length units="seconds">6960</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-4006371310.jpg" width="462" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4507552331.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>81/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/81.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221202040000 +0000" stop="20221202060700 +0000" channel="StarZ">
-    <title lang="en">Bridget Jones's Baby</title>
-    <desc>Bridget Jones, now a fortysomething news producer, discovers that she's pregnant in this hilarious comedy sequel. However, she isn't sure if the baby's father is Mark Darcy, her on-and-off boyfriend, or Jack Qwant, her new American love interest.</desc>
-    <date>20160924</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <category>Sequel</category>
-    <length units="seconds">7500</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-4316343165.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3626385438.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>59/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/59.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221202060700 +0000" stop="20221202073100 +0000" channel="StarZ">
-    <title lang="en">When We Speak</title>
-    <desc>When We Speak follows three incredible stories of women who risked everything to tell the truth. Their stories became worldwide scandals and took a personal toll on each of their lives.</desc>
-    <date>20221202</date>
-    <category>Documentary</category>
-    <length units="seconds">4800</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11711415976.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11711415972.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221202073100 +0000" stop="20221202091200 +0000" channel="StarZ">
-    <title lang="en">Signs of Love</title>
-    <desc>The story of a boy from the streets who falls for a wealthy deaf girl. Frankie dreams of a better life for himself and his nephew. But his sister's influence keeps both of them embroiled in criminal life. There's a glimmer of hope when Frankie meets Jane, a deaf girl from an affluent Philadelphia family. But to succeed, Frankie will have to keep himself and his nephew away from the pull of Port Richmond street rules.</desc>
-    <date>20221202</date>
-    <category>Drama</category>
-    <category>Romance</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-12105811094.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12105811089.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221202091200 +0000" stop="20221202110700 +0000" channel="StarZ">
-    <title lang="en">The Bank Job</title>
-    <desc>It's the cockney gang who couldn't think straight when a team of inept thieves tunnels into a London vault in 1971 and steals a fortune from safe-deposit boxes, but winds up with more than they expected. Clever, fact-based caper escapade starring Jason Statham as a hardened working-class bloke who sees the heist as a way out of his troubled financial situation. Saffron Burrows costars as the femme fatale who puts the plan in motion. David Mays, David Suchet. Directed by Roger Donaldson.</desc>
-    <date>20120518</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Mystery &amp; Suspense</category>
-    <length units="seconds">6600</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7488911504.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8867502397.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>69/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/69.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221202110700 +0000" stop="20221202122100 +0000" channel="StarZ">
-    <title lang="en">Surviving Sex Trafficking</title>
-    <desc>Surviving Sex Trafficking is a documentary that focuses on survivors of sex trafficking. Through intimate conversations with the survivors from all around the world, the film sheds light on their painful stories and ongoing struggles that stem from the abuse they experienced. As they work on breaking free from their traumatic past, they work on healing their bodies, psyches, and spirits.</desc>
-    <date>20210000</date>
-    <category>Documentary</category>
-    <category>Crime</category>
-    <length units="seconds">4200</length>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221202122100 +0000" stop="20221202140200 +0000" channel="StarZ">
-    <title lang="en">The Hollow Point</title>
-    <desc>In this gripping Western thriller, the new sheriff of a border town investigates a cartel arms deal that went wrong. He tries to put the pieces together in order to unravel the gun-running organization responsible for the outbreak of violence.</desc>
-    <date>20040810</date>
-    <category>Crime drama</category>
-    <category>Suspense/Thriller</category>
-    <length units="seconds">5820</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-4256573341.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4238978644.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>41/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/41.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221202140200 +0000" stop="20221202155900 +0000" channel="StarZ">
-    <title lang="en">The Eagle</title>
-    <desc>In this thrilling action epic, Roman centurion Marcus Aquila (Channing Tatum) embarks on a trek with his British slave (Jamie Bell) to find out what happened to the Ninth Legion, which went missing 20 years earlier in the mountains of Scotland. The legion was led by Marcus' father, and the strange disappearance has hurt his family's reputation, prompting Marcus to make the arduous journey to learn the truth about what happened. Directed by Kevin MacDonald.</desc>
-    <date>20110621</date>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>History</category>
-    <category>War</category>
-    <category>Adaptation</category>
-    <length units="seconds">6840</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-5126349031.jpg" width="465" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6886379721.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>55/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/55.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221202155900 +0000" stop="20221202175400 +0000" channel="StarZ">
-    <title lang="en">The Bank Job</title>
-    <desc>It's the cockney gang who couldn't think straight when a team of inept thieves tunnels into a London vault in 1971 and steals a fortune from safe-deposit boxes, but winds up with more than they expected. Clever, fact-based caper escapade starring Jason Statham as a hardened working-class bloke who sees the heist as a way out of his troubled financial situation. Saffron Burrows costars as the femme fatale who puts the plan in motion. David Mays, David Suchet. Directed by Roger Donaldson.</desc>
-    <date>20120518</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Crime</category>
-    <category>Mystery &amp; Suspense</category>
-    <length units="seconds">6600</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7488911504.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8867502397.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>69/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/69.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221202175400 +0000" stop="20221202191600 +0000" channel="StarZ">
-    <title lang="en">I'm Charlie Walker</title>
-    <desc>In the early 1970s, a man must deal with a racist Bay Area corporation as he cleans up a massive oil spill. Charlie Walker, a black contractor who had trouble finding work, takes it upon himself to break the mold and make a name for himself. Based on a true story.</desc>
-    <date>20221011</date>
-    <category>Drama</category>
-    <category>Biography</category>
-    <length units="seconds">4680</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11680164271.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11680184020.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>41/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/41.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221202191600 +0000" stop="20221202194600 +0000" channel="StarZ">
-    <title lang="en">The BMF Documentary: Blowing Money Fast</title>
-    <sub-title>Time To Run</sub-title>
-    <desc>The Flenory brother's rift deepens, and the crew's loyalties are divided. Law enforcement makes key discoveries that force Meech to make a life-changing decision.</desc>
-    <credits>
-      <director>Shan Nicholson</director>
-      <actor role="Jack Harvey">Scott Fowler</actor>
-      <producer>Laurent Jamet</producer>
-    </credits>
-    <date>20221127</date>
-    <category>Documentary</category>
-    <category>Crime</category>
-    <category>History</category>
-    <category>Profile</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12166676218.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12166676219.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221202194600 +0000" stop="20221202204100 +0000" channel="StarZ">
-    <title lang="en">Step Up</title>
-    <sub-title>It's Goin' Down</sub-title>
-    <desc>Romantic entanglements are tearing Sage, Collette, Rigo, and Poppy in new directions. Meanwhile, the love triangle between Davis, Odalie and Angel comes to a tipping point, and Tal has a new position as Sage's Creative Director.</desc>
-    <credits>
-      <director>Janice Cooke</director>
-      <actor role="Angel">Rebbi Rose</actor>
-      <guest>Sage</guest>
-      <guest>Collette</guest>
-      <guest>Uncle Al</guest>
-    </credits>
-    <date>20221127</date>
-    <category>Drama</category>
-    <category>Music</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12138325231.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12138372412.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221202204100 +0000" stop="20221202222200 +0000" channel="StarZ">
-    <title lang="en">Witch Hunt</title>
-    <desc>In contemporary America, witches and witchcraft are punishable by death. With witch hunters checking residences, a family of witch smugglers who shepherd women across the border to safety finds themselves in danger after offering shelter for a group of witches.</desc>
-    <date>20220424</date>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <category>Fantasy</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10597957025.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10597957028.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221202222200 +0000" stop="20221202235600 +0000" channel="StarZ">
-    <title lang="en">Brick Mansions</title>
-    <desc>In this pulse-pounding action epic set in a future when Detroit's most-feared criminals occupy the city's deserted brick mansions, an undercover cop teams with an ex-convict to defeat a dangerous drug kingpin who has taken the entire city hostage.</desc>
-    <date>20140815</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Documentary</category>
-    <category>Other</category>
-    <category>Remake</category>
-    <length units="seconds">5400</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1173426816.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1499393056.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>40/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/40.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221130020000 +0000" stop="20221130030000 +0000" channel="SundanceTV">
@@ -18534,7 +17896,6 @@
     <title lang="es">La Reina del Sur</title>
     <desc>Karen debe responder a todas las preguntas, la misión de Teresa se complica.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -18886,7 +18247,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11631120876.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S24E05</episode-num>
     <episode-num system="xmltv_ns">23.4.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -19047,7 +18407,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124289.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124288.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221130030000 +0000" stop="20221130053000 +0000" channel="TNT">
     <title lang="en">NBA Basketball</title>
@@ -20084,7 +19443,6 @@
     <title lang="es">Mi Camino Es Amarte</title>
     <sub-title>11-29-2022</sub-title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221130030000 +0000" stop="20221130040000 +0000" channel="Univision">
     <title lang="es">La Madrastra 2022</title>
@@ -20191,7 +19549,6 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221130030800 +0000" stop="20221130053800 +0000" channel="USANetwork">
     <title lang="en">The Replacements</title>
@@ -20345,7 +19702,6 @@
     <category>Crime</category>
     <category>Celebrities</category>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -20877,12 +20233,6 @@
     <category>Other</category>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20221130000000 +0000" stop="20221130023000 +0000" channel="YES">
-    <title lang="en">Yankees Classics</title>
-    <sub-title>1995: New York Yankees at Chicago White Sox</sub-title>
-    <desc>From 1995: New York Yankees at Chicago White Sox. Rookie starter Mariano Rivera dominated the ChiSox over eight innings.</desc>
-    <date>19950000</date>
-  </programme>
   <programme start="20221130023000 +0000" stop="20221130030000 +0000" channel="YES">
     <title lang="en">Forbes SportsMoney</title>
     <desc>A look at the business side of sports, from player and team finances to endorsements and TV deals.</desc>
@@ -20932,5 +20282,9 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7488543743.jpg" width="465" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7488543741.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221130103000 +0000" stop="20221130110000 +0000" channel="YES">
+    <title lang="en">Brooklyn Nets Magazine</title>
+    <desc>Weekly highlights, features, interviews and news on the NBA team.</desc>
   </programme>
 </tv>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221201143713" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221201151304" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -6671,6 +6671,7 @@
     <desc>Adrien's bodyguard gets akumatized into Gorizilla.</desc>
     <credits>
       <director>Thomas Astruc</director>
+      <writer>Thomas Astruc</writer>
       <producer>Jérémy Zag</producer>
       <composer>Jeremy Zag</composer>
     </credits>
@@ -6696,6 +6697,7 @@
     <desc>A small, sensitive robot named Markov gets akumatized into Robostus, a villain who can bring inanimate objects to life.</desc>
     <credits>
       <director>Thomas Astruc</director>
+      <writer>Thomas Astruc</writer>
       <producer>Jérémy Zag</producer>
       <composer>Jeremy Zag</composer>
     </credits>
@@ -6721,6 +6723,7 @@
     <desc>Alya's little sisters get akumatized into small, out-of-control monsters named Sapotis who wreak havoc in Paris.</desc>
     <credits>
       <director>Thomas Astruc</director>
+      <writer>Thomas Astruc</writer>
       <producer>Jérémy Zag</producer>
       <composer>Jeremy Zag</composer>
     </credits>
@@ -8997,6 +9000,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10951632195.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10951632187.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -16824,7 +16828,6 @@
     <category>Animated</category>
     <length units="seconds">5700</length>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221201141600 +0000" stop="20221201155400 +0000" channel="StarZ">
     <title lang="en">Ice Age: Dawn of the Dinosaurs</title>
@@ -17930,7 +17933,6 @@
     <title lang="es">Hoy en la Copa Mundial</title>
     <desc>Las principales historias del día contadas desde los estadios y campos de entrenamiento con un enfoque entretenido. Noticias, reportajes, entrevistas y el análisis previo al juego en vivo.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221201143000 +0000" stop="20221201170000 +0000" channel="Telemundo">
     <title lang="es">Copa Mundial de la FIFA Catar 2022</title>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221202022044" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221202030102" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -965,47 +965,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221201233000 +0000" stop="20221202000000 +0000" channel="ABCNY">
-    <title lang="en">ABC World News Tonight With David Muir</title>
-    <sub-title>12-01-2022</sub-title>
-    <desc>A roundup of the day's events.</desc>
-    <date>20221201</date>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4848049500.jpg" width="552" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10455224228.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S2022E335</episode-num>
-    <episode-num system="xmltv_ns">2021.334.</episode-num>
-  </programme>
-  <programme start="20221202000000 +0000" stop="20221202003000 +0000" channel="ABCNY">
-    <title lang="en">Jeopardy!</title>
-    <sub-title>12-01-2022</sub-title>
-    <date>20221201</date>
-    <category>Family</category>
-    <category>Game show</category>
-    <category>Pop culture classic</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9818953002.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10544359497.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S38E272</episode-num>
-    <episode-num system="xmltv_ns">37.271.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221202003000 +0000" stop="20221202010000 +0000" channel="ABCNY">
-    <title lang="en">Wheel of Fortune</title>
-    <sub-title>America's Game</sub-title>
-    <date>20221201</date>
-    <category>Game show</category>
-    <category>Variety</category>
-    <category>Entertainment</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12229569259.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12229569253.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S39E228</episode-num>
-    <episode-num system="xmltv_ns">38.227.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221202010000 +0000" stop="20221202030100 +0000" channel="ABCNY">
     <title lang="en">Frozen 2</title>
     <desc>This sequel to the family animated adventure "Frozen" carries on the adventures of the Snow Queen, her kindhearted sister, their comedic snowman friend and their heroic mountain guide as they venture deep into the forest to discover the truth about a legendary mystery that surrounds their kingdom.</desc>
@@ -1135,11 +1094,28 @@
     <episode-num system="onscreen">S2022E335</episode-num>
     <episode-num system="xmltv_ns">2021.334.</episode-num>
   </programme>
-  <programme start="20221201220000 +0000" stop="20221202000000 +0000" channel="ACCN">
-    <title lang="en">Women's College Basketball</title>
-    <sub-title>Northwestern at Duke</sub-title>
-    <desc>Northwestern at Duke in the ACC/Big Ten Challenge.</desc>
-    <date>20220000</date>
+  <programme start="20221202080500 +0000" stop="20221202090000 +0000" channel="ABCNY">
+    <title lang="en">Live With Kelly and Ryan</title>
+    <sub-title>Common; Monica Mangin</sub-title>
+    <desc>Actor Common breaks down his role in the play "Between Riverside and Crazy" and lifestyle expert Monica Mangin is back with more holiday gift bargains for the home.</desc>
+    <date>20221201</date>
+    <category>Talk</category>
+    <category>Magazine</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5107755934.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5107726574.jpg" width="720" height="480"/>
+    <episode-num system="onscreen">S35E63</episode-num>
+    <episode-num system="xmltv_ns">34.62.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221202090000 +0000" stop="20221202093000 +0000" channel="ABCNY">
+    <title lang="en">America This Morning</title>
+    <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
+  </programme>
+  <programme start="20221202093000 +0000" stop="20221202110000 +0000" channel="ABCNY">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc>Local news, sports and weather.</desc>
   </programme>
   <programme start="20221202000000 +0000" stop="20221202020000 +0000" channel="ACCN">
     <title lang="en">Women's College Basketball</title>
@@ -1842,12 +1818,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/11.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221201230000 +0000" stop="20221202010000 +0000" channel="BTN">
-    <title lang="en">Women's College Basketball</title>
-    <sub-title>North Carolina at Indiana</sub-title>
-    <desc>North Carolina at Indiana in the ACC/Big Ten Challenge.</desc>
-    <date>20220000</date>
-  </programme>
   <programme start="20221202010000 +0000" stop="20221202030000 +0000" channel="BTN">
     <title lang="en">Women's College Basketball</title>
     <sub-title>Georgia Tech at Michigan State</sub-title>
@@ -1907,6 +1877,18 @@
     <title lang="en">Women's College Basketball</title>
     <sub-title>North Carolina at Indiana</sub-title>
     <desc>North Carolina at Indiana in the ACC/Big Ten Challenge.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221202090000 +0000" stop="20221202093000 +0000" channel="BTN">
+    <title lang="en">The B1G Show</title>
+    <sub-title>12-01-2022</sub-title>
+    <desc>A recap of action around the Big Ten Conference.</desc>
+    <date>20220000</date>
+  </programme>
+  <programme start="20221202093000 +0000" stop="20221202100000 +0000" channel="BTN">
+    <title lang="en">The B1G Show</title>
+    <sub-title>12-01-2022</sub-title>
+    <desc>A recap of action around the Big Ten Conference.</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221202013000 +0000" stop="20221202020000 +0000" channel="BET">
@@ -2430,7 +2412,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12116700588.jpg" width="720" height="711"/>
     <episode-num system="onscreen">S02E07</episode-num>
     <episode-num system="xmltv_ns">1.6.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3616,22 +3597,6 @@
     <desc>The PBA Tour Finals Group 2 stepladder finals from Angel of the Winds Casino in Arlington, Wash. Players include two-time Finals winner EJ Tackett, defending champ Anthony Simonsen, Jakob Butturff and Dom Barrett.</desc>
     <date>20220000</date>
   </programme>
-  <programme start="20221201230000 +0000" stop="20221202010000 +0000" channel="Cinemax">
-    <title lang="en">The Turning Point</title>
-    <desc>Renewed friendship between an aging ballerina and an ex-rival-turned-housewife is marred by jealousy.</desc>
-    <date>19760000</date>
-    <category>Drama</category>
-    <category>Chick flick</category>
-    <category>Dance</category>
-    <length units="seconds">7140</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-1095686931.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1014170777.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>68/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/68.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20221202010000 +0000" stop="20221202030200 +0000" channel="Cinemax">
     <title lang="en">Hunter Killer</title>
     <desc>Captain Joe Glass discovers a potential Russian coup while responding to a submarine distress signal compelling him to fight for world order. With the Russian President's life in jeopardy, he calls on the help of experienced Navy SEALs in order to prevent the next world war.</desc>
@@ -3699,6 +3664,11 @@
       <value>90/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/90.png" width="128" height="128"/>
     </star-rating>
+  </programme>
+  <programme start="20221202083000 +0000" stop="20221202102700 +0000" channel="Cinemax">
+    <title lang="en">Boomerang</title>
+    <desc>Marcus is a successful advertising executive who woos and beds women almost at will. After a company merger he finds that his new boss, the ravishing Jacqueline, is treating him in exactly the same way. Completely traumatised by this, his work goes badly downhill.</desc>
+    <date>19920000</date>
   </programme>
   <programme start="20221202013000 +0000" stop="20221202020000 +0000" channel="CMT">
     <title lang="en">Mom</title>
@@ -4818,7 +4788,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7526634421.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2022E295</episode-num>
     <episode-num system="xmltv_ns">2021.294.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -6474,7 +6443,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9431287240.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S09E28</episode-num>
     <episode-num system="xmltv_ns">8.27.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -7962,7 +7930,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8591702462.jpg" width="720" height="717"/>
     <episode-num system="onscreen">S05E09</episode-num>
     <episode-num system="xmltv_ns">4.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -8586,7 +8553,6 @@
     <sub-title>Creighton at Texas</sub-title>
     <desc>Creighton at Texas. From Moody Center.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221202020000 +0000" stop="20221202040000 +0000" channel="ESPN">
     <title lang="en">College Basketball</title>
@@ -9125,7 +9091,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10092470130.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10092470132.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -9211,6 +9176,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12252084285.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12224090974.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221202150000 +0000" stop="20221202170000 +0000" channel="FOX">
     <title lang="en">2022 FIFA World Cup Qatar</title>
@@ -9451,49 +9417,6 @@
     <desc>Teams TBA.</desc>
     <date>20110000</date>
   </programme>
-  <programme start="20221201233000 +0000" stop="20221202000000 +0000" channel="FOXNY">
-    <title lang="en">You Bet Your Life with Jay Leno</title>
-    <sub-title>You Looking at Me?</sub-title>
-    <date>20220920</date>
-    <category>Comedy</category>
-    <category>Entertainment</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12173987356.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12173987360.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221202000000 +0000" stop="20221202003000 +0000" channel="FOXNY">
-    <title lang="en">Extra</title>
-    <sub-title>12-01-2022</sub-title>
-    <date>20221201</date>
-    <category>Interview</category>
-    <category>Entertainment</category>
-    <category>Magazine</category>
-    <category>Celebrities</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7711279780.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7711555853.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S29E64</episode-num>
-    <episode-num system="xmltv_ns">28.63.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221202003000 +0000" stop="20221202010000 +0000" channel="FOXNY">
-    <title lang="en">TMZ</title>
-    <sub-title>12-01-2022</sub-title>
-    <date>20221201</date>
-    <category>Entertainment</category>
-    <category>Magazine</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1382131242.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1382123843.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221202010000 +0000" stop="20221202020200 +0000" channel="FOXNY">
     <title lang="en">Hell's Kitchen</title>
     <sub-title>Game On!</sub-title>
@@ -9511,7 +9434,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10092470130.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10092470132.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -9676,6 +9598,45 @@
       <value>TV-14</value>
     </rating>
   </programme>
+  <programme start="20221202080000 +0000" stop="20221202083000 +0000" channel="FOXNY">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20090810</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221202083000 +0000" stop="20221202090000 +0000" channel="FOXNY">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20090810</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221202090000 +0000" stop="20221202093000 +0000" channel="FOXNY">
+    <title lang="en">TMZ</title>
+    <sub-title>12-01-2022</sub-title>
+    <date>20221201</date>
+    <category>Entertainment</category>
+    <category>Magazine</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1382131242.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1382123843.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221202093000 +0000" stop="20221202100000 +0000" channel="FOXNY">
+    <title lang="en">Good Day Wake Up</title>
+    <desc>A morning show featuring local news, weather and traffic.</desc>
+  </programme>
   <programme start="20221202010000 +0000" stop="20221202020000 +0000" channel="FoxBusiness">
     <title lang="en">Duck Family Treasure</title>
     <sub-title>Meteorites!</sub-title>
@@ -9825,7 +9786,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9106724071.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E239</episode-num>
     <episode-num system="xmltv_ns">2021.238.</episode-num>
-    <new/>
   </programme>
   <programme start="20221202020000 +0000" stop="20221202030000 +0000" channel="FoxNews">
     <title lang="en">Hannity</title>
@@ -10177,12 +10137,6 @@
     <title lang="en">2022 FIFA World Cup Qatar</title>
     <sub-title>Japan vs. Spain</sub-title>
     <desc>Japan vs. Spain in a Group E finale. From Khalifa International Stadium in Al Rayyan, Qatar.</desc>
-    <date>20220000</date>
-  </programme>
-  <programme start="20221201233000 +0000" stop="20221202013000 +0000" channel="FS2">
-    <title lang="en">2022 FIFA World Cup Qatar</title>
-    <sub-title>Costa Rica vs. Germany</sub-title>
-    <desc>Costa Rica vs. Germany in a Group E finale. From Al Bayt Stadium in Al Khor, Qatar.</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221202013000 +0000" stop="20221202033000 +0000" channel="FS2">
@@ -11325,7 +11279,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9287369261.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9287369267.jpg" width="720" height="717"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -12032,20 +11985,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221201230000 +0000" stop="20221202010000 +0000" channel="HMM">
-    <title lang="en">Cranberry Christmas</title>
-    <desc>A separated couple feign marital bliss on national television to help their town's Christmas festival and their business.</desc>
-    <date>20201031</date>
-    <category>Comedy</category>
-    <category>Christmas</category>
-    <length units="seconds">4800</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9294203361.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9294203355.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221202010000 +0000" stop="20221202030000 +0000" channel="HMM">
     <title lang="en">Holiday Hearts</title>
     <desc>While planning an annual Christmas party, Peyton is forced together with Ben to care for a friend's daughter. While finding their Christmas spirit, will there be some romance along the way?</desc>
@@ -12104,6 +12043,14 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9458772344.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9458772341.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20221202090000 +0000" stop="20221202110000 +0000" channel="HMM">
+    <title lang="en">Angels And Ornaments</title>
+    <desc>A hopeless romantic finds herself being wooed by three different men after she makes a Christmas wish.</desc>
+    <date>20140000</date>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -13121,7 +13068,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7367643728.jpg" width="720" height="534"/>
     <episode-num system="onscreen">S2022E234</episode-num>
     <episode-num system="xmltv_ns">2021.233.</episode-num>
-    <live/>
   </programme>
   <programme start="20221202020000 +0000" stop="20221202030000 +0000" channel="MSNBC">
     <title lang="en">Alex Wagner Tonight</title>
@@ -13230,7 +13176,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8071664377.jpg" width="720" height="481"/>
     <episode-num system="onscreen">S05E05</episode-num>
     <episode-num system="xmltv_ns">4.4.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -13245,7 +13190,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10397421241.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S19E09</episode-num>
     <episode-num system="xmltv_ns">18.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -14087,6 +14031,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7577835718.jpg" width="720" height="534"/>
     <episode-num system="onscreen">S2022E239</episode-num>
     <episode-num system="xmltv_ns">2021.238.</episode-num>
+    <new/>
   </programme>
   <programme start="20221202150000 +0000" stop="20221202160000 +0000" channel="NBC">
     <title lang="en">Today with Hoda &amp; Jenna</title>
@@ -14856,14 +14801,6 @@
     <desc>Buffalo Bills (8-3) at New England Patriots (6-5). From Gillette Stadium.</desc>
     <date>20220000</date>
   </programme>
-  <programme start="20221201230000 +0000" stop="20221202000000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-    <date>20210000</date>
-  </programme>
-  <programme start="20221202000000 +0000" stop="20221202010000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-    <date>20210000</date>
-  </programme>
   <programme start="20221202010000 +0000" stop="20221202020000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
     <date>20210000</date>
@@ -14889,6 +14826,14 @@
     <date>20210000</date>
   </programme>
   <programme start="20221202070000 +0000" stop="20221202080000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+    <date>20210000</date>
+  </programme>
+  <programme start="20221202080000 +0000" stop="20221202090000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+    <date>20210000</date>
+  </programme>
+  <programme start="20221202090000 +0000" stop="20221202100000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
     <date>20210000</date>
   </programme>
@@ -16953,7 +16898,6 @@
     <sub-title>New Discoveries</sub-title>
     <desc>A new discovery is found about the Stonehenge that changes a lot about what is known about this monument.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -17086,31 +17030,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221201200000 +0000" stop="20221202000000 +0000" channel="SECN">
-    <title lang="en">The Paul Finebaum Show</title>
-    <sub-title>12-01-2022</sub-title>
-    <desc>SEC football is the focus of this simulcast of the renowned host's sports-talk radio show.</desc>
-    <date>20221201</date>
-    <category>Sports stuff</category>
-    <category>Talk</category>
-    <category>College</category>
-    <category>Football</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1146280829.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1146280828.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221202000000 +0000" stop="20221202013000 +0000" channel="SECN">
-    <title lang="en">SEC Now</title>
-    <sub-title>12-01-2022</sub-title>
-    <desc>Daily studio discussion of all the latest Southeastern Conference news and newsmakers.</desc>
-    <date>20221201</date>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084287.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1212084286.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221202013000 +0000" stop="20221202020000 +0000" channel="SECN">
     <title lang="en">SEC Inside</title>
     <sub-title>South Carolina</sub-title>
@@ -17166,22 +17085,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172371225.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-299039440.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221201230000 +0000" stop="20221202010000 +0000" channel="Showtime">
-    <title lang="en">Scream</title>
-    <desc>After twenty-five peaceful years, Woodsboro once again faces Ghostface, the entity that previously shook the small and quiet town with its brutal crimes. The new perpetrator behind the mask goes after everyone related to the original murderers, opening old wounds once forcefully tucked away in the past. Sam Carpenter then enlists the help of the town's former Sheriff, Dewey Riley, and it doesn't take long until Sidney Prescott returns to face her old enemy.</desc>
-    <date>20220305</date>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <category>Mystery</category>
-    <length units="seconds">7200</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11174057965.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10961991240.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>60/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/60.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221202010000 +0000" stop="20221202030000 +0000" channel="Showtime">
     <title lang="en">DIO: Dreamers Never Die</title>
@@ -17274,6 +17177,23 @@
     <star-rating system="Metascore">
       <value>73/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/73.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20221202080000 +0000" stop="20221202103000 +0000" channel="Showtime">
+    <title lang="en">Midsommar</title>
+    <desc>Just as their relationship is on the brink of falling apart, couple Dani and Christian are brought closer by a family tragedy. The mourning Dani then joins Christian and his friends, Josh and Mark, on a trip to a rural Swedish village that is celebrating a once-in-a-blue-moon festival. As the tourists partake in the celebrations, they discover that the idyllic community holds many unnerving secrets, and it all unfolds in broad daylight.</desc>
+    <date>20190809</date>
+    <category>Drama</category>
+    <category>Horror</category>
+    <category>Mystery</category>
+    <category>Mystery &amp; Suspense</category>
+    <length units="seconds">8820</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7401647883.jpg" width="497" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7575932667.jpg" width="720" height="534"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>72/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/72.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221201234500 +0000" stop="20221202020000 +0000" channel="StarZ">
@@ -17992,7 +17912,6 @@
     <sub-title>Ganar es la única opción</sub-title>
     <desc>Arden las arenas más feroces del planeta, la contienda para ganar la 'Villa Exatlón' es implacable.</desc>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221202020000 +0000" stop="20221202030000 +0000" channel="Telemundo">
     <title lang="es">La Reina del Sur</title>
@@ -19749,7 +19668,6 @@
     <title lang="es">Vencer la Ausencia</title>
     <sub-title>12-01-2022</sub-title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20221202020000 +0000" stop="20221202030000 +0000" channel="Univision">
     <title lang="es">Mi Camino Es Amarte</title>
@@ -20152,7 +20070,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10158522871.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10158522867.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -20284,29 +20201,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221201200000 +0000" stop="20221202000000 +0000" channel="YES">
-    <title lang="en">The Michael Kay Show</title>
-    <desc>Simulcast of the afternoon ESPN New York sports-talk show, featuring interviews and call-ins.</desc>
-    <category>Sports stuff</category>
-    <category>Talk</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7488543743.jpg" width="465" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7488543741.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221202000000 +0000" stop="20221202010000 +0000" channel="YES">
-    <title lang="en">Yankees Hot Stove</title>
-    <desc>Offseason discussion of Yanks personnel and Major League Baseball's top issues.</desc>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Baseball</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11344591637.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11344591636.jpg" width="720" height="466"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221202010000 +0000" stop="20221202013000 +0000" channel="YES">
-    <title lang="en">Talkin' Yankees</title>
-    <desc>Recaps, hot takes and discussions about all things Yankees.</desc>
   </programme>
   <programme start="20221202013000 +0000" stop="20221202020000 +0000" channel="YES">
     <title lang="en">Yankees Magazine</title>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221202122128" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221202125517" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -411,7 +411,6 @@
   <programme start="20221202110000 +0000" stop="20221202120000 +0000" channel="ABC">
     <title lang="en">America This Morning</title>
     <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
-    <new/>
   </programme>
   <programme start="20221202120000 +0000" stop="20221202140000 +0000" channel="ABC">
     <title lang="en">Good Morning America</title>
@@ -2312,7 +2311,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-12329798810.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E10</episode-num>
     <episode-num system="xmltv_ns">0.9.</episode-num>
-    <new/>
   </programme>
   <programme start="20221202120000 +0000" stop="20221202130000 +0000" channel="Bravo">
     <title lang="en">The Real Housewives of Durban</title>
@@ -4036,7 +4034,6 @@
   <programme start="20221202110000 +0000" stop="20221202120000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221202120000 +0000" stop="20221202130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
@@ -7702,6 +7699,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10530585279.jpg" width="489" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10530585281.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221203010000 +0000" stop="20221203043000 +0000" channel="FOX">
     <title lang="en">Pac-12 Football Championship</title>
@@ -14632,7 +14630,6 @@
     <category>Crime</category>
     <length units="seconds">4200</length>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221202122100 +0000" stop="20221202140200 +0000" channel="StarZ">
     <title lang="en">The Hollow Point</title>
@@ -16329,7 +16326,6 @@
     <sub-title>Episode 59</sub-title>
     <desc>Jennifer Hudson is ready for music and laughter with Ken Jeong from "The Masked Singer" and Ashton Sanders from the film "I Wanna Dance with Somebody." Plus, she welcomes back Wildlife Learning Center co-founder David Riherd and his animal friends.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>

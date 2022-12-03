@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221203203453" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221203210950" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2052,7 +2052,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784446.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784449.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221203203000 +0000" stop="20221203210000 +0000" channel="CBS">
     <title lang="en">College Football Today</title>
@@ -2473,7 +2472,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784446.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10486784449.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221203203000 +0000" stop="20221203210000 +0000" channel="CBSNY">
     <title lang="en">College Football Today</title>
@@ -3003,7 +3001,7 @@
     <desc>Gumball and Darwin add a new best friend to their group; Gumball tries to save Mr. Robinson during a talent show.</desc>
     <credits>
       <director>Mic Graves</director>
-      <writer>Jon Foster</writer>
+      <writer>James Lamont</writer>
       <producer>Carsten Bunte</producer>
       <composer>Ben Locket</composer>
     </credits>
@@ -3028,7 +3026,7 @@
     <desc>A girl wants to kiss Darwin, so Gumball steps in to save him; the principal meddles in Gumball's family life.</desc>
     <credits>
       <director>Mic Graves</director>
-      <writer>Jon Foster</writer>
+      <writer>James Lamont</writer>
       <producer>Carsten Bunte</producer>
       <composer>Ben Locket</composer>
     </credits>
@@ -3053,7 +3051,7 @@
     <desc>Gumball babysits his sister; Gumball wears a dress to school and finds himself more popular than ever.</desc>
     <credits>
       <director>Mic Graves</director>
-      <writer>Jon Foster</writer>
+      <writer>James Lamont</writer>
       <producer>Carsten Bunte</producer>
       <composer>Ben Locket</composer>
     </credits>
@@ -3078,7 +3076,7 @@
     <desc>Darwin, Gumball and Dad face off in a laziness competition; a ghost takes advantage of Gumball, forcing him to learn to stand up for himself.</desc>
     <credits>
       <director>Mic Graves</director>
-      <writer>Jon Foster</writer>
+      <writer>James Lamont</writer>
       <producer>Carsten Bunte</producer>
       <composer>Ben Locket</composer>
     </credits>
@@ -6636,17 +6634,16 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8091428487.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2022E49</episode-num>
     <episode-num system="xmltv_ns">2021.48.</episode-num>
-    <new/>
   </programme>
   <programme start="20221203210000 +0000" stop="20221203220000 +0000" channel="FoxNews">
     <title lang="en">Fox News Live</title>
     <desc>The important stories of the day are addressed.</desc>
-    <new/>
+    <live/>
   </programme>
   <programme start="20221203220000 +0000" stop="20221203230000 +0000" channel="FoxNews">
     <title lang="en">The Big Saturday Show</title>
     <date>20210000</date>
-    <new/>
+    <live/>
   </programme>
   <programme start="20221203230000 +0000" stop="20221204000000 +0000" channel="FoxNews">
     <title lang="en">FOX Report With Jon Scott</title>
@@ -6656,7 +6653,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8678001101.jpg" width="541" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8678001108.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20221204000000 +0000" stop="20221204010000 +0000" channel="FoxNews">
     <title lang="en">Gutfeld!</title>
@@ -6704,7 +6701,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11114517627.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11114517625.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20221203194000 +0000" stop="20221203221000 +0000" channel="Freeform">
     <title lang="en">The Santa Clause 2</title>
@@ -14201,7 +14198,7 @@
     <desc>Joe, Murr, Sal and Q take time to smell the roses, then pair up to double dip at the mall. Also: the loser battles an undead enemy to save his family.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20170914</date>
@@ -14224,7 +14221,7 @@
     <desc>Q, Murr, Joe and Sal get drenched at a water park, then play a wild round of TP basketball at the grocery store. Plus, tonight's loser strikes out while jockeying for a ball from New York Mets pitcher Noah Syndergaard</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20170928</date>
@@ -14247,7 +14244,7 @@
     <desc>Joe, Sal, Q and Murr dodge shakedowns with the help of some strangers, then get handsy in a parking lot. A clip bait battle goes down in the park, and tonight's loser has a run-in at a party that leaves him down for the count.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20171005</date>
@@ -14270,7 +14267,7 @@
     <desc>Sal, Murr, Joe and Q survey employees with odd questions; and the loser unveils a mural in a small town whose residents react with big-city rage.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20171012</date>
@@ -14293,7 +14290,7 @@
     <desc>Murr, Sal, Joe and Q enlist shoppers to help them avoid a rogue security guard; and the night's big loser faces the wrath of a crowd of rockers.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20170926</date>
@@ -14316,7 +14313,7 @@
     <desc>Q, Sal, Murr and Joe compete in a focus group face-off, convincing people that their TV show ideas are the tops; and tonight's losers might get run out of town when they reveal their financial mismanagement plan to charity donors.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20180215</date>
@@ -14339,7 +14336,7 @@
     <desc>The guys don absurd disguises to trick unsuspecting receptionists. Also: The big loser turns a harmless dance class into a dance with danger.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20180322</date>
@@ -14362,7 +14359,7 @@
     <desc>Sal, Joe, Murr and Q take a spin in a motorized chair hoping the kindness of strangers will keep them on track, and tonight's big loser walks away bruised and battered when he's forced to clear some tables in an unusual way.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20180329</date>
@@ -14385,7 +14382,7 @@
     <desc>Joe, Murr, Sal and Q skirt the law while posing as receptionists; then go fishing at an unlikely locale. Also: The heat is on tonight's big losers as they try to give one unlucky customer the deal of a lifetime.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20180401</date>
@@ -14408,7 +14405,7 @@
     <desc>Q, Murr, Joe and Sal pitch toys that should be kept away from tots; face off at a market; and see spots at the mall. Also: The big loser sticks his nose where it doesn't belong.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20180422</date>
@@ -14431,7 +14428,7 @@
     <desc>Joe, Murr, Q and Sal run a surprise challenge, and a stint at The Cake Boss's counter is anything but sweet. Then, advice for kids turns awkward when heard by strangers, and tonight's loser looks for a new 'do - but not for him.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20180510</date>
@@ -14454,7 +14451,7 @@
     <desc>Joe, Q, Sal and Murr crack each other up while performing strange scenes behind glass, then test out awkward proposals at the Top of the Rock. Also: The big loser gets tongue-tied while speaking before government officials.</desc>
     <credits>
       <director>Andrew Hood</director>
-      <producer>Charlie DeBevoise</producer>
+      <producer>David Bienvenue</producer>
       <composer>Alex Geringas</composer>
     </credits>
     <date>20180802</date>

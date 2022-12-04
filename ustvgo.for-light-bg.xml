@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221204143509" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221204151046" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -7141,6 +7141,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9162001881.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E09</episode-num>
     <episode-num system="xmltv_ns">20.8.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -8408,7 +8409,6 @@
     <sub-title>Investec SA Open Championship</sub-title>
     <desc>South African Open Championship final-round play in Johannesburg, South Africa. From Blair Atholl Golf &amp; Equestrian Estate. Christiaan Bezuidenhout won the last edition of this event by five shots, in 2020.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221204143000 +0000" stop="20221204160000 +0000" channel="GOLF">
     <title lang="en">DP World Tour Golf</title>
@@ -12827,7 +12827,7 @@
     <desc>Arkansas investigators track the disappearance of a beloved nurse.</desc>
     <credits>
       <director>Bob Hasentufel</director>
-      <producer>Sharon Martin</producer>
+      <producer>Stephen Land</producer>
       <composer>Justin Melland</composer>
     </credits>
     <date>20201101</date>
@@ -12848,7 +12848,7 @@
     <desc>It took seven years for the police to find out the identity of the person who killed a John Doe at a park in Virginia.</desc>
     <credits>
       <director>Bob Hasentufel</director>
-      <producer>Sharon Martin</producer>
+      <producer>Stephen Land</producer>
       <composer>Justin Melland</composer>
     </credits>
     <date>20201025</date>
@@ -12869,7 +12869,7 @@
     <desc>An Oklahoma woman goes to rural Texas for a shot at love.</desc>
     <credits>
       <director>Bob Hasentufel</director>
-      <producer>Sharon Martin</producer>
+      <producer>Stephen Land</producer>
       <composer>Justin Melland</composer>
     </credits>
     <date>20201018</date>
@@ -12890,7 +12890,7 @@
     <desc>After a successful attorney is brutally murdered outside of his own office, investigators uncover a maze of obsession and jealousy that leads to a scornful perpetrator.</desc>
     <credits>
       <director>Bob Hasentufel</director>
-      <producer>Sharon Martin</producer>
+      <producer>Stephen Land</producer>
       <composer>Justin Melland</composer>
     </credits>
     <date>20201011</date>
@@ -12911,7 +12911,7 @@
     <desc>Questions about a Kansas City man's ties to the mafia are raised when he is found shot to death in his own home, but a closer inspection reveals a spiteful killer with a more personal connection.</desc>
     <credits>
       <director>Bob Hasentufel</director>
-      <producer>Sharon Martin</producer>
+      <producer>Stephen Land</producer>
       <composer>Justin Melland</composer>
     </credits>
     <date>20201004</date>
@@ -12932,7 +12932,7 @@
     <desc>When the body of a beloved father is discovered abandoned in a South Carolina home, detectives uncover a toxic love affair with deadly consequences.</desc>
     <credits>
       <director>Bob Hasentufel</director>
-      <producer>Sharon Martin</producer>
+      <producer>Stephen Land</producer>
       <composer>Justin Melland</composer>
     </credits>
     <date>20200927</date>
@@ -12953,7 +12953,7 @@
     <desc>The identity of a Jane Doe found dead in a New Jersey park holds the key to unravelling a web of fraud and murder that spanned years and pulled in multiple victims along the way.</desc>
     <credits>
       <director>Bob Hasentufel</director>
-      <producer>Sharon Martin</producer>
+      <producer>Stephen Land</producer>
       <composer>Justin Melland</composer>
     </credits>
     <date>20200920</date>
@@ -15154,7 +15154,6 @@
     <title lang="es">Hoy en la Copa Mundial</title>
     <desc>Las principales historias del día contadas desde los estadios y campos de entrenamiento con un enfoque entretenido. Noticias, reportajes, entrevistas y el análisis previo al juego en vivo.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221204143000 +0000" stop="20221204170000 +0000" channel="Telemundo">
     <title lang="es">Copa Mundial de la FIFA Catar 2022</title>

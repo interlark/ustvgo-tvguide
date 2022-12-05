@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221205193507" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221205201202" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -9641,7 +9641,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5805000918.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E26</episode-num>
     <episode-num system="xmltv_ns">0.25.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -16326,6 +16325,7 @@
     <title lang="en">Kill Bill: Volume 2</title>
     <desc>Quentin Tarantino's highly stylized revenge saga comes to a bloody good conclusion as the Bride continues to avenge her wedding-day massacre. After eliminating one enemy after another, the stage is set for an epic showdown with her former boss and lover.</desc>
     <date>20040000</date>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

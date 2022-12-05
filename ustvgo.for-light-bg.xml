@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221205064027" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221205071122" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2961,6 +2961,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10619857429.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S36E49</episode-num>
     <episode-num system="xmltv_ns">35.48.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -6020,6 +6021,7 @@
     <credits>
       <director>Bob Koherr</director>
       <actor>Trevor Tordjman</actor>
+      <writer>Pamela Eells</writer>
       <producer>Shari Tavey</producer>
       <composer>Steve Hampton</composer>
     </credits>
@@ -7242,7 +7244,7 @@
     <sub-title>Reel Theatres</sub-title>
     <desc>Salvaging a movie theater for analog projectors, movie screens, and neon letters.</desc>
     <credits>
-      <producer>Bill Hayes</producer>
+      <producer>Kirk Streb</producer>
       <composer>Aaron Keane</composer>
     </credits>
     <date>20141109</date>
@@ -7264,7 +7266,7 @@
     <sub-title>Bowman House</sub-title>
     <desc>Salvaging pocket doors, an armoire, and heart pine flooring from an early 1800s farmhouse.</desc>
     <credits>
-      <producer>Bill Hayes</producer>
+      <producer>Kirk Streb</producer>
       <composer>Aaron Keane</composer>
     </credits>
     <date>20141123</date>
@@ -7286,7 +7288,7 @@
     <sub-title>St. Andrews Church Spires</sub-title>
     <desc>Salvaging copper elements from a Virginia church.</desc>
     <credits>
-      <producer>Bill Hayes</producer>
+      <producer>Kirk Streb</producer>
       <composer>Aaron Keane</composer>
     </credits>
     <date>20141228</date>
@@ -7308,7 +7310,7 @@
     <sub-title>Weatherford Farmhouse</sub-title>
     <desc>Milk-painted paneling and an arched window are salvaged from a farmhouse in South Boston, VA.</desc>
     <credits>
-      <producer>Bill Hayes</producer>
+      <producer>Kirk Streb</producer>
       <composer>Aaron Keane</composer>
     </credits>
     <date>20141221</date>
@@ -7510,7 +7512,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4216169712.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4216169735.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221205063000 +0000" stop="20221205080000 +0000" channel="ESPN">
     <title lang="en">SportsCenter with Scott Van Pelt</title>

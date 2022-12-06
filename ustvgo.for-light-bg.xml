@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221206173533" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221206181425" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -597,6 +597,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8483786729.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S43E249</episode-num>
     <episode-num system="xmltv_ns">42.248.</episode-num>
+    <new/>
   </programme>
   <programme start="20221207060700 +0000" stop="20221207100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -3078,6 +3079,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7834104618.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E43</episode-num>
     <episode-num system="xmltv_ns">7.42.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -13025,6 +13027,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10770481237.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S10E33</episode-num>
     <episode-num system="xmltv_ns">9.32.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -18996,7 +18999,6 @@
     <title lang="es">Noticiero Univision - Edicion Digital</title>
     <sub-title>12-06-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221206173000 +0000" stop="20221206180000 +0000" channel="Univision">
     <title lang="es">Nosotros los Guapos</title>

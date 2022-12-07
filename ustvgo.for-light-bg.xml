@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221207194231" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221207201212" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -1574,7 +1574,23 @@
     </star-rating>
   </programme>
   <programme start="20221207230000 +0000" stop="20221208011500 +0000" channel="AMC">
-    <title>National Lampoon's Christmas Vacation</title>
+    <title lang="en">National Lampoon's Christmas Vacation</title>
+    <desc>A family host their dysfunctional relatives for the holiday as the dad contends with spontaneously combusting Christmas lights and temperamental trees while anticipating the arrival of his annual bonus.</desc>
+    <date>19890000</date>
+    <category>Comedy</category>
+    <category>Christmas</category>
+    <category>Sequel</category>
+    <length units="seconds">5820</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172476166.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7540900309.JPEG" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>49/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/49.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221207150000 +0000" stop="20221207160000 +0000" channel="Animal">
     <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
@@ -9884,7 +9900,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5805000918.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E27</episode-num>
     <episode-num system="xmltv_ns">0.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>

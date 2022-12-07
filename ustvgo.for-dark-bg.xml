@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221207194016" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221207201203" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -1574,7 +1574,23 @@
     </star-rating>
   </programme>
   <programme start="20221207230000 +0000" stop="20221208011500 +0000" channel="AMC">
-    <title>National Lampoon's Christmas Vacation</title>
+    <title lang="en">National Lampoon's Christmas Vacation</title>
+    <desc>A family host their dysfunctional relatives for the holiday as the dad contends with spontaneously combusting Christmas lights and temperamental trees while anticipating the arrival of his annual bonus.</desc>
+    <date>19890000</date>
+    <category>Comedy</category>
+    <category>Christmas</category>
+    <category>Sequel</category>
+    <length units="seconds">5820</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-172476166.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7540900309.JPEG" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>49/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/49.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221207150000 +0000" stop="20221207160000 +0000" channel="Animal">
     <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
@@ -8694,7 +8710,8 @@
     <desc>News stories from around the world are presented.</desc>
   </programme>
   <programme start="20221207230000 +0000" stop="20221207233000 +0000" channel="FOXNY">
-    <title>The 6 O'Clock News</title>
+    <title lang="en">The 6 O'Clock News</title>
+    <desc>National and international news stories are presented.</desc>
   </programme>
   <programme start="20221207233000 +0000" stop="20221208000000 +0000" channel="FOXNY">
     <title lang="en">You Bet Your Life with Jay Leno</title>
@@ -8945,10 +8962,51 @@
     </star-rating>
   </programme>
   <programme start="20221207163000 +0000" stop="20221207190000 +0000" channel="Freeform">
-    <title>Home Alone</title>
+    <title lang="en">Home Alone</title>
+    <desc>A mischievous 8-year-old who's picked on by his older siblings and ignored by his parents would really rather be left alone—and that's exactly what happens when he gets accidentally left behind in a frenzied rush to the airport for a family vacation in Paris over the holiday season. After learning to fend for himself, the boy has to protect his house against two bumbling burglars who are planning to rob it.</desc>
+    <date>20070827</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Christmas</category>
+    <category>Other</category>
+    <length units="seconds">6120</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9441893422.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6244701191.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>63/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/63.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221207190000 +0000" stop="20221207213000 +0000" channel="Freeform">
-    <title>Home Alone 2: Lost in New York</title>
+    <title lang="en">Home Alone 2: Lost in New York</title>
+    <desc>In this sequel, resourceful youngster Kevin McCallister is separated from his family and faces familiar foes in the Big Apple.</desc>
+    <date>20050929</date>
+    <category>Comedy</category>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Children</category>
+    <category>Christmas</category>
+    <category>Christmas</category>
+    <category>Other</category>
+    <category>Sequel</category>
+    <category>Sequel</category>
+    <length units="seconds">7200</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9441931528.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6831019978.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>46/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/46.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221207213000 +0000" stop="20221207233000 +0000" channel="Freeform">
     <title lang="en">The Santa Clause</title>
@@ -8972,7 +9030,22 @@
     </star-rating>
   </programme>
   <programme start="20221207233000 +0000" stop="20221208020000 +0000" channel="Freeform">
-    <title>The Santa Clause 2</title>
+    <title lang="en">The Santa Clause 2</title>
+    <desc>Tim Allen returns as jolly old Father Christmas in this charming, family-friendly sequel to 1994's "The Santa Clause." Having been the new Santa Claus for eight years, Scott Calvin (Allen) discovers he must find a wife---or his reign as Santa will end. While searching for a Mrs. Claus, Scott finds out that his rebellious son (Eric Lloyd) has landed on the "naughty list." Elizabeth Mitchell.</desc>
+    <date>20050512</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Fantasy</category>
+    <category>Christmas</category>
+    <category>Sequel</category>
+    <length units="seconds">6300</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7708158258.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7708158262.jpg" width="720" height="442"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <star-rating system="Metascore">
+      <value>48/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221207143000 +0000" stop="20221207170000 +0000" channel="FS1">
     <title lang="en">Skip and Shannon: Undisputed</title>
@@ -9827,7 +9900,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5805000918.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E27</episode-num>
     <episode-num system="xmltv_ns">0.26.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -10509,7 +10581,20 @@
     </rating>
   </programme>
   <programme start="20221207180000 +0000" stop="20221207190000 +0000" channel="HLN">
-    <title>Real Life Nightmare With Paul Holes</title>
+    <title lang="en">Real Life Nightmare With Paul Holes</title>
+    <sub-title>Secrets in the Catholic Church: Father Kunz Murder</sub-title>
+    <desc>A deeper look into the murder of Father Kunz and if his death is connected his investigation of sex abuse in the church.</desc>
+    <date>20221204</date>
+    <category>Drama</category>
+    <category>Documentary</category>
+    <category>Crime</category>
+    <category>Mystery &amp; Suspense</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9374486988.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9374486992.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20221207190000 +0000" stop="20221207200000 +0000" channel="HLN">
     <title lang="en">Real Life Nightmare</title>

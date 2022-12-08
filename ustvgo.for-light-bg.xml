@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221208213534" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221208221114" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -4460,7 +4460,6 @@
   <programme start="20221208210000 +0000" stop="20221208220000 +0000" channel="CNBC">
     <title lang="en">Closing Bell: Overtime</title>
     <desc>Covering after-hours moves including corporate earnings &amp; post-market trading.</desc>
-    <live/>
   </programme>
   <programme start="20221208220000 +0000" stop="20221208230000 +0000" channel="CNBC">
     <title lang="en">Fast Money</title>
@@ -4489,7 +4488,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172509905.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7530685391.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221209000000 +0000" stop="20221209010000 +0000" channel="CNBC">
     <title lang="en">Shark Tank</title>
@@ -4676,7 +4674,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7533987230.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E243</episode-num>
     <episode-num system="xmltv_ns">2021.242.</episode-num>
-    <new/>
   </programme>
   <programme start="20221209010000 +0000" stop="20221209020000 +0000" channel="CNN">
     <title lang="en">Anderson Cooper 360</title>
@@ -4691,7 +4688,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7526634421.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2022E305</episode-num>
     <episode-num system="xmltv_ns">2021.304.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4709,7 +4705,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7526634421.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2022E306</episode-num>
     <episode-num system="xmltv_ns">2021.305.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4725,7 +4720,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10090557879.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2022E401</episode-num>
     <episode-num system="xmltv_ns">2021.400.</episode-num>
-    <new/>
   </programme>
   <programme start="20221209040000 +0000" stop="20221209050000 +0000" channel="CNN">
     <title lang="en">CNN Tonight</title>
@@ -4738,7 +4732,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10090557879.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2022E402</episode-num>
     <episode-num system="xmltv_ns">2021.401.</episode-num>
-    <new/>
   </programme>
   <programme start="20221208203000 +0000" stop="20221208210000 +0000" channel="Comedy">
     <title lang="en">Seinfeld</title>
@@ -8219,7 +8212,6 @@
   </programme>
   <programme start="20221209000000 +0000" stop="20221209020000 +0000" channel="ESPN">
     <title lang="en">The Home Depot College Football Awards</title>
-    <live/>
   </programme>
   <programme start="20221209020000 +0000" stop="20221209023000 +0000" channel="ESPN">
     <title lang="en">Top Ten Heisman Trophy Finalists Show</title>
@@ -8251,7 +8243,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4216169712.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4216169735.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221208190000 +0000" stop="20221208210000 +0000" channel="ESPN2">
     <title lang="en">Women's College Volleyball</title>
@@ -8269,7 +8260,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3272239623.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9436557727.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221208213000 +0000" stop="20221208220000 +0000" channel="ESPN2">
     <title lang="en">College Football Live</title>
@@ -8283,7 +8273,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812436.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3383812435.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221208220000 +0000" stop="20221208230000 +0000" channel="ESPN2">
     <title lang="en">NFL Live</title>
@@ -8333,28 +8322,24 @@
     <sub-title>Regional Semifinal</sub-title>
     <desc>An NCAA Tournament regional semifinal.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221208220000 +0000" stop="20221209000000 +0000" channel="ESPNU">
     <title lang="en">Women's College Volleyball</title>
     <sub-title>Regional Semifinal</sub-title>
     <desc>An NCAA Tournament regional semifinal.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221209000000 +0000" stop="20221209020000 +0000" channel="ESPNU">
     <title lang="en">Women's College Volleyball</title>
     <sub-title>Regional Semifinal</sub-title>
     <desc>An NCAA Tournament regional semifinal.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221209020000 +0000" stop="20221209040000 +0000" channel="ESPNU">
     <title lang="en">Women's College Volleyball</title>
     <sub-title>Regional Semifinal</sub-title>
     <desc>An NCAA Tournament regional semifinal.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221209040000 +0000" stop="20221209043000 +0000" channel="ESPNU">
     <title lang="en">College Football Live</title>
@@ -9295,7 +9280,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11100416504.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11100416499.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221209010000 +0000" stop="20221209020000 +0000" channel="FoxNews">
     <title lang="en">Tucker Carlson Tonight</title>
@@ -9308,7 +9292,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9106724071.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E244</episode-num>
     <episode-num system="xmltv_ns">2021.243.</episode-num>
-    <new/>
   </programme>
   <programme start="20221209020000 +0000" stop="20221209030000 +0000" channel="FoxNews">
     <title lang="en">Hannity</title>
@@ -9322,7 +9305,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8668848580.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E244</episode-num>
     <episode-num system="xmltv_ns">2021.243.</episode-num>
-    <new/>
   </programme>
   <programme start="20221209030000 +0000" stop="20221209040000 +0000" channel="FoxNews">
     <title lang="en">The Ingraham Angle</title>
@@ -9334,7 +9316,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12138262055.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E245</episode-num>
     <episode-num system="xmltv_ns">2021.244.</episode-num>
-    <new/>
   </programme>
   <programme start="20221209040000 +0000" stop="20221209050000 +0000" channel="FoxNews">
     <title lang="en">Gutfeld!</title>
@@ -9348,7 +9329,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9930843238.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E244</episode-num>
     <episode-num system="xmltv_ns">2021.243.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -9448,7 +9428,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E216</episode-num>
     <episode-num system="xmltv_ns">2021.215.</episode-num>
-    <live/>
   </programme>
   <programme start="20221208213000 +0000" stop="20221208230000 +0000" channel="FS1">
     <title lang="en">Speak</title>
@@ -10276,7 +10255,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221208230000 +0000" stop="20221209000000 +0000" channel="GOLF">
     <title lang="en">Golf Central</title>
@@ -11148,7 +11126,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12224378247.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E05</episode-num>
     <episode-num system="xmltv_ns">0.4.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -12415,7 +12392,6 @@
     <sub-title>12-08-2022</sub-title>
     <desc>Host Joy Reid provides a unique look at the day's top stories.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221209010000 +0000" stop="20221209020000 +0000" channel="MSNBC">
     <title lang="en">All In With Chris Hayes</title>
@@ -12430,14 +12406,12 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7367643728.jpg" width="720" height="534"/>
     <episode-num system="onscreen">S2022E239</episode-num>
     <episode-num system="xmltv_ns">2021.238.</episode-num>
-    <live/>
   </programme>
   <programme start="20221209020000 +0000" stop="20221209030000 +0000" channel="MSNBC">
     <title lang="en">Alex Wagner Tonight</title>
     <sub-title>12-08-2022</sub-title>
     <desc>Alex Wagner covers the news of the day, politics, and the cultural trends that are shaping American lives.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221209030000 +0000" stop="20221209040000 +0000" channel="MSNBC">
     <title lang="en">The Last Word With Lawrence O'Donnell</title>
@@ -12451,7 +12425,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9916644343.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E234</episode-num>
     <episode-num system="xmltv_ns">2021.233.</episode-num>
-    <live/>
   </programme>
   <programme start="20221209040000 +0000" stop="20221209050000 +0000" channel="MSNBC">
     <title lang="en">The 11th Hour with Stephanie Ruhle</title>
@@ -12466,7 +12439,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11232920081.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S01E195</episode-num>
     <episode-num system="xmltv_ns">0.194.</episode-num>
-    <live/>
   </programme>
   <programme start="20221208203000 +0000" stop="20221208210000 +0000" channel="MTV">
     <title lang="en">Ridiculousness</title>
@@ -13387,6 +13359,7 @@
   <programme start="20221209093000 +0000" stop="20221209100000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221209100000 +0000" stop="20221209120000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -17655,7 +17628,6 @@
   <programme start="20221209010000 +0000" stop="20221209020000 +0000" channel="Telemundo">
     <title lang="es">Exatlon Estados Unidos: All-Stars</title>
     <desc>Los cuatro mejores de la séptima temporada contra 12 'All Stars' que han dejado huella.</desc>
-    <new/>
   </programme>
   <programme start="20221209020000 +0000" stop="20221209030000 +0000" channel="Telemundo">
     <title lang="es">La Reina del Sur</title>
@@ -17668,7 +17640,6 @@
   </programme>
   <programme start="20221209030000 +0000" stop="20221209040000 +0000" channel="Telemundo">
     <title lang="es">Amor y traición</title>
-    <new/>
   </programme>
   <programme start="20221209040000 +0000" stop="20221209043500 +0000" channel="Telemundo">
     <title lang="es">Noticias Telemundo</title>

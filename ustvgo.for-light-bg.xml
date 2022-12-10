@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221210051032" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221210053510" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -1551,7 +1551,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7724900579.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S30E09</episode-num>
     <episode-num system="xmltv_ns">29.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4215,7 +4214,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10090557879.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2022E402</episode-num>
     <episode-num system="xmltv_ns">2021.401.</episode-num>
-    <new/>
   </programme>
   <programme start="20221210050000 +0000" stop="20221210060000 +0000" channel="CNN">
     <title lang="en">Anderson Cooper 360</title>
@@ -8163,6 +8161,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12252084294.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12224090974.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221210190000 +0000" stop="20221210210000 +0000" channel="FOX">
     <title lang="en">2022 FIFA World Cup Qatar</title>
@@ -8792,7 +8791,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9930843238.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E244</episode-num>
     <episode-num system="xmltv_ns">2021.243.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -9046,7 +9044,6 @@
   <programme start="20221210043000 +0000" stop="20221210050000 +0000" channel="FS1">
     <title lang="en">FIFA World Cup Preview Show</title>
     <desc>A look at upcoming action in the soccer tournament in Qatar, plus analysis and features.</desc>
-    <new/>
   </programme>
   <programme start="20221210050000 +0000" stop="20221210070000 +0000" channel="FS1">
     <title lang="en">The 2022 World Series Documentary</title>
@@ -11971,29 +11968,28 @@
     <title lang="en">The Last Word With Lawrence O'Donnell</title>
     <sub-title>12-08-2022</sub-title>
     <desc>Analysis and discussion of the day's top stories and compelling issues from Lawrence O'Donnell.</desc>
-    <date>20221208</date>
+    <date>20221209</date>
     <category>Current affairs</category>
     <category>Newsmagazine</category>
     <category>Politics</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9916644342.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9916644343.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S2022E234</episode-num>
-    <episode-num system="xmltv_ns">2021.233.</episode-num>
+    <episode-num system="onscreen">S2022E235</episode-num>
+    <episode-num system="xmltv_ns">2021.234.</episode-num>
   </programme>
   <programme start="20221210040000 +0000" stop="20221210050000 +0000" channel="MSNBC">
     <title lang="en">The 11th Hour with Stephanie Ruhle</title>
     <sub-title>12-08-2022</sub-title>
     <desc>The latest updates on evolving news stories.</desc>
-    <date>20221208</date>
+    <date>20221209</date>
     <category>Talk</category>
     <category>Current affairs</category>
     <category>Newsmagazine</category>
     <category>Social issues</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11232916878.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11232920081.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S01E195</episode-num>
-    <episode-num system="xmltv_ns">0.194.</episode-num>
-    <live/>
+    <episode-num system="onscreen">S01E196</episode-num>
+    <episode-num system="xmltv_ns">0.195.</episode-num>
   </programme>
   <programme start="20221210050000 +0000" stop="20221210060000 +0000" channel="MSNBC">
     <title lang="en">Alex Wagner Tonight</title>
@@ -12005,28 +12001,28 @@
     <title lang="en">The Last Word With Lawrence O'Donnell</title>
     <sub-title>12-08-2022</sub-title>
     <desc>Analysis and discussion of the day's top stories and compelling issues from Lawrence O'Donnell.</desc>
-    <date>20221208</date>
+    <date>20221209</date>
     <category>Current affairs</category>
     <category>Newsmagazine</category>
     <category>Politics</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9916644342.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9916644343.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S2022E234</episode-num>
-    <episode-num system="xmltv_ns">2021.233.</episode-num>
+    <episode-num system="onscreen">S2022E235</episode-num>
+    <episode-num system="xmltv_ns">2021.234.</episode-num>
   </programme>
   <programme start="20221210070000 +0000" stop="20221210080000 +0000" channel="MSNBC">
     <title lang="en">The 11th Hour with Stephanie Ruhle</title>
     <sub-title>12-08-2022</sub-title>
     <desc>The latest updates on evolving news stories.</desc>
-    <date>20221208</date>
+    <date>20221209</date>
     <category>Talk</category>
     <category>Current affairs</category>
     <category>Newsmagazine</category>
     <category>Social issues</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11232916878.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11232920081.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S01E195</episode-num>
-    <episode-num system="xmltv_ns">0.194.</episode-num>
+    <episode-num system="onscreen">S01E196</episode-num>
+    <episode-num system="xmltv_ns">0.195.</episode-num>
   </programme>
   <programme start="20221210080000 +0000" stop="20221210100000 +0000" channel="MSNBC">
     <title lang="en">Dateline</title>
@@ -15397,7 +15393,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8377135117.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S05E116</episode-num>
     <episode-num system="xmltv_ns">4.115.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -15685,7 +15680,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11899780543.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11824164808.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -16166,7 +16160,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221210050000 +0000" stop="20221210060000 +0000" channel="Showtime">
     <title lang="en">George &amp; Tammy</title>
@@ -17040,7 +17033,6 @@
     <title lang="es">Noticias Telemundo en la Noche</title>
     <desc>En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.</desc>
     <date>20200000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -18664,7 +18656,6 @@
     <title lang="es">Noticiero Univision - Edicion Nocturna</title>
     <sub-title>12-09-2022</sub-title>
     <date>19830000</date>
-    <live/>
   </programme>
   <programme start="20221210050000 +0000" stop="20221210060000 +0000" channel="Univision">
     <title lang="es">Contacto Deportivo</title>

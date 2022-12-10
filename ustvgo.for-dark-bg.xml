@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221210133545" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221210140932" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -594,6 +594,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124289.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124288.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221211040000 +0000" stop="20221211100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -5824,7 +5825,6 @@
     <title lang="en">Yu-Gi-Oh! Sevens</title>
     <sub-title>CooCoo Duel</sub-title>
     <desc>Luke goes stir crazy over a pigeon duel.</desc>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -6373,7 +6373,6 @@
   </programme>
   <programme start="20221210123000 +0000" stop="20221210133000 +0000" channel="E">
     <title lang="en">Grand Prix Final: Men's Free</title>
-    <new/>
   </programme>
   <programme start="20221210133000 +0000" stop="20221210143000 +0000" channel="E">
     <title lang="en">Grand Prix Final: Women's Short</title>
@@ -17141,7 +17140,6 @@
     <title lang="es">Planeta de Niños</title>
     <sub-title>12-10-2022</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>

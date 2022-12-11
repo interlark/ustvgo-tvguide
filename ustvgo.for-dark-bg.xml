@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221211193444" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221211201123" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -3043,7 +3043,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10170978579.JPEG" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7535830290.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -8285,10 +8284,11 @@
   <programme start="20221211212500 +0000" stop="20221211222500 +0000" channel="HBO">
     <title lang="en">His Dark Materials</title>
     <sub-title>The Enchanted Sleeper</sub-title>
+    <desc>As Will hunts for Lyra across worlds, Asriel recruits for his war against the Authority.</desc>
     <credits>
       <director>Jamie Childs</director>
       <actor role="Tony Costa">Daniel Frogson</actor>
-      <writer>Philip Pullman</writer>
+      <writer>Jack Thorne</writer>
       <producer>Stephen Haren</producer>
       <composer>Lorne Balfe</composer>
     </credits>
@@ -8305,8 +8305,8 @@
       <value>TV-14</value>
     </rating>
     <star-rating system="Metascore">
-      <value>70/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/70.png" width="128" height="128"/>
+      <value>71/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/71.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221211222500 +0000" stop="20221211233500 +0000" channel="HBO">
@@ -8316,7 +8316,7 @@
     <credits>
       <director>Jamie Childs</director>
       <actor role="Tony Costa">Daniel Frogson</actor>
-      <writer>Philip Pullman</writer>
+      <writer>Jack Thorne</writer>
       <producer>Stephen Haren</producer>
       <composer>Lorne Balfe</composer>
     </credits>

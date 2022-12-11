@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221211213503" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221211221018" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -7125,7 +7125,6 @@
     <title lang="en">Horse Racing</title>
     <sub-title>America's Day at the Race</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221211213000 +0000" stop="20221211233000 +0000" channel="FS1">
     <title lang="en">College Basketball</title>
@@ -7844,7 +7843,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20221211213000 +0000" stop="20221212013000 +0000" channel="GOLF">
     <title lang="en">PGA Tour Golf</title>
@@ -10678,6 +10676,7 @@
   <programme start="20221212093000 +0000" stop="20221212100000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221212100000 +0000" stop="20221212120000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

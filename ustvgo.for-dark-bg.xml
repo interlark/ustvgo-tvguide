@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221212132356" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221212133856" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -530,6 +530,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-850370562.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S10E05</episode-num>
     <episode-num system="xmltv_ns">9.4.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4650,7 +4651,6 @@
   <programme start="20221212120000 +0000" stop="20221212130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221212130000 +0000" stop="20221212140000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
@@ -5202,6 +5202,7 @@
   <programme start="20221213010000 +0000" stop="20221213020000 +0000" channel="CW">
     <title lang="en">Dogs of The Year</title>
     <date>20220000</date>
+    <new/>
   </programme>
   <programme start="20221213020000 +0000" stop="20221213030000 +0000" channel="CW">
     <title lang="en">Scooby-Doo, Where Are You Now</title>
@@ -5380,6 +5381,7 @@
   <programme start="20221213010000 +0000" stop="20221213020000 +0000" channel="CWNY">
     <title lang="en">Dogs of The Year</title>
     <date>20220000</date>
+    <new/>
   </programme>
   <programme start="20221213020000 +0000" stop="20221213030000 +0000" channel="CWNY">
     <title lang="en">Scooby-Doo, Where Are You Now</title>
@@ -7665,7 +7667,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221212130000 +0000" stop="20221212150000 +0000" channel="ESPN">
     <title lang="en">Get Up</title>
@@ -8171,6 +8172,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10921201721.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S02E11</episode-num>
     <episode-num system="xmltv_ns">1.10.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -10522,7 +10524,6 @@
   <programme start="20221212120000 +0000" stop="20221212130000 +0000" channel="HLN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221212130000 +0000" stop="20221212140000 +0000" channel="HLN">
     <title lang="en">CNN This Morning</title>
@@ -11298,7 +11299,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8603035438.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S14E167</episode-num>
     <episode-num system="xmltv_ns">13.166.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -11519,7 +11519,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8603035438.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S14E167</episode-num>
     <episode-num system="xmltv_ns">13.166.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -12973,6 +12972,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12007251537.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S22E22</episode-num>
     <episode-num system="xmltv_ns">21.21.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>

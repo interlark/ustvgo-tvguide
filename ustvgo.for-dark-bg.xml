@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221213213521" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221213221100" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -4240,7 +4240,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5844050544.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6313856865.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -12785,6 +12784,7 @@
   <programme start="20221214093000 +0000" stop="20221214100000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221214100000 +0000" stop="20221214120000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -16634,7 +16634,6 @@
     <title lang="es">Debate Mundial</title>
     <desc>Desde Catar, exjugadores y entrenadores discuten sobre las acciones más relevantes y controversiales de cada juego. Entrevistas post partido, ruedas de prensa y un vistazo al futuro del torneo.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221213213000 +0000" stop="20221213223000 +0000" channel="Telemundo">
     <title lang="es">Al Rojo Vivo: Edicion Mundial</title>
@@ -16659,7 +16658,6 @@
     <sub-title>12-13-2022</sub-title>
     <desc>Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>

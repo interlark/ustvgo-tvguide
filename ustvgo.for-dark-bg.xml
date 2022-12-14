@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221214173525" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221214181424" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -525,8 +525,8 @@
     <credits>
       <director>David Katzenberg</director>
       <actor>Sam Lerner</actor>
-      <writer>Chris Bishop</writer>
-      <producer>Doug Robinson</producer>
+      <writer>Adam Goldberg</writer>
+      <producer>Adam F. Goldberg</producer>
       <composer>Michael Wandmacher</composer>
     </credits>
     <date>20221116</date>
@@ -621,6 +621,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8483786729.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S43E256</episode-num>
     <episode-num system="xmltv_ns">42.255.</episode-num>
+    <new/>
   </programme>
   <programme start="20221215060700 +0000" stop="20221215100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -4176,7 +4177,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5844050544.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6313856865.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -12697,6 +12697,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10770481237.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S10E38</episode-num>
     <episode-num system="xmltv_ns">9.37.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -14536,7 +14537,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
+      <writer>Jim Patterson</writer>
       <producer>Eric Tannenbaum</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
@@ -14568,7 +14569,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
+      <writer>Jim Patterson</writer>
       <producer>Eric Tannenbaum</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
@@ -14600,7 +14601,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
+      <writer>Jim Patterson</writer>
       <producer>Eric Tannenbaum</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
@@ -14632,7 +14633,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
+      <writer>Jim Patterson</writer>
       <producer>Eric Tannenbaum</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
@@ -14664,7 +14665,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
+      <writer>Jim Patterson</writer>
       <producer>Eric Tannenbaum</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
@@ -14696,7 +14697,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
+      <writer>Jim Patterson</writer>
       <producer>Eric Tannenbaum</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
@@ -14728,7 +14729,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
+      <writer>Jim Patterson</writer>
       <producer>Eric Tannenbaum</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
@@ -14760,7 +14761,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
-      <writer>James Widdoes</writer>
+      <writer>Jim Patterson</writer>
       <producer>Eric Tannenbaum</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
@@ -17470,8 +17471,8 @@
     <credits>
       <director>Robert Singer</director>
       <actor role="Ash">Chad Lindberg</actor>
-      <writer>Ben Edlund</writer>
-      <producer>Eric Kripke</producer>
+      <writer>Daniel Loflin</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20191211</date>
@@ -17500,8 +17501,8 @@
     <credits>
       <director>Robert Singer</director>
       <actor role="Ash">Chad Lindberg</actor>
-      <writer>Ben Edlund</writer>
-      <producer>Eric Kripke</producer>
+      <writer>Daniel Loflin</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20200123</date>
@@ -17530,8 +17531,8 @@
     <credits>
       <director>Robert Singer</director>
       <actor role="Ash">Chad Lindberg</actor>
-      <writer>Ben Edlund</writer>
-      <producer>Eric Kripke</producer>
+      <writer>Daniel Loflin</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20200109</date>
@@ -17560,8 +17561,8 @@
     <credits>
       <director>Robert Singer</director>
       <actor role="Ash">Chad Lindberg</actor>
-      <writer>Ben Edlund</writer>
-      <producer>Eric Kripke</producer>
+      <writer>Daniel Loflin</writer>
+      <producer>Cyrus Yavneh</producer>
       <composer>Christopher Lennertz</composer>
     </credits>
     <date>20200316</date>
@@ -18213,7 +18214,7 @@
     <desc>The Cartwrights try to help blacksmith Sam Hill regain title to the land where his mother is buried. Ben: Lorne Greene. Tyson: Ford Rainey. Adam: Pernell Roberts. Henry: Edgar Buchanan. Billy: Robert Ridgely. Lil: Caroline Richter.</desc>
     <credits>
       <director>William F. Claxton</director>
-      <actor role="Deputy Clem Foster">Bing Russell</actor>
+      <actor role="Major Reynolds">Bing Russell</actor>
       <writer>John Hawkins</writer>
       <producer>David Dortort</producer>
       <composer>Walter Scharf</composer>
@@ -18570,7 +18571,6 @@
     <title lang="es">Noticiero Univision - Edicion Digital</title>
     <sub-title>12-14-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221214173000 +0000" stop="20221214180000 +0000" channel="Univision">
     <title lang="es">Nosotros los guapos</title>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221217124946" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221217131254" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -558,6 +558,7 @@
     <sub-title>SMU vs. BYU</sub-title>
     <desc>SMU (7-5) vs. BYU (7-5). From University Stadium in Albuquerque.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221218040000 +0000" stop="20221218100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -8264,7 +8265,6 @@
     <sub-title>AfrAsia Bank Mauritius Open</sub-title>
     <desc>AfrAsia Bank Mauritius Open third-round play from Mont Choisy Le Golf in Grand Baie, Mauritius. Denmark's Rasmus Hojgaard won the last edition of this event in late 2019.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221217123000 +0000" stop="20221217160000 +0000" channel="GOLF">
     <title lang="en">DP World Tour Golf</title>

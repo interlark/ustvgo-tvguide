@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221217164120" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221217170914" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -740,16 +740,19 @@
   <programme start="20221217150000 +0000" stop="20221217160000 +0000" channel="ACCN">
     <title lang="en">ACC Huddle</title>
     <sub-title>Bowl Preview Special</sub-title>
+    <desc>An in-depth look at the ACC's nine bowl matchups, including Clemson-Tennessee (Orange), UNC-Oregon (Holiday), Florida State-Oklahoma (Cheez-It), Duke-UCF (Military), Pittsburgh-UCLA (Sun), N.C. State-Maryland (Duke's Mayo), Louisville-Cincinnati (Fenway), Wake Forest-Missouri (Gasparilla) and Syracuse-Minnesota (Pinstripe).</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221217160000 +0000" stop="20221217170000 +0000" channel="ACCN">
     <title lang="en">ACC Huddle</title>
     <sub-title>Bowl Preview Special</sub-title>
+    <desc>An in-depth look at the ACC's nine bowl matchups, including Clemson-Tennessee (Orange), UNC-Oregon (Holiday), Florida State-Oklahoma (Cheez-It), Duke-UCF (Military), Pittsburgh-UCLA (Sun), N.C. State-Maryland (Duke's Mayo), Louisville-Cincinnati (Fenway), Wake Forest-Missouri (Gasparilla) and Syracuse-Minnesota (Pinstripe).</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221217170000 +0000" stop="20221217180000 +0000" channel="ACCN">
     <title lang="en">ACC Huddle</title>
     <sub-title>Bowl Preview Special</sub-title>
+    <desc>An in-depth look at the ACC's nine bowl matchups, including Clemson-Tennessee (Orange), UNC-Oregon (Holiday), Florida State-Oklahoma (Cheez-It), Duke-UCF (Military), Pittsburgh-UCLA (Sun), N.C. State-Maryland (Duke's Mayo), Louisville-Cincinnati (Fenway), Wake Forest-Missouri (Gasparilla) and Syracuse-Minnesota (Pinstripe).</desc>
     <date>20220000</date>
   </programme>
   <programme start="20221217180000 +0000" stop="20221217200000 +0000" channel="ACCN">
@@ -10720,6 +10723,7 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
+    <live/>
   </programme>
   <programme start="20221218060200 +0000" stop="20221218063200 +0000" channel="NBC">
     <title lang="en">1st Look</title>

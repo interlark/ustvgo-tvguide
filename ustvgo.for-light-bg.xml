@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221217073424" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221217081253" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -7099,7 +7099,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221217073000 +0000" stop="20221217083000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -7666,6 +7665,7 @@
     <title lang="en">WWE Tribute To The Troops</title>
     <desc>The 20th anniversary of Tribute to the Troops, featuring live in ring action. WWE's top Superstars join together to celebrate the Army, Navy, Air Force, Marine Corps and Coast Guard in this annual can't-miss special.</desc>
     <date>20220000</date>
+    <new/>
   </programme>
   <programme start="20221217203000 +0000" stop="20221218010000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>
@@ -14984,9 +14984,7 @@
     <date>20050707</date>
     <category>Drama</category>
     <category>Comedy</category>
-    <category>Comedy</category>
     <category>Chick flick</category>
-    <category>Other</category>
     <category>Other</category>
     <category>Romance</category>
     <length units="seconds">8100</length>

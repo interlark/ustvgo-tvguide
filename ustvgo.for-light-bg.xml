@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221217083601" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221217090953" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -547,6 +547,7 @@
     <sub-title>Washington State vs. Fresno State</sub-title>
     <desc>Washington State (7-5) vs. Fresno State (9-4). From SoFi Stadium in Los Angeles.</desc>
     <date>20220000</date>
+    <live/>
   </programme>
   <programme start="20221218000000 +0000" stop="20221218003000 +0000" channel="ABC">
     <title lang="en">College Football Scoreboard</title>
@@ -8531,7 +8532,6 @@
   <programme start="20221217080000 +0000" stop="20221217083000 +0000" channel="FS1">
     <title lang="en">FIFA World Cup Preview Show</title>
     <desc>A look at upcoming action in the soccer tournament in Qatar, plus analysis and features.</desc>
-    <new/>
   </programme>
   <programme start="20221217083000 +0000" stop="20221217090000 +0000" channel="FS1">
     <title lang="en">TMZ Sports</title>

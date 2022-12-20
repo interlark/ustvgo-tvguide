@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221220122043" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221220125336" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -411,7 +411,6 @@
   <programme start="20221220110000 +0000" stop="20221220120000 +0000" channel="ABC">
     <title lang="en">America This Morning</title>
     <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
-    <new/>
   </programme>
   <programme start="20221220120000 +0000" stop="20221220140000 +0000" channel="ABC">
     <title lang="en">Good Morning America</title>
@@ -2047,12 +2046,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221220100000 +0000" stop="20221220110000 +0000" channel="BTN">
-    <title lang="en">Big Ten Football Championship</title>
-    <sub-title>Purdue vs. Michigan</sub-title>
-    <desc>Purdue (8-4) vs. Michigan (12-0) for the Big Ten title in Indianapolis. From Lucas Oil Stadium. Jim Harbaugh's No. 2 Wolverines eye back-to-back conference crowns for the first time since 2003-04. Purdue WR Charlie Jones was on last year's Iowa runner-up squad and led the Big Ten this season with 97 catches for 1199 yards.</desc>
-    <date>20220000</date>
-  </programme>
   <programme start="20221220110000 +0000" stop="20221220123000 +0000" channel="BTN">
     <title lang="en">Classic College Football</title>
     <sub-title>2017: Arizona vs. Purdue</sub-title>
@@ -2110,6 +2103,18 @@
     <sub-title>1994: Michigan State at Nebraska</sub-title>
     <desc>From 1994: Michigan State at Nebraska.</desc>
     <date>19941210</date>
+    <category>Classic sports</category>
+    <category>Basketball</category>
+    <category>College</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10859109819.jpg" width="487" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10859109823.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221220190000 +0000" stop="20221220200000 +0000" channel="BTN">
+    <title lang="en">Classic College Basketball</title>
+    <sub-title>1988: Indiana at Northwestern</sub-title>
+    <desc>From 1988: Indiana at Northwestern. The Wildcats edged Indiana 66-64.</desc>
+    <date>19880111</date>
     <category>Classic sports</category>
     <category>Basketball</category>
     <category>College</category>
@@ -4713,7 +4718,6 @@
   <programme start="20221220110000 +0000" stop="20221220120000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221220120000 +0000" stop="20221220130000 +0000" channel="CNN">
     <title lang="en">CNN This Morning</title>
@@ -8747,12 +8751,6 @@
     <episode-num system="xmltv_ns">2021.242.</episode-num>
     <live/>
   </programme>
-  <programme start="20221220080000 +0000" stop="20221220110000 +0000" channel="FS2">
-    <title lang="en">FOX PBC Pay-Per-View Prelims</title>
-    <sub-title>Deontay Wilder vs. Robert Helenius</sub-title>
-    <desc>Preliminary bouts on the Deontay Wilder-Robert Helenius card in Brooklyn, N.Y.</desc>
-    <date>20220000</date>
-  </programme>
   <programme start="20221220110000 +0000" stop="20221220120000 +0000" channel="FS2">
     <title lang="en">Bassmaster 2021 Review: Florida &amp; Tennessee</title>
     <desc>The 2021 Bassmaster Elite Series professional fishing tour started the year in Florida and Tennessee, see how the pros mastered the St. Johns River and Fort Loudoun.</desc>
@@ -8836,6 +8834,14 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11626967721.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/6/1-11626967716.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221220190000 +0000" stop="20221220200000 +0000" channel="FS2">
+    <title lang="en">NASCAR Race Hub Special</title>
+    <sub-title>Best of Radioactive Talladega</sub-title>
+    <date>20220000</date>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -10015,7 +10021,6 @@
   <programme start="20221220110000 +0000" stop="20221220120000 +0000" channel="HLN">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20221220120000 +0000" stop="20221220130000 +0000" channel="HLN">
     <title lang="en">CNN This Morning</title>
@@ -13018,10 +13023,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7900086176.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20221220100000 +0000" stop="20221220110000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-    <date>20210000</date>
-  </programme>
   <programme start="20221220110000 +0000" stop="20221220120000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
     <date>20210000</date>
@@ -13051,6 +13052,10 @@
     <date>20210000</date>
   </programme>
   <programme start="20221220180000 +0000" stop="20221220190000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+    <date>20210000</date>
+  </programme>
+  <programme start="20221220190000 +0000" stop="20221220200000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
     <date>20210000</date>
   </programme>
@@ -16742,7 +16747,6 @@
     <sub-title>Episode 7</sub-title>
     <desc>Emmy-Award winner Sheryl Lee Ralph joins Jennifer Hudson to talk about "Abbott Elementary." Jennifer also invites 10-year-old dancer Indy Bugg to perform.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>

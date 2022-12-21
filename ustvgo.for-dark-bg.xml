@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221221173442" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221221181326" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -633,6 +633,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8483786729.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S43E262</episode-num>
     <episode-num system="xmltv_ns">42.261.</episode-num>
+    <new/>
   </programme>
   <programme start="20221222060700 +0000" stop="20221222100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -12814,7 +12815,9 @@
   </programme>
   <programme start="20221221223000 +0000" stop="20221221230000 +0000" channel="NBA">
     <title lang="en">NBA TV Film Room</title>
-    <date>20220000</date>
+    <sub-title>12-01-2022</sub-title>
+    <desc>Stan Van Gundy and Sam Mitchell join host Chris Miles to dissect the major storylines in the first quarter of the 2022-23 NBA season, analyzing Steph Curry's improved playmaking; the Boston Celtics ball movement; Giannis Antetokounmpo the unstoppable force; and the breakout campaign from Shai Gilgeous-Alexander.</desc>
+    <date>20221201</date>
     <category>Sports stuff</category>
     <category>Pro</category>
     <category>Basketball</category>
@@ -18253,7 +18256,6 @@
     <title lang="es">Noticiero Univision - Edicion Digital</title>
     <sub-title>12-21-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221221173000 +0000" stop="20221221180000 +0000" channel="Univision">
     <title lang="es">Nosotros Los Guapos</title>

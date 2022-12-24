@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221224133448" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221224140927" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -1176,6 +1176,7 @@
   <programme start="20221224183000 +0000" stop="20221224190000 +0000" channel="AE">
     <title lang="en">Christmas Wars</title>
     <sub-title>Claus and Effect</sub-title>
+    <desc>In California, a paragliding Santa Claus has a head on collision with a power line. Fists fly between two bargain-hunting Black Friday shoppers at a mall in Kentucky.</desc>
     <date>20221213</date>
     <category>Documentary</category>
     <category>Christmas</category>
@@ -5358,7 +5359,6 @@
     <sub-title>Breaking Tradition</sub-title>
     <desc>The future of Rush Duels is in danger.</desc>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -16126,7 +16126,6 @@
     <title lang="es">Planeta de Niños</title>
     <sub-title>12-24-2022</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>

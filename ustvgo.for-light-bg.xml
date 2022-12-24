@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221224183612" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221224190824" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2667,6 +2667,8 @@
   <programme start="20221225010000 +0000" stop="20221225020000 +0000" channel="CBSSN">
     <title lang="en">Poker Masters</title>
     <sub-title>2022 Event 3 - $10K Pot Limit Omaha</sub-title>
+    <desc>Event 3 - $10K Pot Limit Omaha from the Aria Resort/Casino in Las Vegas.</desc>
+    <date>20221221</date>
     <category>Card game</category>
     <category>Other</category>
     <category>Poker</category>

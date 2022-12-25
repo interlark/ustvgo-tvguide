@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221225051012" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221225053438" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -495,6 +495,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124289.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124288.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221225193000 +0000" stop="20221225220000 +0000" channel="ABC">
     <title lang="en">NBA Basketball</title>
@@ -2565,6 +2566,7 @@
     <title lang="en">NFL Slimetime</title>
     <desc>Nate Burleson and Young Dylan turn NFL highlights into Slimelights in a Christmas special full of football fun and surprises.</desc>
     <date>20220000</date>
+    <new/>
   </programme>
   <programme start="20221225173000 +0000" stop="20221225180000 +0000" channel="CBS">
     <title lang="en">We Need to Talk</title>
@@ -6972,7 +6974,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7906884640.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E09</episode-num>
     <episode-num system="xmltv_ns">0.8.</episode-num>
-    <new/>
   </programme>
   <programme start="20221225045500 +0000" stop="20221225060000 +0000" channel="ESPN2">
     <title lang="en">Man in the Arena: Tom Brady</title>
@@ -14813,7 +14814,6 @@
   <programme start="20221225043000 +0000" stop="20221225050000 +0000" channel="Telemundo">
     <title lang="es">Zona Mixta</title>
     <desc>El deporte y el periodismo se unen todos los fines de semana en la Zona Mixta con las opiniones más controversiales y las entrevistas más relevantes del mundo deportivo.</desc>
-    <new/>
   </programme>
   <programme start="20221225050000 +0000" stop="20221225053000 +0000" channel="Telemundo">
     <title lang="es">Decisiones</title>
@@ -16536,7 +16536,6 @@
     <title lang="es">Noticiero Univision - Fin De Semana</title>
     <sub-title>12-24-2022</sub-title>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221225050000 +0000" stop="20221225070000 +0000" channel="Univision">
     <title lang="es">Misa de Gallo</title>

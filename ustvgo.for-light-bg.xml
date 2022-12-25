@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221225151030" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221225153450" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -801,17 +801,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="ABCNY">
-    <title lang="en">Good Morning America: Weekend Edition</title>
-    <sub-title>12-25-2022</sub-title>
-    <desc>The latest in news, weather, entertainment and lifestyle.</desc>
-    <date>20221225</date>
-    <category>Talk</category>
-    <category>Newsmagazine</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5936330548.JPG" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5936367808.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="ABCNY">
     <title lang="en">Eyewitness News Sunday Morning</title>
     <desc>Local news, sports and weather.</desc>
@@ -850,15 +839,17 @@
     <episode-num system="onscreen">S--E00</episode-num>
     <live/>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="ACCN">
-    <title lang="en">All ACC</title>
-    <sub-title>Holiday Special</sub-title>
-    <category>Sports</category>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712023489.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7712023491.jpg" width="720" height="405"/>
+  <programme start="20221225220000 +0000" stop="20221226003000 +0000" channel="ABCNY">
+    <title lang="en">NBA Basketball</title>
+    <sub-title>Milwaukee Bucks at Boston Celtics</sub-title>
+    <desc>Milwaukee Bucks at Boston Celtics. From TD Garden.</desc>
+    <date>20221225</date>
+    <category>Pro</category>
+    <category>Basketball</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124289.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124288.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="ACCN">
     <title lang="en">All ACC</title>
@@ -916,25 +907,31 @@
     <desc>Clemson (10-2) vs. North Carolina (9-3) for the ACC title in Charlotte, N.C. From Bank of America Stadium. Freshman QB Drake Maye (41 overall TDs, 5 INTs) and UNC are 6-0 away from home entering this clash of teams coming off disappointing home losses. Sophomore RB Will Shipley powers the Tigers' bid for their seventh ACC title in eight years.</desc>
     <date>20220000</date>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="AE">
-    <title lang="en">Triple Digit Flip</title>
-    <sub-title>Frankenhouse vs. Hairball House</sub-title>
-    <desc>Jamil, Pace, and Rahima choose between a tiny house or a Frankenhouse.</desc>
-    <credits>
-      <producer>Davis Allsop</producer>
-      <editor>Kurt Boulware</editor>
-    </credits>
-    <date>20221210</date>
-    <category>Construction</category>
-    <category>Home &amp; Garden</category>
-    <category>Home projects</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10592394596.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10592394601.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="ACCN">
+    <title lang="en">ACC Traditions</title>
+    <sub-title>Boston College</sub-title>
+    <desc>The Red Bandana has become a symbol of bravery and sacrifice on the Boston College campus thanks to alumnus Welles Crowther, who died on 9/11 in the South Tower of the World Trade Center and was identified by those he saved by his red bandana. The Eagles football team dons uniforms for one game each year dedicated to his memory, generating a spirit of unity on the campus and some Red Bandana Game magic between the lines.</desc>
+    <date>20190911</date>
+    <category>Sports</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7746942501.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7746941804.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="ACCN">
+    <title lang="en">ACC Traditions</title>
+    <sub-title>Clemson</sub-title>
+    <desc>It's "The Most Exciting 25 Seconds in Football" when the Clemson Tigers enter Memorial Stadium gathering around the iconic symbol, "Howard's Rock," before they "run down the hill" at Death Valley to an explosion of cheers from more than 80,000 fans.</desc>
+    <date>20190918</date>
+    <category>Sports</category>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7746942501.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7746941804.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="AE">
     <title lang="en">Triple Digit Flip</title>
@@ -1139,30 +1136,39 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221225121500 +0000" stop="20221225143000 +0000" channel="AMC">
-    <title lang="en">Miracle on 34th Street</title>
-    <desc>Edmund Gwenn won a Best Supporting Actor Oscar for his portrayal of a department-store Santa Claus who runs afoul of the store's nasty in-house psychiatrist and is forced to go on trial to prove he's the real Kris Kringle. A Best Picture nominee, the film's director George Seaton won an Oscar for his script.</desc>
-    <date>20050119</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Christmas</category>
-    <category>Courtroom</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <length units="seconds">5760</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9440743495.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-972760375.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="AE">
+    <title lang="en">Road Wars</title>
+    <sub-title>Man vs. Truck</sub-title>
+    <desc>A raging back and forth between three vehicles on a California highway ends with a man being rammed head-on by a truck. Carjackers relentlessly pursue a terrified driver in Albuquerque. An angry motorcyclist confronts a driver in Massachusetts, and is met with a baseball bat. People are caught asleep at the wheel in self-driving cars.</desc>
+    <date>20220706</date>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <category>Social issues</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11847958070.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11847958066.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="VCHIP">
-      <value>TV-G</value>
+      <value>TV-14</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>88/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/88.png" width="128" height="128"/>
-    </star-rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="AE">
+    <title lang="en">Road Wars</title>
+    <sub-title>Attack of the Semi</sub-title>
+    <desc>The dump truck driver in Olympia, Washington, faces a man who takes offense to the truck's exhaust.</desc>
+    <date>20221123</date>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <category>Social issues</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11847958070.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11847958066.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225163000 +0000" channel="AMC">
     <title lang="en">The Polar Express</title>
@@ -1246,28 +1252,6 @@
       <value>41/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/41.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="Animal">
-    <title lang="en">Too Cute!</title>
-    <sub-title>Spotted, Pampered Pups</sub-title>
-    <desc>Featured dogs include Cavalier King Charles spaniels; Alaskan malamutes; and Dalmatians.</desc>
-    <credits>
-      <director>Jennifer Piston</director>
-      <producer>Quinn Fegan</producer>
-    </credits>
-    <date>20121110</date>
-    <category>Reality</category>
-    <category>Animals</category>
-    <category>Coming of age</category>
-    <category>Entertainment</category>
-    <category>Pets</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8571595250.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8571595261.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="Animal">
     <title lang="en">Too Cute!</title>
@@ -1459,6 +1443,30 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="Animal">
+    <title lang="en">Tanked</title>
+    <sub-title>Kevin Smith's Tortally Awesome Tank</sub-title>
+    <desc>Filmmaker Kevin Smith has two turtles and one tortoise that need a new home, but they require two different living environments.</desc>
+    <credits>
+      <director>Cyndi Haas</director>
+      <producer>Eric Neuhaus</producer>
+      <composer>Stephen O'Reilly</composer>
+    </credits>
+    <date>20170428</date>
+    <category>Reality</category>
+    <category>Business</category>
+    <category>Animals</category>
+    <category>Home projects</category>
+    <category>Pets</category>
+    <category>Celebrities</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8318972283.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8318972289.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S12E02</episode-num>
+    <episode-num system="xmltv_ns">11.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20221225132700 +0000" stop="20221225145100 +0000" channel="BBCAmerica">
     <title lang="en">Doctor Who</title>
     <sub-title>Last Christmas</sub-title>
@@ -1627,23 +1635,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/72.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225143000 +0000" channel="BTN">
-    <title lang="en">The B1G Trip</title>
-    <sub-title>1985 Indiana Basketball</sub-title>
-    <desc>A look back at coach Bob Knight and Indiana basketball's 1985 summer trip around the world. Members of the team reminisce about their special trip and how it set the Hoosiers up for success on and off the court.</desc>
-    <date>20210224</date>
-    <category>Reality</category>
-    <category>Sports stuff</category>
-    <category>Travel</category>
-    <category>College</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11703105035.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11703105034.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="BTN">
     <title lang="en">The B1G Moment</title>
     <sub-title>Ben Brust's Halfcourt Shot</sub-title>
@@ -1738,12 +1729,17 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-299039440.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="BET">
-    <title lang="en">Gospel Superfest 2022 Holiday Special</title>
-    <desc>Featuring show stopping performances from Donnie McClurkin, The Sounds of Blackness, Shirley Caesar, Earnest Pugh, Zeke Locke, Bryan Popin, Rizen, Doe and others.</desc>
-    <date>20220000</date>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="BTN">
+    <title lang="en">The Journey: Big Ten Football</title>
+    <desc>Behind-the-scenes footage and feature stories highlighting the best of Big Ten football.</desc>
+    <category>Sports stuff</category>
+    <category>College</category>
+    <category>Football</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8637410750.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8637410745.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="BET">
@@ -1794,42 +1790,25 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="Boomerang">
-    <title lang="en">Tom &amp; Jerry: Santa's Little Helpers</title>
-    <desc>Jerry is enjoying life living at Santa's workshop until the day when Tom moves in. But the pair must learn to work together to help save Christmas.</desc>
-    <date>20151220</date>
-    <category>Comedy</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Christmas</category>
-    <category>Other</category>
-    <category>Short subject</category>
-    <length units="seconds">1260</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3171210380.jpg" width="507" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-3171242996.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="Boomerang">
-    <title lang="en">Scooby-Doo! Haunted Holidays</title>
-    <desc>An evil snowman controls a blizzard that could shut down a toy store at Christmas.</desc>
-    <credits>
-      <director>Victor Cook</director>
-      <actor>Grey Griffin</actor>
-      <producer>Victor Cook</producer>
-    </credits>
-    <date>20121204</date>
-    <category>Comedy</category>
+  <programme start="20221225223000 +0000" stop="20221226020000 +0000" channel="BET">
+    <title lang="en">The Wiz</title>
+    <desc>A young kindergarten teacher finds herself in the Land of Oz, where she is greeted by Munchkins. As she journeys down the Yellow Brick Road in search of the Wiz, she encounters a scarecrow, a tin man and a cowardly lion.</desc>
+    <date>20040928</date>
     <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Christmas</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-869373607.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6859403154.jpg" width="720" height="405"/>
+    <category>Fantasy</category>
+    <category>Musical</category>
+    <category>Adaptation</category>
+    <length units="seconds">7980</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11256900119.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-1948311699.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>53/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="Boomerang">
     <title lang="en">Be Cool, Scooby-Doo!</title>
@@ -2116,13 +2095,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225133200 +0000" stop="20221225144800 +0000" channel="CSPAN">
-    <title lang="en">Discussion on Christian Nationalism</title>
-    <desc>Former Republican presidential candidate Michele Bachmann discusses the term "Christian Nationalism" at an event hosted by the Family Research Council and Regent University School of Government .</desc>
-    <date>20221210</date>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221225144800 +0000" stop="20221225150200 +0000" channel="CSPAN">
     <title lang="en">C-SPAN Programming</title>
     <date>20120000</date>
@@ -2166,12 +2138,12 @@
     <category>Other</category>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20221225100000 +0000" stop="20221225140000 +0000" channel="CBS">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
+  <programme start="20221225221800 +0000" stop="20221225232300 +0000" channel="CSPAN">
+    <title lang="en">Discussion on History of Presidential Records Act</title>
+    <desc>Historians and journalists discuss the Presidential Records Act and how it was used in the congressional investigation into the January 6 Capitol attack.</desc>
+    <date>20221114</date>
+    <category>Other</category>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225153000 +0000" channel="CBS">
     <title lang="en">CBS Sunday Morning</title>
@@ -2865,10 +2837,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="CBSNY">
-    <title lang="en">CBS 2 Sunday Morning News At 8AM</title>
-    <desc>Breaking news, weather and traffic reports, politics and local stories.</desc>
-  </programme>
   <programme start="20221225140000 +0000" stop="20221225153000 +0000" channel="CBSNY">
     <title lang="en">CBS Sunday Morning</title>
     <sub-title>12-25-2022</sub-title>
@@ -2975,30 +2943,6 @@
     <desc>Denver Broncos (4-10) at Los Angeles Rams (4-9). From SoFi Stadium.</desc>
     <date>20220000</date>
     <live/>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="CBSSN">
-    <title lang="en">World's Strongest Man Competition</title>
-    <sub-title>2022 Episode 6</sub-title>
-    <desc>The 45th World's Strongest Man in Sacramento, Cal., nears the final, as competitors face daunting feats of strength including Atlas stones, log lift, keg toss and titan's turntable.</desc>
-    <date>20220728</date>
-    <category>Extreme sports</category>
-    <category>Fitness</category>
-    <category>Weightlifting</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5256934298.jpg" width="498" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5256934297.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="CBSSN">
-    <title lang="en">World's Strongest Man Competition</title>
-    <sub-title>2022 Episode 7</sub-title>
-    <desc>The 45th World's Strongest Man in Sacramento, Cal., has competitors face daunting feats of strength including Atlas stones, log lift, keg toss and titan's turntable.</desc>
-    <date>20220804</date>
-    <category>Extreme sports</category>
-    <category>Fitness</category>
-    <category>Weightlifting</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5256934298.jpg" width="498" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5256934297.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="CBSSN">
     <title lang="en">World's Strongest Man Competition</title>
@@ -3176,6 +3120,24 @@
     <category>Weightlifting</category>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="CBSSN">
+    <title lang="en">Rogue Invitational</title>
+    <sub-title>Episode #3</sub-title>
+    <date>20220000</date>
+    <category>Extreme sports</category>
+    <category>Fitness</category>
+    <category>Weightlifting</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="CBSSN">
+    <title lang="en">Rogue Invitational</title>
+    <sub-title>Episode #4</sub-title>
+    <date>20220000</date>
+    <category>Extreme sports</category>
+    <category>Fitness</category>
+    <category>Weightlifting</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
   <programme start="20221225132300 +0000" stop="20221225160900 +0000" channel="Cinemax">
     <title lang="en">Australia</title>
     <desc>Gripping epic, set just prior to WWII, bursts at the seams with charismatic star turns by Nicole Kidman and Hugh Jackman. She's a prim English aristocrat who returns to Australia to claim an inherited ranch, and he's a rugged drover who helps her battle wealthy land-grabbers trying to steal it from her. To make matters worse, the Japanese are threatening to invade the continent. Bryan Brown, Jack Thompson, Essie Davis, Brandon Walters. Produced, cowritten and directed by Baz Luhrmann.</desc>
@@ -3332,11 +3294,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225123000 +0000" stop="20221225143000 +0000" channel="CN">
-    <title lang="en">Arthur Christmas</title>
-    <desc>Santa's son, Arthur, sets out on a mission that must be completed before Christmas morning dawns.</desc>
-    <date>20110000</date>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225163000 +0000" channel="CN">
     <title lang="en">Arthur Christmas</title>
     <desc>Santa's son, Arthur, sets out on a mission that must be completed before Christmas morning dawns.</desc>
@@ -3361,28 +3318,6 @@
     <date>19390000</date>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="CNBC">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="CNBC">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="CNBC">
@@ -3541,17 +3476,27 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/60.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="CNN">
-    <title lang="en">Inside Politics With Abby Phillip</title>
-    <sub-title>25-12-2022</sub-title>
-    <desc>An in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
-    <date>20221225</date>
-    <category>Talk</category>
-    <category>Politics</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9762187509.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9762187516.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S02E33</episode-num>
-    <episode-num system="xmltv_ns">1.32.</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="CNBC">
+    <title lang="en">Shark Tank</title>
+    <desc>Contestants present business ideas to five multimillionaires, who will either invest or pass.</desc>
+    <credits>
+      <director>Alan Carter</director>
+      <actor>Kendra Scott</actor>
+    </credits>
+    <date>20210929</date>
+    <category>Reality</category>
+    <category>Reality competition</category>
+    <category>Business</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9273660855.jpg" width="576" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12165665429.jpg" width="720" height="703"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>60/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/60.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="CNN">
     <title lang="en">State of the Union With Jake Tapper and Dana Bash</title>
@@ -3565,7 +3510,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9758972632.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S02E53</episode-num>
     <episode-num system="xmltv_ns">1.52.</episode-num>
-    <new/>
   </programme>
   <programme start="20221225150000 +0000" stop="20221225160000 +0000" channel="CNN">
     <title lang="en">Extraordinary with Fareed Zakaria</title>
@@ -3635,6 +3579,28 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9631172495.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S07E01</episode-num>
     <episode-num system="xmltv_ns">6.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="CNN">
+    <title lang="en">Anthony Bourdain Parts Unknown</title>
+    <sub-title>Hanoi</sub-title>
+    <desc>Season 8 begins with Bourdain visiting Hanoi, Vietnam, and indulging in its singular cuisine with President Barack Obama.</desc>
+    <credits>
+      <director>Sally Freeman</director>
+      <writer>Anthony Bourdain</writer>
+      <producer>Sandra Zweig</producer>
+      <composer>Justin Crosby</composer>
+    </credits>
+    <date>20160925</date>
+    <category>Action/Adventure</category>
+    <category>Food</category>
+    <category>Travel</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6446570863.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9631172495.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <episode-num system="xmltv_ns">7.0.</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -3736,6 +3702,25 @@
     </rating>
   </programme>
   <programme start="20221225210000 +0000" stop="20221225220000 +0000" channel="Comedy">
+    <title lang="en">Jeff Dunham's Very Special Christmas Special</title>
+    <desc>Ventriloquist Jeff Dunham performs with his familiar puppets, including Walter, Melvin the Superhero and Achmed the Dead Terrorist.</desc>
+    <credits>
+      <director>Michael Simon</director>
+    </credits>
+    <date>20081116</date>
+    <category>Comedy</category>
+    <category>Special</category>
+    <category>Christmas</category>
+    <category>Puppets</category>
+    <category>Stand-up comedy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7546362005.jpg" width="499" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7546355427.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="Comedy">
     <title lang="en">Jeff Dunham's Very Special Christmas Special</title>
     <desc>Ventriloquist Jeff Dunham performs with his familiar puppets, including Walter, Melvin the Superhero and Achmed the Dead Terrorist.</desc>
     <credits>
@@ -4016,40 +4001,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="DA">
-    <title lang="en">The RVers</title>
-    <sub-title>Albuquerque Balloon Fiesta</sub-title>
-    <desc>Peter, John, Tom and Cait RV to one of the country's most popular event destinations to experience the unique wonder and astonishing beauty from every perspective.</desc>
-    <credits>
-      <writer>Andrew Johnston</writer>
-    </credits>
-    <date>20220618</date>
-    <category>Reality</category>
-    <category>Travel</category>
-    <category>Auto info</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7941160166.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7941160169.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="DA">
-    <title lang="en">Buying the Rockies</title>
-    <sub-title>Moving on Up</sub-title>
-    <desc>Newlyweds search for a family-friendly home in the cowboy town of Dubois, Wyo.</desc>
-    <date>20150824</date>
-    <category>Home &amp; Garden</category>
-    <category>Real estate</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1779293251.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8016846114.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="DA">
     <title lang="en">Buying the Rockies</title>
     <sub-title>Toddlers and Treehouses</sub-title>
@@ -4289,17 +4240,34 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="Discovery">
-    <title lang="en">Ocean Legacy, Presented By Yellowfin</title>
-    <sub-title>Episode 7</sub-title>
-    <date>20221225</date>
-    <category>Documentary</category>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="DA">
+    <title lang="en">Living Big Sky</title>
+    <sub-title>Palm Springs Couple Trade Desert Life for Missoula Mountains</sub-title>
+    <desc>A family look forward to taking advantage of the great outdoors when they move to Missoula, Mont., with a $650,000 budget for a big home with lots of land, an open-floor plan, and a workshop.</desc>
+    <date>20160514</date>
     <category>Reality</category>
-    <category>Animals</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9197795821.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9197795816.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <category>Home &amp; Garden</category>
+    <category>Real estate</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3490749058.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10752840649.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="DA">
+    <title lang="en">Living Big Sky</title>
+    <sub-title>Wisconsin Family Takes Snowmobile Clothing Biz to Bozeman</sub-title>
+    <desc>Wisconsin natives purchase a second home in Montana for more snow and outdoor fun. They search for a log cabin-style place that's big enough for their entire family, with easy access to riding trails, a view of the mountains, and a separate building to store all of their "toys."</desc>
+    <date>20160625</date>
+    <category>Reality</category>
+    <category>Home &amp; Garden</category>
+    <category>Real estate</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3490749058.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10752840649.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -4480,53 +4448,26 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="Disney">
-    <title lang="en">Big City Greens</title>
-    <sub-title>Big Resolution; Winter Greens</sub-title>
-    <desc>On New Year's Eve, the Greens and Gloria attempt to set their resolutions; Cricket and Remy challenge Vasquez to a snowball fight, while Tilly creates a snowperson.</desc>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="Discovery">
+    <title lang="en">Dirty Jobs</title>
+    <sub-title>Bone Black</sub-title>
+    <desc>A bone black plant in Michigan is visited; Mike recounts his five dirtiest jobs.</desc>
     <credits>
-      <director>Matt Braly</director>
-      <producer>Shane Houghton</producer>
-      <composer>Joachim Horsley</composer>
+      <director>Doug Glover</director>
+      <producer>Leigh Purinton</producer>
+      <composer>David Vanacore</composer>
     </credits>
-    <date>20210130</date>
+    <date>20100209</date>
     <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12068346048.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12068346051.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <category>Reality</category>
+    <category>Behind-the-scenes</category>
+    <category>Workplace</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11007258104.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11007258102.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S04E24</episode-num>
+    <episode-num system="xmltv_ns">3.23.</episode-num>
     <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="Disney">
-    <title lang="en">Big City Greens</title>
-    <sub-title>Virtually Christmas</sub-title>
-    <desc>When Cricket gets snowed in at the Remingtons' on Christmas Eve, he attempts to recreate his family's Christmas Eve traditions in a virtual reality video game.</desc>
-    <credits>
-      <director>Matt Braly</director>
-      <producer>Shane Houghton</producer>
-      <composer>Joachim Horsley</composer>
-    </credits>
-    <date>20221203</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12068346048.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12068346051.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E24</episode-num>
-    <episode-num system="xmltv_ns">2.23.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
+      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="Disney">
@@ -4789,54 +4730,54 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="DisneyJr">
-    <title lang="en">Bluey</title>
-    <sub-title>Rug Island; Hairdressers; Sticky Gecko</sub-title>
-    <desc>Bluey and Bingo's Rug Island makes felt pens anything possible; Bingo and Bluey try to help Dad's big-headed customer; Bluey and Bingo refuse to leave for their playdate until the sticky rubber gecko falls from the ceiling.</desc>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="Disney">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Santa Claws</sub-title>
+    <desc>Adrien spends his first Christmas without his mother. He turns into Cat Noir and leaves.</desc>
     <credits>
-      <director>Richard Jeffery</director>
-      <actor>Melanie Zanetti</actor>
-      <producer>Charlie Aspinwall</producer>
-      <composer>Joff Bush</composer>
+      <director>Thomas Astruc</director>
+      <producer>Jérémy Zag</producer>
+      <composer>Jeremy Zag</composer>
     </credits>
-    <date>20200731</date>
-    <category>Comedy</category>
+    <date>20161220</date>
+    <category>Action/Adventure</category>
+    <category>Family</category>
     <category>Children</category>
-    <category>Animals</category>
+    <category>Fantasy</category>
     <category>Animated</category>
-    <category>Cartoon</category>
     <category>Other</category>
-    <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7211706613.jpg" width="541" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7997825425.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
     <rating system="VCHIP">
-      <value>TV-Y</value>
+      <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="DisneyJr">
-    <title lang="en">Bluey</title>
-    <sub-title>The Doctor; The Claw; Markets</sub-title>
-    <desc>Honey conjures up a fake illness to get an appointment at Bluey's imaginary doctor's office; Mom and Dad create a Magic Claw machine for the kids.</desc>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="Disney">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Chris Master</sub-title>
+    <desc>Students Marinette and Adrien transform into superheroes Ladybug and Cat Noir to save Paris by capturing evil creatures, Akumas, which transform people into villains.</desc>
     <credits>
-      <director>Richard Jeffery</director>
-      <actor>Melanie Zanetti</actor>
-      <producer>Charlie Aspinwall</producer>
-      <composer>Joff Bush</composer>
+      <director>Thomas Astruc</director>
+      <producer>Jérémy Zag</producer>
+      <composer>Jeremy Zag</composer>
     </credits>
-    <date>20190916</date>
-    <category>Comedy</category>
+    <date>20190208</date>
+    <category>Action/Adventure</category>
+    <category>Family</category>
     <category>Children</category>
-    <category>Animals</category>
+    <category>Fantasy</category>
     <category>Animated</category>
-    <category>Cartoon</category>
     <category>Other</category>
-    <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <category>Preteen</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7211706613.jpg" width="541" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7997825425.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating system="VCHIP">
-      <value>TV-Y</value>
+      <value>TV-Y7</value>
     </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="DisneyJr">
@@ -5192,38 +5133,51 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20221225134500 +0000" stop="20221225140000 +0000" channel="DisneyXD">
-    <title lang="en">Phineas and Ferb</title>
-    <sub-title>Happy New Year</sub-title>
-    <desc>Phineas and Ferb create their own New Year's Eve ball drop.</desc>
+  <programme start="20221225220500 +0000" stop="20221225223000 +0000" channel="DisneyJr">
+    <title lang="en">Bluey</title>
+    <sub-title>Dunny; Duck Cake; Handstand</sub-title>
+    <desc>Bingo wants to showcase her handstand skills. Bluey transforms a tree stump into a Helicopter game.</desc>
     <credits>
-      <director>Dan Povenmire</director>
-      <writer>Derek Thompson</writer>
-      <producer>Dan Povenmire</producer>
-      <composer>Danny Jacob</composer>
+      <director>Richard Jeffery</director>
+      <actor>Melanie Zanetti</actor>
+      <producer>Charlie Aspinwall</producer>
+      <composer>Joff Bush</composer>
     </credits>
-    <date>20121207</date>
+    <date>20210319</date>
     <category>Comedy</category>
-    <category>Family</category>
     <category>Children</category>
+    <category>Animals</category>
     <category>Animated</category>
     <category>Cartoon</category>
     <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172495589.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544431552.jpg" width="720" height="404"/>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
-      <value>TV-G</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="DisneyXD">
-    <title lang="en">DuckTales</title>
-    <sub-title>Last Christmas!</sub-title>
-    <desc>Scrooge celebrates Christmas with his time-traveling ghost buddies while time-lost Dewey teams with Young Donald to find his mom on Christmas.</desc>
-    <date>20170000</date>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="DisneyJr">
+    <title lang="en">Dino Ranch</title>
+    <sub-title>A Dino-Might Night; Luna Sees the Light</sub-title>
+    <desc>When Sonny the Kid steals the Cassidy Christmas Tree, he makes amends by helping them save the day - and is rewarded with a Christmas wish come true; the Dino Ranchers use lights to communicate with a deaf Parasaur.</desc>
+    <credits>
+      <director>Bill Speers</director>
+    </credits>
+    <date>20221203</date>
+    <category>Action/Adventure</category>
+    <category>Family</category>
+    <category>Animals</category>
+    <category>Animated</category>
+    <category>Entertainment</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9633645022.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11848213011.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
-      <value>TV-Y7</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="DisneyXD">
@@ -5528,21 +5482,52 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="DIY">
-    <title lang="en">Maine Cabin Masters</title>
-    <sub-title>The Old Fishing Camp</sub-title>
-    <desc>Chase and the team restore the Clary Lake property of two sisters.</desc>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="DisneyXD">
+    <title lang="en">Phineas and Ferb</title>
+    <sub-title>A Phineas and Ferb Family Christmas; S'Winter</sub-title>
+    <desc>The guys stage a traditional family Christmas special featuring Kelly Clarkson; the boys use a snow-cone machine to create a backyard winter paradise in the middle of summer.</desc>
     <credits>
-      <producer>Lisa Stanley</producer>
+      <director>Dan Povenmire</director>
+      <writer>Derek Thompson</writer>
+      <producer>Dan Povenmire</producer>
+      <composer>Danny Jacob</composer>
     </credits>
-    <date>20210208</date>
-    <category>Home &amp; Garden</category>
-    <category>Home projects</category>
-    <category>Makeover</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3372471883.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/6/1-7535467919.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <date>20111202</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172495589.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544431552.jpg" width="720" height="404"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="DisneyXD">
+    <title lang="en">Disney Mickey Mouse</title>
+    <sub-title>Duck the Halls: A Mickey Mouse Christmas Special</sub-title>
+    <desc>It's touch-and-go for Donald when he refuses to head south for the winter with Daisy and all the other ducks in order to stay with Mickey and the gang to enjoy all that Christmas has to offer.</desc>
+    <credits>
+      <director>Clay Morrow</director>
+      <writer>Derek Dressler</writer>
+      <producer>Paul Rudish</producer>
+      <composer>Christopher Willis</composer>
+    </credits>
+    <date>20161209</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1076191336.jpg" width="541" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-11721644430.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E21</episode-num>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -5698,24 +5683,24 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225110000 +0000" stop="20221225140000 +0000" channel="E">
-    <title lang="en">It's a Wonderful Life</title>
-    <desc>Frank Capra's classic stars Oscar nominee James Stewart as George Bailey, a decent small-town banker who learns what life would have been like if he'd never been born after he unwittingly becomes involved in a mistaken case of bank fraud, which threatens his spirit and tests his will to live until a wise angel compels him to see how his presence has made an incredible impact on the people of Bedford Falls.</desc>
-    <date>20070427</date>
-    <category>Drama</category>
-    <category>Comedy-drama</category>
-    <category>Christmas</category>
-    <length units="seconds">7800</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7952587233.jpg" width="485" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7952587232.jpg" width="720" height="356"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="DIY">
+    <title lang="en">Maine Cabin Masters</title>
+    <sub-title>Retro-Fit for the Whole Family</sub-title>
+    <desc>A couple discovers that their home overlooking Lake Annebessacook needs work. So, Chase and the team update it with modern touches.</desc>
+    <credits>
+      <producer>Lisa Stanley</producer>
+    </credits>
+    <date>20200309</date>
+    <category>Home &amp; Garden</category>
+    <category>Home projects</category>
+    <category>Makeover</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3372471883.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/6/1-7535467919.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>89/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/89.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225170000 +0000" channel="E">
     <title lang="en">It's a Wonderful Life</title>
@@ -5774,15 +5759,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/89.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. The Emmy-winning show revolutionized the sports-news genre by deftly mixing information with irreverence in a hip, daily scrapbook of homers, touchdowns and slam dunks, the perfect clips-and-controversies fix for sports junkies. Staple features besides game scores and highlights include expert breakdowns, 'Top Ten Plays', Web polls and trivia.</desc>
-    <category>Sports stuff</category>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
     <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. The Emmy-winning show revolutionized the sports-news genre by deftly mixing information with irreverence in a hip, daily scrapbook of homers, touchdowns and slam dunks, the perfect clips-and-controversies fix for sports junkies. Staple features besides game scores and highlights include expert breakdowns, 'Top Ten Plays', Web polls and trivia.</desc>
@@ -5791,7 +5767,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221225150000 +0000" stop="20221225160000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -5842,32 +5817,17 @@
     <episode-num system="onscreen">S--E00</episode-num>
     <live/>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="ESPN2">
-    <title lang="en">The Last Dance</title>
-    <sub-title>Episode 8</sub-title>
-    <desc>Michael Jordan would famously use even the smallest slight imaginable to motivate himself against an opponent. And when his NBA comeback in 1995 fell short in the playoffs, he worked harder than ever to return to form.</desc>
-    <credits>
-      <director>Jason Hehir</director>
-      <producer>Mike Tollin</producer>
-      <composer>Tom Caffey</composer>
-    </credits>
-    <date>20200510</date>
-    <category>Documentary</category>
-    <category>Sports stuff</category>
+  <programme start="20221225220000 +0000" stop="20221226003000 +0000" channel="ESPN">
+    <title lang="en">NBA Basketball</title>
+    <sub-title>Milwaukee Bucks at Boston Celtics</sub-title>
+    <desc>Milwaukee Bucks at Boston Celtics. From TD Garden.</desc>
+    <date>20221225</date>
+    <category>Pro</category>
     <category>Basketball</category>
-    <category>Profile</category>
-    <category>Retrospective</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8603067597.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8603067591.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>90/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/90.png" width="128" height="128"/>
-    </star-rating>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124289.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5342124288.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="ESPN2">
     <title lang="en">The Last Dance</title>
@@ -6036,18 +5996,6 @@
     <date>20220000</date>
     <live/>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="ESPNews">
-    <title lang="en">Welcome Home: South Carolina Football</title>
-    <sub-title>09-07-2022</sub-title>
-    <desc>Chronicling coach Shane Beamer's South Carolina Gamecocks as they kick off the 2022 season against Georgia State.</desc>
-    <date>20220907</date>
-    <category>Reality</category>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <category>Football</category>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="ESPNews">
     <title lang="en">SEC Storied</title>
     <sub-title>No Experience Required</sub-title>
@@ -6104,42 +6052,6 @@
     <sub-title>Junior Championships</sub-title>
     <desc>USA National Junior Championships from Rock Hill, S.C.</desc>
     <date>20220000</date>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="FoodNetwork">
-    <title lang="en">Giada's Holiday Handbook</title>
-    <sub-title>Live Well Party</sub-title>
-    <desc>Giada De Laurentiis gathers her friends for a day that focuses on self-care and wellness.</desc>
-    <date>20191229</date>
-    <category>Cooking</category>
-    <category>Food</category>
-    <category>How-to</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7977505961.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7977505960.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S05E07</episode-num>
-    <episode-num system="xmltv_ns">4.6.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="FoodNetwork">
-    <title lang="en">The Pioneer Woman</title>
-    <sub-title>Home Sweet Home: One-Pan Winter</sub-title>
-    <desc>As the temperature drops, Ree Drummond cooks up one-pan wonders with a wintry twist. Recipes include Creamy Italian One-Pan Pasta, the simplest Baked Pancetta and Butternut Risotto, a cozy White Lasagna Soup and an inspired Chicken and Chili Sheet Pan Quesadilla.</desc>
-    <credits>
-      <director>Olivia Ball</director>
-      <producer>Rachel Purnell</producer>
-    </credits>
-    <date>20201219</date>
-    <category>Cooking</category>
-    <category>Food</category>
-    <category>How-to</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-172457789.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4493541950.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S26E03</episode-num>
-    <episode-num system="xmltv_ns">25.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="FoodNetwork">
     <title lang="en">The Pioneer Woman</title>
@@ -6415,9 +6327,48 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225110000 +0000" stop="20221225140000 +0000" channel="FOX">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="FoodNetwork">
+    <title lang="en">Diners, Drive-Ins and Dives</title>
+    <sub-title>Cruisin' the Italian Countryside</sub-title>
+    <desc>Guy travels to Tuscany, Italy, where he visits a hillside seafood spot serving up a squid ink specialty and a Mediterranean prawn-artichoke mashup. Also: spaghetti and lamb; truffle hunting in the mountains; fresh pasta with mussels and oxtail tortelli.</desc>
+    <credits>
+      <director>Steven Bortko</director>
+      <writer>Lori Allred</writer>
+      <producer>Frank Matson</producer>
+      <composer>Tom Hambleton</composer>
+    </credits>
+    <date>20150123</date>
+    <category>Cooking</category>
+    <category>Food</category>
+    <category>Travel</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3316544539.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591830682.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S22E02</episode-num>
+    <episode-num system="xmltv_ns">21.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="FoodNetwork">
+    <title lang="en">Diners, Drive-Ins, And Dives</title>
+    <sub-title>Lots Of Latin</sub-title>
+    <desc>Guy Fieri is loading up on all kinds of Latin on this trip. In Logan, Utah, a Salvadoran spot putting out pupusas and a cabeza creation. A funky food truck in Denver dishing out prime-time Puerto Rican specialties.</desc>
+    <credits>
+      <director>Steven Bortko</director>
+      <writer>Lori Allred</writer>
+      <producer>Frank Matson</producer>
+      <composer>Tom Hambleton</composer>
+    </credits>
+    <date>20200221</date>
+    <category>Cooking</category>
+    <category>Food</category>
+    <category>Travel</category>
+    <category>Spin-off</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3316544539.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8591830682.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S34E12</episode-num>
+    <episode-num system="xmltv_ns">33.11.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -6733,32 +6684,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="FOXNY">
-    <title lang="en">In Touch with Dr. Charles Stanley</title>
-    <desc>In Touch Ministries is the broadcast teaching ministry of Dr. Charles Stanley.</desc>
-    <category>Talk</category>
-    <category>Advice</category>
-    <category>Religion</category>
-    <category>Thanksgiving</category>
-    <category>Local cultures</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9170883083.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9170883084.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="FOXNY">
-    <title lang="en">Joel Osteen</title>
-    <desc>A weekly sermon from the Lakewood Church in Houston.</desc>
-    <date>20130000</date>
-    <category>Talk</category>
-    <category>Advice</category>
-    <category>Religion</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-10563607272.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-10563607270.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="FOXNY">
     <title lang="en">Elevation Church With Pastor Steven Furtick</title>
     <desc>Pastor Steven Furtick of Elevation Church shares important spiritual messages and great advice in his unique sermons. The pastor is also a songwriter and published author. He aims to spread the teachings of God in order to help people.</desc>
@@ -6831,15 +6756,6 @@
     <desc>DePaul at Creighton. From CHI Health Center Omaha.</desc>
     <date>20220000</date>
     <live/>
-  </programme>
-  <programme start="20221225110000 +0000" stop="20221225140000 +0000" channel="FoxBusiness">
-    <title lang="en">America's Weather Weekend</title>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="FoxBusiness">
-    <title lang="en">Maria Bartiromo's Wall Street</title>
-    <sub-title>12-23-2022 -2</sub-title>
-    <desc>Wall Street professionals educate long-term investors.</desc>
-    <date>20220000</date>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="FoxBusiness">
     <title lang="en">WSJ at Large With Gerry Baker</title>
@@ -6985,6 +6901,28 @@
       <value>TV-14</value>
     </rating>
   </programme>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="FoxBusiness">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20090810</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="FoxBusiness">
+    <title lang="en">Paid Programming</title>
+    <desc>Paid Programming.</desc>
+    <date>20090810</date>
+    <category>Infomercial</category>
+    <category>Shopping</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
   <programme start="20221225110000 +0000" stop="20221225150000 +0000" channel="FoxNews">
     <title lang="en">Fox &amp; Friends Weekend</title>
     <sub-title>12-25-2022</sub-title>
@@ -6996,7 +6934,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10746480192.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2022E97</episode-num>
     <episode-num system="xmltv_ns">2021.96.</episode-num>
-    <new/>
   </programme>
   <programme start="20221225150000 +0000" stop="20221225160000 +0000" channel="FoxNews">
     <title lang="en">Sunday Morning Futures With Maria Bartiromo</title>
@@ -7061,26 +6998,10 @@
     <desc>The important stories of the day are addressed.</desc>
     <new/>
   </programme>
-  <programme start="20221225120000 +0000" stop="20221225143000 +0000" channel="Freeform">
-    <title lang="en">Home Alone</title>
-    <desc>A mischievous 8-year-old who's picked on by his older siblings and ignored by his parents would really rather be left alone—and that's exactly what happens when he gets accidentally left behind in a frenzied rush to the airport for a family vacation in Paris over the holiday season. After learning to fend for himself, the boy has to protect his house against two bumbling burglars who are planning to rob it.</desc>
-    <date>20070827</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Christmas</category>
-    <category>Other</category>
-    <length units="seconds">6120</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-9441893422.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6244701191.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>63/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/63.png" width="128" height="128"/>
-    </star-rating>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="FoxNews">
+    <title lang="en">The Big Sunday Show</title>
+    <date>20210000</date>
+    <new/>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225153000 +0000" channel="Freeform">
     <title lang="en">Santa Claus Is Comin' To Town</title>
@@ -7190,18 +7111,6 @@
       <value>48/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221225130000 +0000" stop="20221225143000 +0000" channel="FS1">
-    <title lang="en">When the World Watched</title>
-    <sub-title>1986 Argentina: Episode 1</sub-title>
-    <desc>A look behind-the-scenes and into the Argentina camp during the 1986 FIFA World Cup. Featuring first-hand the journey that took this group of players back to the top of the world and confirmed Diego Maradona as the best player on the planet.</desc>
-    <date>20221121</date>
-    <category>Documentary</category>
-    <category>Sports stuff</category>
-    <category>Soccer</category>
-    <category>World cup soccer</category>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225160000 +0000" channel="FS1">
     <title lang="en">When the World Watched</title>
@@ -7374,20 +7283,16 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225120000 +0000" stop="20221225143000 +0000" channel="FXX">
-    <title lang="en">Instant Family</title>
-    <desc>Idealistic couple Ellie and Pete find themselves overwhelmed when they open up their home to foster teenager Lizzy and her two younger siblings, Juan and Lita. With the help of fellow foster parents and agency workers, they learn to navigate the joys and pitfalls of parenting to become a modern family.</desc>
-    <date>20190306</date>
-    <category>Comedy</category>
-    <category>Other</category>
-    <length units="seconds">7020</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-7063958330.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7063956180.jpg" width="720" height="405"/>
+  <programme start="20221225215000 +0000" stop="20221226012000 +0000" channel="FXMovie">
+    <title lang="en">FX's A Christmas Carol</title>
+    <desc>Ebenezer Scrooge experiences a dark night of the soul in an original take on Charles Dickens' iconic ghost story.</desc>
+    <date>20191219</date>
+    <category>Drama</category>
+    <category>Fantasy</category>
+    <length units="seconds">3600</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-8012208080.jpg" width="487" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8012636483.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>57/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/57.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225163000 +0000" channel="FXX">
     <title lang="en">The Simpsons Movie</title>
@@ -7703,6 +7608,58 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/87.png" width="128" height="128"/>
     </star-rating>
   </programme>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="FXX">
+    <title lang="en">The Simpsons</title>
+    <sub-title>White Christmas Blues</sub-title>
+    <desc>Springfield turns into a winter wonderland filled with yuletide revelers when snow blankets the town as a result of the nuclear-power plant springing a leak, so Marge turns their abode into boardinghouse.</desc>
+    <credits>
+      <director>Mike B. Anderson</director>
+      <writer>Sam Simon</writer>
+      <producer>Richard Raynis</producer>
+      <composer>Alf Clausen</composer>
+    </credits>
+    <date>20131215</date>
+    <category>Comedy</category>
+    <category>Cartoon</category>
+    <category>Cult classic</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12377823863.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9175280455.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S25E08</episode-num>
+    <episode-num system="xmltv_ns">24.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>87/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/87.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="FXX">
+    <title lang="en">The Simpsons</title>
+    <sub-title>Gone Boy</sub-title>
+    <desc>When Bart goes missing, the town puts together a search party to find him. After most give up hope, Sideshow Bob manipulates Millhouse into revealing where Bart is hiding.</desc>
+    <credits>
+      <director>Mike B. Anderson</director>
+      <writer>Sam Simon</writer>
+      <producer>Richard Raynis</producer>
+      <composer>Alf Clausen</composer>
+    </credits>
+    <date>20171210</date>
+    <category>Comedy</category>
+    <category>Cartoon</category>
+    <category>Cult classic</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12377823863.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9175280455.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S29E09</episode-num>
+    <episode-num system="xmltv_ns">28.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>87/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/87.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
   <programme start="20221225130000 +0000" stop="20221225160000 +0000" channel="GOLF">
     <title lang="en">Drive, Chip &amp; Putt National Finals</title>
     <desc>The 2022 competition from Augusta (Ga.) National Golf Club, featuring juniors aged 7 to 15.</desc>
@@ -7721,30 +7678,6 @@
     <date>20220000</date>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="GSN">
-    <title lang="en">Under Eye Bags? SOLUTION!</title>
-    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-    <date>20180716</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="GSN">
-    <title lang="en">America Says</title>
-    <sub-title>Craft Queens vs. Green Thumbers</sub-title>
-    <desc>Craft Queens and Green Thumbers compete to guess how America answered a series of survey questions.</desc>
-    <date>20191218</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Game show</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8917683782.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8917683780.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S03E119</episode-num>
-    <episode-num system="xmltv_ns">2.118.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="GSN">
@@ -7989,6 +7922,38 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>11-16-2017</sub-title>
+    <desc>The durable game show in which two teams of five relatives compete for cash and prizes by guessing the most popular answers to questions based on what the "survey said" in polls conducted with 100 people.</desc>
+    <date>20171116</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S19E114</episode-num>
+    <episode-num system="xmltv_ns">18.113.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="GSN">
+    <title lang="en">Family Feud</title>
+    <sub-title>02-05-2018</sub-title>
+    <desc>Two families of five face off to name the top responses to questions posed to 100 people.</desc>
+    <date>20180205</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Game show</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8922433194.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8922433186.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S19E127</episode-num>
+    <episode-num system="xmltv_ns">18.126.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20221225130000 +0000" stop="20221225150000 +0000" channel="Hallmark">
     <title lang="en">Noel Next Door</title>
     <desc>A hard-working, single mom gets into a war of words with an irritable neighbor who is ruining Christmas, only to find that this misunderstood Grinch is the man who's stolen her heart.</desc>
@@ -8210,25 +8175,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="HGTV">
-    <title lang="en">Home Town</title>
-    <sub-title>Restoring a Craftsman</sub-title>
-    <desc>A couple from Alabama is excited to settle down in a small town for the next phase of their lives. Ben and Erin help them choose a forever home and give it a historic renovation complete with a gorgeous master suite, custom kitchen and screened-in porch.</desc>
-    <credits>
-      <director>Jim MacPherson</director>
-    </credits>
-    <date>20200217</date>
-    <category>Home &amp; Garden</category>
-    <category>Home projects</category>
-    <category>Real estate</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10950071155.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10950071159.jpg" width="720" height="717"/>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="HGTV">
     <title lang="en">Home Town</title>
     <sub-title>There's Just Something About a Porch</sub-title>
@@ -8381,29 +8327,23 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="History">
-    <title lang="en">The Food That Built America</title>
-    <sub-title>The TV Dinner</sub-title>
-    <desc>Gilbert Swanson inherits a frozen turkey company and creates the TV Dinner. And when a restauranteur named Vernon Stouffer tries to bring his frozen meals to market, he's blown out of the water by the TV Dinner, until he harnesses a new technology called the microwave.</desc>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="HGTV">
+    <title lang="en">Home Town</title>
+    <sub-title>Campy Cabin Vibes</sub-title>
+    <desc>After being a travel nurse, Luke wants his home base to be in his hometown-Laurel. He's looking for a games room for chili night, a backyard for his dogs and to leave the rest to Erin and Ben.</desc>
     <credits>
-      <director>Nick White</director>
-      <actor>Matthew Crawley</actor>
-      <writer>Yoshi Stone</writer>
+      <director>Jim MacPherson</director>
     </credits>
-    <date>20210411</date>
-    <category>Documentary</category>
-    <category>Science</category>
-    <category>Food</category>
-    <category>Technology</category>
-    <category>Agriculture</category>
-    <category>History</category>
-    <category>Profile</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11182385254.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10056660521.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <date>20220227</date>
+    <category>Home &amp; Garden</category>
+    <category>Home projects</category>
+    <category>Real estate</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10950071155.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10950071159.jpg" width="720" height="717"/>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <episode-num system="xmltv_ns">5.4.</episode-num>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="History">
@@ -8606,11 +8546,30 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="HLN">
-    <title lang="en">Vengeance: Killer Families</title>
-    <sub-title>Gang Ties &amp; Family Lies</sub-title>
-    <desc>Christmas is ruined for a family when a father is stabbed and his daughter goes missing.</desc>
-    <date>20210000</date>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="History">
+    <title lang="en">The Food That Built America</title>
+    <sub-title>The Kings of Burgers</sub-title>
+    <desc>In the 1950s, Ray Kroc franchises McDonald's nationwide, but right behind Kroc, a wave of other entrepreneurs try to cash in on the fast-food restaurant craze. Two Florida visionaries start up what will become Kroc's biggest rival, by re-inventing their kitchen's equipment into the pioneering "flame broiler."</desc>
+    <credits>
+      <director>Nick White</director>
+      <actor>Matthew Crawley</actor>
+      <writer>Yoshi Stone</writer>
+    </credits>
+    <date>20210221</date>
+    <category>Documentary</category>
+    <category>Science</category>
+    <category>Food</category>
+    <category>Technology</category>
+    <category>Agriculture</category>
+    <category>History</category>
+    <category>Profile</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11182385254.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10056660521.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="HLN">
     <title lang="en">Real Life Nightmare</title>
@@ -8751,6 +8710,23 @@
     <desc>Christmas is ruined for a family when a father is stabbed and his daughter goes missing.</desc>
     <date>20210000</date>
   </programme>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="HLN">
+    <title lang="en">Real Life Nightmare</title>
+    <sub-title>Missing Skelton Brothers</sub-title>
+    <desc>Three young brothers are reported missing the day after Thanksgiving. In a shocking twist, their daddy claims he gave them to an underground group.</desc>
+    <date>20201122</date>
+    <category>Drama</category>
+    <category>Documentary</category>
+    <category>Crime</category>
+    <category>Mystery &amp; Suspense</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9374486988.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9374486992.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20221225130000 +0000" stop="20221225150000 +0000" channel="HMM">
     <title lang="en">Our Italian Christmas Memories</title>
     <desc>The Colucci siblings, in an effort to jog the memory of their grandfather who is struggling with dementia, set out to recreate their late grandmother's legendary pasta sauce.</desc>
@@ -8828,27 +8804,6 @@
     <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="ID">
-    <title lang="en">Homicide Hunter: Lt. Joe Kenda</title>
-    <sub-title>Blood From a Stone</sub-title>
-    <desc>A bystander receives a deadly head injury during a roadside altercation, but the stakes are raised when his body disappears from the scene. Then when a toddler is kidnapped for ransom, Kenda joins forces with an undercover team in a race against time.</desc>
-    <credits>
-      <director>Jeffrey Woods</director>
-      <producer>Todd Moss</producer>
-      <composer>Mark Fontana</composer>
-    </credits>
-    <date>20181010</date>
-    <category>Documentary</category>
-    <category>Crime</category>
-    <category>Police</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6443226039.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6443229496.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S08E07</episode-num>
-    <episode-num system="xmltv_ns">7.6.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="ID">
@@ -9019,34 +8974,26 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="IONNY">
-    <title lang="en">MacGyver</title>
-    <sub-title>Wind + Water</sub-title>
-    <desc>While MacGyver is in Puerto Rico helping his friend rebuild his hurricane-damaged home, he is taken hostage in the bank his friend manages when robbers attempt to steal $2 million.</desc>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="ID">
+    <title lang="en">Homicide Hunter: Lt. Joe Kenda</title>
+    <sub-title>Shattered</sub-title>
+    <desc>Two teens discover a body; and a forensic expert weighs in on whether a young mother hung herself.</desc>
     <credits>
-      <director>Ron Underwood</director>
-      <actor>Henry Ian Cusick</actor>
-      <writer>James Wan</writer>
-      <producer>Marqui Jackson</producer>
-      <composer>Keith Power</composer>
+      <director>Jeffrey Woods</director>
+      <producer>Todd Moss</producer>
+      <composer>Mark Fontana</composer>
     </credits>
-    <date>20180420</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Science</category>
-    <category>Reboot/Reimagining</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9407174532.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9407174519.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E21</episode-num>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <date>20170104</date>
+    <category>Documentary</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6443226039.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6443229496.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S06E16</episode-num>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>38/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/38.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="IONNY">
     <title lang="en">MacGyver</title>
@@ -9121,32 +9068,6 @@
     <length units="seconds">7200</length>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10860178039.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-10860178038.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="Lifetime">
-    <title lang="en">David Jeremiah</title>
-    <desc>A message of hope from David Jeremiah of Turning Point.</desc>
-    <category>Talk</category>
-    <category>Christmas</category>
-    <category>Religion</category>
-    <category>Community</category>
-    <category>Local cultures</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7438042253.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7438044330.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="Lifetime">
-    <title lang="en">Joel Osteen</title>
-    <desc>A weekly sermon from the Lakewood Church in Houston.</desc>
-    <date>20130000</date>
-    <category>Talk</category>
-    <category>Advice</category>
-    <category>Religion</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-10563607272.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-10563607270.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="Lifetime">
@@ -9226,32 +9147,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="LifetimeM">
-    <title lang="en">David Jeremiah</title>
-    <desc>A message of hope from David Jeremiah of Turning Point.</desc>
-    <category>Talk</category>
-    <category>Christmas</category>
-    <category>Religion</category>
-    <category>Community</category>
-    <category>Local cultures</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7438042253.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7438044330.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="LifetimeM">
-    <title lang="en">Joel Osteen</title>
-    <desc>A weekly sermon from the Lakewood Church in Houston.</desc>
-    <date>20130000</date>
-    <category>Talk</category>
-    <category>Advice</category>
-    <category>Religion</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-10563607272.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-10563607270.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="LifetimeM">
     <title lang="en">Paid Programming</title>
     <desc>Paid Programming.</desc>
@@ -9328,18 +9223,6 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="MLB">
-    <title lang="en">MLB Network Countdown</title>
-    <sub-title>Top Bat Flips of 2022</sub-title>
-    <date>20220000</date>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Baseball</category>
-    <category>Countdown</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10847131490.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10847131488.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="MLB">
     <title lang="en">MLB Network Countdown</title>
@@ -9420,32 +9303,6 @@
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="MotorTrend">
-    <title lang="en">Motorhead Garage</title>
-    <sub-title>A One-Stop Detailing Destination, Superior Sound Shielding</sub-title>
-    <desc>Dave and the crew wrap up the season with a one-stop shop for detailing supplies, the best sound shielding for any vehicle, motorcycle lights that are better looking and safer than OEM lights, and must-haves for every car owner.</desc>
-    <date>20221225</date>
-    <category>Reality</category>
-    <category>Auto info</category>
-    <category>Engineering</category>
-    <category>Entertainment</category>
-    <category>How-to</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1542897971.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1542900809.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="MotorTrend">
-    <title lang="en">RVing In The USA</title>
-    <sub-title>History of the RV/Elkhart</sub-title>
-    <desc>A visit to the RV/MH Hall of Fame and Museum in Elkhart, Indiana, to explore the history of the RV.</desc>
-    <date>20220000</date>
-    <rating system="VCHIP">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="MotorTrend">
@@ -9655,20 +9512,28 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="MSNBC">
-    <title lang="en">Symone</title>
-    <sub-title>End of Year Special</sub-title>
-    <desc>Covering the day's biggest political, cultural, and global stories.</desc>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="MotorTrend">
+    <title lang="en">Bitchin' Rides</title>
+    <sub-title>The Supernova</sub-title>
+    <desc>Kindig It Design is finally finishing the 67 Nova after 16 years in the making. Whether the car is powerful enough for the client or not, is brought into question.</desc>
     <credits>
-      <writer>Symone Sanders</writer>
-      <producer>Symone Sanders</producer>
+      <director>Nick Meagher</director>
+      <producer>Chris Fischer</producer>
+      <composer>Brad Chiet</composer>
     </credits>
-    <date>20221225</date>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11550734954.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11550734960.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E49</episode-num>
-    <episode-num system="xmltv_ns">0.48.</episode-num>
+    <date>20171024</date>
+    <category>Reality</category>
+    <category>Business</category>
+    <category>Auto info</category>
+    <category>Engineering</category>
+    <category>Workplace</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6567969858.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6567969863.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="MSNBC">
     <title lang="en">Velshi</title>
@@ -9681,7 +9546,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8351532570.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8351532575.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20221225150000 +0000" stop="20221225170000 +0000" channel="MSNBC">
     <title lang="en">The Sunday Show with Jonathan Capehart</title>
@@ -9744,36 +9608,6 @@
     <title lang="en">Love &amp; The Constitution</title>
     <desc>Representative Jamie Raskin fights to defend American democracy during Donald Trump's presidency and second impeachment trial while coping with the personal tragedy of losing his son.</desc>
     <date>20220000</date>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="MTV">
-    <title lang="en">MTV Cribs</title>
-    <sub-title>Rick Ross /Jojo Siwa/Nico Tortorella</sub-title>
-    <desc>Rick Ross shows off his lavish 46,000 square foot crib &amp; cars in Atlanta, Georgia, JoJo Siwa reveals you could never have enough glitter in her fabulous Tarzana home.</desc>
-    <date>20210922</date>
-    <category>Reality</category>
-    <category>Entertainment</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10397421237.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10397421241.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S18E08</episode-num>
-    <episode-num system="xmltv_ns">17.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="MTV">
-    <title lang="en">MTV Cribs</title>
-    <sub-title>Matt James &amp; Tyler Cameron / Olivia Culpo / Dwight Howard</sub-title>
-    <desc>America's favorite bachelors, Matt James and Tyler Cameron, show off their NYC luxury apartment; Miss USA/Miss Universe, Olivia Culpo, gives a tour of her chic LA crib; and NBA champion Dwight Howard welcomes us to his monumental Atlanta estate.</desc>
-    <date>20221027</date>
-    <category>Reality</category>
-    <category>Entertainment</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10397421237.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10397421241.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S19E01</episode-num>
-    <episode-num system="xmltv_ns">18.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="MTV">
     <title lang="en">MTV Cribs</title>
@@ -10109,13 +9943,57 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="NatGEO">
-    <title lang="en">Save On Your Grocery Bills!</title>
-    <desc>Tired of throwing away spoiled groceries? Keep food fresh 5X longer with the new PowerXL Duo Nutrisealer!</desc>
-    <date>20220217</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="MTV">
+    <title lang="en">Ridiculousness</title>
+    <sub-title>Holiday V</sub-title>
+    <desc>Rob, Chanel and Steelo check out some Scrooges with "I hate the Holidays", try and return some Tasteless Toys, and celebrate what makes the holidays special with It's Tradition.</desc>
+    <credits>
+      <director>Marco Mancini</director>
+      <producer>Shanna Zablow</producer>
+      <composer>Michael Baiardi</composer>
+      <guest>Juicy J</guest>
+      <guest>B. Simone</guest>
+      <guest>Brian Urlacher</guest>
+    </credits>
+    <date>20211211</date>
+    <category>Comedy</category>
+    <category>Reality</category>
+    <category>Compilation</category>
+    <category>Entertainment</category>
+    <category>Internet</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S23E43</episode-num>
+    <episode-num system="xmltv_ns">22.42.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="MTV">
+    <title lang="en">Ridiculousness</title>
+    <sub-title>A Holly Jolly Ridiculousness IX</sub-title>
+    <desc>Rob, Chanel, and Steelo ride some Dread Sleds, see who's on The Naughty List, and experience New Year's Grief.</desc>
+    <credits>
+      <director>Marco Mancini</director>
+      <producer>Shanna Zablow</producer>
+      <composer>Michael Baiardi</composer>
+      <guest>Juicy J</guest>
+      <guest>B. Simone</guest>
+      <guest>Brian Urlacher</guest>
+    </credits>
+    <date>20201218</date>
+    <category>Comedy</category>
+    <category>Reality</category>
+    <category>Compilation</category>
+    <category>Entertainment</category>
+    <category>Internet</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S19E19</episode-num>
+    <episode-num system="xmltv_ns">18.18.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="NatGEO">
     <title lang="en">Gordon Ramsay: Uncharted: Extra Helping: Appetite for Adventure</title>
@@ -10241,27 +10119,13 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="NatGEOWild">
-    <title lang="en">The Incredible Dr. Pol</title>
-    <sub-title>The Bark Side</sub-title>
-    <desc>From emergency calvings to shaky emus and goats, Doc comes to the rescue.</desc>
-    <credits>
-      <director>James M. Felter</director>
-      <actor>Sandra Wisniewski</actor>
-      <producer>Christopher Butler</producer>
-      <composer>Chris Biondo</composer>
-    </credits>
-    <date>20220224</date>
-    <category>Reality</category>
-    <category>Animals</category>
-    <category>Medicine</category>
-    <category>Pets</category>
-    <category>Wildlife</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7404243072.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7404300488.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="NatGEO">
+    <title lang="en">Gordon Ramsay: Uncharted: Extra Helping Snap Ins</title>
+    <sub-title>Michigan's Yooper Cuisine</sub-title>
+    <desc>Chef Ramsay uncovers the hidden culinary secrets of Michigan's UP.</desc>
+    <date>20210000</date>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="NatGEOWild">
@@ -10450,20 +10314,29 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="NBA">
-    <title lang="en">Ready or Not: The '96 Draft</title>
-    <sub-title>Part 1</sub-title>
-    <desc>Allen Iverson, Kobe Bryant, Steve Nash and Ray Allen head the players featured in a look back at the 1996 NBA Draft, its iconic stars, stories, trades, culture and legacy. Host: Ernie Johnson. Includes rare draft video, and over 35 interviews with former NBA players, coaches, and executives including Iverson, Nash, Allen, Jerry West and Rick Pitino.</desc>
-    <date>20210411</date>
-    <category>Documentary</category>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Basketball</category>
-    <category>Retrospective</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9932913586.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9932913587.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="NatGEOWild">
+    <title lang="en">Incredible Dr. Pol</title>
+    <sub-title>Liter-ally Puppies</sub-title>
+    <desc>Dr. Nicole tends to her beloved old beagle.</desc>
+    <credits>
+      <director>James M. Felter</director>
+      <actor>Sandra Wisniewski</actor>
+      <producer>Christopher Butler</producer>
+      <composer>Chris Biondo</composer>
+    </credits>
+    <date>20220922</date>
+    <category>Reality</category>
+    <category>Animals</category>
+    <category>Medicine</category>
+    <category>Pets</category>
+    <category>Wildlife</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7404243072.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7404300488.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S20E44</episode-num>
+    <episode-num system="xmltv_ns">19.43.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="NBA">
     <title lang="en">Ready or Not: The '96 Draft</title>
@@ -10530,10 +10403,10 @@
     <episode-num system="onscreen">S01E02</episode-num>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="NBC">
-    <title lang="en">Sunday Today With Willie Geist</title>
-    <sub-title>12-25-2022</sub-title>
-    <date>20220000</date>
+  <programme start="20221225220000 +0000" stop="20221225233000 +0000" channel="NBA">
+    <title lang="en">Muggsy: Always Believe</title>
+    <desc>Muggsy Bogues, the shortest player in NBA history, lives his life by the motto "Always Believe", and that guided him to greater heights than anyone could have predicted.</desc>
+    <date>20210000</date>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="NBC">
     <title lang="en">Meet the Press</title>
@@ -10549,7 +10422,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7251949148.jpg" width="542" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7251949145.jpg" width="720" height="716"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20221225150000 +0000" stop="20221225233000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -10922,25 +10794,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="NBCNY">
-    <title lang="en">Sunday Today With Willie Geist</title>
-    <sub-title>12-25-2022</sub-title>
-    <date>20220000</date>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="NBCNY">
-    <title lang="en">Open House NYC</title>
-    <desc>A series offering home-improvement and design tips, as well as spotlighting prime properties.</desc>
-    <category>Decorating</category>
-    <category>Home &amp; Garden</category>
-    <category>Home projects</category>
-    <category>Real estate</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10624505922.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10624505920.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="NBCNY">
     <title lang="en">Christmas Organ Pipes With Richard Elliott</title>
   </programme>
@@ -11004,6 +10857,15 @@
   <programme start="20221225213000 +0000" stop="20221225220000 +0000" channel="NBCNY">
     <title lang="en">The Wonder of Christmas: Santino Fontana</title>
     <date>20170000</date>
+  </programme>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="NBCNY">
+    <title lang="en">Access Hollywood</title>
+    <sub-title>12-10-2022</sub-title>
+    <desc>Top Hollywood headlines, celebrity interviews, inspirational stories and the best viral moments of the week.</desc>
+    <date>20220000</date>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20220206040000 +0000" stop="20220207040000 +0000" channel="NBCSN">
     <title lang="en">To Be Announced</title>
@@ -11120,9 +10982,20 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-814133060.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-    <date>20210000</date>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="NFL">
+    <title lang="en">A Football Life</title>
+    <sub-title>Joe Theismann</sub-title>
+    <desc>He's been an NFL MVP and led Washington to its first Super Bowl Championship, but when you hear the name Joe Theismann, the first thing that comes to mind is his broken leg. It's been nearly 40 years since that Monday Night Game and for the first time since, Theismann and Lawrence Taylor take the field together at RFK Stadium.</desc>
+    <date>20220916</date>
+    <category>Documentary</category>
+    <category>Sports stuff</category>
+    <category>Pro</category>
+    <category>Football</category>
+    <category>Profile</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5238793162.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7554657063.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S11E01</episode-num>
+    <episode-num system="xmltv_ns">10.0.</episode-num>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="NFLRZ">
     <title lang="en">NFL RedZone</title>
@@ -11156,51 +11029,9 @@
     <title lang="en">NFL RedZone</title>
     <date>20210000</date>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="Nickelodeon">
-    <title lang="en">Reindeer in Here</title>
-    <desc>A young reindeer with odd antlers and his group of friends band together to save the future of Christmas.</desc>
-    <credits>
-      <director>Lino Disalvo</director>
-      <writer>Greg Erb</writer>
-    </credits>
-    <date>20221129</date>
-    <category>Action/Adventure</category>
-    <category>Special</category>
-    <category>Christmas</category>
-    <category>Animated comedy</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12256954461.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12256954459.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="Nickelodeon">
-    <title lang="en">SpongeBob SquarePants</title>
-    <sub-title>SpongeBob's Road to Christmas</sub-title>
-    <desc>SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
-    <credits>
-      <director>Vincent Waller</director>
-      <writer>Stephen Hillenburg</writer>
-      <producer>Stephen Hillenburg</producer>
-      <composer>Nick Carr</composer>
-    </credits>
-    <date>20211210</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Animals</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6598441135.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-172380245.jpg" width="720" height="363"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="NFLRZ">
+    <title lang="en">NFL RedZone</title>
+    <date>20210000</date>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="Nickelodeon">
     <title lang="en">SpongeBob SquarePants</title>
@@ -11466,47 +11297,6 @@
     <date>20220000</date>
     <live/>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="Nicktoons">
-    <title lang="en">The Loud House</title>
-    <sub-title>Snow Escape/Snow News Day</sub-title>
-    <desc>The Louds must survive a monstrous Lynn when the weatherman declares it a "Packing Day." Then, when there are signs of a yeti in Royal Woods, the Action News Team sets out to prove its existence.</desc>
-    <credits>
-      <director>Chris Savino</director>
-      <producer>Karen Malach</producer>
-      <composer>Doug Rockwell</composer>
-    </credits>
-    <date>20221220</date>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7749185983.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7754474724.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="Nicktoons">
-    <title lang="en">The Loud House</title>
-    <sub-title>11 Louds a Leapin'</sub-title>
-    <desc>Lincoln loses his sled when it lands in Mr. Grouse's yard just before Christmas, so Lincoln and Clyde set out to retrieve it.</desc>
-    <credits>
-      <director>Chris Savino</director>
-      <producer>Karen Malach</producer>
-      <composer>Doug Rockwell</composer>
-    </credits>
-    <date>20161125</date>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7749185983.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7754474724.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="Nicktoons">
     <title lang="en">The Loud House</title>
     <sub-title>Snow Way Out; Snow Way Down</sub-title>
@@ -11705,8 +11495,30 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="OAN">
-    <title lang="en">Tipping Point with Kara McKinney</title>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="Nicktoons">
+    <title lang="en">Rugrats</title>
+    <sub-title>Great Minds Think Alike/Betty and the Beast</sub-title>
+    <desc>Angelica and Susie argue over their supposed telekinetic abilities. Later, Tommy embarks on his quest to transform his father back into a human after believing him to have become a fearsome creature.</desc>
+    <date>20210000</date>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225233000 +0000" channel="Nicktoons">
+    <title lang="en">The Great Nickmas Tree Sliming... Hosted by That Girl Lay Lay</title>
+    <desc>That Girl Lay Lay hosts the biggest holiday party of the year with special guests Tinashe, Elsa Majimbo and Pentatonix. Lay Lay accidentally zaps Santa Claus' sleigh out of the sky and must decide if she'll be able to save</desc>
+    <date>20221215</date>
+    <category>Comedy</category>
+    <category>Music</category>
+    <category>Variety</category>
+    <category>Special</category>
+    <category>Christmas</category>
+    <category>Teens</category>
+    <category>Preteen</category>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="OAN">
     <title lang="en">OAN News</title>
@@ -11757,20 +11569,11 @@
   <programme start="20221225210000 +0000" stop="20221225220000 +0000" channel="OAN">
     <title lang="en">Tipping Point with Kara McKinney</title>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="OWN">
-    <title lang="en">Our OWN Celebration (Christmas)</title>
-    <sub-title>Episode 1</sub-title>
-    <desc>Some of the best Gospel, Hip-Hop and R&amp;B artists across the country celebrate the holidays. Featuring festive collaborations, special holiday moments, surprise acts of giving and a whole lot of inspiration.</desc>
-    <date>20201201</date>
-    <category>Christmas</category>
-    <category>Entertainment</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9395856127.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9395856121.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="OAN">
+    <title lang="en">Real America With Dan Ball</title>
+    <desc>The latest political headlines are examined via conversations with newsmakers, politicians and others.</desc>
     <rating system="VCHIP">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225160000 +0000" channel="OWN">
@@ -11871,27 +11674,6 @@
   <programme start="20221130000000 +0000" stop="20221130040000 +0000" channel="OLY">
     <title lang="en">Channel No Longer Broadcasting</title>
     <desc>Channel No Longer Broadcasting</desc>
-  </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="Oxygen">
-    <title lang="en">Snapped</title>
-    <sub-title>Joann Peterson</sub-title>
-    <desc>When a father in Spokane, Wash., is found shot to death in his vehicle, detectives work for years to unmask a vicious killer who isn't afraid to silence witnesses. They eventually uncover a long-kept family secret that breaks the case wide open.</desc>
-    <credits>
-      <director>Bob Hasentufel</director>
-      <producer>Stephen Land</producer>
-      <composer>Justin Melland</composer>
-    </credits>
-    <date>20220724</date>
-    <category>Drama</category>
-    <category>Documentary</category>
-    <category>Crime</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11563852997.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11563853001.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S31E03</episode-num>
-    <episode-num system="xmltv_ns">30.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="Oxygen">
     <title lang="en">Snapped</title>
@@ -12061,37 +11843,26 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="Paramount">
-    <title lang="en">NCIS</title>
-    <sub-title>Playing With Fire</sub-title>
-    <desc>An explosion on a Navy ship is investigated, and security is elevated at all U.S. Navy facilities around the world. Meanwhile, DiNozzo and Ziva travel to Italy after another explosive device is discovered onboard an American vessel.</desc>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="Oxygen">
+    <title lang="en">Snapped</title>
+    <sub-title>April Quick</sub-title>
+    <desc>After a small-town man is found shot to death at a Missouri roadside park, the evidence trail leads detectives further into the man's complicated past where they uncover a wicked plot that no one saw coming.</desc>
     <credits>
-      <director>Alan J. Levi</director>
-      <actor role="Hollis Mann">Susanna Thompson</actor>
-      <writer>Donald P. Bellisario</writer>
-      <producer>Avery C. Drewe</producer>
-      <composer>Greg Burns</composer>
+      <director>Bob Hasentufel</director>
+      <producer>Stephen Land</producer>
+      <composer>Justin Melland</composer>
     </credits>
-    <date>20120501</date>
-    <category>Crime drama</category>
+    <date>20221002</date>
     <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Military</category>
-    <category>Mystery &amp; Suspense</category>
-    <category>Police</category>
-    <category>Spin-off</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12033165741.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12033165745.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S09E22</episode-num>
-    <episode-num system="xmltv_ns">8.21.</episode-num>
+    <category>Documentary</category>
+    <category>Crime</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11563852997.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11563853001.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S31E12</episode-num>
+    <episode-num system="xmltv_ns">30.11.</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>51/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="Paramount">
     <title lang="en">NCIS</title>
@@ -12279,26 +12050,31 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/57.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225143000 +0000" channel="PBS">
-    <title lang="en">Nature Cat</title>
-    <sub-title>A Nature Carol</sub-title>
+  <programme start="20221225222700 +0000" stop="20221225233300 +0000" channel="Paramount">
+    <title lang="en">Yellowstone</title>
+    <sub-title>Watch 'Em Ride Away</sub-title>
+    <desc>John tells Clara to cancel his Capitol meetings to brand cattle with the Yellowstone cowboys. Beth's disdain for a perceived rival reaches a boiling point.</desc>
     <credits>
-      <director>Steve Daye</director>
+      <director>Taylor Sheridan</director>
+      <actor>Forrie Smith</actor>
+      <writer>Taylor Sheridan</writer>
+      <producer>John Linson</producer>
+      <composer>Breton Vivian</composer>
     </credits>
-    <date>20221202</date>
-    <category>Children</category>
-    <category>Educational</category>
-    <category>Animals</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8714100611.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8714100620.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <date>20221204</date>
+    <category>Drama</category>
+    <category>Western</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10648353328.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8761954656.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <episode-num system="xmltv_ns">4.4.</episode-num>
     <rating system="VCHIP">
-      <value>TV-Y</value>
+      <value>TV-MA</value>
     </rating>
+    <star-rating system="Metascore">
+      <value>57/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/57.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225153000 +0000" channel="PBS">
     <title lang="en">Curious George</title>
@@ -12802,23 +12578,53 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="Science">
-    <title lang="en">Rocket Around the Xmas Tree</title>
-    <sub-title>Santa's Souped-Up Sleigh</sub-title>
-    <desc>The teams return for the final ornament tournament where they must make an expedited delivery of letters, send decorations to Christmas Town without breaking a bobble, and give Santa's sleigh a turbo boost to claim the golden rocket tree-topper trophy.</desc>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="Reelz">
+    <title lang="en">Cops</title>
+    <sub-title>My Cherie</sub-title>
+    <desc>Breaking glass, screams, and scares are involved in a dangerous robbery.</desc>
     <credits>
-      <director>Rob Hammersley</director>
+      <director>Dale Dimmick</director>
     </credits>
-    <date>20201217</date>
+    <date>20220721</date>
+    <category>Drama</category>
     <category>Reality</category>
-    <category>Reality competition</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9460986021.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9460986009.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5742780526.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544453706.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S32E170</episode-num>
+    <episode-num system="xmltv_ns">31.169.</episode-num>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
+    <star-rating system="Metascore">
+      <value>84/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="Reelz">
+    <title lang="en">Cops</title>
+    <sub-title>I Didn't Do Nothing</sub-title>
+    <desc>There is suspicion when a man resists arrest.</desc>
+    <credits>
+      <director>Dale Dimmick</director>
+    </credits>
+    <date>20220721</date>
+    <category>Drama</category>
+    <category>Reality</category>
+    <category>Crime</category>
+    <category>Police</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-5742780526.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7544453706.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S32E175</episode-num>
+    <episode-num system="xmltv_ns">31.174.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>84/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="Science">
     <title lang="en">MythBusters</title>
@@ -13035,6 +12841,33 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="Science">
+    <title lang="en">MythBusters</title>
+    <sub-title>Tanker Crush</sub-title>
+    <desc>Adam and Jamie attempt to create a vacuum and crush a train car in the premiere episode of the final season.</desc>
+    <credits>
+      <director>Lauren Gray Williams</director>
+      <writer>Chris Williams</writer>
+      <producer>Linda Wolkovitch</producer>
+      <composer>Neil Sutherland</composer>
+    </credits>
+    <date>20160116</date>
+    <category>Comedy</category>
+    <category>Documentary</category>
+    <category>Reality</category>
+    <category>Science</category>
+    <category>Technology</category>
+    <category>Educational</category>
+    <category>Engineering</category>
+    <category>Mystery &amp; Suspense</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7541211679.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7541211674.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S19E03</episode-num>
+    <episode-num system="xmltv_ns">18.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20221225130000 +0000" stop="20221225150000 +0000" channel="SECN">
     <title lang="en">SEC Network Yule Log</title>
     <desc>A mix of Southeastern Conference college fight songs and holiday music accompany a fireplace scene.</desc>
@@ -13231,20 +13064,33 @@
     <episode-num system="onscreen">S04E02</episode-num>
     <episode-num system="xmltv_ns">3.1.</episode-num>
   </programme>
-  <programme start="20221225124500 +0000" stop="20221225143000 +0000" channel="Showtime">
-    <title lang="en">Confess, Fletch</title>
-    <desc>Confess, Fletch is a reboot of the classic crime-comedy film. This time, Fletch becomes the main suspect in a series of murders while investigating thieves that stole his girlfriend's art collection. To exonerate himself, Fletch begins his own investigation into the murders and discovers a lot of people could be the guilty party, including his art collecting girlfriend.</desc>
-    <date>20220916</date>
-    <category>Comedy</category>
-    <category>Crime</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-12028822085.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-12223352864.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>64/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/64.png" width="128" height="128"/>
-    </star-rating>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="SECN">
+    <title lang="en">TrueSouth</title>
+    <sub-title>Mobile Bay</sub-title>
+    <desc>Discovering one of the most diverse ecosystems on three boats in the Gulf of Mexico. John visits two Mobile Bay staples: Pirate's Cove and Cozy Brown's.</desc>
+    <date>20211114</date>
+    <category>Sports stuff</category>
+    <category>Food</category>
+    <category>Travel</category>
+    <category>Local cultures</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7746910352.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7746910356.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="SECN">
+    <title lang="en">TrueSouth</title>
+    <sub-title>St. Louis</sub-title>
+    <desc>We travel to the city on the cusp of the South to try everything St. Louis from their Italian hot salami sandwiches to an American cheeseburger cooked on a 1936 vintage grill.</desc>
+    <date>20211205</date>
+    <category>Sports stuff</category>
+    <category>Food</category>
+    <category>Travel</category>
+    <category>Local cultures</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7746910352.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7746910356.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225170000 +0000" channel="Showtime">
     <title lang="en">Stillwater</title>
@@ -13321,24 +13167,6 @@
     <star-rating system="Metascore">
       <value>82/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221225130000 +0000" stop="20221225144800 +0000" channel="StarZ">
-    <title lang="en">The Man Who Invented Christmas</title>
-    <desc>In this heartwarming period piece set in 1843 London, Charles Dickens writes "A Christmas Carol" after finding inspiration in the people around him and his own desire to be a better person. His novella helps transform Christmas from a minor holiday into a celebration of goodwill.</desc>
-    <date>20180723</date>
-    <category>Comedy</category>
-    <category>Comedy-drama</category>
-    <category>Biography</category>
-    <category>Christmas</category>
-    <category>Adaptation</category>
-    <length units="seconds">6240</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-11389850042.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-5808115920.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>60/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/60.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221225144800 +0000" stop="20221225150700 +0000" channel="StarZ">
@@ -13432,26 +13260,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/52.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225110000 +0000" stop="20221225140000 +0000" channel="SundanceTV">
-    <title lang="en">The Man Who Shot Liberty Valance</title>
-    <desc>A senator becomes famous for gunning down a known outlaw, but later, on the day of an old friend's funeral, he reveals the truth about what really happened that fateful day.</desc>
-    <date>20090813</date>
-    <category>Drama</category>
-    <category>Cult classic</category>
-    <category>Guy flick</category>
-    <category>Western</category>
-    <length units="seconds">7380</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-6830197091.jpg" width="483" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6830197090.jpg" width="720" height="404"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>94/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/94.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20221225140000 +0000" stop="20221225163000 +0000" channel="SundanceTV">
     <title lang="en">Big Jake</title>
     <desc>It's a Wayne family affair as John Wayne stars as a rancher trying to track down his kidnapped grandson (played by his real-life son Ethan Wayne). Another Wayne son, Patrick Wayne, costars as one of his father's on-screen offspring who joins him in the search party.</desc>
@@ -13512,6 +13320,24 @@
     <star-rating system="Metascore">
       <value>50/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/50.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221226013000 +0000" channel="SundanceTV">
+    <title lang="en">El Dorado</title>
+    <desc>An aging gunfighter teams with an alcoholic sheriff and a knife-thrower to fight a cattle baron.</desc>
+    <date>20041206</date>
+    <category>Other</category>
+    <category>Western</category>
+    <length units="seconds">7500</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-884403037.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8448470712.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>85/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/85.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221225130000 +0000" stop="20221225160000 +0000" channel="SYFY">
@@ -13759,14 +13585,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/63.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="Telemundo">
-    <title lang="es">Programación pagada</title>
-    <desc>Programación pagada.</desc>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="Telemundo">
-    <title lang="es">Programación pagada</title>
-    <desc>Programación pagada.</desc>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="Telemundo">
     <title lang="es">Programación pagada</title>
     <desc>Programación pagada.</desc>
@@ -13800,12 +13618,6 @@
     <desc>Maya, una mujer de mediana edad, es trabajadora de un gran almacén y debe demostrar todo su talento sin tener un título que la respalde. Esta historia demuestra que el conocimiento adquirido en la calle es tanto, o más importante que el que se aprende en la universidad.</desc>
     <date>20180000</date>
   </programme>
-  <programme start="20221225120000 +0000" stop="20221225143000 +0000" channel="Tennis">
-    <title lang="en">Classic Tennis</title>
-    <sub-title>2005: Federer-Hewitt</sub-title>
-    <desc>From 2005: Roger Federer vs. Lleyton Hewitt in the final of the ATP Masters event in Indian Wells, Cal.</desc>
-    <date>20110000</date>
-  </programme>
   <programme start="20221225143000 +0000" stop="20221225163000 +0000" channel="Tennis">
     <title lang="en">Strokes of Genius</title>
     <desc>Tennis icons Roger Federer and Rafael Nadal are chronicled in depth in a retrospective on their epic 2008 Wimbledon final, which saw Nadal end Federer's five-year reign on Centre Court. Based on the 2009 book by L. Jon Wertheim.</desc>
@@ -13820,58 +13632,6 @@
     <sub-title>2012: Federer-Murray</sub-title>
     <desc>From 2012: Andy Murray vs. Roger Federer in the Wimbledon final.</desc>
     <date>20120000</date>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="TeenNick">
-    <title lang="en">Henry Danger</title>
-    <sub-title>Mo' Danger, Mo' Problems</sub-title>
-    <desc>Henry adapts to his new job as Kid Danger, but he struggles to balance it with school and his personal life.</desc>
-    <credits>
-      <director>Adam Weissman</director>
-      <actor role="Charlotte">Riele Downs</actor>
-      <producer>Kim Sherwood</producer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>20140913</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Sci-fi</category>
-    <category>Superheroes</category>
-    <category>Preteen</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1874030204.jpg" width="490" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6548403502.jpg" width="720" height="361"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="TeenNick">
-    <title lang="en">Henry Danger</title>
-    <sub-title>The Secret Gets Out</sub-title>
-    <desc>Charlotte grows suspicious of Henry's many secrets, jeopardizing Henry's superhero-sidekick job.</desc>
-    <credits>
-      <director>Adam Weissman</director>
-      <actor role="Charlotte">Riele Downs</actor>
-      <producer>Kim Sherwood</producer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>20140920</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Sci-fi</category>
-    <category>Superheroes</category>
-    <category>Preteen</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1874030204.jpg" width="490" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6548403502.jpg" width="720" height="361"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="TeenNick">
     <title lang="en">Henry Danger</title>
@@ -14033,27 +13793,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-12385447752.jpg" width="720" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-12385347793.jpg" width="720" height="406"/>
     <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="TLC">
-    <title lang="en">Loren &amp; Alexei: After the 90 Days</title>
-    <sub-title>Birthday Bashed</sub-title>
-    <desc>Alex attempts to get Shai involved in sports while Loren fumbles to try and get him into modeling. Meanwhile, Loren and Alex throw a birthday bash for Shai, but things aren't all fun and games when Marlene decides to carry on about the potential Israel move.</desc>
-    <credits>
-      <actor>Alexei</actor>
-    </credits>
-    <date>20221219</date>
-    <category>Drama</category>
-    <category>Family issues</category>
-    <category>Reality</category>
-    <category>Variety</category>
-    <category>Romance</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11017655737.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11017655735.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="TLC">
     <title lang="en">I Am Shauna Rae</title>
@@ -14233,27 +13972,27 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221225120000 +0000" stop="20221225140000 +0000" channel="TNT">
-    <title lang="en">A Christmas Story</title>
-    <desc>Holiday favorite set in 1940s Indiana about Ralphie, a 9-year-old boy who desperately yearns for a Red Rider BB gun for Christmas. Despite protests from his mother that he'll shoot his eye out, Ralphie persists, unsuccessfully trying to enlist the assistance of both his teacher and Santa Claus. All the while, Ralphie finds himself dealing with the constant taunts of a pair of bullies and trying to not get in the middle of a feud between his mother and father regarding a certain lamp.</desc>
-    <date>20090608</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Christmas</category>
-    <category>Pop culture classic</category>
-    <category>Adaptation</category>
-    <length units="seconds">5880</length>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3172874954.JPEG" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3172874956.JPEG" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="TLC">
+    <title lang="en">90 Day Fiance: Happily Ever After?</title>
+    <sub-title>Pillow Talk: Battlefield</sub-title>
+    <desc>Kenny and Armando, Robert and Anny, Patrick and John, and Emily and Kobe watch the latest episode of "Happily Ever After."</desc>
+    <credits>
+      <director>Não Informado</director>
+    </credits>
+    <date>20221204</date>
+    <category>Reality</category>
+    <category>Dating</category>
+    <category>Entertainment</category>
+    <category>Romance</category>
+    <category>Companion series</category>
+    <category>Troubled relationships</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12036002460.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12036002465.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S07E15</episode-num>
+    <episode-num system="xmltv_ns">6.14.</episode-num>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>77/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/77.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225160000 +0000" channel="TNT">
     <title lang="en">A Christmas Story</title>
@@ -14343,26 +14082,27 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/77.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="Travel">
-    <title lang="en">Paranormal Caught on Camera</title>
-    <sub-title>Rainbow Portal in Connecticut and More</sub-title>
-    <desc>An anomaly in the sky dazzles Connecticut onlookers. Orbs float through an empty Texas jail.</desc>
-    <credits>
-      <director>Jason Cilo</director>
-    </credits>
-    <date>20210527</date>
-    <category>Reality</category>
-    <category>Entertainment</category>
-    <category>Mystery &amp; Suspense</category>
-    <category>Paranormal</category>
-    <category>Candid camera/Spy cam</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10283432371.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10283432378.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
+  <programme start="20221225220000 +0000" stop="20221226000000 +0000" channel="TNT">
+    <title lang="en">A Christmas Story</title>
+    <desc>Holiday favorite set in 1940s Indiana about Ralphie, a 9-year-old boy who desperately yearns for a Red Rider BB gun for Christmas. Despite protests from his mother that he'll shoot his eye out, Ralphie persists, unsuccessfully trying to enlist the assistance of both his teacher and Santa Claus. All the while, Ralphie finds himself dealing with the constant taunts of a pair of bullies and trying to not get in the middle of a feud between his mother and father regarding a certain lamp.</desc>
+    <date>20090608</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Children</category>
+    <category>Christmas</category>
+    <category>Pop culture classic</category>
+    <category>Adaptation</category>
+    <length units="seconds">5880</length>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3172874954.JPEG" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-3172874956.JPEG" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
+    <star-rating system="Metascore">
+      <value>77/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/77.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="Travel">
     <title lang="en">Paranormal Caught on Camera</title>
@@ -14532,42 +14272,23 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="TruTV">
-    <title lang="en">Hangin' With Mr. Cooper</title>
-    <sub-title>I Remember Grandpa</sub-title>
-    <desc>Mark and Geneva share vastly different memories of summers spent at their grandfather's cabin. Mark Curry plays both Mark and Grandpa. Young Mark: Rashaan Nall. Young Geneva: Jaquita Green. Vanessa: Holly Robinson Peete. Nicole: Raven-Symone.</desc>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="Travel">
+    <title lang="en">Paranormal Caught on Camera</title>
+    <sub-title>Santa Fe UFO and More</sub-title>
+    <desc>A man leaving work is startled by a gigantic UFO. Then, a convenience store in Malaysia is visited by the dangerous and voluptuous Hantu Tetek, and an abandoned temple in Ohio is haunted by a horde of shadow people.</desc>
     <credits>
-      <director>Mark Linn-Baker</director>
-      <actor role="Coach Corley">Ron Canada</actor>
+      <director>Jason Cilo</director>
     </credits>
-    <date>19951117</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-898572090.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9370347009.jpg" width="720" height="481"/>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="TruTV">
-    <title lang="en">Hangin' With Mr. Cooper</title>
-    <sub-title>R.E.S.P.E.C.T.</sub-title>
-    <desc>Geneva (Saundra Quarterman) moves out after tiring of Mark taking her housework for granted. Steve: Steve White. Lydell: Lewis Dix. Vanessa: Holly Robinson Peete.</desc>
-    <credits>
-      <director>Mark Linn-Baker</director>
-      <actor role="Coach Corley">Ron Canada</actor>
-    </credits>
-    <date>19951201</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-898572090.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9370347009.jpg" width="720" height="481"/>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <date>20221009</date>
+    <category>Reality</category>
+    <category>Entertainment</category>
+    <category>Mystery &amp; Suspense</category>
+    <category>Paranormal</category>
+    <category>Candid camera/Spy cam</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10283432371.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10283432378.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S05E15</episode-num>
+    <episode-num system="xmltv_ns">4.14.</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -14872,57 +14593,45 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="TVLand">
-    <title lang="en">The Golden Girls</title>
-    <sub-title>There Goes the Bride</sub-title>
-    <desc>Dorothy agrees to remarry Stan (Herb Edelman), but a disapproving Sophia wants to muffle the wedding bells. Part 1 of two. Sarah: Mary Gillis. Lois: Toni Sawyer. Dorothy: Beatrice Arthur. Sophia: Estelle Getty.</desc>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="TruTV">
+    <title lang="en">Hangin' With Mr. Cooper</title>
+    <sub-title>The In-Laws</sub-title>
+    <desc>Despite a rehearsal, Mark's first meeting with Vanessa's well-to-do parents is a disaster, thanks to her competitive father (Roger Aaron Brown). Elizabeth: Dolores Robinson. Vanessa: Holly Robinson Peete. Mark: Mark Curry. Geneva: Saundra Quarterman.</desc>
     <credits>
-      <director>Terry Hughes</director>
-      <actor role="Sophia Petrillo">Estelle Getty</actor>
-      <writer>Jeffrey Duteil</writer>
-      <producer>Terry Grossman</producer>
-      <composer>Andrew Gold</composer>
+      <director>Mark Linn-Baker</director>
+      <actor role="Coach Corley">Ron Canada</actor>
     </credits>
-    <date>19910202</date>
+    <date>19970705</date>
     <category>Comedy</category>
+    <category>Family</category>
     <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S06E16</episode-num>
-    <episode-num system="xmltv_ns">5.15.</episode-num>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-898572090.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9370347009.jpg" width="720" height="481"/>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>82/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
-    </star-rating>
   </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="TVLand">
-    <title lang="en">The Golden Girls</title>
-    <sub-title>There Goes the Bride</sub-title>
-    <desc>Conclusion. While Dorothy prepares for her nuptials, the others interview a prospective roomie (Debbie Reynolds). Stan: Herb Edelman. Myra: Meg Wyllie. Marvin Mitchelson: Himself. Caterer: Raye Birk. Rose: Betty White.</desc>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="TruTV">
+    <title lang="en">Hangin' With Mr. Cooper</title>
+    <sub-title>Security</sub-title>
+    <desc>After losing her job, Vanessa tries selling beauty products at home, while Mark takes a job as a movie-set security guard, and makes an impression on the obnoxious preteen star (Justin Jon Ross). Florence: Karen Malina White. Geneva: Saundra Quarterman.</desc>
     <credits>
-      <director>Terry Hughes</director>
-      <actor role="Sophia Petrillo">Estelle Getty</actor>
-      <writer>Jeffrey Duteil</writer>
-      <producer>Terry Grossman</producer>
-      <composer>Andrew Gold</composer>
+      <director>Mark Linn-Baker</director>
+      <actor role="Coach Corley">Ron Canada</actor>
     </credits>
-    <date>19910209</date>
+    <date>19970712</date>
     <category>Comedy</category>
+    <category>Family</category>
     <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7470891750.jpg" width="498" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7510911253.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S06E17</episode-num>
-    <episode-num system="xmltv_ns">5.16.</episode-num>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-898572090.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9370347009.jpg" width="720" height="481"/>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>82/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="TVLand">
     <title lang="en">The Golden Girls</title>
@@ -15314,9 +15023,55 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="TWC">
-    <title lang="en">America's Weekend Headquarters</title>
-    <desc>Stories and the science of weather are explored.</desc>
+  <programme start="20221225220000 +0000" stop="20221225223000 +0000" channel="TVLand">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title>The Ball</sub-title>
+    <desc>Raymond (Ray Romano) adopts a policy of telling his children the truth about everything---even St. Nick. Ally: Madylin Sweeten. Andy: Andy Kindler. Debra: Patricia Heaton. Frank: Peter Boyle.</desc>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor role="Geoffrey Barone">Sawyer Sweeten</actor>
+      <writer>Tucker Cawley</writer>
+      <producer>Lisa Helfrich Jackson</producer>
+    </credits>
+    <date>19961220</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588489581.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588547392.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>74/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/74.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
+  <programme start="20221225223000 +0000" stop="20221225230000 +0000" channel="TVLand">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title>All I Want for Christmas</sub-title>
+    <desc>All Ray wants for Christmas is some romantic downtime with Debra (Patricia Heaton), but his plans go awry. Andy: Andy Kindler. Erin: Christine Cavanaugh. Robert: Brad Garrett. Marie: Doris Roberts.</desc>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor role="Geoffrey Barone">Sawyer Sweeten</actor>
+      <writer>Tucker Cawley</writer>
+      <producer>Lisa Helfrich Jackson</producer>
+    </credits>
+    <date>19971215</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588489581.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588547392.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>74/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/74.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225150000 +0000" channel="TWC">
     <title lang="en">Weekend Recharge</title>
@@ -15455,12 +15210,22 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225140000 +0000" channel="Univision">
-    <title lang="es">Como dice el dicho</title>
-    <desc>Conchita es abandonada en plena calle por su hijo Antonio y por su nuera Carolina, pues quieren quedarse con su fortuna. Mira qué harán Tobías y Almendrita para que Conchita regrese a su casa y que Antonio y Carolina no se salgan con la suya.</desc>
-    <date>20200000</date>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="TWC">
+    <title lang="en">Mud Mountain Haulers</title>
+    <sub-title>Pain In The Backwoods</sub-title>
+    <desc>Trouble on the traction line leaves Craig frustrated by endless breakdowns; a driver fights a chronic back injury to keep the trucks moving and a log hauler goes off the road forcing an all-night rescue.</desc>
+    <credits>
+      <actor>Craig Lebeau</actor>
+    </credits>
+    <date>20210222</date>
+    <category>Documentary</category>
+    <category>Environment</category>
+    <category>Outdoors</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9931084949.jpg" width="453" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9931084946.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
-      <value>TV-14</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20221225140000 +0000" stop="20221225160000 +0000" channel="Univision">
@@ -15506,40 +15271,15 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221225130000 +0000" stop="20221225135600 +0000" channel="USANetwork">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Runaway</sub-title>
-    <desc>The detectives tell Internal Affairs reps what occurred during the search for a police officer's runaway teenage daughter. Ted Bolger: Darrell Hammond. Frank Foster: Daniel Ziskie. Tito Frank: Sean Nelson. Jeffries: Michelle Hurd. Benson: Mariska Hargitay. Stabler: Christopher Meloni.</desc>
-    <credits>
-      <director>Dick Wolf</director>
-      <actor>Jamie Gray Hyder</actor>
-      <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
-      <composer>Mike Post</composer>
-      <editor>Jim Stewart</editor>
-    </credits>
-    <date>20010302</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Courtroom</category>
-    <category>Legal</category>
-    <category>Police</category>
-    <category>Spin-off</category>
-    <category>Troubled relationships</category>
-    <category>Workplace</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10466222308.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7672478681.jpg" width="720" height="398"/>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="Univision">
+    <title lang="es">Amor en Navidad</title>
+    <sub-title>Un Papa para Navidad</sub-title>
+    <desc>Sebastián se ha divorciado hace poco y esta será la primera Navidad que pasa sin sus hijos</desc>
+    <date>20220000</date>
+    <new/>
     <rating system="VCHIP">
-      <value>TV-14</value>
+      <value>TV-G</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>66/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221225135600 +0000" stop="20221225145200 +0000" channel="USANetwork">
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
@@ -15856,56 +15596,39 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="VH1">
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <sub-title>It Had to Be You</sub-title>
-    <desc>Will has girl problems after a date with Jazz's sister (Vivica A. Fox), who's ready to pick out her china pattern before the night is over. Jazz: Jeff Townes. Carlton: Alfonso Ribeiro. Hilary: Karyn Parsons. Will: Will Smith.</desc>
+  <programme start="20221225221000 +0000" stop="20221225230400 +0000" channel="USANetwork">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Gone Fishin'</sub-title>
+    <desc>Season 19 opener: Fin crosses international borders to catch a fugitive rapist, and this causes a political tug-of-war, which derails Barba's case. Meanwhile, shocking allegations against Benson lead to the return of an old friend.</desc>
     <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Max">Milton Berle</actor>
-      <producer>Werner Walian</producer>
-      <composer>Quincy Jones III</composer>
+      <director>Dick Wolf</director>
+      <actor>Jamie Gray Hyder</actor>
+      <writer>Warren Leight</writer>
+      <producer>Peter Leto</producer>
+      <composer>Mike Post</composer>
+      <editor>Jim Stewart</editor>
     </credits>
-    <date>19910204</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8860683440.JPEG" width="507" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8860683432.JPEG" width="720" height="540"/>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <date>20170829</date>
+    <category>Crime drama</category>
+    <category>Drama</category>
+    <category>Action/Adventure</category>
+    <category>Suspense/Thriller</category>
+    <category>Courtroom</category>
+    <category>Legal</category>
+    <category>Police</category>
+    <category>Spin-off</category>
+    <category>Troubled relationships</category>
+    <category>Workplace</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10466222308.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7672478681.jpg" width="720" height="398"/>
+    <episode-num system="onscreen">S19E01</episode-num>
+    <episode-num system="xmltv_ns">18.0.</episode-num>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
     <star-rating system="Metascore">
-      <value>59/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/59.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="VH1">
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <sub-title>Nice Lady</sub-title>
-    <desc>Will is on his best behavior for visiting royalty, which includes the seemingly demure Lady Penelope (Sherrie Krenn). Lord Fowler: William Glover. Otis: Tony Longo. Bouncer: William Upton. Tough: Melvin Jones. Will: Will Smith.</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Max">Milton Berle</actor>
-      <producer>Werner Walian</producer>
-      <composer>Quincy Jones III</composer>
-    </credits>
-    <date>19910211</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8860683440.JPEG" width="507" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8860683432.JPEG" width="720" height="540"/>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>59/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/59.png" width="128" height="128"/>
+      <value>66/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="VH1">
@@ -16073,28 +15796,6 @@
       <value>52/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/52.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="WETV">
-    <title lang="en">5 Makeup Tips 4 You</title>
-    <desc>Airbrushed makeup made easy!</desc>
-    <date>20170221</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="WETV">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="WETV">
     <title lang="en">Paid Programming</title>
@@ -16324,6 +16025,37 @@
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
     </star-rating>
   </programme>
+  <programme start="20221225220000 +0000" stop="20221225230000 +0000" channel="WETV">
+    <title lang="en">Criminal Minds</title>
+    <sub-title>Gabby</sub-title>
+    <desc>A 4-year-old girl disappears while staying with a relative in Mississippi. The investigation uncovers some startling information as the BAU race to find the child and bring her to safety.</desc>
+    <credits>
+      <director>Edward Allen Bernero</director>
+      <actor role="Kevin Lynch">Nicholas Brendon</actor>
+      <writer>Bruce Zimmerman</writer>
+      <producer>Edward Allen Bernero</producer>
+      <composer>Steffan Fantini</composer>
+    </credits>
+    <date>20140128</date>
+    <category>Crime drama</category>
+    <category>Drama</category>
+    <category>Suspense/Thriller</category>
+    <category>Mystery &amp; Suspense</category>
+    <category>Police</category>
+    <category>Politics</category>
+    <category>Psychology</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8196094797.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8196093476.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S09E16</episode-num>
+    <episode-num system="xmltv_ns">8.15.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>42/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/42.png" width="128" height="128"/>
+    </star-rating>
+  </programme>
   <programme start="20221225130000 +0000" stop="20221225153000 +0000" channel="YES">
     <title lang="en">Yankees Classics</title>
     <sub-title>1996 Home Opener in Snow</sub-title>
@@ -16366,6 +16098,11 @@
   <programme start="20221225200000 +0000" stop="20221225220000 +0000" channel="YES">
     <title lang="en">New York Yankees Press Conference</title>
     <sub-title>Aaron Judge</sub-title>
+    <episode-num system="onscreen">S--E00</episode-num>
+  </programme>
+  <programme start="20221225220000 +0000" stop="20221225233000 +0000" channel="YES">
+    <title lang="en">New York Yankees Press Conference</title>
+    <sub-title>Carlos Rodon</sub-title>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
 </tv>

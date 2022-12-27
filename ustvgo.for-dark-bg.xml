@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221227043815" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221227051024" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -7754,12 +7754,10 @@
     <sub-title>Los Angeles Chargers at Indianapolis Colts</sub-title>
     <desc>Los Angeles Chargers (8-6) at Indianapolis Colts (4-9-1). From Lucas Oil Stadium.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221227041500 +0000" stop="20221227043000 +0000" channel="ESPN">
     <title lang="en">Monday Night Postgame</title>
     <desc>Interviews and analysis wrapping up Monday Night Football coverage.</desc>
-    <live/>
   </programme>
   <programme start="20221227043000 +0000" stop="20221227053000 +0000" channel="ESPN">
     <title lang="en">SportsCenter with Scott Van Pelt</title>
@@ -18574,7 +18572,6 @@
     <title lang="es">Sabor de Mañana</title>
     <sub-title>12-26-2022</sub-title>
     <date>20190000</date>
-    <new/>
   </programme>
   <programme start="20221227043500 +0000" stop="20221227050000 +0000" channel="Univision">
     <title lang="es">Noticiero Univision - Edicion Nocturna</title>

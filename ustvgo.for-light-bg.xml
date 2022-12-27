@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221227203521" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20221227210940" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -8010,7 +8010,6 @@
     <sub-title>Georgia Southern vs. Buffalo</sub-title>
     <desc>Georgia Southern (6-6) vs. Buffalo (6-6) in the 10th Camelia Bowl, from Cramton Bowl in Montgomery, Ala. GSU quarterback Kyle Vantrease (25 TDs, 15 INTs) faces the Buffalo squad he transferred from prior to the season, with all-MAC defenders in LB Shaun Dolac and DB Marcu Fuqua. Buffalo won this game in 2020 over Marshall.</desc>
     <date>20220000</date>
-    <live/>
   </programme>
   <programme start="20221227201500 +0000" stop="20221227234500 +0000" channel="ESPN">
     <title lang="en">First Responder Bowl</title>
@@ -12640,6 +12639,7 @@
   <programme start="20221228083000 +0000" stop="20221228090000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20221228090000 +0000" stop="20221228093000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

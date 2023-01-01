@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230101024524" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230101031633" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -895,7 +895,16 @@
     <desc>Sports bloopers and interviews.</desc>
   </programme>
   <programme start="20230101090000 +0000" stop="20230101093000 +0000" channel="ABCNY">
-    <title>Best of Localish</title>
+    <title lang="en">Best of Localish</title>
+    <desc>The best segments from Localish.</desc>
+    <category>Travel</category>
+    <category>Best of</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10066153513.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10066153511.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20230101093000 +0000" stop="20230101103000 +0000" channel="ABCNY">
     <title lang="en">Entertainers</title>
@@ -3088,10 +3097,28 @@
     </rating>
   </programme>
   <programme start="20230101090000 +0000" stop="20230101093000 +0000" channel="CBSNY">
-    <title>Made in Hollywood</title>
+    <title lang="en">Made in Hollywood</title>
+    <sub-title>12-26-2022</sub-title>
+    <date>20221225</date>
+    <category>Interview</category>
+    <category>Entertainment</category>
+    <category>Magazine</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3978079720.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3978079719.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S18E17</episode-num>
+    <episode-num system="xmltv_ns">17.16.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230101093000 +0000" stop="20230101100000 +0000" channel="CBSNY">
-    <title>Inside Edition Weekend</title>
+    <title lang="en">Inside Edition Weekend</title>
+    <desc>Weekend edition of the series featuring investigative reports and interviews with newsmakers.</desc>
+    <category>Newsmagazine</category>
+    <category>Tabloid</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3628898492.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3628898491.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20230101010000 +0000" stop="20230101020000 +0000" channel="CBSSN">
     <title lang="en">Super High Roller Bowl</title>
@@ -14071,7 +14098,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12406287576.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12406287579.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20230101023000 +0000" stop="20230101040000 +0000" channel="PBS">
     <title lang="en">United in Song 2022: Ringing in the New Year Together</title>

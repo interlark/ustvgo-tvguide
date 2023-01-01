@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230101133437" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230101140947" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -4961,7 +4961,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11159968880.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11159968878.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -7230,6 +7229,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9556000083.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S03E11</episode-num>
     <episode-num system="xmltv_ns">2.10.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -12071,6 +12071,7 @@
     <sub-title>Pittsburgh Steelers at Baltimore Ravens</sub-title>
     <desc>Pittsburgh Steelers (7-8) at Baltimore Ravens (10-5). From M&amp;T Bank Stadium.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230102043000 +0000" stop="20230102050500 +0000" channel="NBC">
     <title lang="en">Local Programming</title>

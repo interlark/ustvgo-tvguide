@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230103043755" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230103051012" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -413,7 +413,6 @@
     <sub-title>Buffalo Bills at Cincinnati Bengals</sub-title>
     <desc>Buffalo Bills (12-3) at Cincinnati Bengals (11-4). From Paul Brown Stadium.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230103043000 +0000" stop="20230103043500 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -1049,7 +1048,6 @@
     <sub-title>Buffalo Bills at Cincinnati Bengals</sub-title>
     <desc>Buffalo Bills (12-3) at Cincinnati Bengals (11-4). From Paul Brown Stadium.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230103043000 +0000" stop="20230103050500 +0000" channel="ABCNY">
     <title lang="en">Eyewitness News</title>
@@ -7931,7 +7929,6 @@
     <sub-title>Buffalo Bills at Cincinnati Bengals</sub-title>
     <desc>Buffalo Bills (12-3) at Cincinnati Bengals (11-4). From Paul Brown Stadium.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230103043000 +0000" stop="20230103044500 +0000" channel="ESPN">
     <title lang="en">Monday Night Postgame</title>
@@ -8000,7 +7997,6 @@
     <sub-title>Buffalo Bills at Cincinnati Bengals</sub-title>
     <desc>Buffalo Bills (12-3) at Cincinnati Bengals (11-4). From Paul Brown Stadium.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230103043000 +0000" stop="20230103044500 +0000" channel="ESPN2">
     <title lang="en">Monday Night Postgame</title>
@@ -16187,7 +16183,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11321915425.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S24E04</episode-num>
     <episode-num system="xmltv_ns">23.3.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -19753,7 +19748,6 @@
     <title lang="es">Sabor de Mañana</title>
     <sub-title>01-02-2023</sub-title>
     <date>20230000</date>
-    <new/>
   </programme>
   <programme start="20230103043500 +0000" stop="20230103050000 +0000" channel="Univision">
     <title lang="es">Noticiero Univision - Edicion Nocturna</title>

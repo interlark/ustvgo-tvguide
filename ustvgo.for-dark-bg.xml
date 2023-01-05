@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230105164952" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230105171023" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -570,6 +570,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4931736503.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E50</episode-num>
     <episode-num system="xmltv_ns">20.49.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -2925,6 +2926,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10629174650.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S08E56</episode-num>
     <episode-num system="xmltv_ns">7.55.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -7577,10 +7579,55 @@
     </rating>
   </programme>
   <programme start="20230105230000 +0000" stop="20230105231500 +0000" channel="DisneyXD">
-    <title>Disney Mickey Mouse</title>
+    <title lang="en">Disney Mickey Mouse</title>
+    <sub-title>Surprise!; Amore Motore</sub-title>
+    <desc>Mickey's wish for a surprise-free birthday results in the biggest surprise of his life; Mickey helps his scooter woo the bike of his dreams on the streets of Rome.</desc>
+    <credits>
+      <director>Clay Morrow</director>
+      <writer>Clay Morrow</writer>
+      <producer>Paul Rudish</producer>
+      <composer>Christopher Willis</composer>
+    </credits>
+    <date>20190909</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1076191336.jpg" width="541" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-11721644430.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E24</episode-num>
+    <episode-num system="xmltv_ns">2.23.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20230105231500 +0000" stop="20230105233000 +0000" channel="DisneyXD">
-    <title>Disney Mickey Mouse</title>
+    <title lang="en">Disney Mickey Mouse</title>
+    <sub-title>Wish Upon a Coin; Wonders of the Deep</sub-title>
+    <desc>Mickey and Minnie's wish to live happily-ever-after is put in jeopardy when Pete steals all the coins from a wishing well; Mickey, Donald and Goofy try to save Professor Von Drake after accidentally jettisoning him out of a submarine.</desc>
+    <credits>
+      <director>Clay Morrow</director>
+      <writer>Clay Morrow</writer>
+      <producer>Paul Rudish</producer>
+      <composer>Christopher Willis</composer>
+    </credits>
+    <date>20161107</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Cartoon</category>
+    <category>Other</category>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1076191336.jpg" width="541" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-11721644430.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S--E00</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20230105233000 +0000" stop="20230106000000 +0000" channel="DisneyXD">
     <title lang="en">Phineas and Ferb</title>
@@ -14332,6 +14379,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S10E60</episode-num>
     <episode-num system="xmltv_ns">9.59.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -18249,7 +18297,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19981217</date>
@@ -18276,7 +18324,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990107</date>
@@ -18303,7 +18351,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990121</date>
@@ -18330,7 +18378,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990204</date>
@@ -18357,7 +18405,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990211</date>
@@ -18384,7 +18432,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990218</date>
@@ -18411,7 +18459,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990225</date>
@@ -18438,7 +18486,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990318</date>
@@ -18465,7 +18513,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990408</date>
@@ -18492,7 +18540,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990422</date>
@@ -18519,7 +18567,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990429</date>
@@ -18546,7 +18594,7 @@
       <director>Gary Halvorson</director>
       <actor role="David">Hank Azaria</actor>
       <writer>Gary Halvorson</writer>
-      <producer>Todd Stevens</producer>
+      <producer>Wendy Knoller</producer>
       <composer>Ian Christian Nickus</composer>
     </credits>
     <date>19990506</date>
@@ -18773,7 +18821,6 @@
   <programme start="20230105160000 +0000" stop="20230105163000 +0000" channel="Telemundo">
     <title lang="es">Caso Cerrado</title>
     <date>20160000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

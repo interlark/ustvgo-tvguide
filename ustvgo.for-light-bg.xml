@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230106164512" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230106171107" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -565,6 +565,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4931736503.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E51</episode-num>
     <episode-num system="xmltv_ns">20.50.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3376,7 +3377,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Alan J. Higgins</writer>
+      <writer>Brian Keith Etheridge</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -3402,7 +3403,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Alan J. Higgins</writer>
+      <writer>Brian Keith Etheridge</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -3428,7 +3429,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Alan J. Higgins</writer>
+      <writer>Brian Keith Etheridge</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -3454,7 +3455,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Alan J. Higgins</writer>
+      <writer>Brian Keith Etheridge</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -5858,7 +5859,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12255986194.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12255986196.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -13255,6 +13255,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10648602904.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S10E61</episode-num>
     <episode-num system="xmltv_ns">9.60.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -13935,7 +13936,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-1380046074.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-6857539709.jpg" width="720" height="493"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -18009,7 +18009,6 @@
   <programme start="20230106160000 +0000" stop="20230106163000 +0000" channel="Telemundo">
     <title lang="es">Caso Cerrado</title>
     <date>20160000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

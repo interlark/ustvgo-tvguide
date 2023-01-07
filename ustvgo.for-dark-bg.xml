@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230107195343" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230107200635" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -479,7 +479,6 @@
     <title lang="en">NFL Countdown</title>
     <sub-title>01-07-2023</sub-title>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230107211500 +0000" stop="20230107213000 +0000" channel="ABC">
     <title lang="en">Progressive Kickoff</title>
@@ -796,7 +795,6 @@
     <title lang="en">NFL Countdown</title>
     <sub-title>01-07-2023</sub-title>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230107211500 +0000" stop="20230107213000 +0000" channel="ABCHD">
     <title lang="en">Progressive Kickoff</title>
@@ -1121,7 +1119,6 @@
     <title lang="en">NFL Countdown</title>
     <sub-title>01-07-2023</sub-title>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230107211500 +0000" stop="20230107213000 +0000" channel="ABCNY">
     <title lang="en">Progressive Kickoff</title>
@@ -5296,6 +5293,10 @@
     <title lang="en">Extreme RVs</title>
     <sub-title>Foretravel Iron Horse; American Heritage; and '57 Airfloat Restoration</sub-title>
     <desc>The building of a $1.2 million motor home in Texas. Also: American Coach in Indiana constructs a first-class party mobile for a sports marketing firm; and a 1957 Airfloat Land Yacht is restored in Florida.</desc>
+    <credits>
+      <director>Dennis Zerull</director>
+      <producer>Dennis Zerull</producer>
+    </credits>
     <date>20131001</date>
     <category>Reality</category>
     <category>Travel</category>
@@ -5402,6 +5403,11 @@
     <title lang="en">Naked and Afraid</title>
     <sub-title>Swamp Don't Care</sub-title>
     <desc>Melissa Miller and Jake Nodar explore a Florida swamp teeming with snakes and alligators.</desc>
+    <credits>
+      <director>Connor Schmitt</director>
+      <producer>Chris Horangic</producer>
+      <composer>Devin Powers</composer>
+    </credits>
     <date>20190421</date>
     <category>Action/Adventure</category>
     <category>Reality</category>
@@ -5424,6 +5430,11 @@
     <title lang="en">Naked and Afraid</title>
     <sub-title>Stomping Grounds</sub-title>
     <desc>Elite survivalists Matt Wright and Gary Golding are tested by deadly spitting cobras and territorial elephants in an African killing zone. But Matt and Gary aren't alone each must protect a novice survivalist from the threats surrounding them.</desc>
+    <credits>
+      <director>Connor Schmitt</director>
+      <producer>Chris Horangic</producer>
+      <composer>Devin Powers</composer>
+    </credits>
     <date>20190324</date>
     <category>Action/Adventure</category>
     <category>Reality</category>
@@ -5446,6 +5457,11 @@
     <title lang="en">Naked and Afraid</title>
     <sub-title>For Better or A Lot Worse</sub-title>
     <desc>The first couple to ever take on the 21-day challenge tests themselves and their relationship as they take on the Guyana jungle. They must work together to battle jaguars, anacondas, caiman, and more than two-million species of insects.</desc>
+    <credits>
+      <director>Connor Schmitt</director>
+      <producer>Chris Horangic</producer>
+      <composer>Devin Powers</composer>
+    </credits>
     <date>20190505</date>
     <category>Action/Adventure</category>
     <category>Reality</category>
@@ -5468,6 +5484,11 @@
     <title lang="en">Naked and Afraid</title>
     <sub-title>What the Duck?</sub-title>
     <desc>Two fan survivalists are dropped on a Mexican island filled with venomous coral snakes, territorial jaguars, blood-sucking chiquistas and a duck named Henry that they desperately want to eat for dinner.</desc>
+    <credits>
+      <director>Connor Schmitt</director>
+      <producer>Chris Horangic</producer>
+      <composer>Devin Powers</composer>
+    </credits>
     <date>20190428</date>
     <category>Action/Adventure</category>
     <category>Reality</category>
@@ -5490,6 +5511,11 @@
     <title lang="en">Naked and Afraid</title>
     <sub-title>Feel The Burn</sub-title>
     <desc>Two Naked and Afraid superfans are dropped into Guyana's scorching savannah to battle the oppressive heat and relentless insect attacks.</desc>
+    <credits>
+      <director>Connor Schmitt</director>
+      <producer>Chris Horangic</producer>
+      <composer>Devin Powers</composer>
+    </credits>
     <date>20190926</date>
     <category>Action/Adventure</category>
     <category>Reality</category>
@@ -5512,6 +5538,11 @@
     <title lang="en">Naked and Afraid</title>
     <sub-title>Bite Club</sub-title>
     <desc>A survivor of rattlesnake, shark and bear attacks teams with Brooke, wife of "Naked and Afraid" veteran Matt Wright, in a vicious African feeding ground. Then, a haunted Colombian jungle tests survivalists with threats from predators and the supernatural.</desc>
+    <credits>
+      <director>Connor Schmitt</director>
+      <producer>Chris Horangic</producer>
+      <composer>Devin Powers</composer>
+    </credits>
     <date>20190331</date>
     <category>Action/Adventure</category>
     <category>Reality</category>
@@ -5534,6 +5565,11 @@
     <title lang="en">Naked and Afraid</title>
     <sub-title>Ashes to Ashes</sub-title>
     <desc>A survival instructor and retiree of the armed forces are inserted into the volcano-ravaged island of Montserrat. With completely different survival styles they find a way to work together, but one accident single-handedly has an eruptive effect on both.</desc>
+    <credits>
+      <director>Connor Schmitt</director>
+      <producer>Chris Horangic</producer>
+      <composer>Devin Powers</composer>
+    </credits>
     <date>20170402</date>
     <category>Action/Adventure</category>
     <category>Reality</category>
@@ -5556,6 +5592,11 @@
     <title lang="en">Naked and Afraid</title>
     <sub-title>Lost at Sea</sub-title>
     <desc>A divemaster and a Navy Seal are stranded at sea and face exposure to deadly sharks and heat stroke. On their journey to land, they must work together despite their differences.</desc>
+    <credits>
+      <director>Connor Schmitt</director>
+      <producer>Chris Horangic</producer>
+      <composer>Devin Powers</composer>
+    </credits>
     <date>20170730</date>
     <category>Action/Adventure</category>
     <category>Reality</category>
@@ -7263,7 +7304,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-937781820.jpg" width="504" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/8/1-1685389969.jpg" width="720" height="406"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20230107230000 +0000" stop="20230108020000 +0000" channel="E">
     <title lang="en">Bridesmaids</title>
@@ -7989,7 +8029,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-829176032.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6858255208.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230107193000 +0000" stop="20230107213000 +0000" channel="FOX">
     <title lang="en">College Basketball</title>
@@ -8277,7 +8316,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-829176032.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6858255208.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230107193000 +0000" stop="20230107213000 +0000" channel="FOXHD">
     <title lang="en">College Basketball</title>
@@ -8565,7 +8603,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-829176032.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6858255208.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230107193000 +0000" stop="20230107213000 +0000" channel="FOXNY">
     <title lang="en">College Basketball</title>
@@ -8762,7 +8799,7 @@
   <programme start="20230107190000 +0000" stop="20230107200000 +0000" channel="FoxNews">
     <title lang="en">Fox News Live</title>
     <desc>The important stories of the day are addressed.</desc>
-    <new/>
+    <live/>
   </programme>
   <programme start="20230107200000 +0000" stop="20230107210000 +0000" channel="FoxNews">
     <title lang="en">The Journal Editorial Report</title>
@@ -8776,17 +8813,16 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8091428487.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S2023E01</episode-num>
     <episode-num system="xmltv_ns">2022.0.</episode-num>
-    <new/>
   </programme>
   <programme start="20230107210000 +0000" stop="20230107220000 +0000" channel="FoxNews">
     <title lang="en">Fox News Live</title>
     <desc>The important stories of the day are addressed.</desc>
-    <new/>
+    <live/>
   </programme>
   <programme start="20230107220000 +0000" stop="20230107230000 +0000" channel="FoxNews">
     <title lang="en">The Big Saturday Show</title>
     <date>20210000</date>
-    <new/>
+    <live/>
   </programme>
   <programme start="20230107230000 +0000" stop="20230108000000 +0000" channel="FoxNews">
     <title lang="en">FOX Report With Jon Scott</title>
@@ -8796,7 +8832,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8678001101.jpg" width="541" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8678001108.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20230108000000 +0000" stop="20230108010000 +0000" channel="FoxNews">
     <title lang="en">Gutfeld!</title>
@@ -8822,7 +8858,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11287238088.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11287238090.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20230108020000 +0000" stop="20230108030000 +0000" channel="FoxNews">
     <title lang="en">Unfiltered with Dan Bongino</title>
@@ -8834,7 +8870,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10158522891.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10158522893.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
+    <live/>
   </programme>
   <programme start="20230107183000 +0000" stop="20230107213000 +0000" channel="Freeform">
     <title lang="en">We Are Marshall</title>

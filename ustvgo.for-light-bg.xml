@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230107093550" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230107101039" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -566,12 +566,14 @@
   <programme start="20230107211500 +0000" stop="20230107213000 +0000" channel="ABC">
     <title lang="en">Progressive Kickoff</title>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230107213000 +0000" stop="20230108003000 +0000" channel="ABC">
     <title lang="en">NFL Football</title>
     <sub-title>Kansas City Chiefs at Las Vegas Raiders</sub-title>
     <desc>Kansas City Chiefs (13-3) at Las Vegas Raiders (6-10). From Allegiant Stadium.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230108003000 +0000" stop="20230108010000 +0000" channel="ABC">
     <title lang="en">NFL Countdown</title>
@@ -8401,6 +8403,7 @@
     <title lang="en">Women's College Basketball</title>
     <sub-title>Iowa at Michigan</sub-title>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230107233000 +0000" stop="20230108010000 +0000" channel="FOX">
     <title lang="en">Local Programming</title>

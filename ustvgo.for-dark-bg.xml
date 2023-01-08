@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230108133216" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230108140452" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2898,6 +2898,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12068670295.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E10</episode-num>
     <episode-num system="xmltv_ns">0.9.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3564,6 +3565,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12068670295.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E10</episode-num>
     <episode-num system="xmltv_ns">0.9.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -6315,7 +6317,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11159968880.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11159968878.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -13959,6 +13960,7 @@
     <sub-title>Detroit Lions at Green Bay Packers</sub-title>
     <desc>Detroit Lions (8-8) at Green Bay Packers (8-8). From Lambeau Field.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230109043000 +0000" stop="20230109050500 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -14407,6 +14409,7 @@
     <sub-title>Detroit Lions at Green Bay Packers</sub-title>
     <desc>Detroit Lions (8-8) at Green Bay Packers (8-8). From Lambeau Field.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230109043000 +0000" stop="20230109050500 +0000" channel="NBCHD">
     <title lang="en">Local Programming</title>

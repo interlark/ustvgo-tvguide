@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230108044211" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230108050629" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -461,7 +461,6 @@
     <sub-title>Tennessee Titans at Jacksonville Jaguars</sub-title>
     <desc>Tennessee Titans (7-9) at Jacksonville Jaguars (8-8). From TIAA Bank Field.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230108041500 +0000" stop="20230108100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -953,7 +952,6 @@
     <sub-title>Tennessee Titans at Jacksonville Jaguars</sub-title>
     <desc>Tennessee Titans (7-9) at Jacksonville Jaguars (8-8). From TIAA Bank Field.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230108041500 +0000" stop="20230108100000 +0000" channel="ABCHD">
     <title lang="en">Local Programming</title>
@@ -1445,7 +1443,6 @@
     <sub-title>Tennessee Titans at Jacksonville Jaguars</sub-title>
     <desc>Tennessee Titans (7-9) at Jacksonville Jaguars (8-8). From TIAA Bank Field.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230108041500 +0000" stop="20230108051500 +0000" channel="ABCNY">
     <title lang="en">Eyewitness News</title>
@@ -13542,12 +13539,10 @@
     <sub-title>Tennessee Titans at Jacksonville Jaguars</sub-title>
     <desc>Tennessee Titans (7-9) at Jacksonville Jaguars (8-8). From TIAA Bank Field.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230108041500 +0000" stop="20230108043000 +0000" channel="ESPN">
     <title lang="en">NFL Postgame</title>
     <desc>A review of NFL action, including highlights and analysis.</desc>
-    <live/>
   </programme>
   <programme start="20230108043000 +0000" stop="20230108053000 +0000" channel="ESPN">
     <title lang="en">SportsCenter with Scott Van Pelt</title>
@@ -13623,12 +13618,10 @@
     <sub-title>Tennessee Titans at Jacksonville Jaguars</sub-title>
     <desc>Tennessee Titans (7-9) at Jacksonville Jaguars (8-8). From TIAA Bank Field.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230108041500 +0000" stop="20230108043000 +0000" channel="ESPNHD">
     <title lang="en">NFL Postgame</title>
     <desc>A review of NFL action, including highlights and analysis.</desc>
-    <live/>
   </programme>
   <programme start="20230108043000 +0000" stop="20230108053000 +0000" channel="ESPNHD">
     <title lang="en">SportsCenter with Scott Van Pelt</title>
@@ -40329,7 +40322,6 @@
   <programme start="20230108040000 +0000" stop="20230108043000 +0000" channel="Telemundo">
     <title lang="es">Noticias Telemundo fin de semana</title>
     <desc>Reportajes y análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.</desc>
-    <new/>
   </programme>
   <programme start="20230108043000 +0000" stop="20230108050000 +0000" channel="Telemundo">
     <title lang="es">Zona Mixta</title>
@@ -44803,10 +44795,62 @@
     </star-rating>
   </programme>
   <programme start="20230109013000 +0000" stop="20230109020000 +0000" channel="TVLand">
-    <title>Mom</title>
+    <title lang="en">Mom</title>
+    <sub-title>Jail Jail and Japanese Porn</sub-title>
+    <desc>Christy gets preoccupied with a new boyfriend, putting the relationship before friends and family and leaving Bonnie to pick up the slack. Octavia Spencer guest stars.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor role="Tammy">Kristen Johnson</actor>
+      <writer>Alissa Neubauer</writer>
+      <producer>Carol Anne Miller</producer>
+    </credits>
+    <date>20140102</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-9684254369.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9684252528.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>69/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/69.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230109020000 +0000" stop="20230109023000 +0000" channel="TVLand">
-    <title>Two and a Half Men</title>
+    <title lang="en">Two and a Half Men</title>
+    <sub-title>I Think You Offended Don</sub-title>
+    <desc>Judith is pregnant, and Alan suspects he's the father. Meanwhile, Jake is in a foul mood.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor>Jane Lynch</actor>
+      <writer>Jim Patterson</writer>
+      <producer>Eric Tannenbaum</producer>
+      <composer>Grant Geissman</composer>
+      <editor>Joe Bella</editor>
+    </credits>
+    <date>20090119</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Dating</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>Divorce</category>
+    <category>Troubled relationships</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12204355574.jpg" width="507" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12204355571.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S06E13</episode-num>
+    <episode-num system="xmltv_ns">5.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>67/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/67.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230109023000 +0000" stop="20230109030000 +0000" channel="TVLand">
     <title lang="en">Two and a Half Men</title>
@@ -44937,7 +44981,36 @@
     </star-rating>
   </programme>
   <programme start="20230109043000 +0000" stop="20230109050000 +0000" channel="TVLand">
-    <title>Two and a Half Men</title>
+    <title lang="en">Two and a Half Men</title>
+    <sub-title>My Son's Enormous Head</sub-title>
+    <desc>When Chelsea gets sick, Charlie takes care of her---but he also tries to resist the urge to flee.</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <actor>Jane Lynch</actor>
+      <writer>Jim Patterson</writer>
+      <producer>Eric Tannenbaum</producer>
+      <composer>Grant Geissman</composer>
+      <editor>Joe Bella</editor>
+    </credits>
+    <date>20090316</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Dating</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>Divorce</category>
+    <category>Troubled relationships</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12204355574.jpg" width="507" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12204355571.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S06E18</episode-num>
+    <episode-num system="xmltv_ns">5.17.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>67/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/67.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230109050000 +0000" stop="20230109053000 +0000" channel="TVLand">
     <title lang="en">Two and a Half Men</title>
@@ -45159,7 +45232,31 @@
     </star-rating>
   </programme>
   <programme start="20230109083000 +0000" stop="20230109090000 +0000" channel="TVLand">
-    <title>The New Adventures of Old Christine</title>
+    <title lang="en">The New Adventures of Old Christine</title>
+    <sub-title>Nuts</sub-title>
+    <desc>Christine's therapist, Max (Eric McCormack), tries to get her to not give up so easily when circumstances turn difficult and attempts to teach her how to follow through with commitments.</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor>Wanda Sykes</actor>
+      <writer>Jeff Astrof</writer>
+      <producer>Lisa Helfrich Jackson</producer>
+      <editor>Katie Palmer</editor>
+    </credits>
+    <date>20091111</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <category>Divorce</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7535691429.jpg" width="505" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7535691431.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>64/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/64.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230109090000 +0000" stop="20230109093000 +0000" channel="TVLand">
     <title lang="en">The New Adventures of Old Christine</title>
@@ -45320,7 +45417,33 @@
     </rating>
   </programme>
   <programme start="20230109123000 +0000" stop="20230109130000 +0000" channel="TVLand">
-    <title>M*A*S*H</title>
+    <title lang="en">M*A*S*H</title>
+    <sub-title>M*A*S*H - The Pilot</sub-title>
+    <desc>While Henry is away, Hawkeye and Trapper concoct a wild raffle to raise tuition for the Swamp's Korean houseboy (Patrick Adiarte). George Morgan made his only appearance as Father John Mulcahy in this episode, the series' pilot. Lt. Dish: Karen Philipp. Spearchucker: Timothy Brown. Gen. Hammond: G. Wood. Hawkeye: Alan Alda. Trapper: Wayne Rogers. Henry: McLean Stevenson.</desc>
+    <credits>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
+      <producer>Larry Gelbart</producer>
+      <composer>Benny Golson</composer>
+    </credits>
+    <date>19720917</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Comedy-drama</category>
+    <category>Hospital</category>
+    <category>Medicine</category>
+    <category>Military</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>War</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379003.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379001.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230109130000 +0000" stop="20230109133000 +0000" channel="TVLand">
     <title lang="en">M*A*S*H</title>
@@ -45410,7 +45533,33 @@
     </rating>
   </programme>
   <programme start="20230109143000 +0000" stop="20230109150000 +0000" channel="TVLand">
-    <title>M*A*S*H</title>
+    <title lang="en">M*A*S*H</title>
+    <sub-title>The Moose</sub-title>
+    <desc>Hawkeye and Trapper conspire to free a Korean girl (Virginia Lee) from a life as a "moose," or indentured servant, to a GI (Paul Jenkins). Benny: Craig Hue. Ho-Jon: Patrick Adiarte. Spearchucker: Timothy Brown. Lt. Jones: Barbara Brownell. Hawkeye: Alan Alda. Trapper: Wayne Rogers. Radar: Gary Burghoff.</desc>
+    <credits>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
+      <producer>Larry Gelbart</producer>
+      <composer>Benny Golson</composer>
+    </credits>
+    <date>19721015</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Comedy-drama</category>
+    <category>Hospital</category>
+    <category>Medicine</category>
+    <category>Military</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>War</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379003.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379001.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230109150000 +0000" stop="20230109153000 +0000" channel="TVLand">
     <title lang="en">M*A*S*H</title>
@@ -45471,7 +45620,27 @@
     </rating>
   </programme>
   <programme start="20230109160000 +0000" stop="20230109170000 +0000" channel="TVLand">
-    <title>Bonanza</title>
+    <title lang="en">Bonanza</title>
+    <sub-title>The Ride</sub-title>
+    <desc>Adam is forced to take action when he recognizes a stagecoach robber as his friend Bill Enders. Adam: Pernell Roberts. Ben: Lorne Greene. Hoss: Dan Blocker. Joe: Michael Landon. Mary: Grace Gaynor. Sheriff: Ray Teal.</desc>
+    <credits>
+      <director>William F. Claxton</director>
+      <actor role="Deputy Clem Foster">Bing Russell</actor>
+      <writer>John Hawkins</writer>
+      <producer>David Dortort</producer>
+      <composer>Walter Scharf</composer>
+    </credits>
+    <date>19771111</date>
+    <category>Drama</category>
+    <category>Family</category>
+    <category>Western</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10715293673.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7503998847.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230109170000 +0000" stop="20230109180000 +0000" channel="TVLand">
     <title lang="en">Gunsmoke</title>
@@ -45562,7 +45731,26 @@
     </rating>
   </programme>
   <programme start="20230109210000 +0000" stop="20230109213000 +0000" channel="TVLand">
-    <title>The Andy Griffith Show</title>
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title>Class Reunion</sub-title>
+    <desc>Andy rekindles a romance at a high-school reunion and the two wonder why they ever broke up. Sharon: Peggy McCay. Ramona: Virginia Eiler. Mary Lee: Barbara Perry. Ralph: Don Haggerty. Nate: Frank Behrens.</desc>
+    <credits>
+      <director>Bob Sweeney</director>
+      <actor role="Emmett Clark">Paul Hartman</actor>
+      <writer>Jack Elinson</writer>
+      <producer>Aaron Ruben</producer>
+    </credits>
+    <date>19761128</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10558278347.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-10447721377.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E20</episode-num>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20230109213000 +0000" stop="20230109220000 +0000" channel="TVLand">
     <title lang="en">The Andy Griffith Show</title>
@@ -45675,7 +45863,26 @@
     </rating>
   </programme>
   <programme start="20230110000000 +0000" stop="20230110003000 +0000" channel="TVLand">
-    <title>The Andy Griffith Show</title>
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title>The Darlings Are Coming</sub-title>
+    <desc>Hillbilly family the Darlings made their first appearance in this episode, in which the betrothed Charlene develops a crush on Andy. Briscoe: Denver Pyle. Charlene: Margaret Ann Peterson. Darling Brothers: Dillard Brothers. Dud: Hoke Howell. Opie: Ronny Howard.</desc>
+    <credits>
+      <director>Bob Sweeney</director>
+      <actor role="Emmett Clark">Paul Hartman</actor>
+      <writer>Jack Elinson</writer>
+      <producer>Aaron Ruben</producer>
+    </credits>
+    <date>19761017</date>
+    <category>Comedy</category>
+    <category>Family</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-10558278347.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/7/1-10447721377.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S03E25</episode-num>
+    <episode-num system="xmltv_ns">2.24.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20230110003000 +0000" stop="20230110010000 +0000" channel="TVLand">
     <title lang="en">The Andy Griffith Show</title>
@@ -45725,10 +45932,54 @@
     </star-rating>
   </programme>
   <programme start="20230110013000 +0000" stop="20230110020000 +0000" channel="TVLand">
-    <title>Everybody Loves Raymond</title>
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title>The Tenth Anniversary</sub-title>
+    <desc>Ray and Debra's 10th anniversary celebration turns into a disaster when Debra discovers that Ray taped over their wedding video with the 1991 Bills-Giants Super Bowl. Warren: Robert Culp. Lois: Katherine Helmond. Father Hubley: Charles Durning. Andy: Andy Kindler. Ray: Ray Romano. Debra: Patricia Heaton.</desc>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor role="Geoffrey Barone">Sawyer Sweeten</actor>
+      <writer>Steve Skrovan</writer>
+      <producer>Lisa Helfrich Jackson</producer>
+    </credits>
+    <date>20000214</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588489581.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588547392.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S04E15</episode-num>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>74/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/74.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230110020000 +0000" stop="20230110023000 +0000" channel="TVLand">
-    <title>Everybody Loves Raymond</title>
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title>Hackidu</sub-title>
+    <desc>Ray goes to great lengths and considerable expense to get back a valuable trading card that Ally had but Ray made her return because he thought she was getting taken in a trade. Russell: Paul Reubens. Parker: David Hunt. Tyler: Scotty Leavenworth. Ally: Madylin Sweeten. Ray: Ray Romano.</desc>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor role="Geoffrey Barone">Sawyer Sweeten</actor>
+      <writer>Steve Skrovan</writer>
+      <producer>Lisa Helfrich Jackson</producer>
+    </credits>
+    <date>20000221</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588489581.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588547392.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S04E17</episode-num>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>74/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/74.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230110023000 +0000" stop="20230110030000 +0000" channel="TVLand">
     <title lang="en">Everybody Loves Raymond</title>
@@ -45884,7 +46135,30 @@
     </star-rating>
   </programme>
   <programme start="20230110055000 +0000" stop="20230110062500 +0000" channel="TVLand">
-    <title>The King of Queens</title>
+    <title lang="en">The King of Queens</title>
+    <sub-title>Fresh Brood</sub-title>
+    <desc>To persuade Carrie to have a baby, Doug borrows an infant whom Danny is supposed to be taking care of to show Carrie what a good father he would be. Elsewhere, Arthur wants a coffee-shop manager to name him Customer of the Month, even though he rarely buys anything.</desc>
+    <credits>
+      <director>Rob Schiller</director>
+      <actor role="Kirby">Marshaun Daniel</actor>
+      <writer>Ilana Wernick</writer>
+      <producer>Annette Sahakian Davis</producer>
+      <composer>Kurt Farquhar</composer>
+    </credits>
+    <date>20060109</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-4273629312.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4273649037.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S08E12</episode-num>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>55/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/55.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230110062500 +0000" stop="20230110070000 +0000" channel="TVLand">
     <title lang="en">The King of Queens</title>
@@ -45913,7 +46187,29 @@
     </star-rating>
   </programme>
   <programme start="20230110070000 +0000" stop="20230110073400 +0000" channel="TVLand">
-    <title>Everybody Loves Raymond</title>
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title>Someone's Cranky</sub-title>
+    <desc>Robert becomes depressed when he learns that he must spend another three weeks recuperating at his parents' house, and Frank and Marie become desperate to get him to move out earlier. Robert: Brad Garrett. Marie: Doris Roberts. Frank: Peter Boyle.</desc>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor role="Geoffrey Barone">Sawyer Sweeten</actor>
+      <writer>Steve Skrovan</writer>
+      <producer>Lisa Helfrich Jackson</producer>
+    </credits>
+    <date>20000501</date>
+    <category>Comedy</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588489581.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7588547392.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S04E21</episode-num>
+    <episode-num system="xmltv_ns">3.20.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>74/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/74.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230110073400 +0000" stop="20230110080800 +0000" channel="TVLand">
     <title lang="en">Everybody Loves Raymond</title>
@@ -46019,10 +46315,60 @@
     </star-rating>
   </programme>
   <programme start="20230110094800 +0000" stop="20230110102400 +0000" channel="TVLand">
-    <title>The Goldbergs</title>
+    <title lang="en">The Goldbergs</title>
+    <sub-title>Love Is a Mix Tape</sub-title>
+    <desc>In the second-season opener, Adam takes the next step in his blossoming relationship with Dana by creating a mix tape for her, but the tape falls into Beverly's hands instead. Elsewhere, Barry gets caught with a fake ID.</desc>
+    <credits>
+      <director>David Katzenberg</director>
+      <actor>Sam Lerner</actor>
+      <writer>Chris Bishop</writer>
+      <producer>Adam F. Goldberg</producer>
+      <composer>Michael Wandmacher</composer>
+    </credits>
+    <date>20140924</date>
+    <category>Comedy</category>
+    <category>Coming of age</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12057503804.jpg" width="486" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12057503799.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>53/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230110102400 +0000" stop="20230110110000 +0000" channel="TVLand">
-    <title>The Goldbergs</title>
+    <title lang="en">The Goldbergs</title>
+    <sub-title>Mama Drama</sub-title>
+    <desc>Adam auditions for the school musical but gets cast in a non-leading role, so Beverly offers him a spot in a competing show. Elsewhere, Barry takes issue with Murray's habit of leaving sporting events early in order to beat traffic.</desc>
+    <credits>
+      <director>David Katzenberg</director>
+      <actor>Sam Lerner</actor>
+      <writer>Chris Bishop</writer>
+      <producer>Adam F. Goldberg</producer>
+      <composer>Michael Wandmacher</composer>
+    </credits>
+    <date>20141001</date>
+    <category>Comedy</category>
+    <category>Coming of age</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12057503804.jpg" width="486" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12057503799.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>53/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230110110000 +0000" stop="20230110113000 +0000" channel="TVLand">
     <title lang="en">Inogen Portable Oxygen – No More Tanks!</title>
@@ -46038,19 +46384,149 @@
     <date>20220000</date>
   </programme>
   <programme start="20230110120000 +0000" stop="20230110123000 +0000" channel="TVLand">
-    <title>M*A*S*H</title>
+    <title lang="en">M*A*S*H</title>
+    <sub-title>Cowboy</sub-title>
+    <desc>A series of "accidents," including an exploding latrine and a runaway jeep, makes it clear that someone's gunning for Henry. Cowboy: Billy Green Bush. Lindstrom: Rick Moses. Goldstein: Joe Corey. Ugly John: John Orchard. Henry: McLean Stevenson. Hawkeye: Alan Alda. Trapper: Wayne Rogers.</desc>
+    <credits>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
+      <producer>Larry Gelbart</producer>
+      <composer>Benny Golson</composer>
+    </credits>
+    <date>19721112</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Comedy-drama</category>
+    <category>Hospital</category>
+    <category>Medicine</category>
+    <category>Military</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>War</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379003.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379001.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230110123000 +0000" stop="20230110130000 +0000" channel="TVLand">
-    <title>M*A*S*H</title>
+    <title lang="en">M*A*S*H</title>
+    <sub-title>Henry, Please Come Home</sub-title>
+    <desc>The camp's high efficiency rating gets Henry transferred, but Frank's stint as CO is worse than anything the North Koreans can dish out. Spearchucker: Timothy Brown. Ho-Jon: Patrick Adiarte. Leslie: Linda Meiklejohn. Ginger: Odessa Cleveland. Gen. Hammond: G. Wood. Hawkeye: Alan Alda. Trapper: Wayne Rogers. Henry: McLean Stevenson.</desc>
+    <credits>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
+      <producer>Larry Gelbart</producer>
+      <composer>Benny Golson</composer>
+    </credits>
+    <date>19721119</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Comedy-drama</category>
+    <category>Hospital</category>
+    <category>Medicine</category>
+    <category>Military</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>War</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379003.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379001.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230110130000 +0000" stop="20230110133000 +0000" channel="TVLand">
-    <title>M*A*S*H</title>
+    <title lang="en">M*A*S*H</title>
+    <sub-title>I Hate a Mystery</sub-title>
+    <desc>The 4077th gets caught up in a whodunit about a rash of petty thefts, with the baleful eye of suspicion falling on Hawkeye. Ho-Jon: Patrick Adiarte. Spearchucker: Timothy Brown. Ginger: Odessa Cleveland. Leslie: Linda Meiklejohn. Hawkeye: Alan Alda. Trapper: Wayne Rogers. Frank: Larry Linville.</desc>
+    <credits>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
+      <producer>Larry Gelbart</producer>
+      <composer>Benny Golson</composer>
+    </credits>
+    <date>19721126</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Comedy-drama</category>
+    <category>Hospital</category>
+    <category>Medicine</category>
+    <category>Military</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>War</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379003.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379001.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230110133000 +0000" stop="20230110140000 +0000" channel="TVLand">
-    <title>M*A*S*H</title>
+    <title lang="en">M*A*S*H</title>
+    <sub-title>Germ Warfare</sub-title>
+    <desc>Hawkeye and Trapper sneak blood from Frank for a transfusion, then worry when the recipient exhibits symptoms of hepatitis. POW: Byron Chung. Ho-Jon: Patrick Adiarte. Spearchucker: Timothy Brown. Lt. Dish: Karen Philipp. Boone: Robert Gooden. Ginger: Odessa Cleveland. Frank: Larry Linville. Hawkeye: Alan Alda. Trapper: Wayne Rogers.</desc>
+    <credits>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
+      <producer>Larry Gelbart</producer>
+      <composer>Benny Golson</composer>
+    </credits>
+    <date>19721210</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Comedy-drama</category>
+    <category>Hospital</category>
+    <category>Medicine</category>
+    <category>Military</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>War</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379003.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379001.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230110140000 +0000" stop="20230110143500 +0000" channel="TVLand">
-    <title>M*A*S*H</title>
+    <title lang="en">M*A*S*H</title>
+    <sub-title>Edwina</sub-title>
+    <desc>The nurses declare themselves off-limits until the klutzy Edwina (Arlene Golonka) gets a date, and it's Hawkeye who draws the short straw. Cutler: Marcia Strassman. Leslie: Linda Meiklejohn. Hawkeye: Alan Alda. Henry: McLean Stevenson. Trapper: Wayne Rogers.</desc>
+    <credits>
+      <director>Charles S. Dubin</director>
+      <actor role="Gen. Mitchell">Robert F. Simon</actor>
+      <writer>Laurence Marks</writer>
+      <producer>Larry Gelbart</producer>
+      <composer>Benny Golson</composer>
+    </credits>
+    <date>19721224</date>
+    <category>Drama</category>
+    <category>Comedy</category>
+    <category>Comedy-drama</category>
+    <category>Hospital</category>
+    <category>Medicine</category>
+    <category>Military</category>
+    <category>Satire</category>
+    <category>Sitcom</category>
+    <category>War</category>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379003.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11661379001.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20230110143500 +0000" stop="20230110151000 +0000" channel="TVLand">
     <title lang="en">M*A*S*H</title>

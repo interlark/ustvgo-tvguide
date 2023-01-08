@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230108143217" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230108150608" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -2847,6 +2847,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12090348967.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S14E10</episode-num>
     <episode-num system="xmltv_ns">13.9.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3514,6 +3515,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12090348967.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S14E10</episode-num>
     <episode-num system="xmltv_ns">13.9.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -8861,6 +8863,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9162001881.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E11</episode-num>
     <episode-num system="xmltv_ns">20.10.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -9117,6 +9120,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-9162001881.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S21E11</episode-num>
     <episode-num system="xmltv_ns">20.10.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -9657,7 +9661,6 @@
   <programme start="20230108140000 +0000" stop="20230108143000 +0000" channel="FS1">
     <title lang="en">Bassmaster College Classic Bracket</title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20230108143000 +0000" stop="20230108150000 +0000" channel="FS1">
     <title lang="en">Bassmaster Classic Weigh-In</title>
@@ -9702,7 +9705,6 @@
   <programme start="20230108140000 +0000" stop="20230108143000 +0000" channel="FS1HD">
     <title lang="en">Bassmaster College Classic Bracket</title>
     <date>20220000</date>
-    <new/>
   </programme>
   <programme start="20230108143000 +0000" stop="20230108150000 +0000" channel="FS1HD">
     <title lang="en">Bassmaster Classic Weigh-In</title>

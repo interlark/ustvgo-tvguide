@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230111033316" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230111040855" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -2092,7 +2092,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12281254482.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12281254475.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3617,7 +3616,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7915087065.jpg" width="720" height="533"/>
     <episode-num system="onscreen">S19E209</episode-num>
     <episode-num system="xmltv_ns">18.208.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -12291,7 +12289,6 @@
     <sub-title>Seton Hall at Georgetown</sub-title>
     <desc>Seton Hall at Georgetown. From Capital One Arena.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230111033000 +0000" stop="20230111053000 +0000" channel="FS1">
     <title lang="en">College Basketball</title>
@@ -12350,7 +12347,6 @@
     <sub-title>Seton Hall at Georgetown</sub-title>
     <desc>Seton Hall at Georgetown. From Capital One Arena.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230111033000 +0000" stop="20230111053000 +0000" channel="FS1HD">
     <title lang="en">College Basketball</title>
@@ -13910,7 +13906,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10567352439.jpg" width="720" height="717"/>
     <episode-num system="onscreen">S220E110</episode-num>
     <episode-num system="xmltv_ns">219.109.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -24229,7 +24224,6 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20230111030800 +0000" stop="20230111040500 +0000" channel="USANetwork">
     <title lang="en">Chicago P.D.</title>

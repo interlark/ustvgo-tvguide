@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230113173850" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230113180827" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -625,6 +625,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8483786729.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S44E11</episode-num>
     <episode-num system="xmltv_ns">43.10.</episode-num>
+    <new/>
   </programme>
   <programme start="20230114060700 +0000" stop="20230114100000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -1119,6 +1120,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8483786729.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S44E11</episode-num>
     <episode-num system="xmltv_ns">43.10.</episode-num>
+    <new/>
   </programme>
   <programme start="20230114060700 +0000" stop="20230114100000 +0000" channel="ABCHD">
     <title lang="en">Local Programming</title>
@@ -17395,7 +17397,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10032331047.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S02E06</episode-num>
     <episode-num system="xmltv_ns">1.5.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -23446,7 +23447,6 @@
     <title lang="es">Noticiero Univision - Edicion Digital</title>
     <sub-title>01-13-2023</sub-title>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230113173000 +0000" stop="20230113180000 +0000" channel="Univision">
     <title lang="es">Nosotros los Guapos</title>

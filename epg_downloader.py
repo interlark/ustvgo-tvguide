@@ -36,7 +36,7 @@ from ustvgo_iptv import (USER_AGENT, USTVGO_HEADERS, gather_with_concurrency,
 
 VERSION = '0.1.1'
 DISK_CACHE = Cache(root_dir() / 'cache', size_limit=2**32)  # 2**32 bytes == 4 GB
-DISK_CACHE_EXPIRE = int(timedelta(days=3).total_seconds())  # 3 days cache expire
+DISK_CACHE_EXPIRE = int(timedelta(days=2).total_seconds())  # 2 days cache expire
 
 XMLTV_PROGRAM_OPTIONS = {
     # Whether to expand genres

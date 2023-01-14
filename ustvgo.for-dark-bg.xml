@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230114133219" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230114140550" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -3108,7 +3108,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7775377942.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S04E09</episode-num>
     <episode-num system="xmltv_ns">3.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -3684,7 +3683,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7775377942.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S04E09</episode-num>
     <episode-num system="xmltv_ns">3.8.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -6434,7 +6432,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11430346048.jpg" width="720" height="405"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11430346048.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -7598,7 +7595,6 @@
     <title lang="en">Yu-Gi-Oh! Sevens</title>
     <sub-title>All About Space</sub-title>
     <desc>Luke goes on a mission to find some Maximum Cards.</desc>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y7</value>
     </rating>
@@ -14196,6 +14192,7 @@
     <sub-title>Los Angeles Chargers at Jacksonville Jaguars</sub-title>
     <desc>Los Angeles Chargers (10-7) at Jacksonville Jaguars (9-8) in a Wild-Card game. From TIAA Bank Field.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230115040000 +0000" stop="20230115042900 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -14701,6 +14698,7 @@
     <sub-title>Los Angeles Chargers at Jacksonville Jaguars</sub-title>
     <desc>Los Angeles Chargers (10-7) at Jacksonville Jaguars (9-8) in a Wild-Card game. From TIAA Bank Field.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230115040000 +0000" stop="20230115042900 +0000" channel="NBCHD">
     <title lang="en">Local Programming</title>

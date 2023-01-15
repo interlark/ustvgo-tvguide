@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230115133236" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230115140510" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -6217,7 +6217,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11159968880.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-11159968878.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -7771,7 +7770,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-3628174725.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S14E21</episode-num>
     <episode-num system="xmltv_ns">13.20.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
@@ -13796,6 +13794,7 @@
     <sub-title>Baltimore Ravens at Cincinnati Bengals</sub-title>
     <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230116043000 +0000" stop="20230116050500 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -14267,6 +14266,7 @@
     <sub-title>Baltimore Ravens at Cincinnati Bengals</sub-title>
     <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230116043000 +0000" stop="20230116050500 +0000" channel="NBCHD">
     <title lang="en">Local Programming</title>
@@ -18481,7 +18481,6 @@
   <programme start="20230115130000 +0000" stop="20230115133000 +0000" channel="Telemundo">
     <title lang="es">La Liga Premier Extra</title>
     <desc>Edición extra con toda la información y las últimas novedades de la Premier League. El fútbol doméstico de Inglaterra no da respiro y los partidos, jornada a jornada, se tornan cada vez más intensos y emocionantes. La pelea por los primeros lugares de la tabla está muy disputada y los equipos saben que no pueden fallar en sus próximos compromisos.</desc>
-    <live/>
   </programme>
   <programme start="20230115133000 +0000" stop="20230115160000 +0000" channel="Telemundo">
     <title lang="es">Fútbol: Premier League</title>

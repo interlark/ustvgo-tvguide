@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230115093310" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230115100654" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -9466,6 +9466,7 @@
     <sub-title>New York Giants at Minnesota Vikings</sub-title>
     <desc>New York Giants (9-7-1) at Minnesota Vikings (13-4) in a Wild-Card game. From U.S. Bank Stadium.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230116003000 +0000" stop="20230116010000 +0000" channel="FOX">
     <title lang="en">NFL on FOX Postgame</title>
@@ -9721,6 +9722,7 @@
     <sub-title>New York Giants at Minnesota Vikings</sub-title>
     <desc>New York Giants (9-7-1) at Minnesota Vikings (13-4) in a Wild-Card game. From U.S. Bank Stadium.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230116003000 +0000" stop="20230116010000 +0000" channel="FOXHD">
     <title lang="en">NFL on FOX Postgame</title>
@@ -18843,7 +18845,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/2/1-423538118.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/6/1-10715439891.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <star-rating system="Metascore">
       <value>62/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>

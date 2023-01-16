@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230116043740" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230116050715" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -10343,6 +10343,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-829176032.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6858255208.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20230116170000 +0000" stop="20230116190000 +0000" channel="FOX">
     <title lang="en">College Basketball</title>
@@ -10565,6 +10566,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-829176032.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6858255208.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
+    <live/>
   </programme>
   <programme start="20230116170000 +0000" stop="20230116190000 +0000" channel="FOXHD">
     <title lang="en">College Basketball</title>
@@ -15734,7 +15736,6 @@
     <sub-title>Baltimore Ravens at Cincinnati Bengals</sub-title>
     <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium. QB Joe Burrow (35 TDs, 12 INTs) and AFC North-champ Cincinnati have not lost since Halloween as they try to reprise last January's unexpected Super Bowl run. They tuned up with last week's 27-16 win over the Ravens, who rested sparkplug RB and Ohio State product J.K. Dobbins. Burrow has not been sacked more than twice in a game in the Bengals' current 8-0 streak.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230116043000 +0000" stop="20230116050500 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -16390,7 +16391,6 @@
     <sub-title>Baltimore Ravens at Cincinnati Bengals</sub-title>
     <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium. QB Joe Burrow (35 TDs, 12 INTs) and AFC North-champ Cincinnati have not lost since Halloween as they try to reprise last January's unexpected Super Bowl run. They tuned up with last week's 27-16 win over the Ravens, who rested sparkplug RB and Ohio State product J.K. Dobbins. Burrow has not been sacked more than twice in a game in the Bengals' current 8-0 streak.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230116043000 +0000" stop="20230116050500 +0000" channel="NBCHD">
     <title lang="en">Local Programming</title>
@@ -17046,7 +17046,6 @@
     <sub-title>Baltimore Ravens at Cincinnati Bengals</sub-title>
     <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium. QB Joe Burrow (35 TDs, 12 INTs) and AFC North-champ Cincinnati have not lost since Halloween as they try to reprise last January's unexpected Super Bowl run. They tuned up with last week's 27-16 win over the Ravens, who rested sparkplug RB and Ohio State product J.K. Dobbins. Burrow has not been sacked more than twice in a game in the Bengals' current 8-0 streak.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230116043000 +0000" stop="20230116050000 +0000" channel="NBCNY">
     <title lang="en">News 4 New York at 11</title>
@@ -20932,7 +20931,6 @@
     <sub-title>Baltimore Ravens vs. Cincinnati Bengals</sub-title>
     <desc>Baltimore Ravens vs. Cincinnati Bengals en un juego de comodines de la AFC. Desde Paycor Stadium.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230116043000 +0000" stop="20230116050000 +0000" channel="Telemundo">
     <title lang="es">Noticias Telemundo fin de semana</title>

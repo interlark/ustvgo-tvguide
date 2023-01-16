@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230115233247" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230116003601" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -473,7 +473,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10455224228.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2023E15</episode-num>
     <episode-num system="xmltv_ns">2022.14.</episode-num>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="ABC">
     <title lang="en">America's Funniest Home Videos</title>
@@ -584,6 +583,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12513259593.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2023E11</episode-num>
     <episode-num system="xmltv_ns">2022.10.</episode-num>
+    <new/>
   </programme>
   <programme start="20230116140000 +0000" stop="20230116160000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -856,7 +856,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10455224228.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2023E15</episode-num>
     <episode-num system="xmltv_ns">2022.14.</episode-num>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="ABCHD">
     <title lang="en">America's Funniest Home Videos</title>
@@ -967,6 +966,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12513259593.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2023E11</episode-num>
     <episode-num system="xmltv_ns">2022.10.</episode-num>
+    <new/>
   </programme>
   <programme start="20230116140000 +0000" stop="20230116160000 +0000" channel="ABCHD">
     <title lang="en">Local Programming</title>
@@ -1240,7 +1240,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10455224228.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2023E15</episode-num>
     <episode-num system="xmltv_ns">2022.14.</episode-num>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="ABCNY">
     <title lang="en">America's Funniest Home Videos</title>
@@ -2911,11 +2910,11 @@
     <sub-title>01-15-2023</sub-title>
     <desc>A roundup of the day's events.</desc>
     <date>20230000</date>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="CBS">
     <title lang="en">60 Minutes</title>
-    <sub-title>01-15-2023</sub-title>
+    <sub-title>Star Power; Hide And Seek; The Guru</sub-title>
+    <desc>Inside Lawrence Livermore Laboratory's National Ignition Facility, home of the world's largest laser, which recently reported a breakthrough in fusion research; a report on the island nation of Cyprus in the eastern Mediterranean, which has long been a financial hub of choice for wealthy Russians to move their rubles offshore; and a profile of music producer Rick Rubin, who guides his artists to tap into their creativity with the most unorthodox approach.</desc>
     <credits>
       <producer>Solly Granatstein</producer>
       <commentator>Bill Clinton</commentator>
@@ -2967,7 +2966,7 @@
     <credits>
       <director>Tony Wharmby</director>
       <actor role="Dominic Vail">Adam Jamal Craig</actor>
-      <writer>Kyle Harimoto</writer>
+      <writer>R. Scott Gemmill</writer>
       <producer>Rick Tunell</producer>
       <composer>Craig Dobbin</composer>
     </credits>
@@ -3058,7 +3057,8 @@
   </programme>
   <programme start="20230116120000 +0000" stop="20230116140000 +0000" channel="CBS">
     <title lang="en">CBS Mornings</title>
-    <sub-title>01-16-2023</sub-title>
+    <sub-title>Margo Price; Leslie Jones</sub-title>
+    <desc>Singer-songwriter Margo Price, author of "Maybe We'll Make It: A Memoir"; and comedian Leslie Jones, "Daily Show" guest host.</desc>
     <credits>
       <director>Shanta Fripp</director>
     </credits>
@@ -3069,6 +3069,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10530977945.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S12E11</episode-num>
     <episode-num system="xmltv_ns">11.10.</episode-num>
+    <new/>
   </programme>
   <programme start="20230116140000 +0000" stop="20230116160000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -3101,6 +3102,7 @@
   <programme start="20230116173000 +0000" stop="20230116183000 +0000" channel="CBS">
     <title lang="en">The Young and the Restless</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>Victor works to repair his relationship with Adam, Summer discovers Kyle's scheming, and Devon makes a painful decision.</desc>
     <credits>
       <actor role="Ashley Abbott">Eileen Davidson</actor>
     </credits>
@@ -3110,7 +3112,8 @@
     <category>Troubled relationships</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12097499687.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12097499680.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S50E75</episode-num>
+    <episode-num system="xmltv_ns">49.74.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3118,6 +3121,7 @@
   <programme start="20230116183000 +0000" stop="20230116190000 +0000" channel="CBS">
     <title lang="en">The Bold and the Beautiful</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>Taylor calls Sheila's bluff.</desc>
     <credits>
       <director>Michael Stich</director>
       <actor role="Deacon Sharpe">Sean Kanan</actor>
@@ -3548,11 +3552,11 @@
     <sub-title>01-15-2023</sub-title>
     <desc>A roundup of the day's events.</desc>
     <date>20230000</date>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="CBSHD">
     <title lang="en">60 Minutes</title>
-    <sub-title>01-15-2023</sub-title>
+    <sub-title>Star Power; Hide And Seek; The Guru</sub-title>
+    <desc>Inside Lawrence Livermore Laboratory's National Ignition Facility, home of the world's largest laser, which recently reported a breakthrough in fusion research; a report on the island nation of Cyprus in the eastern Mediterranean, which has long been a financial hub of choice for wealthy Russians to move their rubles offshore; and a profile of music producer Rick Rubin, who guides his artists to tap into their creativity with the most unorthodox approach.</desc>
     <credits>
       <producer>Solly Granatstein</producer>
       <commentator>Bill Clinton</commentator>
@@ -3604,7 +3608,7 @@
     <credits>
       <director>Tony Wharmby</director>
       <actor role="Dominic Vail">Adam Jamal Craig</actor>
-      <writer>Kyle Harimoto</writer>
+      <writer>R. Scott Gemmill</writer>
       <producer>Rick Tunell</producer>
       <composer>Craig Dobbin</composer>
     </credits>
@@ -3695,7 +3699,8 @@
   </programme>
   <programme start="20230116120000 +0000" stop="20230116140000 +0000" channel="CBSHD">
     <title lang="en">CBS Mornings</title>
-    <sub-title>01-16-2023</sub-title>
+    <sub-title>Margo Price; Leslie Jones</sub-title>
+    <desc>Singer-songwriter Margo Price, author of "Maybe We'll Make It: A Memoir"; and comedian Leslie Jones, "Daily Show" guest host.</desc>
     <credits>
       <director>Shanta Fripp</director>
     </credits>
@@ -3706,6 +3711,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10530977945.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S12E11</episode-num>
     <episode-num system="xmltv_ns">11.10.</episode-num>
+    <new/>
   </programme>
   <programme start="20230116140000 +0000" stop="20230116160000 +0000" channel="CBSHD">
     <title lang="en">Local Programming</title>
@@ -3738,6 +3744,7 @@
   <programme start="20230116173000 +0000" stop="20230116183000 +0000" channel="CBSHD">
     <title lang="en">The Young and the Restless</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>Victor works to repair his relationship with Adam, Summer discovers Kyle's scheming, and Devon makes a painful decision.</desc>
     <credits>
       <actor role="Ashley Abbott">Eileen Davidson</actor>
     </credits>
@@ -3747,7 +3754,8 @@
     <category>Troubled relationships</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12097499687.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12097499680.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S50E75</episode-num>
+    <episode-num system="xmltv_ns">49.74.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3755,6 +3763,7 @@
   <programme start="20230116183000 +0000" stop="20230116190000 +0000" channel="CBSHD">
     <title lang="en">The Bold and the Beautiful</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>Taylor calls Sheila's bluff.</desc>
     <credits>
       <director>Michael Stich</director>
       <actor role="Deacon Sharpe">Sean Kanan</actor>
@@ -4177,7 +4186,8 @@
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="CBSNY">
     <title lang="en">60 Minutes</title>
-    <sub-title>01-15-2023</sub-title>
+    <sub-title>Star Power; Hide And Seek; The Guru</sub-title>
+    <desc>Inside Lawrence Livermore Laboratory's National Ignition Facility, home of the world's largest laser, which recently reported a breakthrough in fusion research; a report on the island nation of Cyprus in the eastern Mediterranean, which has long been a financial hub of choice for wealthy Russians to move their rubles offshore; and a profile of music producer Rick Rubin, who guides his artists to tap into their creativity with the most unorthodox approach.</desc>
     <credits>
       <producer>Solly Granatstein</producer>
       <commentator>Bill Clinton</commentator>
@@ -4229,7 +4239,7 @@
     <credits>
       <director>Tony Wharmby</director>
       <actor role="Dominic Vail">Adam Jamal Craig</actor>
-      <writer>Kyle Harimoto</writer>
+      <writer>R. Scott Gemmill</writer>
       <producer>Rick Tunell</producer>
       <composer>Craig Dobbin</composer>
     </credits>
@@ -5162,7 +5172,6 @@
   <programme start="20230115230000 +0000" stop="20230116000000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom with Pamela Brown</title>
     <desc>Updates of the latest news from around the world.</desc>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="CNN">
     <title lang="en">Who's Talking To Chris Wallace?</title>
@@ -8304,7 +8313,6 @@
     <sub-title>Iowa State at Texas</sub-title>
     <desc>Iowa State at Texas.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="ESPN2">
     <title lang="en">SportsCenter</title>
@@ -9377,7 +9385,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8678001101.jpg" width="541" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8678001108.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="FoxNews">
     <title lang="en">Sunday Night in America with Trey Gowdy</title>
@@ -10799,7 +10806,7 @@
     <credits>
       <director>Pamela Fryman</director>
       <actor role="Bulldog">Dan Butler</actor>
-      <writer>Joe Keenan</writer>
+      <writer>Anne Flett-Giordano</writer>
       <producer>Maggie Blanc</producer>
       <composer>Bruce Miller</composer>
     </credits>
@@ -10827,7 +10834,7 @@
     <credits>
       <director>Pamela Fryman</director>
       <actor role="Bulldog">Dan Butler</actor>
-      <writer>Joe Keenan</writer>
+      <writer>Anne Flett-Giordano</writer>
       <producer>Maggie Blanc</producer>
       <composer>Bruce Miller</composer>
     </credits>
@@ -12960,7 +12967,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-    <live/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="MSNBC">
     <title lang="en">American Voices with Alicia Menendez</title>
@@ -13972,7 +13978,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707594264.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E16</episode-num>
     <episode-num system="xmltv_ns">2022.15.</episode-num>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116003000 +0000" channel="NBC">
     <title lang="en">Lopez vs. Lopez</title>
@@ -14016,7 +14021,7 @@
   <programme start="20230116011500 +0000" stop="20230116043000 +0000" channel="NBC">
     <title lang="en">NFL Playoff</title>
     <sub-title>Baltimore Ravens at Cincinnati Bengals</sub-title>
-    <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium.</desc>
+    <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium. QB Joe Burrow (35 TDs, 12 INTs) and AFC North-champ Cincinnati have not lost since Halloween as they try to reprise last January's unexpected Super Bowl run. They tuned up with last week's 27-16 win over the Ravens, who rested sparkplug RB and Ohio State product J.K. Dobbins. Burrow has not been sacked more than twice in a game in the Bengals' current 8-0 streak.</desc>
     <date>20230000</date>
     <live/>
   </programme>
@@ -14083,6 +14088,7 @@
   <programme start="20230116120000 +0000" stop="20230116140000 +0000" channel="NBC">
     <title lang="en">Today</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>Catalytic Converter Thefts. 20-Year-Old Promise Fulfilled as Mother and Son Graduate College Together. Jennifer Lopez and Josh Duhamel on "Shotgun Wedding." TODAY Bestsellers: Winter Fashion Must Haves with Adrianna Brach. TODAY Food: How One Culinary Program is Encouraging and Helping High School Students Find Work in High-End Restaurants.</desc>
     <credits>
       <actor>Giada De Laurentiis</actor>
       <commentator>Jenna Wolfe</commentator>
@@ -14094,10 +14100,12 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12126798907.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E13</episode-num>
     <episode-num system="xmltv_ns">2022.12.</episode-num>
+    <new/>
   </programme>
   <programme start="20230116140000 +0000" stop="20230116150000 +0000" channel="NBC">
     <title lang="en">Today 3rd Hour</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>TODAY Checklist: Nutrition by the Numbers with Vanessa Rissetto. Second Acts: Teacher Turned Senior Track Star. Clean Sweep: How to Be Your Most Organized Self in 2023 with Janelle Cohen. Start TODAY with Matt Sauerhoff. This is TODAY with Arianna Davis.</desc>
     <date>20230116</date>
     <category>Talk</category>
     <category>Current affairs</category>
@@ -14110,6 +14118,7 @@
   <programme start="20230116150000 +0000" stop="20230116160000 +0000" channel="NBC">
     <title lang="en">Today with Hoda &amp; Jenna</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>TODAY's Talk: Faves and Finds. Jennifer Lopez and Josh Duhamel on "Shotgun Wedding." Feel Good TODAY: Barbershop Books. TODAY Food with Sunny Anderson: Nacho Platter with Chicken and Black Beans. Jenn Falik on Winter Shoes.</desc>
     <date>20230116</date>
     <category>Newsmagazine</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483977.jpg" width="540" height="720"/>
@@ -14274,6 +14283,7 @@
   <programme start="20230117070600 +0000" stop="20230117080000 +0000" channel="NBC">
     <title lang="en">Today with Hoda &amp; Jenna</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>TODAY's Talk: Faves and Finds. Jennifer Lopez and Josh Duhamel on "Shotgun Wedding." Feel Good TODAY: Barbershop Books. TODAY Food with Sunny Anderson: Nacho Platter with Chicken and Black Beans. Jenn Falik on Winter Shoes.</desc>
     <date>20230116</date>
     <category>Newsmagazine</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483977.jpg" width="540" height="720"/>
@@ -14401,7 +14411,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707594264.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E16</episode-num>
     <episode-num system="xmltv_ns">2022.15.</episode-num>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116003000 +0000" channel="NBCHD">
     <title lang="en">Lopez vs. Lopez</title>
@@ -14445,7 +14454,7 @@
   <programme start="20230116011500 +0000" stop="20230116043000 +0000" channel="NBCHD">
     <title lang="en">NFL Playoff</title>
     <sub-title>Baltimore Ravens at Cincinnati Bengals</sub-title>
-    <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium.</desc>
+    <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium. QB Joe Burrow (35 TDs, 12 INTs) and AFC North-champ Cincinnati have not lost since Halloween as they try to reprise last January's unexpected Super Bowl run. They tuned up with last week's 27-16 win over the Ravens, who rested sparkplug RB and Ohio State product J.K. Dobbins. Burrow has not been sacked more than twice in a game in the Bengals' current 8-0 streak.</desc>
     <date>20230000</date>
     <live/>
   </programme>
@@ -14512,6 +14521,7 @@
   <programme start="20230116120000 +0000" stop="20230116140000 +0000" channel="NBCHD">
     <title lang="en">Today</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>Catalytic Converter Thefts. 20-Year-Old Promise Fulfilled as Mother and Son Graduate College Together. Jennifer Lopez and Josh Duhamel on "Shotgun Wedding." TODAY Bestsellers: Winter Fashion Must Haves with Adrianna Brach. TODAY Food: How One Culinary Program is Encouraging and Helping High School Students Find Work in High-End Restaurants.</desc>
     <credits>
       <actor>Giada De Laurentiis</actor>
       <commentator>Jenna Wolfe</commentator>
@@ -14523,10 +14533,12 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12126798907.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E13</episode-num>
     <episode-num system="xmltv_ns">2022.12.</episode-num>
+    <new/>
   </programme>
   <programme start="20230116140000 +0000" stop="20230116150000 +0000" channel="NBCHD">
     <title lang="en">Today 3rd Hour</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>TODAY Checklist: Nutrition by the Numbers with Vanessa Rissetto. Second Acts: Teacher Turned Senior Track Star. Clean Sweep: How to Be Your Most Organized Self in 2023 with Janelle Cohen. Start TODAY with Matt Sauerhoff. This is TODAY with Arianna Davis.</desc>
     <date>20230116</date>
     <category>Talk</category>
     <category>Current affairs</category>
@@ -14539,6 +14551,7 @@
   <programme start="20230116150000 +0000" stop="20230116160000 +0000" channel="NBCHD">
     <title lang="en">Today with Hoda &amp; Jenna</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>TODAY's Talk: Faves and Finds. Jennifer Lopez and Josh Duhamel on "Shotgun Wedding." Feel Good TODAY: Barbershop Books. TODAY Food with Sunny Anderson: Nacho Platter with Chicken and Black Beans. Jenn Falik on Winter Shoes.</desc>
     <date>20230116</date>
     <category>Newsmagazine</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483977.jpg" width="540" height="720"/>
@@ -14703,6 +14716,7 @@
   <programme start="20230117070600 +0000" stop="20230117080000 +0000" channel="NBCHD">
     <title lang="en">Today with Hoda &amp; Jenna</title>
     <sub-title>01-16-2023</sub-title>
+    <desc>TODAY's Talk: Faves and Finds. Jennifer Lopez and Josh Duhamel on "Shotgun Wedding." Feel Good TODAY: Barbershop Books. TODAY Food with Sunny Anderson: Nacho Platter with Chicken and Black Beans. Jenn Falik on Winter Shoes.</desc>
     <date>20230116</date>
     <category>Newsmagazine</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483977.jpg" width="540" height="720"/>
@@ -14827,7 +14841,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707594264.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E16</episode-num>
     <episode-num system="xmltv_ns">2022.15.</episode-num>
-    <new/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116003000 +0000" channel="NBCNY">
     <title lang="en">Lopez vs. Lopez</title>
@@ -14871,7 +14884,7 @@
   <programme start="20230116011500 +0000" stop="20230116043000 +0000" channel="NBCNY">
     <title lang="en">NFL Playoff</title>
     <sub-title>Baltimore Ravens at Cincinnati Bengals</sub-title>
-    <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium.</desc>
+    <desc>Baltimore Ravens (10-7) at Cincinnati Bengals (12-4) in a Wild-Card game. From Paycor Stadium. QB Joe Burrow (35 TDs, 12 INTs) and AFC North-champ Cincinnati have not lost since Halloween as they try to reprise last January's unexpected Super Bowl run. They tuned up with last week's 27-16 win over the Ravens, who rested sparkplug RB and Ohio State product J.K. Dobbins. Burrow has not been sacked more than twice in a game in the Bengals' current 8-0 streak.</desc>
     <date>20230000</date>
     <live/>
   </programme>
@@ -16784,7 +16797,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11439710877.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S10E123</episode-num>
     <episode-num system="xmltv_ns">9.122.</episode-num>
-    <new/>
   </programme>
   <programme start="20230115233000 +0000" stop="20230116000000 +0000" channel="PBS">
     <title lang="en">Washington Week</title>
@@ -18409,7 +18421,6 @@
   <programme start="20230115230000 +0000" stop="20230115233000 +0000" channel="Telemundo">
     <title lang="es">Noticias Telemundo fin de semana</title>
     <desc>Reportajes y análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.</desc>
-    <new/>
   </programme>
   <programme start="20230115233000 +0000" stop="20230116010000 +0000" channel="Telemundo">
     <title lang="es">Exatlon Estados Unidos: All-Stars</title>
@@ -20164,7 +20175,6 @@
     <title lang="es">Noticiero Univision - Fin De Semana</title>
     <sub-title>01-15-2023</sub-title>
     <date>19900000</date>
-    <live/>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116010000 +0000" channel="Univision">
     <title lang="es">Aquí y Ahora</title>

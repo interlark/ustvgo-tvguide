@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230116133734" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230116140722" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -578,6 +578,7 @@
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
     <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230117041500 +0000" stop="20230117043500 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -1100,6 +1101,7 @@
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
     <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230117041500 +0000" stop="20230117043500 +0000" channel="ABCHD">
     <title lang="en">Local Programming</title>
@@ -3710,6 +3712,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12010361768.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S04E10</episode-num>
     <episode-num system="xmltv_ns">3.9.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4511,6 +4514,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12010361768.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S04E10</episode-num>
     <episode-num system="xmltv_ns">3.9.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -5779,7 +5783,6 @@
   <programme start="20230116130000 +0000" stop="20230116133000 +0000" channel="CN">
     <title lang="en">Cocomelon</title>
     <date>20230000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -12008,7 +12011,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12253564776.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12253564772.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20230116133000 +0000" stop="20230116140000 +0000" channel="GSN">
     <title lang="en">Catch 21</title>

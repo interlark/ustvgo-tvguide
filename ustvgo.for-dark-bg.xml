@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230117025127" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230117030743" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -459,7 +459,7 @@
   <programme start="20230117011500 +0000" stop="20230117041500 +0000" channel="ABC">
     <title lang="en">NFL Playoff</title>
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
-    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
+    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium. Bucs QB Tom Brady bids for postseason win No. 36, while Dak Prescott seeks his second as Dallas tries to avoid ending the season the way it started, with a prime-time loss to Tampa Bay (19-3). Leonard Fournette's season-high 127 rushing yards led the way in that win.</desc>
     <date>20230000</date>
     <live/>
   </programme>
@@ -1151,7 +1151,7 @@
   <programme start="20230117011500 +0000" stop="20230117041500 +0000" channel="ABCHD">
     <title lang="en">NFL Playoff</title>
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
-    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
+    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium. Bucs QB Tom Brady bids for postseason win No. 36, while Dak Prescott seeks his second as Dallas tries to avoid ending the season the way it started, with a prime-time loss to Tampa Bay (19-3). Leonard Fournette's season-high 127 rushing yards led the way in that win.</desc>
     <date>20230000</date>
     <live/>
   </programme>
@@ -1843,7 +1843,7 @@
   <programme start="20230117011500 +0000" stop="20230117041500 +0000" channel="ABCNY">
     <title lang="en">NFL Playoff</title>
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
-    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
+    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium. Bucs QB Tom Brady bids for postseason win No. 36, while Dak Prescott seeks his second as Dallas tries to avoid ending the season the way it started, with a prime-time loss to Tampa Bay (19-3). Leonard Fournette's season-high 127 rushing yards led the way in that win.</desc>
     <date>20230000</date>
     <live/>
   </programme>
@@ -4051,6 +4051,7 @@
   <programme start="20230117173000 +0000" stop="20230117183000 +0000" channel="CBS">
     <title lang="en">The Young and the Restless</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>Jack is forced to come clean, Daniel and Summer share a difference of opinion, and Sharon helps Chance with some soul searching.</desc>
     <credits>
       <actor role="Ashley Abbott">Eileen Davidson</actor>
     </credits>
@@ -4060,7 +4061,8 @@
     <category>Troubled relationships</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12097499687.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12097499680.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S50E76</episode-num>
+    <episode-num system="xmltv_ns">49.75.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4068,6 +4070,7 @@
   <programme start="20230117183000 +0000" stop="20230117190000 +0000" channel="CBS">
     <title lang="en">The Bold and the Beautiful</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>Katie pleads with Bill to rethink his allegiance to Sheila. Steffy reveals to Liam that Bill is entangled with her sworn enemy.</desc>
     <credits>
       <director>Michael Stich</director>
       <actor role="Deacon Sharpe">Sean Kanan</actor>
@@ -4958,6 +4961,7 @@
   <programme start="20230117173000 +0000" stop="20230117183000 +0000" channel="CBSHD">
     <title lang="en">The Young and the Restless</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>Jack is forced to come clean, Daniel and Summer share a difference of opinion, and Sharon helps Chance with some soul searching.</desc>
     <credits>
       <actor role="Ashley Abbott">Eileen Davidson</actor>
     </credits>
@@ -4967,7 +4971,8 @@
     <category>Troubled relationships</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12097499687.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12097499680.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <episode-num system="onscreen">S50E76</episode-num>
+    <episode-num system="xmltv_ns">49.75.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4975,6 +4980,7 @@
   <programme start="20230117183000 +0000" stop="20230117190000 +0000" channel="CBSHD">
     <title lang="en">The Bold and the Beautiful</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>Katie pleads with Bill to rethink his allegiance to Sheila. Steffy reveals to Liam that Bill is entangled with her sworn enemy.</desc>
     <credits>
       <director>Michael Stich</director>
       <actor role="Deacon Sharpe">Sean Kanan</actor>
@@ -7671,6 +7677,8 @@
     <credits>
       <director>David McWhirter</director>
       <actor role="Billy Baker">Taye Diggs</actor>
+      <writer>April Blair</writer>
+      <producer>April Blair</producer>
     </credits>
     <date>20221024</date>
     <category>Drama</category>
@@ -7927,6 +7935,8 @@
     <credits>
       <director>David McWhirter</director>
       <actor role="Billy Baker">Taye Diggs</actor>
+      <writer>April Blair</writer>
+      <producer>April Blair</producer>
     </credits>
     <date>20221024</date>
     <category>Drama</category>
@@ -8183,6 +8193,8 @@
     <credits>
       <director>David McWhirter</director>
       <actor role="Billy Baker">Taye Diggs</actor>
+      <writer>April Blair</writer>
+      <producer>April Blair</producer>
     </credits>
     <date>20221024</date>
     <category>Drama</category>
@@ -10609,7 +10621,7 @@
   <programme start="20230117011500 +0000" stop="20230117041500 +0000" channel="ESPN">
     <title lang="en">NFL Playoff</title>
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
-    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
+    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium. Bucs QB Tom Brady bids for postseason win No. 36, while Dak Prescott seeks his second as Dallas tries to avoid ending the season the way it started, with a prime-time loss to Tampa Bay (19-3). Leonard Fournette's season-high 127 rushing yards led the way in that win.</desc>
     <date>20230000</date>
     <live/>
   </programme>
@@ -10681,7 +10693,7 @@
   <programme start="20230117011500 +0000" stop="20230117041500 +0000" channel="ESPNHD">
     <title lang="en">NFL Playoff</title>
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
-    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
+    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium. Bucs QB Tom Brady bids for postseason win No. 36, while Dak Prescott seeks his second as Dallas tries to avoid ending the season the way it started, with a prime-time loss to Tampa Bay (19-3). Leonard Fournette's season-high 127 rushing yards led the way in that win.</desc>
     <date>20230000</date>
     <live/>
   </programme>
@@ -11187,6 +11199,7 @@
   <programme start="20230117010000 +0000" stop="20230117020000 +0000" channel="FOX">
     <title lang="en">Fantasy Island</title>
     <sub-title>Paymer vs. Paymer</sub-title>
+    <desc>Empty nesters Dolly and Dutch seek clarity on how to spend their next chapter. Meanwhile, Helene helps Ruby tap into her newfound youth. Javier opens up to Roarke as he wrestles with his new role.</desc>
     <credits>
       <actor>Frankie J. Alvarez</actor>
     </credits>
@@ -11208,6 +11221,7 @@
   <programme start="20230117020000 +0000" stop="20230117030000 +0000" channel="FOX">
     <title lang="en">Alert: Missing Persons Unit</title>
     <sub-title>Zoey</sub-title>
+    <desc>The MPU searches for a college student after she goes missing during a house party. Meanwhile, Sidney and Keith try to adjust to normal life again.</desc>
     <date>20230116</date>
     <category>Drama</category>
     <category>Crime</category>
@@ -11291,6 +11305,7 @@
   <programme start="20230118020000 +0000" stop="20230118030000 +0000" channel="FOX">
     <title lang="en">Alert: Missing Persons Unit</title>
     <sub-title>Zoey</sub-title>
+    <desc>The MPU searches for a college student after she goes missing during a house party. Meanwhile, Sidney and Keith try to adjust to normal life again.</desc>
     <date>20230116</date>
     <category>Drama</category>
     <category>Crime</category>
@@ -11402,6 +11417,7 @@
   <programme start="20230117010000 +0000" stop="20230117020000 +0000" channel="FOXHD">
     <title lang="en">Fantasy Island</title>
     <sub-title>Paymer vs. Paymer</sub-title>
+    <desc>Empty nesters Dolly and Dutch seek clarity on how to spend their next chapter. Meanwhile, Helene helps Ruby tap into her newfound youth. Javier opens up to Roarke as he wrestles with his new role.</desc>
     <credits>
       <actor>Frankie J. Alvarez</actor>
     </credits>
@@ -11423,6 +11439,7 @@
   <programme start="20230117020000 +0000" stop="20230117030000 +0000" channel="FOXHD">
     <title lang="en">Alert: Missing Persons Unit</title>
     <sub-title>Zoey</sub-title>
+    <desc>The MPU searches for a college student after she goes missing during a house party. Meanwhile, Sidney and Keith try to adjust to normal life again.</desc>
     <date>20230116</date>
     <category>Drama</category>
     <category>Crime</category>
@@ -11506,6 +11523,7 @@
   <programme start="20230118020000 +0000" stop="20230118030000 +0000" channel="FOXHD">
     <title lang="en">Alert: Missing Persons Unit</title>
     <sub-title>Zoey</sub-title>
+    <desc>The MPU searches for a college student after she goes missing during a house party. Meanwhile, Sidney and Keith try to adjust to normal life again.</desc>
     <date>20230116</date>
     <category>Drama</category>
     <category>Crime</category>
@@ -11617,6 +11635,7 @@
   <programme start="20230117010000 +0000" stop="20230117020000 +0000" channel="FOXNY">
     <title lang="en">Fantasy Island</title>
     <sub-title>Paymer vs. Paymer</sub-title>
+    <desc>Empty nesters Dolly and Dutch seek clarity on how to spend their next chapter. Meanwhile, Helene helps Ruby tap into her newfound youth. Javier opens up to Roarke as he wrestles with his new role.</desc>
     <credits>
       <actor>Frankie J. Alvarez</actor>
     </credits>
@@ -11638,6 +11657,7 @@
   <programme start="20230117020000 +0000" stop="20230117030000 +0000" channel="FOXNY">
     <title lang="en">Alert: Missing Persons Unit</title>
     <sub-title>Zoey</sub-title>
+    <desc>The MPU searches for a college student after she goes missing during a house party. Meanwhile, Sidney and Keith try to adjust to normal life again.</desc>
     <date>20230116</date>
     <category>Drama</category>
     <category>Crime</category>
@@ -16387,7 +16407,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -17302,6 +17321,7 @@
   <programme start="20230117120000 +0000" stop="20230117140000 +0000" channel="NBC">
     <title lang="en">Today</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>Kristin Chenoweth on "I'm No Philosopher, But I Got Thoughts." TODAY Table: 5 Ingredient Dinners with Elena Besser.</desc>
     <credits>
       <actor>Giada De Laurentiis</actor>
       <commentator>Jenna Wolfe</commentator>
@@ -17318,6 +17338,7 @@
   <programme start="20230117140000 +0000" stop="20230117150000 +0000" channel="NBC">
     <title lang="en">Today 3rd Hour</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>Future of Beauty: Arcaea. Generation Next: 2023's NYC Youth Poet Laureate Stephanie Pacheco. Catching Up with Bill Nighy. Life Lessons: How to Heal Your Soul: Soulbriety with Dr. Elisa Hallerman. TODAY Table: 5 Ingredient Dinners with Elena Besser.</desc>
     <date>20230117</date>
     <category>Talk</category>
     <category>Current affairs</category>
@@ -17331,6 +17352,7 @@
   <programme start="20230117150000 +0000" stop="20230117160000 +0000" channel="NBC">
     <title lang="en">Today with Hoda &amp; Jenna</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>TODAY's Talk: Social Dilemmas. Joelle's Scoop with Joelle Garguilo. Knock Knock Surprise. Liz Plosser on Women's Health Fitness Awards. Dreams Deciphered with Lauri Lowenberg.</desc>
     <date>20230117</date>
     <category>Newsmagazine</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483977.jpg" width="540" height="720"/>
@@ -17559,6 +17581,7 @@
   <programme start="20230118070600 +0000" stop="20230118080000 +0000" channel="NBC">
     <title lang="en">Today with Hoda &amp; Jenna</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>TODAY's Talk: Social Dilemmas. Joelle's Scoop with Joelle Garguilo. Knock Knock Surprise. Liz Plosser on Women's Health Fitness Awards. Dreams Deciphered with Lauri Lowenberg.</desc>
     <date>20230117</date>
     <category>Newsmagazine</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483977.jpg" width="540" height="720"/>
@@ -18094,6 +18117,7 @@
   <programme start="20230117120000 +0000" stop="20230117140000 +0000" channel="NBCHD">
     <title lang="en">Today</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>Kristin Chenoweth on "I'm No Philosopher, But I Got Thoughts." TODAY Table: 5 Ingredient Dinners with Elena Besser.</desc>
     <credits>
       <actor>Giada De Laurentiis</actor>
       <commentator>Jenna Wolfe</commentator>
@@ -18110,6 +18134,7 @@
   <programme start="20230117140000 +0000" stop="20230117150000 +0000" channel="NBCHD">
     <title lang="en">Today 3rd Hour</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>Future of Beauty: Arcaea. Generation Next: 2023's NYC Youth Poet Laureate Stephanie Pacheco. Catching Up with Bill Nighy. Life Lessons: How to Heal Your Soul: Soulbriety with Dr. Elisa Hallerman. TODAY Table: 5 Ingredient Dinners with Elena Besser.</desc>
     <date>20230117</date>
     <category>Talk</category>
     <category>Current affairs</category>
@@ -18123,6 +18148,7 @@
   <programme start="20230117150000 +0000" stop="20230117160000 +0000" channel="NBCHD">
     <title lang="en">Today with Hoda &amp; Jenna</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>TODAY's Talk: Social Dilemmas. Joelle's Scoop with Joelle Garguilo. Knock Knock Surprise. Liz Plosser on Women's Health Fitness Awards. Dreams Deciphered with Lauri Lowenberg.</desc>
     <date>20230117</date>
     <category>Newsmagazine</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483977.jpg" width="540" height="720"/>
@@ -18351,6 +18377,7 @@
   <programme start="20230118070600 +0000" stop="20230118080000 +0000" channel="NBCHD">
     <title lang="en">Today with Hoda &amp; Jenna</title>
     <sub-title>01-17-2023</sub-title>
+    <desc>TODAY's Talk: Social Dilemmas. Joelle's Scoop with Joelle Garguilo. Knock Knock Surprise. Liz Plosser on Women's Health Fitness Awards. Dreams Deciphered with Lauri Lowenberg.</desc>
     <date>20230117</date>
     <category>Newsmagazine</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8201483977.jpg" width="540" height="720"/>
@@ -18946,7 +18973,7 @@
   <programme start="20230117081500 +0000" stop="20230117110000 +0000" channel="NFL">
     <title lang="en">NFL Playoff</title>
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
-    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
+    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium. Bucs QB Tom Brady bids for postseason win No. 36, while Dak Prescott seeks his second as Dallas tries to avoid ending the season the way it started, with a prime-time loss to Tampa Bay (19-3). Leonard Fournette's season-high 127 rushing yards led the way in that win.</desc>
     <date>20230000</date>
   </programme>
   <programme start="20230117011500 +0000" stop="20230117021500 +0000" channel="NFLHD">
@@ -18992,7 +19019,7 @@
   <programme start="20230117081500 +0000" stop="20230117110000 +0000" channel="NFLHD">
     <title lang="en">NFL Playoff</title>
     <sub-title>Dallas Cowboys at Tampa Bay Buccaneers</sub-title>
-    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium.</desc>
+    <desc>Dallas Cowboys (12-5) at Tampa Bay Buccaneers (8-9) in a Wild-Card game. From Raymond James Stadium. Bucs QB Tom Brady bids for postseason win No. 36, while Dak Prescott seeks his second as Dallas tries to avoid ending the season the way it started, with a prime-time loss to Tampa Bay (19-3). Leonard Fournette's season-high 127 rushing yards led the way in that win.</desc>
     <date>20230000</date>
   </programme>
   <programme start="20230117010000 +0000" stop="20230117020000 +0000" channel="NFLRZ">
@@ -19092,7 +19119,6 @@
     <category>Animals</category>
     <category>Animated</category>
     <category>Cartoon</category>
-    <category>Other</category>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-6598441135.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-172380245.jpg" width="720" height="363"/>
     <episode-num system="onscreen">S--E00</episode-num>
@@ -23321,7 +23347,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8923989115.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8923989121.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230117023000 +0000" stop="20230117051500 +0000" channel="TNT">
     <title lang="en">Judas and the Black Messiah</title>

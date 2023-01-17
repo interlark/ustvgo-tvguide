@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230117210637" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230117213245" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -3468,7 +3468,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10548816782.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S14E76</episode-num>
     <episode-num system="xmltv_ns">13.75.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4117,7 +4116,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10548816782.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S14E76</episode-num>
     <episode-num system="xmltv_ns">13.75.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -6011,7 +6009,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8721903878.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E10</episode-num>
     <episode-num system="xmltv_ns">2022.9.</episode-num>
-    <new/>
   </programme>
   <programme start="20230117210000 +0000" stop="20230117220000 +0000" channel="CNBC">
     <title lang="en">Closing Bell: Overtime</title>
@@ -6156,7 +6153,6 @@
   <programme start="20230117200000 +0000" stop="20230117210000 +0000" channel="CNN">
     <title lang="en">CNN Newsroom</title>
     <desc>The latest news and information from around the world.</desc>
-    <new/>
   </programme>
   <programme start="20230117210000 +0000" stop="20230117220000 +0000" channel="CNN">
     <title lang="en">The Lead With Jake Tapper</title>
@@ -9843,7 +9839,6 @@
   <programme start="20230117200000 +0000" stop="20230117210000 +0000" channel="ESPN">
     <title lang="en">NBA Today</title>
     <desc>In-depth discussions and highlights from around the NBA.</desc>
-    <live/>
   </programme>
   <programme start="20230117210000 +0000" stop="20230117220000 +0000" channel="ESPN">
     <title lang="en">NFL Live</title>
@@ -9924,7 +9919,6 @@
   <programme start="20230117200000 +0000" stop="20230117210000 +0000" channel="ESPNHD">
     <title lang="en">NBA Today</title>
     <desc>In-depth discussions and highlights from around the NBA.</desc>
-    <live/>
   </programme>
   <programme start="20230117210000 +0000" stop="20230117220000 +0000" channel="ESPNHD">
     <title lang="en">NFL Live</title>
@@ -10959,7 +10953,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-8668798984.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S07E12</episode-num>
     <episode-num system="xmltv_ns">6.11.</episode-num>
-    <new/>
   </programme>
   <programme start="20230117210000 +0000" stop="20230117220000 +0000" channel="FoxNews">
     <title lang="en">Your World With Neil Cavuto</title>
@@ -15279,7 +15272,6 @@
     <sub-title>01-17-2023</sub-title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230117210000 +0000" stop="20230117230000 +0000" channel="MSNBC">
     <title lang="en">Deadline: White House</title>
@@ -21481,7 +21473,7 @@
       <director>Mark Cendrowski</director>
       <actor role="Dimitri (as Pasha Lychnikoff)">Pasha D. Lychnikoff</actor>
       <writer>Mark Cendrowski</writer>
-      <producer>Steven Molaro</producer>
+      <producer>David Goetsch</producer>
       <editor>Peter Chakos</editor>
     </credits>
     <date>20140227</date>
@@ -21508,7 +21500,7 @@
       <director>Mark Cendrowski</director>
       <actor role="Dimitri (as Pasha Lychnikoff)">Pasha D. Lychnikoff</actor>
       <writer>Mark Cendrowski</writer>
-      <producer>Steven Molaro</producer>
+      <producer>David Goetsch</producer>
       <editor>Peter Chakos</editor>
     </credits>
     <date>20140227</date>
@@ -21535,7 +21527,7 @@
       <director>Mark Cendrowski</director>
       <actor role="Dimitri (as Pasha Lychnikoff)">Pasha D. Lychnikoff</actor>
       <writer>Mark Cendrowski</writer>
-      <producer>Steven Molaro</producer>
+      <producer>David Goetsch</producer>
       <editor>Peter Chakos</editor>
     </credits>
     <date>20140407</date>
@@ -21562,7 +21554,7 @@
       <director>Mark Cendrowski</director>
       <actor role="Dimitri (as Pasha Lychnikoff)">Pasha D. Lychnikoff</actor>
       <writer>Mark Cendrowski</writer>
-      <producer>Steven Molaro</producer>
+      <producer>David Goetsch</producer>
       <editor>Peter Chakos</editor>
     </credits>
     <date>20140227</date>
@@ -21589,7 +21581,7 @@
       <director>Mark Cendrowski</director>
       <actor role="Dimitri (as Pasha Lychnikoff)">Pasha D. Lychnikoff</actor>
       <writer>Mark Cendrowski</writer>
-      <producer>Steven Molaro</producer>
+      <producer>David Goetsch</producer>
       <editor>Peter Chakos</editor>
     </credits>
     <date>20140227</date>
@@ -21616,7 +21608,7 @@
       <director>Mark Cendrowski</director>
       <actor role="Dimitri (as Pasha Lychnikoff)">Pasha D. Lychnikoff</actor>
       <writer>Mark Cendrowski</writer>
-      <producer>Steven Molaro</producer>
+      <producer>David Goetsch</producer>
       <editor>Peter Chakos</editor>
     </credits>
     <date>20140402</date>
@@ -21728,7 +21720,6 @@
   <programme start="20230117195800 +0000" stop="20230117205800 +0000" channel="Telemundo">
     <title lang="es">La mesa caliente</title>
     <desc>Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.</desc>
-    <new/>
   </programme>
   <programme start="20230117205800 +0000" stop="20230117220000 +0000" channel="Telemundo">
     <title lang="es">Al rojo vivo</title>
@@ -23235,7 +23226,6 @@
     <title lang="es">Corazón Guerrero</title>
     <sub-title>01-17-2023</sub-title>
     <date>20230000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230117213245" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230117220708" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ABC.png" width="512" height="512"/>
@@ -11159,7 +11159,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E13</episode-num>
     <episode-num system="xmltv_ns">2022.12.</episode-num>
-    <live/>
   </programme>
   <programme start="20230117213000 +0000" stop="20230117230000 +0000" channel="FS1">
     <title lang="en">Speak</title>
@@ -11237,7 +11236,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E13</episode-num>
     <episode-num system="xmltv_ns">2022.12.</episode-num>
-    <live/>
   </programme>
   <programme start="20230117213000 +0000" stop="20230117230000 +0000" channel="FS1HD">
     <title lang="en">Speak</title>
@@ -16354,6 +16352,7 @@
   <programme start="20230118093000 +0000" stop="20230118100000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20230118100000 +0000" stop="20230118120000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -16948,6 +16947,7 @@
   <programme start="20230118093000 +0000" stop="20230118100000 +0000" channel="NBCHD">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20230118100000 +0000" stop="20230118120000 +0000" channel="NBCHD">
     <title lang="en">Local Programming</title>

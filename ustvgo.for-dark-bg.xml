@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230118133554" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230118140645" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -615,6 +615,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12057503799.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S10E12</episode-num>
     <episode-num system="xmltv_ns">9.11.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -1206,6 +1207,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12057503799.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S10E12</episode-num>
     <episode-num system="xmltv_ns">9.11.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -2498,7 +2500,7 @@
       <director>Randy Zisk</director>
       <actor>Luke Kleintank</actor>
       <writer>Michael Peterson</writer>
-      <producer>David Jeffery</producer>
+      <producer>Kathy Reichs</producer>
       <composer>Jamie Forsyth</composer>
     </credits>
     <date>20130204</date>
@@ -2528,7 +2530,7 @@
       <director>Randy Zisk</director>
       <actor>Luke Kleintank</actor>
       <writer>Michael Peterson</writer>
-      <producer>David Jeffery</producer>
+      <producer>Kathy Reichs</producer>
       <composer>Jamie Forsyth</composer>
     </credits>
     <date>20130211</date>
@@ -2558,7 +2560,7 @@
       <director>Randy Zisk</director>
       <actor>Luke Kleintank</actor>
       <writer>Michael Peterson</writer>
-      <producer>David Jeffery</producer>
+      <producer>Kathy Reichs</producer>
       <composer>Jamie Forsyth</composer>
     </credits>
     <date>20130218</date>
@@ -2588,7 +2590,7 @@
       <director>Randy Zisk</director>
       <actor>Luke Kleintank</actor>
       <writer>Michael Peterson</writer>
-      <producer>David Jeffery</producer>
+      <producer>Kathy Reichs</producer>
       <composer>Jamie Forsyth</composer>
     </credits>
     <date>20130225</date>
@@ -2618,7 +2620,7 @@
       <director>Randy Zisk</director>
       <actor>Luke Kleintank</actor>
       <writer>Michael Peterson</writer>
-      <producer>David Jeffery</producer>
+      <producer>Kathy Reichs</producer>
       <composer>Jamie Forsyth</composer>
     </credits>
     <date>20130304</date>
@@ -2648,7 +2650,7 @@
       <director>Randy Zisk</director>
       <actor>Luke Kleintank</actor>
       <writer>Michael Peterson</writer>
-      <producer>David Jeffery</producer>
+      <producer>Kathy Reichs</producer>
       <composer>Jamie Forsyth</composer>
     </credits>
     <date>20130318</date>
@@ -5781,7 +5783,6 @@
   <programme start="20230118130000 +0000" stop="20230118131500 +0000" channel="CN">
     <title lang="en">Cocomelon</title>
     <date>20230000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -8222,7 +8223,7 @@
   <programme start="20230118153000 +0000" stop="20230118160000 +0000" channel="Disney">
     <title lang="en">SuperKitties</title>
     <sub-title>Fireworks Fright / Cheese Trees</sub-title>
-    <desc>Mr. Puppypaws steals all of Kittydale's fireworks. The SuperKitties have to stop Lab Rat from turning Kittydale into cheese, but Ginny is scared of sticky stuff.</desc>
+    <desc>Mr. Puppypaws steals Kittydale's fireworks; and the gang must stop Lab Rat from turning Kittydale into cheese.</desc>
     <date>20230112</date>
     <category>Animated</category>
     <category>Preschool</category>
@@ -8684,7 +8685,7 @@
   <programme start="20230118163000 +0000" stop="20230118170000 +0000" channel="DisneyJr">
     <title lang="en">SuperKitties</title>
     <sub-title>Fireworks Fright / Cheese Trees</sub-title>
-    <desc>Mr. Puppypaws steals all of Kittydale's fireworks. The SuperKitties have to stop Lab Rat from turning Kittydale into cheese, but Ginny is scared of sticky stuff.</desc>
+    <desc>Mr. Puppypaws steals Kittydale's fireworks; and the gang must stop Lab Rat from turning Kittydale into cheese.</desc>
     <date>20230112</date>
     <category>Animated</category>
     <category>Preschool</category>
@@ -11706,7 +11707,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-12253564776.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-12253564772.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <new/>
   </programme>
   <programme start="20230118133000 +0000" stop="20230118140000 +0000" channel="GSN">
     <title lang="en">Catch 21</title>

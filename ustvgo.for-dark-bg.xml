@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230119213251" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230119220639" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -9708,7 +9708,6 @@
     <category>Winter sports</category>
     <category>Olympic-style</category>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230119213000 +0000" stop="20230119220000 +0000" channel="ESPNU">
     <title lang="en">College Football 150: The Greatest</title>
@@ -10692,7 +10691,7 @@
     <credits>
       <director>Mark Cendrowski</director>
       <actor role="Dimitri (as Pasha Lychnikoff)">Pasha D. Lychnikoff</actor>
-      <writer>Mark Cendrowski</writer>
+      <writer>Steve Molaro</writer>
       <producer>David Goetsch</producer>
       <editor>Peter Chakos</editor>
     </credits>
@@ -10719,7 +10718,7 @@
     <credits>
       <director>Mark Cendrowski</director>
       <actor role="Dimitri (as Pasha Lychnikoff)">Pasha D. Lychnikoff</actor>
-      <writer>Mark Cendrowski</writer>
+      <writer>Steve Molaro</writer>
       <producer>David Goetsch</producer>
       <editor>Peter Chakos</editor>
     </credits>
@@ -11073,7 +11072,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E15</episode-num>
     <episode-num system="xmltv_ns">2022.14.</episode-num>
-    <live/>
   </programme>
   <programme start="20230119213000 +0000" stop="20230119230000 +0000" channel="FS1">
     <title lang="en">Speak</title>
@@ -11135,7 +11133,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10486158076.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E15</episode-num>
     <episode-num system="xmltv_ns">2022.14.</episode-num>
-    <live/>
   </programme>
   <programme start="20230119213000 +0000" stop="20230119230000 +0000" channel="FS1HD">
     <title lang="en">Speak</title>
@@ -15763,6 +15760,7 @@
   <programme start="20230120093000 +0000" stop="20230120100000 +0000" channel="NBC">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20230120100000 +0000" stop="20230120120000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -16391,6 +16389,7 @@
   <programme start="20230120093000 +0000" stop="20230120100000 +0000" channel="NBCHD">
     <title lang="en">Early Today</title>
     <desc>News from around the world and across the nation. Also: business, sports and weather updates.</desc>
+    <new/>
   </programme>
   <programme start="20230120100000 +0000" stop="20230120120000 +0000" channel="NBCHD">
     <title lang="en">Local Programming</title>

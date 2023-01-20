@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230120113806" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230120121258" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -572,6 +572,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10455224228.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2023E20</episode-num>
     <episode-num system="xmltv_ns">2022.19.</episode-num>
+    <new/>
   </programme>
   <programme start="20230121000000 +0000" stop="20230121010000 +0000" channel="ABC">
     <title lang="en">Local Programming</title>
@@ -1053,6 +1054,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10455224228.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S2023E20</episode-num>
     <episode-num system="xmltv_ns">2022.19.</episode-num>
+    <new/>
   </programme>
   <programme start="20230121000000 +0000" stop="20230121010000 +0000" channel="ABCHD">
     <title lang="en">Local Programming</title>
@@ -4345,7 +4347,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8427364070.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E16</episode-num>
     <episode-num system="xmltv_ns">2022.15.</episode-num>
-    <new/>
   </programme>
   <programme start="20230120113000 +0000" stop="20230120120000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -4505,6 +4506,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8631653649.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E300</episode-num>
     <episode-num system="xmltv_ns">2021.299.</episode-num>
+    <new/>
   </programme>
   <programme start="20230121000000 +0000" stop="20230121010000 +0000" channel="CBS">
     <title lang="en">Local Programming</title>
@@ -5007,7 +5009,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8427364070.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E16</episode-num>
     <episode-num system="xmltv_ns">2022.15.</episode-num>
-    <new/>
   </programme>
   <programme start="20230120113000 +0000" stop="20230120120000 +0000" channel="CBSHD">
     <title lang="en">Local Programming</title>
@@ -5167,6 +5168,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8631653649.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E300</episode-num>
     <episode-num system="xmltv_ns">2021.299.</episode-num>
+    <new/>
   </programme>
   <programme start="20230121000000 +0000" stop="20230121010000 +0000" channel="CBSHD">
     <title lang="en">Local Programming</title>
@@ -11425,6 +11427,10 @@
     <title lang="en">The Owl House</title>
     <sub-title>For the Future</sub-title>
     <desc>Luz and her friends race against Belos to confront the Collector and save the Boiling Isles.</desc>
+    <credits>
+      <director>Aminder Dhaliwal</director>
+      <composer>T.J. Hill</composer>
+    </credits>
     <date>20230121</date>
     <category>Comedy</category>
     <category>Children</category>
@@ -11886,6 +11892,12 @@
     <title lang="en">The Ghost and Molly McGee</title>
     <sub-title>Goat Your Own Way / The Very Hungry Ghost</sub-title>
     <desc>Molly insists on training an unruly goat the "Molly way"; when the McGees celebrate a Thai holiday about feeding "hungry ghosts," Scratch tries to keep the feast all to himself.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
     <date>20220305</date>
     <category>Comedy</category>
     <category>Action/Adventure</category>
@@ -11902,6 +11914,12 @@
     <title lang="en">The Ghost and Molly McGee</title>
     <sub-title>Scare Tactics / The Bad Boy Bobby Daniels</sub-title>
     <desc>When Scratch ditches class to goof off with Geoff, he struggles to pass his Scare Test; Molly and Scratch try to reunite Patty with her old flame: The Bad Boy Bobby Daniels.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
     <date>20220312</date>
     <category>Comedy</category>
     <category>Action/Adventure</category>
@@ -11919,6 +11937,12 @@
     <title lang="en">The Ghost and Molly McGee</title>
     <sub-title>Citizen McGee / The Internship</sub-title>
     <desc>When Molly's Mayor For a Day contest win turns into a lifetime gig, she struggles with the pressure; Molly interns with Weird Larry and struggles to make the best of it.</desc>
+    <credits>
+      <director>David Knott</director>
+      <writer>Bill Motz</writer>
+      <producer>Britta Reitman</producer>
+      <composer>Rob Cantor</composer>
+    </credits>
     <date>20220611</date>
     <category>Comedy</category>
     <category>Action/Adventure</category>
@@ -12836,6 +12860,10 @@
     <title lang="en">Nine for IX</title>
     <sub-title>Pat XO</sub-title>
     <desc>The story of legendary basketball coach Pat Summitt is told through the eyes of her son Tyler and numerous others whose lives were touched during her record-setting career. Tamika Catchings, Peyton Manning and Kenny Chesney are among those featured.</desc>
+    <credits>
+      <director>Erin Leyden</director>
+      <producer>Julie Foudy</producer>
+    </credits>
     <date>20130709</date>
     <category>Documentary</category>
     <category>Sports stuff</category>
@@ -12872,6 +12900,10 @@
     <title lang="en">Nine for IX</title>
     <sub-title>Venus Vs.</sub-title>
     <desc>Financial parity in tennis is chronicled by director Ava DuVernay, focusing on the bold efforts of Venus Williams that led to equal prize money to the men at Wimbledon in 2007. Williams lobbied British Parliament and wrote an op-ed in The London Times.</desc>
+    <credits>
+      <director>Erin Leyden</director>
+      <producer>Julie Foudy</producer>
+    </credits>
     <date>20130702</date>
     <category>Documentary</category>
     <category>Sports stuff</category>
@@ -25606,6 +25638,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707594264.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E21</episode-num>
     <episode-num system="xmltv_ns">2022.20.</episode-num>
+    <new/>
   </programme>
   <programme start="20230121000000 +0000" stop="20230121010000 +0000" channel="NBC">
     <title lang="en">Local Programming</title>
@@ -26217,6 +26250,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-11707594264.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E21</episode-num>
     <episode-num system="xmltv_ns">2022.20.</episode-num>
+    <new/>
   </programme>
   <programme start="20230121000000 +0000" stop="20230121010000 +0000" channel="NBCHD">
     <title lang="en">Local Programming</title>
@@ -37566,6 +37600,7 @@
     <sub-title>01-20-2023</sub-title>
     <desc>Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.</desc>
     <date>20230000</date>
+    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -43929,6 +43964,7 @@
     <title lang="es">Noticiero Univision</title>
     <sub-title>01-20-2023</sub-title>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230121000000 +0000" stop="20230121010000 +0000" channel="Univision">
     <title lang="es">La rosa de Guadalupe</title>

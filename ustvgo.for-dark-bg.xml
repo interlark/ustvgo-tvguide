@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230120125401" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230120131540" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -6263,7 +6263,6 @@
   <programme start="20230120120000 +0000" stop="20230120123000 +0000" channel="CN">
     <title lang="en">Cocomelon</title>
     <date>20230000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-Y</value>
     </rating>
@@ -12726,6 +12725,7 @@
     <sub-title>Florida at Alabama</sub-title>
     <desc>Florida at Alabama.</desc>
     <date>20230000</date>
+    <live/>
   </programme>
   <programme start="20230121020000 +0000" stop="20230121030000 +0000" channel="ESPNU">
     <title lang="en">Nine for IX</title>

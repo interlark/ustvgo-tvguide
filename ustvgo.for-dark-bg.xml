@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230120070658" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/resources/xmltv.xsd" date="20230120073222" generator-info-name="ustvgo-iptv" generator-info-url="https://github.com/interlark/ustvgo-iptv">
   <channel id="ABC">
     <display-name>ABC</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ABC.png" width="512" height="512"/>
@@ -574,6 +574,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4018176703.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S60E90</episode-num>
     <episode-num system="xmltv_ns">59.89.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -1078,6 +1079,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-4018176703.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S60E90</episode-num>
     <episode-num system="xmltv_ns">59.89.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3431,7 +3433,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7834104618.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E56</episode-num>
     <episode-num system="xmltv_ns">7.55.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -3576,6 +3577,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10620223078.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E81</episode-num>
     <episode-num system="xmltv_ns">12.80.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4126,7 +4128,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7834104618.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E56</episode-num>
     <episode-num system="xmltv_ns">7.55.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4271,6 +4272,7 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10620223078.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S13E81</episode-num>
     <episode-num system="xmltv_ns">12.80.</episode-num>
+    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4821,7 +4823,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-7834104618.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S08E56</episode-num>
     <episode-num system="xmltv_ns">7.55.</episode-num>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -9733,7 +9734,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230120070000 +0000" stop="20230120080000 +0000" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -9817,7 +9817,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/1/1-8062199427.jpg" width="480" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/posters/provider/1/5/1-10231482337.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230120070000 +0000" stop="20230120080000 +0000" channel="ESPNHD">
     <title lang="en">SportsCenter</title>
@@ -9885,7 +9884,6 @@
     <title lang="en">Australian Open</title>
     <sub-title>Third Round</sub-title>
     <date>20230000</date>
-    <live/>
   </programme>
   <programme start="20230120070000 +0000" stop="20230120073000 +0000" channel="ESPN2">
     <title lang="en">Around the Horn</title>
@@ -22786,7 +22784,6 @@
     <title lang="es">Heridas de Amor</title>
     <sub-title>01-19-2023</sub-title>
     <date>20060000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>

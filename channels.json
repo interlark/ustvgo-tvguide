@@ -141,7 +141,8 @@
         "tvguide_id": "9200000143",
         "name": "Cinemax",
         "category": "Premium",
-        "language": "en"
+        "language": "en",
+        "timezone": "Eastern"
     },
     {
         "id": 19,
@@ -796,7 +797,7 @@
         "stream_id": "Telemundo",
         "tvguide_id": "9200011857",
         "name": "Telemundo",
-        "category": "En Español",
+        "category": "En Espa\u00f1ol",
         "language": "es"
     },
     {
@@ -867,8 +868,8 @@
         "id": 109,
         "stream_id": "Univision",
         "tvguide_id": "9200000867",
-        "name": "Univisión Network",
-        "category": "En Español",
+        "name": "Univisi\u00f3n Network",
+        "category": "En Espa\u00f1ol",
         "language": "es"
     },
     {
@@ -910,5 +911,14 @@
         "name": "YES Network",
         "category": "Sports",
         "language": "en"
+    },
+    {
+        "id": 115,
+        "stream_id": "CinemaxPacific",
+        "tvguide_id": "9200000143",
+        "name": "Cinemax (Pacific)",
+        "category": "Premium",
+        "language": "en",
+        "timezone": "Pacific"
     }
 ]

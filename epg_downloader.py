@@ -46,6 +46,14 @@ XMLTV_PROGRAM_OPTIONS = {
     'add_tv_rating_icon': False
 }
 
+# TVGuide provider IDs for different timezones
+PROVIDER_IDS_BY_TIMEZONE = {
+    'Eastern': '9100001138',
+    'Central': '9100001139',
+    'Mountain': '9100001140',
+    'Pacific': '9100001141',
+}
+
 
 @atexit.register
 def close_cache():
@@ -199,12 +207,17 @@ async def download_program_images(program, images_size, images_quality, base_url
                          'working with image: %s (URL: %s)', e, image.url))
 
 
-async def download_program_tags(channels):
-    """Download tags for programs."""
+async def download_program_tags(channels, timezone='Eastern'):
+    """Download tags for programs.
+
+    Args:
+        channels: List of channel configurations
+        timezone: Timezone for fetching program tags (Eastern, Central, Mountain, Pacific)
+    """
     start_date = datetime.utcnow() - timedelta(minutes=30)
     start_ts = int(start_date.timestamp())
     duration_mins = 60 * 12
-    provider_id = '9100001138'  # Eastern Time Zone
+    provider_id = PROVIDER_IDS_BY_TIMEZONE.get(timezone, PROVIDER_IDS_BY_TIMEZONE['Eastern'])
     url = ('https://cmg-prod.apigee.net/v1/xapi/tvschedules'
            f'/tvguide/{provider_id}/web?start={start_ts}&duration={duration_mins}')
     headers = {**USTVGO_HEADERS, 'Referer': 'https://www.tvguide.com/'}
@@ -350,9 +363,21 @@ def write_file_from_xml(xml_filepath, serialize_class, base_url):
 
 
 async def download_and_make_epg(filepath, parallel, create_archive, images_size,
-                                images_quality, base_url, icons_for_light_bg):
-    """Download channels' programs and make XMLTV EPG."""
+                                images_quality, base_url, icons_for_light_bg, timezone='Eastern'):
+    """Download channels' programs and make XMLTV EPG.
+
+    Args:
+        timezone: Timezone for filtering channels and fetching program tags
+    """
     channels = load_dict('channels.json')
+
+    # Filter channels by timezone if specified
+    if timezone != 'All':
+        channels = [ch for ch in channels if ch.get('timezone', 'Eastern') == timezone]
+        if not channels:
+            logger.warning(f'No channels found for timezone: {timezone}. Using all channels.')
+            channels = load_dict('channels.json')
+
     download_tasks = [download_programs(channel) for channel in channels]
 
     # Download programs per each channel from USTVGO
@@ -377,7 +402,7 @@ async def download_and_make_epg(filepath, parallel, create_archive, images_size,
 
     # Add tags for programs,
     # could be usefull for IPTV recorders.
-    await download_program_tags(channels)
+    await download_program_tags(channels, timezone=timezone)
 
     # Make EPG
     make_xmltv(channels, filepath, base_url, icons_for_light_bg)
@@ -414,6 +439,11 @@ def main():
     parser.add_argument(
         '--icons-for-light-bg', action='store_true',
         help='Put channel icons adapted for light background'
+    )
+    parser.add_argument(
+        '--timezone', '-tz', choices=['Eastern', 'Central', 'Mountain', 'Pacific', 'All'],
+        default='Eastern',
+        help='Timezone for EPG generation (default: %(default)s)'
     )
     parser.add_argument(
         '--version', '-v', action='version', version=f'%(prog)s {VERSION}'
